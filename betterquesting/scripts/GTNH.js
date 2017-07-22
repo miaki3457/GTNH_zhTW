@@ -50,7 +50,7 @@ function process(content, option = true, enUS = false) {
 
 var parse = function (option, enUS) {
     $.ajax({
-        url: "https://gist.githubusercontent.com/yesterday17/4762e953fbb281c7f3011b5d07ec2a8d/raw/0e037b7aba7c68c18a3436d5104010fed2a0c251/gistfile1.txt",
+        url: "https://raw.githubusercontent.com/miaki3457/GTNH_zhTW/fa9a009d325859b6eafadbf26434fddf3e75d092/betterquesting/DefaultQuests_version/Ver_1.5.0.5.txt",
         type: 'GET'
     }).success(function (gistData) {
         process(gistData, option, enUS);
