@@ -1,0 +1,535 @@
+﻿//Creative Tabs
+itemGroup.agricraft=農業工藝
+
+//Items
+item.agricraft:cropsItem.name=作物架
+item.agricraft:journal.name=農學研究隨筆
+item.agricraft:trowel.name=園丁鏟
+item.agricraft:magnifyingGlass.name=放大鏡
+item.agricraft:debugger.name=調試器
+item.agricraft:handRake.wood.name=木耙
+item.agricraft:handRake.iron.name=鐵耙
+item.agricraft:clipper.name=剪枝器
+item.agricraft:clipping.name=接穗
+
+item.agricraft:nuggetDiamond.name=鑽石顆粒
+item.agricraft:nuggetIron.name=鐵顆粒
+item.agricraft:nuggetEmerald.name=綠寶石顆粒
+item.agricraft:nuggetTin.name=錫顆粒
+item.agricraft:nuggetLead.name=鉛顆粒
+item.agricraft:nuggetSilver.name=銀顆粒
+item.agricraft:nuggetAluminum.name=鋁顆粒
+item.agricraft:nuggetNickel.name=鎳顆粒
+item.agricraft:nuggetPlatinum.name=鉑顆粒
+item.agricraft:nuggetOsmium.name=鋨顆粒
+item.agricraft:nuggetQuartz.name=石英碎片
+
+item.agricraft:seedPotato.name=馬鈴薯種子
+item.agricraft:seedCarrot.name=胡蘿蔔種子
+item.agricraft:seedSugarcane.name=甘蔗種子
+item.agricraft:seedDandelion.name=蒲公英種子
+item.agricraft:seedPoppy.name=罌粟種子
+item.agricraft:seedOrchid.name=蘭花種子
+item.agricraft:seedAllium.name=絨球蔥種子
+item.agricraft:seedTulipRed.name=紅色鬱金香種子
+item.agricraft:seedTulipOrange.name=橙色鬱金香種子
+item.agricraft:seedTulipWhite.name=白色鬱金香種子
+item.agricraft:seedTulipPink.name=粉色鬱金香種子
+item.agricraft:seedDaisy.name=法蘭西菊種子
+item.agricraft:seedCactus.name=仙人掌種子
+item.agricraft:seedShroomRed.name=紅色蘑菇孢子
+item.agricraft:seedShroomBrown.name=棕色蘑菇孢子
+item.agricraft:seedNitorWart.name=閃耀疣孢子
+item.agricraft:seedQuartzanthemum.name=石英菊種子
+
+item.agricraft:seedBotaniaWhite.name=白色神秘花種子
+item.agricraft:seedBotaniaOrange.name=橙色神秘花種子
+item.agricraft:seedBotaniaMagenta.name=品紅色神秘花種子
+item.agricraft:seedBotaniaLightBlue.name=淡藍色神秘花種子
+item.agricraft:seedBotaniaYellow.name=黃色神秘花種子
+item.agricraft:seedBotaniaLime.name=黃綠色神秘花種子
+item.agricraft:seedBotaniaPink.name=粉色神秘花種子
+item.agricraft:seedBotaniaGray.name=灰色神秘花種子
+item.agricraft:seedBotaniaLightGray.name=淡灰色神秘花種子
+item.agricraft:seedBotaniaCyan.name=青色神秘花種子
+item.agricraft:seedBotaniaPurple.name=紫色神秘花種子
+item.agricraft:seedBotaniaBlue.name=藍色神秘花種子
+item.agricraft:seedBotaniaBrown.name=棕色神秘花種子
+item.agricraft:seedBotaniaGreen.name=綠色神秘花種子
+item.agricraft:seedBotaniaRed.name=紅色神秘花種子
+item.agricraft:seedBotaniaBlack.name=黑色神秘花種子
+
+item.agricraft:seedCinderpearl.name=火焰草種子
+item.agricraft:seedShimmerleaf.name=水銀花種子
+item.agricraft:seedVishroom.name=纖毛菇種子
+item.agricraft:seedTaintedRoot.name=腐化之根種子
+
+item.agricraft:seedAum.name=全知草種子
+item.agricraft:seedCerublossom.name=萬代蘭種子
+item.agricraft:seedDesertNova.name=沙漠新星種子
+item.agricraft:seedTarmaRoot.name=塔爾瑪根種子
+item.agricraft:seedWakebloom.name=覺蘇草種子
+
+item.agricraft:seedFerranium.name=鐵葉草種子
+item.agricraft:seedAurigold.name=金光花種子
+item.agricraft:seedDiamahlia.name=金剛大麗種子
+item.agricraft:seedLapender.name=藍熏衣種子
+item.agricraft:seedEmeryllis.name=朱頂綠種子
+item.agricraft:seedRedstodendron.name=紅灌木種子
+item.agricraft:seedCuprosia.name=銅茜草種子
+item.agricraft:seedPetinia.name=錫牽牛種子
+item.agricraft:seedPlombean.name=鉛斑豆種子
+item.agricraft:seedSilverweed.name=銀輝草種子
+item.agricraft:seedJaslumine.name=鋁茉莉種子
+item.agricraft:seedNiccissus.name=鎳粉藤種子
+item.agricraft:seedPlatiolus.name=鉑金草種子
+item.agricraft:seedOsmonium.name=鋨藍草種子
+
+
+//blocks
+tile.agricraft:crops.name=作物架
+tile.agricraft:seedAnalyzer.name=種子分析儀
+tile.agricraft:waterPad.name=水墊
+tile.agricraft:waterPadFull.name=水墊
+tile.agricraft:waterTank.0.name=木質水箱
+tile.agricraft:waterTank.1.name=鐵質水箱
+tile.agricraft:waterChannel.0.name=木質澆灌水道
+tile.agricraft:waterChannelFull.0.name=木質澆灌水道
+tile.agricraft:waterChannel.1.name=鐵質澆灌水道
+tile.agricraft:channelValve.0.name=木質水道閥門
+tile.agricraft:channelValve.1.name=鐵質水道閥門
+tile.agricraft:sprinkler.name=灑水壺
+tile.agricraft:seedStorage.0.name=種子儲存器
+tile.agricraft:seedStorageController.0.name=種子儲存控制器
+tile.agricraft:fence.0.name=柵欄
+tile.agricraft:fenceGate.0.name=柵欄門
+tile.agricraft:grate.0.name=木格柵
+tile.agricraft:peripheral.name=數控種子分析儀
+
+tile.agricraft:cropPotato.name=馬鈴薯
+tile.agricraft:cropCarrot.name=胡蘿蔔
+tile.agricraft:cropSugarcane.name=甘蔗
+tile.agricraft:cropMelon.name=西瓜
+tile.agricraft:cropPumpkin.name=南瓜
+tile.agricraft:cropDandelion.name=蒲公英
+tile.agricraft:cropPoppy.name=罌粟
+tile.agricraft:cropOrchid.name=蘭花
+tile.agricraft:cropAllium.name=絨球蔥
+tile.agricraft:cropTulipRed.name=紅鬱金香
+tile.agricraft:cropTulipOrange.name=橙鬱金香
+tile.agricraft:cropTulipWhite.name=白鬱金香
+tile.agricraft:cropTulipPink.name=粉鬱金香
+tile.agricraft:cropDaisy.name=法蘭西菊
+tile.agricraft:cropCactus.name=仙人掌
+tile.agricraft:cropShroomRed.name=紅蘑菇
+tile.agricraft:cropShroomBrown.name=棕蘑菇
+tile.agricraft:cropNitorWart.name=閃耀疣
+tile.agricraft:cropQuartzanthemum.name=石英菊
+
+tile.agricraft:cropBotaniaWhite.name=白色神秘花
+tile.agricraft:cropBotaniaOrange.name=橙色神秘花
+tile.agricraft:cropBotaniaMagenta.name=品紅色神秘花
+tile.agricraft:cropBotaniaLightBlue.name=淡藍色神秘花
+tile.agricraft:cropBotaniaYellow.name=黃色神秘花
+tile.agricraft:cropBotaniaLime.name=黃綠色神秘花
+tile.agricraft:cropBotaniaPink.name=粉色神秘花
+tile.agricraft:cropBotaniaGray.name=灰色神秘花
+tile.agricraft:cropBotaniaLightGray.name=淡灰色神秘花
+tile.agricraft:cropBotaniaCyan.name=青色神秘花
+tile.agricraft:cropBotaniaPurple.name=紫色神秘花
+tile.agricraft:cropBotaniaBlue.name=藍色神秘花
+tile.agricraft:cropBotaniaBrown.name=棕色神秘花
+tile.agricraft:cropBotaniaGreen.name=綠色神秘花
+tile.agricraft:cropBotaniaRed.name=紅色神秘花
+tile.agricraft:cropBotaniaBlack.name=黑色神秘花
+
+tile.agricraft:cropCinderpearl.name=火焰草
+tile.agricraft:cropShimmerleaf.name=水銀花
+tile.agricraft:cropVishroom.name=纖毛菇
+tile.agricraft:cropTaintedRoot.name=腐化之根
+
+tile.agricraft:cropAum.name=全知草
+tile.agricraft.cropCerublossom.name=萬代蘭
+tile.agricraft.cropDesertNova.name=沙漠新星
+tile.agricraft.cropTarmaRoot.name=塔爾瑪根
+tile.agricraft.cropWakebloom.name=覺蘇草
+
+tile.agricraft:cropFerranium.name=鐵葉草
+tile.agricraft:cropAurigold.name=金光花
+tile.agricraft:cropDiamahlia.name=金剛大麗
+tile.agricraft:cropLapender.name=藍熏衣
+tile.agricraft:cropEmeryllis.name=朱頂綠
+tile.agricraft:cropRedstodendron.name=紅灌木
+tile.agricraft:cropCuprosia.name=銅茜草
+tile.agricraft:cropPetinia.name=錫牽牛
+tile.agricraft:cropPlombean.name=鉛斑豆
+tile.agricraft:cropSilverweed.name=銀輝草
+tile.agricraft:cropJaslumine.name=鋁茉莉
+tile.agricraft:cropNiccissus.name=鎳粉藤
+tile.agricraft:cropPlatiolus.name=鉑金草
+tile.agricraft:cropOsmonium.name=鋨藍草
+
+//entities
+entity.AgriCraft.villagerFarmer.name=村民
+entity.AgriCraft.leash.name=皮帶結
+
+//gui
+agricraft_gui.seedAnalyzer=種子分析儀
+agricraft_gui.peripheral=數控種子分析儀
+
+//tooltips
+agricraft_tooltip.unidentified=未識別
+agricraft_tooltip.seed=種子名字
+agricraft_tooltip.growth=生長速度
+agricraft_tooltip.gain=產量
+agricraft_tooltip.strength=抗性
+agricraft_tooltip.analyzed=這股種子還未經分析過
+agricraft_tooltip.fertile=這裡土壤肥沃,作物可以生長
+agricraft_tooltip.notFertile=這種作物不能種在這裡
+agricraft_tooltip.discoveredSeeds=已發現種子
+agricraft_tooltip.material=材質
+agricraft_tooltip.waterLevel=水位
+agricraft_tooltip.cropWithPlant=這個作物架上有作物
+agricraft_tooltip.crossCrop=這是一個雜交架
+agricraft_tooltip.weeds=雜草開始在這裡生長了
+agricraft_tooltip.cropWithoutPlant=這個作物架是空的
+agricraft_tooltip.notCrop=這不是作物架
+agricraft_tooltip.trowel=用這個把作物從一個作物架上移動到另一個上
+agricraft_tooltip.magnifyingGlass=用這個來檢查作物
+agricraft_tooltip.handRake=用這個剷除作物架上的雜草
+agricraft_tooltip.closed=關閉
+agricraft_tooltip.open=開啟
+agricraft_tooltip.state=階段
+agricraft_tooltip.empty=這裡沒有種植作物
+agricraft_tooltip.waterPadDry=用鏟子挖掘耕地以得到小坑
+agricraft_tooltip.waterPadWet=然後用水桶填滿
+agricraft_tooltip.growthStage=生長階段
+agricraft_tooltip.mature=成熟
+agricraft_tooltip.valve=受紅石信號控制
+agricraft_tooltip.grate=用藤蔓右擊鋪置藤蔓
+agricraft_tooltip.clipper1=在作物上右擊得到接穗，
+agricraft_tooltip.clipper2=接穗可種在其他作物架上
+agricraft_tooltip.clipper3=其種植成功率由強度決定
+agricraft_tooltip.analyzer=樣本
+agricraft_tooltip.storage=儲存種子
+agricraft_tooltip.none=無
+
+//descriptions
+agricraft_description.peripheralHelp=Method Help
+agricraft_description.method.analyze=Orders the analyzer to analyze the current specimen
+agricraft_description.method.getBaseBlock=Returns the necessary base block for the crop at the specified direction or the specimen in the analyzer if no direction is specified
+agricraft_description.method.getBaseBlockType=Returns the base block type (NONE, BELOW, NEAR) for the crop at the specified direction or the specimen in the analyzer if no direction is specified
+agricraft_description.method.getBrightness=Returns the current light level for the crop at the specified direction
+agricraft_description.method.getBrightnessRange=Returns the required light level range for the crop at the specified direction or the specimen in the analyzer if no direction is specified
+agricraft_description.method.getCurrentSoil=Returns the current soil below the crop at the specified direction or the specimen in the analyzer if no direction is specified
+agricraft_description.method.getGrowthStage=Returns the growth percentage of the crop at the specified direction
+agricraft_description.method.getNeededSoil=Returns the required soil for the crop at the specified direction or the specimen in the analyzer if no direction is specified
+agricraft_description.method.getPlant=Returns the seed currently planted on the crop at the specified direction
+agricraft_description.method.getSpecimen=Returns the specimen currently in the analyzer
+agricraft_description.method.getStats=Returns the stats [growth, gain, strength] of crop at the specified direction or the specimen in the analyzer if no direction is specified
+agricraft_description.method.hasJournal=Returns if the analyzer has a journal
+agricraft_description.method.hasPlant=Returns if there is a plant on the crop sticks at the specified direction
+agricraft_description.method.hasWeeds=Returns if there are weeds on the crop at the specified direction
+agricraft_description.method.isAnalyzed=Returns if the crop at the specified direction, or the specimen in the analyzer (if no direction is specified) is analyzed
+agricraft_description.method.isCrossCrop=Returns if the crop at the specified direction is a cross crop
+agricraft_description.method.isFertile=Returns if the crop at the specified direction is fertile and can grow
+agricraft_description.method.isMature=Returns if the crop crop at the specified direction is mature
+agricraft_description.method.needsBaseBlock=Returns if the crop crop at the specified direction needs a base block
+
+//misc
+agricraft_arg.direction=direction
+agricraft_arg.direction.optional=(optional) direction
+
+// nei GUI
+agricraft_nei.mutation.title=作物雜交
+agricraft_nei.soil=土壤
+agricraft_nei.needs=需要
+agricraft_nei.below=底部
+agricraft_nei.nearby=旁邊
+agricraft_nei.nearby=附近
+
+//journal entries
+//---------------
+//headers
+agricraft_journal.introduction=來到農業耕種的世界,今天我將會教你基礎的作物 雜交技術.首先你要用4個木棍合成一個作物架.它 可以放置在濕潤的耕地上,這樣種子就可以直接種 植在作物架上.你還可以在作物架上再放一個作物 架,這樣,便能組成一個雜交架.如果你把兩個或者 更多作物種在了雜交架旁邊,雜交架上就有可能出 現變異.你可以用這本筆記持續追蹤你發現的雜交 可能性.要記錄一個新的雜交路線只需在使用分析 儀分析種子前把本筆記放入即可. 若如此做,種子 的相關資訊會被記錄並顯示在你面前.如果你需要 複製這本筆記,只需要在工作臺裡與空的書與筆進 行合成即可.
+agricraft_journal.information=信息
+agricraft_journal.tier=級別
+agricraft_journal.brightness=亮度範圍
+agricraft_journal.fruits=果實
+agricraft_journal.growthStages=生長階段
+agricraft_journal.mutations=可能變異
+
+//agricraft seeds
+agricraft_journal.potato=馬鈴薯幾乎可以說是每一頓飯的主食,甚至還 有人找出了把馬鈴薯做成飲料的辦法.
+agricraft_journal.carrot=胡蘿蔔是一種可以加進任何飯菜裡的蔬菜.
+agricraft_journal.sugarcane=通常蘆葦只長在水邊,但是一個農學家應該有 能力讓它在任何地方都能生長.
+agricraft_journal.dandelion=蒲公英有著黃色的花,你可以在任何暴露在太 陽下的地方找到它.
+agricraft_journal.poppy=儘管很普通,它依舊長有鮮豔的紅色的花.
+agricraft_journal.orchid=這種花放進大多數花園裡都會很好看,但 事實是:任何少了蘭花的花園都不是完整的花 園.
+agricraft_journal.allium=絨球蔥是一種為了其紫色花瓣而種植的花.
+agricraft_journal.tulipPink=鬱金香有很多顏色,但只有真正的農學家才 會欣賞粉色的鬱金香.
+agricraft_journal.tulipOrange=橙色,鬱金香家族的組成顏色之一.
+agricraft_journal.tulipRed=曾有人說過:'鬱金香五十種色彩之中, 最美麗的是紅色的那一個'.
+agricraft_journal.tulipWhite=雖然有很多白花,但是有很多人說白鬱金香是 白花之中的白花.
+agricraft_journal.daisy=法蘭西菊確實很普通,雖然它也是很白的 花.
+agricraft_journal.cactus=種植仙人掌可以獲取常用作綠色染料的綠 色物質.
+agricraft_journal.shroomRed=這種紅色蘑菇的味道確實很好,它絕對是 蘑菇煲的上好材料.
+agricraft_journal.shroomBrown=這種棕色蘑菇的味道確實很好,它絕對是 蘑菇煲的上好材料.
+agricraft_journal.nitorWart=據信這種來自下界的作物是確實存在的, 那些長者們說它會從周圍的環境中吸取熒 石顆粒並產出光亮的粉末.
+agricraft_journal.quartzanthemum=一種吸收土壤中石英精華的下界作物.
+agricraft_journal.diamahlia=仍有很多人相信這種花只存在於神話和傳 說中.然而,有些農學家聲稱他們已經成 功得到了這種傳奇的植物.
+agricraft_journal.aurigold=金光花是一種罕見的,只存在於寓言裡的花, 以土壤中含量甚微的金為養料,只有十分耐心 並且技術高超的農學家才可以培養出這罕見 的珍寶.
+agricraft_journal.ferranium=這奇怪的植物的根並不在意水源.它們只是深 深地紮根於土壤中,吸收鐵的粒子以強化 自身.
+agricraft_journal.lapender=在它鮮豔的藍色背後,這種花可以產出閃亮的 小石頭.
+agricraft_journal.emeryllis=如果你和一個村莊裡的農學家交談,它們將 會告訴你這種可以帶來無限財富的植物的 傳說.
+agricraft_journal.redstodendron=奇異的光輝似乎正從紅灌木叢中散發出來.
+agricraft_journal.cuprosia=銅茜草是一種奇怪的花,它從土壤中提取銅,以滋養 其美麗的花瓣.
+agricraft_journal.petinia=這種花只能在富含錫的土壤中生長茂盛.
+agricraft_journal.plombean=有時人們會以為這是普通的豆子,然後在吃下 其果實後中毒身亡.
+agricraft_journal.silverweed=有時,閱歷不夠的農學家會將這珍貴的作物當作 雜草並丟棄.
+agricraft_journal.jaslumine=鐵匠們表示並不看好,但很多人相信鋁是有用 的.這就是為什麼還有那麼多人嘗試培育這 種花.
+agricraft_journal.niccissus=當它開花時,它的花中就會出現鎳的小顆粒 ,至於這種花是怎麼生長的至今不得而知.
+agricraft_journal.platiolus=鉑是稀有金屬,大多數冶金學家會去找農學家 而非礦工去購買.
+agricraft_journal.osmonium=一個成功培育出這種花的農學家將會得到工 程師們的廣大市場.
+
+//botania seeds
+agricraft_journal.botaniaWhite=這神秘的鮮花裡有著大量白色花瓣,又有誰 知道它們可能被用作什麼呢.
+agricraft_journal.botaniaOrange=這神秘的鮮花裡有著大量橙色花瓣,又有誰 知道它們可能被用作什麼呢.
+agricraft_journal.botaniaMagenta=這神秘的鮮花裡有著大量品紅色花瓣,又有誰 知道它們可能被用作什麼呢.
+agricraft_journal.botaniaLightBlue=這神秘的鮮花裡有著大量淡藍色花瓣,又有誰 知道它們可能被用作什麼呢.
+agricraft_journal.botaniaYellow=這神秘的鮮花裡有著大量黃色花瓣,又有誰知 道它們可能被用作什麼呢.
+agricraft_journal.botaniaLime=這神秘的鮮花裡有著大量黃綠色花瓣,又有誰 知道它們可能被用作什麼呢.
+agricraft_journal.botaniaPink=這神秘的鮮花裡有著大量粉色花瓣,又有誰 知道它們可能被用作什麼呢.
+agricraft_journal.botaniaGray=這神秘的鮮花裡有著大量灰色花瓣,又有誰知 道它們可能被用作什麼呢.
+agricraft_journal.botaniaLightGray=這神秘的鮮花裡有著大量淡灰色花瓣,又有誰 知道它們可能被用作什麼呢.
+agricraft_journal.botaniaCyan=這神秘的鮮花裡有著大量青色花瓣,又有誰知 道它們可能被用作什麼呢.
+agricraft_journal.botaniaPurple=這神秘的鮮花裡有著大量紫色花瓣,又有誰知 道它們可能被用作什麼呢.
+agricraft_journal.botaniaBlue=這神秘的鮮花裡有著大量藍色花瓣,又有誰知 道它們可能被用作什麼呢.
+agricraft_journal.botaniaBrown=這神秘的鮮花裡有著大量棕色花瓣,又有誰知 道它們可能被用作什麼呢.
+agricraft_journal. botaniaGreen=這神秘的鮮花裡有著大量綠色花瓣,又有誰知 道它們可能被用作什麼呢.
+agricraft_journal.botaniaRed=這神秘的鮮花裡有著大量紅色花瓣,又有誰知 道它們可能被用作什麼呢.
+agricraft_journal.botaniaBlack=這神秘的鮮花裡有著大量黑色花瓣,又有誰知 道它們可能被用作什麼呢.
+
+//thaumcraft seeds
+agricraft_journal.shimmerleaf=這種奇怪的發光的小花只生長在銀樹的樹蔭下. 收穫並打漿後能得到水銀.
+agricraft_journal.cinderpearl=這些植物伴隨熊熊的元素烈火生長,只分佈於炎 熱氣候的地區.採摘並研磨它們可以得到重要的煉金材料烈焰粉.
+agricraft_journal.vishroom=纖毛菇在魔法森林中自然生長. 如果光著手採集, 他們的毒性會導致反胃.
+agricraft_journal.taintedRoot=腐化根能在腐化之地生長和收穫, 但誰會要它出產的那些觸手?
+
+//ars magica seeds
+agricraft_journal.aum=一種具有治癒性的花, 全知草是很多魔咒的組分. 它只能在巫魂樹樹根找到.
+agricraft_journal.cerublossom=萬代蘭能在茂盛, 青翠的環境中發現. 它們是第一種已知的魔法植物, 用於製作藥水和藥膏.
+agricraft_journal.desertNova=沙漠新星在乾燥的環境下生長. 它們因週期性產生的小型魔法爆發而得名.
+agricraft_journal.tarmaRoot=比看起來要亮, 塔爾瑪根生長在洞穴和其他湖南的環境中. 它是魔咒和空氣精華的成分.
+agricraft_journal.wakebloom=在溫暖氣候下的水面上生長, 覺蘇草經常用在與水有關的魔咒中.
+
+//minecraft seeds
+agricraft_journal.seeds=小麥是一種非常普遍,營養價值又高的作物.
+agricraft_journal.pumpkin=大多數人認為南瓜是一種裝飾性的蔬菜,然而也 有人喜歡南瓜派的味道.
+agricraft_journal.melon=人們都喜歡西瓜,因為西瓜的甜和含水量高.
+agricraft_journal.nether_wart=地獄疣似乎在下界的廢棄要塞中有栽培.
+
+//natura seeds
+agricraft_journal.barleyNatura=相比于普通麵包,一些人更喜歡大麥麵包 的味道, 然而也有一些人聲稱它們的味道是 一樣的.
+agricraft_journal.cottonNatura=棉花在紡織工業的高需求量決定了它是一種有 價值的財產.
+
+//harvestcraft seeds
+agricraft_journal.hc_Artichoke=朝鮮薊的可食用部分含有未開放的花骨朵.
+agricraft_journal.hc_Asparagus=蘆筍已經被人們用作蔬菜或者藥材,它有著十分微妙的味道.
+agricraft_journal.hc_Bambooshoot=竹筍是一種可食用的植物的根,經常出現在亞洲的飯菜之中.
+agricraft_journal.hc_Barley=相比于普通麵包,一些人更喜歡大麥麵包的味道, 然而也有一些人聲稱它們的味道是一樣的.
+agricraft_journal.hc_Bean=豆子是一種夏季作物,需要較溫暖的溫度才能生長.
+agricraft_journal.hc_Beet=地底深處的紫色甜菜根可以生吃,燒烤,水煮,或者烘烤.
+agricraft_journal.hc_Bellpepper=甜椒通常是綠色,黃色,橙色或者紅色的.
+agricraft_journal.hc_Blackberry=軟水果經常被用在甜點,果醬,無籽果凍中, 有時用在葡萄酒裡.
+agricraft_journal.hc_Blueberry=藍莓是一種終年開花的植物,結有靛藍色的莓.
+agricraft_journal.hc_Broccoli=西蘭花是捲心菜科中的一種可食用綠色蔬菜, 其開花的巨大頭部被用作蔬菜.
+agricraft_journal.hc_BrusselsSprout=芽甘藍在比利時的布魯塞爾一直很受歡迎,也 許有什麼起源在那裡.
+agricraft_journal.hc_Cabbage=種植捲心菜通常是為了它的被菜葉層層包圍的頭部,在兩年期的生長週期的第一年中會產出成品.
+agricraft_journal.hc_CactusFruit=通常這種水果也長有刺,時刻保持警惕.
+agricraft_journal.hc_Candleberry=蠟楊梅是一種結有小小的果實的小灌木.
+agricraft_journal.hc_Cantaloupe=哈密瓜一般是一種直接生吃的水果,或者製成 沙拉,或者放入霜淇淋或蛋奶糊中用作甜點.
+agricraft_journal.hc_Cauliflower=花椰菜可以烤,煮,炒,蒸,或者乾脆直接生 吃.
+agricraft_journal.hc_Celery=芹菜是一種非常普遍的蔬菜,可食用部分是它的 莖.
+agricraft_journal.hc_ChiliPepper=辣椒在烹飪中有很多用處,從直接浸泡到讓你 的湯更加有味.
+agricraft_journal.hc_Coffee=這些豆子是一杯現磨咖啡的基礎,幫你開啟新 一天,所以根本上來講這就是你一天的基礎.
+agricraft_journal.hc_Corn=因為它淺層的根,玉米很容易受乾旱影響,對 土壤養分不足非常敏感,狂風之後甚至會被連根拔起.
+agricraft_journal.hc_Cotton=棉花在紡織工業的高需求量決定了它是一種有 價值的財產.
+agricraft_journal.hc_Cranberry=蔓越橘汁經常被人為甜化或者和別的果汁混合 在一起,以減輕其天然的酸味.
+agricraft_journal.hc_Cucumber=黃瓜是一種匍匐藤的圓柱形果實,在廚房裡被 用作蔬菜.
+agricraft_journal.hc_Curryleaf=種植咖喱葉時一定要使用成熟和新鮮的種子， 乾枯或皺縮的果實是無法生長的.你也可以種 植整個果實，但最好還是去它的果肉後再把它 種植在潮濕的盆栽土中.
+agricraft_journal.hc_Eggplant=這種新鮮水果有那麼一點苦,但烹調過後會很 嫩,並產生出厚重,複雜的味道.
+agricraft_journal.hc_Garlic=大蒜很容易生長,可以在溫暖的環境裡終年種 植.
+agricraft_journal.hc_Ginger=姜會長出白色和粉色的花骨朵叢,並開出黃色 的花.
+agricraft_journal.hc_Grape=葡萄是一種落葉的木本藤的果實狀的莓,可以 生吃,或製成葡萄酒,果醬,果汁,果凍,葡 萄種子提取物,葡萄乾,醋,或葡萄種子油.
+agricraft_journal.hc_Kiwi=獼猴桃可以種在夏季熱量足夠的大多數地方.
+agricraft_journal.hc_Leek=不像洋蔥那樣緊密的球莖,韭蔥有著被緊密的 葉鞘包圍的圓柱球莖,因將泥土拉到身邊,終 日不見陽光而日漸變白.
+agricraft_journal.hc_Lettuce=通常作為種耐寒的一年生作物,萵苣是很容易 培養的,儘管它仍需要較低溫度以避免過早開 花.
+agricraft_journal.hc_Mustard=如果是在合適的條件下,芥末種子通常需要三 到十天時間發芽.這些合適的條件包括低溫和 相對潮濕的土壤.
+agricraft_journal.hc_Oats=燕麥很適合人類以燕麥粥或燕麥卷的形式食用, 但最普遍的用法卻是牲口的飼料.
+agricraft_journal.hc_Okra=秋葵因其可食用的綠色豆莢而變得很有價值.
+agricraft_journal.hc_Onion=洋蔥植物有一個中空,偏藍的綠葉組成的扇形, 其基礎的球莖會在時長足夠時膨脹飽滿.
+agricraft_journal.hc_Parsnip=防風草是一種和胡蘿蔔和西芹有很大關係的根 狀蔬菜.
+agricraft_journal.hc_Peanut=花生有很多用途.可以直接吃,經常出現在各 種食譜中,製成溶劑,油脂,藥物,紡織材料, 哦還有花生醬,還有很多其他用途.
+agricraft_journal.hc_Peas=從植物學角度來講,豌豆是果實,因為它含有 從豌豆花子房發育而來的豌豆種子.
+agricraft_journal.hc_Pineapple=鳳梨可生吃,烹調,榨汁,還可以保存並加工, 你可以在一長串菜譜中找到它的影子.
+agricraft_journal.hc_Radish=白蘿蔔大多數時候用在沙拉裡,但它也出現在 很多歐洲的菜肴中.
+agricraft_journal.hc_Raspberry=樹莓不能種在曾經種有土豆,番茄,胡椒, 茄子,或其他有球莖植物種過的地方,除非預 先對土壤消毒.
+agricraft_journal.hc_Rhubarb=對於烹飪,莖經常被切成小塊並和糖一起燉 (水裡煮).
+agricraft_journal.hc_Rice=傳統的培育水稻的方式是用水淹沒耕地,在水 淹沒時(或之後)種下種子.
+agricraft_journal.hc_Rutabaga=一些人會把蕪菁甘藍切成各種樣式(大多是人臉), 然後當成燈籠以驅散惡靈.
+agricraft_journal.hc_Rye=黑麥是一種草本植物,以穀物形式大範圍種植, 用作覆蓋作物或者飼料作物.
+agricraft_journal.hc_Scallion=青蔥有著一種相對溫柔的洋蔥味,用作蔬菜, 或生吃或烹調.
+agricraft_journal.hc_Seaweed=海藻被用於點綴沙拉或製成醬汁,營養食物, 或是肉魚類產品,乳製品或焙烤食物的防腐劑.
+agricraft_journal.hc_Sesameseeds=芝麻是最古老的油料作物之一，已經被人類種 植了3000年以上了.
+agricraft_journal.hc_Soybean=傳統的零發酵大豆用法有豆奶,還有老豆腐和 豆腐皮.
+agricraft_journal.hc_SpiceLeaf=香葉是和草藥是分開對待的,因為香葉是一種 用於調味或裝飾的綠色植物的葉.
+agricraft_journal.hc_Spinach=卡通角色大力水手波派就十分喜歡吃菠菜，吃 完菠菜後他的身體會變得更加強壯.
+agricraft_journal.hc_Strawberry=草莓很受歡迎,適合種植於家庭環境中,可以直 接消費掉,或者用作裝飾用途.
+agricraft_journal.hc_Sweetpotato=雖然它的葉子和芽也可以吃,它那富含澱粉的 塊根目前還是其最重要的產品.
+agricraft_journal.hc_Tea=通過向洗淨茶葉中倒入熱水或沸水可以製成 茶水.
+agricraft_journal.hc_Tomato=番茄有多種食用方式,包括生吃,還有各種 菜的原料,醬料,沙拉,或者飲料.
+agricraft_journal.hc_Turnip=大頭菜是一種根狀蔬菜,在世界範圍內通常在溫 和的氣候下種植,因為其白色的塊狀主根.
+agricraft_journal.hc_Waterchestnut=荸薺事實上並不是堅果，它是一種在沼澤生長 的水生蔬菜，長在水下的泥巴裡
+agricraft_journal.hc_WhiteMushroom=如果你想比飛機飛得還快,這些蘑菇不是你要 找的東西.
+agricraft_journal.hc_WinterSquash=只要筍瓜顏色變深,趨於泥土顏色,並且表皮 變硬,就可以收穫了.
+agricraft_journal.hc_Zucchini=西葫蘆通常是炒著吃的, 當然也可用很多別的 烹調手段,包括蒸,煮,烤,填滿別的材料並 烘烤,燒烤,炸,或者作為原料併入別的菜譜.
+
+//plant mega pack seeds
+agricraft_journal.pmp_Beet=地底深處的紫色甜菜根可以生吃,燒烤,水煮, 或者烘烤.
+agricraft_journal.pmp_Broccoli=花椰菜是捲心菜科中的一種可食用綠色蔬菜, 其開花的巨大頭部被用作蔬菜.
+agricraft_journal.pmp_Cassava=木薯根是一種熱帶植物，通常被人們稱作木薯 或樹薯
+agricraft_journal.pmp_Celery=芹菜是一種非常普遍的蔬菜,可食用部分是它 的莖.
+agricraft_journal.pmp_Corn=因為它淺層的根,玉米很容易受乾旱影響,對 土壤養分不足非常敏感,狂風之後甚至會被連根拔起.
+agricraft_journal.pmp_Cucumber=黃瓜是一種匍匐藤的圓柱形果實,在廚房裡被 用作蔬菜.
+agricraft_journal.pmp_Eggplant=生茄子嘗起來有點苦，但烹調後就溫和多了， 它也著有豐富的味道.
+agricraft_journal.pmp_GreenBean=青豆既是灌木植物也是杆狀植物，作為後者生 長時它需要支撐物.
+agricraft_journal.pmp_Leek=不像洋蔥那樣緊密的球莖,象大蒜有著被緊密 的葉鞘包圍的圓柱球莖,因將泥土拉到身邊, 終日不見陽光而日漸變白.
+agricraft_journal.pmp_Lettuce=通常作為種耐寒的一年生作物,萵苣是很容易 培養的,儘管它仍需要較低溫度以避免過早開 花.
+agricraft_journal.pmp_Onion=洋蔥植物有一個中空,偏藍的綠葉組成的扇形, 其基礎的球莖會在時長足夠時膨脹飽滿.
+agricraft_journal.pmp_Spinach=卡通動漫角色"大力水手"被描繪為一個 對菠菜有強烈喜愛的人,在吃過菠菜後會變得力大無窮.
+agricraft_journal.pmp_Tomato=番茄有多種食用方式,包括生吃,還有各種 菜的原料,醬料,沙拉,或者飲料.
+agricraft_journal.pmp_BellPepperYellow=世界上有各種各樣的甜椒:紅,黃,綠,但這 種是黃的.
+agricraft_journal.pmp_BellPepperOrange=世界上有各種各樣的甜椒:紅,黃,綠,但這 種是橙色的.
+agricraft_journal.pmp_BellPepperRed=世界上有各種各樣的甜椒:紅,黃,綠,但這 種是紅的.
+agricraft_journal.pmp_Sorrel=酸模是一種細長的根系紮得很深的草本植物.
+
+//witchery seeds
+agricraft_journal.wi_Belladonna=這種植物的一切都有高毒性: 葉子, 花蕾還有花.
+agricraft_journal.wi_Garlic=根據民間傳言, 大蒜可以驅退吸血鬼. 但又有誰信吸血鬼?
+agricraft_journal.wi_Mandrake=一種根從土裡拔出來以後, 會發出刺耳尖叫的植物.
+agricraft_journal.wi_Snowbell=雪鈴花是一種似乎會凍結吸收的一切水分的魔力花卉.
+agricraft_journal.wi_Artichoke=水洋薊是一種奇怪的朝鮮薊變種, 只有很少人知道他究竟能幹啥.
+agricraft_journal.wi_Wolfsbane=傳言說這種花能揭示受狼人咒之苦者的本來面目.
+agricraft_journal.wi_Wormwood=苦艾是一種稀有植物. 藥學家讚美它壓制瘟疫的功效.
+
+//chococraft seeds
+agricraft_journal.cc_Gysahl=基沙爾野菜是虛構的生物"陸行鳥"的最愛的 食物.有時一棵基沙爾野菜可以長出可愛的基 沙爾野菜,還有人說細心培育的基沙爾野 菜可以長出金基沙爾野菜.
+
+//psychedelicraft seeds
+agricraft_journal.pc_cannabis=通常被稱為藥用大麻, 是一種廣泛使用的軟性癮品.
+agricraft_journal.pc_coca=這種植物的葉子是可卡因的原材料.
+agricraft_journal.pc_hop=啤酒花用於釀造各種麥酒和淡啤.
+agricraft_journal.pc_tobacco=即使有害健康,世界各地都在吸煙.
+agricraft_journal.pc_coffeaCherries=咖啡豆是咖啡植物的種子，也是製作咖啡的原 料，因為紫紅色果實裡的小坑，它也常被稱為 一種櫻桃.
+
+//blue power flax
+agricraft_journal.bp_flax_seeds=亞麻就是線 ~Sjin.
+
+//pneumaticCraft plants
+agricraft.journal_PC.plant0=這種植物的花蕾中有有時會攜帶種子的魷魚.
+agricraft.journal_PC.plant1=成熟的植物會噴火並且有時噴種子.
+agricraft.journal_PC.plant2=成熟時, 這些植物會自爆並且散佈種子.
+agricraft.journal_PC.plant3=這種植物的花蕾中有有時會攜帶種子的史萊姆.
+agricraft.journal_PC.plant4=成熟時, 這些植物會在暴雨天製造種子雨.
+agricraft.journal_PC.plant5=成熟的植物會把種子傳送到附近隨機地點.
+agricraft.journal_PC.plant6=雷雨天, 這些植物會吸引閃電.
+agricraft.journal_PC.plant8=成熟時, 這些植物會爆發出種子.
+agricraft.journal_PC.plant9=這些植物會釋放煙霧. 誰知道這些煙有什麼效果呢.
+agricraft.journal_PC.plant10=這些植物的種子有高斥力並且在地上會彈走.
+agricraft.journal_PC.plant11=這些植物的種子比空氣輕, 它們會飛進大氣層.
+agricraft.journal_PC.plant12=成熟時, 這些植物會向不同方向射出4個種子.
+agricraft.journal_PC.plant14=這些植物在地面附近高速射出種子, 只有撞牆是才停下來.
+agricraft.journal_PC.plant15=這些植物的種子隨風飛行尋找沃土.
+
+//applemilktea
+agricraft.journal_AMT.item.defeatedcrow.seedMint:0=這種植物的葉子可以泡一杯美味的薄荷茶或者給菜調味.
+
+//rotarycraft
+agricraft.journal_RoC.canola=油菜的種子莢可以提煉優質潤滑油.
+
+//immersive engineering
+agricraft_journal.ie_hemp=工業大麻纖維是工業上廣泛應用的重要物資.
+
+//extra biomes xl
+agricraft_journal.EBXL_strawberry=草莓很受歡迎,適合種植於家庭環境中,可以直 接消費掉,或者用作裝飾用途.
+
+//biomes o plenty
+agricraft_journal.BoP_turnip=蕪菁是一種根狀蔬菜,在世界範圍內通常在溫 和的氣候下種植,因為其白色的塊狀主根.
+
+//lord of the rings
+agricraft_journal.lotr_flaxSeeds=亞麻就是線 ~Sjin.
+agricraft_journal.lotr_lettuce=通常作為種耐寒的一年生作物,萵苣是很容易 培養的,儘管它仍需要較低溫度以避免過早開 花.
+agricraft_journal.lotr_pipeweedSeeds=煙斗草 (又叫半身人之葉) 是一種煙草, 類似于普通煙草, 由夏爾的霍比特人栽培並享用, 最早發現者是托博多·吹號.
+
+//advent of ascension
+agricraft_journal.aoa_BubbleBerry=這些果實味道很好玩.
+agricraft_journal.aoa_Chili=這些辣椒很辣, 它們燒掉的不僅僅是你的嘴.
+agricraft_journal.aoa_EyeBulb=你知道被人看著的感覺是什麼樣的嗎? 你現在可以隨時感受.
+agricraft_journal.aoa_Floracle=有一種奇怪的氣場籠罩在這些花四周.
+agricraft_journal.aoa_Goldicap=這種花的花瓣似乎是萬能解毒藥.
+agricraft_journal.aoa_HeartFruit=這種植物的果實味道不錯, 但是會傷人.
+agricraft_journal.aoa_HollyTop=眾所周知這種植物的果實可以做優質箭頭.
+agricraft_journal.aoa_Lunacrike=眾所周知這種植物的果實會產生短暫, 但強大的能量爆發.
+agricraft_journal.aoa_Lunaglobe=這種植物的果實富含能量.
+agricraft_journal.aoa_Lunalon=那些講胡蘿蔔對眼睛好的人沒試過這個.
+agricraft_journal.aoa_MagicMarang=對那些喜歡食物中毒的人來說相當不錯.
+agricraft_journal.aoa_HavenShroom=不要和魔菇弄混.
+agricraft_journal.aoa_Rosidon=吃這種植物會高, 真的很高.
+agricraft_journal.aoa_Tea="不錯, 再來杯茶."
+agricraft_journal.aoa_ThornyPlant=被某些人用作貨幣, 種植這種作物時注意不要引發經濟危機.
+agricraft_journal.aoa_Trilliad=這種植物的葉子富含營養.
+
+//agriculture
+agricraft_journal.agriculture_cinnamon=肉桂必須在收穫後內皮未幹時處理.
+agricraft_journal.agriculture_peanut=花生有很多用途.可以直接吃,經常出現在各 種食譜中,製成溶劑,油脂,藥物,紡織材料, 哦還有花生醬,還有很多其他用途.
+agricraft_journal.agriculture_strawberry=草莓很受歡迎,適合種植於家庭環境中,可以直 接消費掉,或者用作裝飾用途.
+agricraft_journal.agriculture_vanilla=香子蘭是僅次於藏紅花的第二名貴的香料.
+
+//garden stuff
+agricraft_journal.gardenstuff_candelillaSeeds=燭木多蠟的產物可以被用來製作蠟燭.
+
+//millenaire
+agricraft_journal.millenaire_cropMaize=因為它淺層的根,玉米很容易受乾旱影響,對 土壤養分不足非常敏感,狂風之後甚至會被連 根拔起.
+agricraft_journal.millenaire_cropRice=傳統的培育水稻的方式是用水淹沒耕地,在水 淹沒時(或之後)種下種子.
+agricraft_journal.millenaire_cropTurmeric=薑黃常常被用作香辛料或是咖喱.
+
+//harvest the nether
+agricraft_journal.harvestTheNether_bloodleaf=這種植物的葉子似乎在分泌一種粘粘的... 紅色的...液體,這...這是血液？
+agricraft_journal.harvestTheNether_fleshroot=地獄獵犬喜歡以這種多肉的植物的根為食物.
+agricraft_journal.harvestTheNether_glowflower=種植這種漂亮的花朵能得到螢石粉.
+agricraft_journal.harvestTheNether_marrowberry=這種漿果吃起來味道怪怪的
+
+//the kitchen mod
+agricraft_journal.kitchenMod_lettuce=作為一種一年一收的耐寒植物，生菜易於被種 植，雖然它仍需要較低的溫度來防止它開花過 快.
+agricraft_journal.kitchenMod_peanut=花生有很多用途.可以直接吃,經常出現在各 種食譜中,製成溶劑,油脂,藥物,紡織材料, 哦還有花生醬,還有很多其他用途.
+agricraft_journal.kitchenMod_strawberry=草莓很受歡迎,適合種植於家庭環境中,可以直 接消費掉,或者用作裝飾用途.
+agricraft_journal.kitchenMod_tomato=番茄有多種食用方式,包括生吃,還有各種菜 的原料,醬料,沙拉,或者飲料.
+
+//gany's nether
+agricraft_journal.ganysNether_ghostSeeds=This ghastly crop lies at the base of procusing spooky flour.
+agricraft_journal.ganysNether_hellBushSeeds=This bush's berry feel warm and juicy, however I wouldn't bite in them...
+agricraft_journal.ganysNether_quarzBerrySeeds=Berries made out of quartz, who would've thought!
+agricraft_journal.ganysNether_witherShrubSeeds=An extremely rare crop which effectively grows wither skulls.
+
+//gany's surface
+agricraft_journal.ganysSurface_camellia=Delicious tea can be extracted from this plant's leaves.
+
+//et futurum
+agricraft_journal.etFuturum_beetRoot=The usually deep purple roots of beetroot are eaten either boiled, roasted or raw, either alone or combined with any salad vegetable.
+
+//calculator
+agricraft_journal.calulator_broccoli=Broccoli is an edible green plant in the cabbage family, whose large flowering head is used as a vegetable.
+
+//harder wild life
+agricraft_journal.harderWildLife_winterWheat=A crop that thrives at lower temperatures.
