@@ -2390,19 +2390,19 @@ gtnh.quest596.desc=It's upgrade time. Unlock redstone and obsidian level for you
 
 #Quest_597.Tetrahedrite, stibnite and copper
 gtnh.quest597.name=黝銅礦 、輝銻礦、及銅礦Tetrahedrite, stibnite and copper
-gtnh.quest597.desc=你可能會疑惑為何需要黝銅礦，或輝銻礦。主要是可以離心出銻，在LV時代用於製做電池。可以在Y 80-120找到礦脈。aybe you are wondering why you need tetrahedrite or stibnite. Well, antimony can be centrifuged out of it which is very useful for batteries in the LV Age.\nThe veins can be found between Y level 80-120.
+gtnh.quest597.desc=你可能會疑惑為何需要黝銅礦，或輝銻礦。主要是可以離心出銻，在LV時代用於製做電池。可以在Y 80-120找到礦脈。
 
 #Quest_598.Antimony
 gtnh.quest598.name= 銻(Antimony)
-gtnh.quest598.desc=要得到電池所需的銻，最有效率的方法是離心輝銻粉，其次是使用黝銅礦粉。\n\nThe most efficient way to get antimony for batteries is to centrifuge stibnite dust, the second most efficient way is to use tetrahedrite dust.
+gtnh.quest598.desc=要得到電池所需的銻，最有效率的方法是離心輝銻粉，其次是使用黝銅礦粉。
 
 #Quest_599.Thermal centrifuge
 gtnh.quest599.name=熱能離心機(Thermal centrifuge)
-gtnh.quest599.desc=想從破碎礦石或者純淨礦石粉末中取得不同的副產品，熱能離心機是個選擇。當你有反應爐並想回收用盡的燃料棒時，十分有用。\n\nA optional machine to get different byproducts out of your crushed and purified ore dust. This machine becomes very useful when you have reactors and want to recycle your depleted fuel rods.
+gtnh.quest599.desc=想從破碎礦石或者純淨礦石粉末中取得不同的副產品，熱能離心機是個選擇。當你有反應爐並想回收用盡的燃料棒時，十分有用。
 
 #Quest_600.Hunger, no more
 gtnh.quest600.name=不再饑餓(Hunger, no more)
-gtnh.quest600.desc=饑餓問題一直跟隨著你，消耗你的精力，從不讓你休息。這世界充滿各種營養的水果、蔬菜、各種餐點。靠這些解決你永不滿足的饑渴吧。The hunger is constantly following you, consuming you, never letting you rest. The world around you is full of nourishing fruits, vegetables and crafted meals. Use them to curb your insatiable hunger.
+gtnh.quest600.desc=饑餓問題一直跟隨著你，消耗你的精力，從不讓你休息。這世界充滿各種營養的水果、蔬菜、各種餐點。靠這些解決你永不滿足的饑渴吧。
 
 #Quest_601.Building made easy
 gtnh.quest601.name=Building made easy
@@ -2434,43 +2434,43 @@ gtnh.quest607.desc=If you're bored, you can resurrect the dragon. Or, you could 
 
 #Quest_608.A lead about lead that leads to lead dust
 gtnh.quest608.name=鉛(A lead about lead that leads to lead dust)
-gtnh.quest608.desc=做電池的下意步是收集鉛。鉛跟方鉛礦可以在暮光森林找到The next step of making batteries is to collect some lead. Lead and galena veins can be found in the Twilight Forest.
+gtnh.quest608.desc=做電池的下意步是收集鉛。鉛跟方鉛礦可以在暮光森林找到。 
 
 #Quest_609.Battery alloy
 gtnh.quest609.name=電池合金(Battery alloy)
-gtnh.quest609.desc=使用合金爐混合銻跟鉛，可以得到電池合金。\n與一些錫線纜組合就可以得到小型電池外殼。\nMixing antimony and lead in the alloy smelter will give you some battery alloy.\nCombine it with some tin cable and voila there is your small battery hull.
+gtnh.quest609.desc=使用合金爐混合銻跟鉛，可以得到電池合金。與一些錫線纜組合就可以得到小型電池外殼。
 
 #Quest_610.Lead, galena and silver
 gtnh.quest610.name=鉛、方鉛礦，以及銀(Lead, galena and silver)
-gtnh.quest610.desc=你無法在主世界或地獄找到鉛、方鉛礦跟銀。該探索神秘的暮光森林了。在Y 5-40尋找這種礦脈。You can't find lead, galena or silver in the Overworld or the Nether. So it's time to explore the mysterious Twilight Forest a bit and find this vein at Y level 5 - 40.
+gtnh.quest610.desc=你無法在主世界或地獄找到鉛、方鉛礦跟銀。該探索神秘的暮光森林了。在Y 5-40尋找這種礦脈。
 
 #Quest_611.Single use battery: Mercury
 gtnh.quest611.name=一次性電池:汞(Single use battery: Mercury)
-gtnh.quest611.desc=汞及酸性電池是一次性電池，新成品電力是滿的，但不能充電。一電電力用完了，可以使用抽取機轉換回小型電池外殼。\n\n這些電池可以放在LV級GT機器的電池槽中，機器將優先使用電池電力。也可以使用在LV電池箱中。\n\nMercury and acid batteries are single-use batteries. They are crafted fully charged but cannot be re-charged. Once their stored energy is depleted, they can be placed in an extractor to be converted back into small battery hulls.\n\nThey can be placed in the battery slot of any standard LV gregtech machine, in that case they will be depleted before the machine's internal EU storage. They can also be used in LV battery buffers.
+gtnh.quest611.desc=汞及酸性電池是一次性電池，新成品電力是滿的，但不能充電。一電電力用完了，可以使用抽取機轉換回小型電池外殼。這些電池可以放在LV級GT機器的電池槽中，機器將優先使用電池電力。也可以使用在LV電池箱中。
 
 #Quest_612.Single use battery: Acid
 gtnh.quest612.name=一次性電池:酸(Single use battery: Acid)
-gtnh.quest612.desc=汞及酸性電池是一次性電池，新成品電力是滿的，但不能充電。一電電力用完了，可以使用抽取機轉換回小型電池外殼。\n\n這些電池可以放在LV級GT機器的電池槽中，機器將優先使用電池的EU電力，然後才是內部的EU儲存。電池也可以使用在LV電池箱中做為buffer。\n\nMercury and acid Batteries are single-use batteries. They are crafted fully charged but cannot be re-charged. Once their stored energy is depleted, they can be placed in an extractor to be converted back into small battery hulls.\n\nThey can be placed in the battery slot in any standard LV gregtech machine, in that case they will be depleted before the machine's internal EU storage. They can also be used in LV battery buffers.
+gtnh.quest612.desc=汞及酸性電池是一次性電池，新成品電力是滿的，但不能充電。一電電力用完了，可以使用抽取機轉換回小型電池外殼。這些電池可以放在LV級GT機器的電池槽中，機器將優先使用電池的EU電力，然後才是內部的EU儲存。電池也可以使用在LV電池箱中做為buffer。
 
 #Quest_613.Reusable battery: Sodium
 gtnh.quest613.name=可重覆使用電池:鈉(Reusable battery: Sodium)
-gtnh.quest613.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。\n\nSodium, cadmium, and lithium batteries are rechargeable batteries. They are crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost.
+gtnh.quest613.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。
 
 #Quest_614.Reusable battery: Cadmium
 gtnh.quest614.name=可重覆使用電池:鎘Reusable battery: Cadmium
-gtnh.quest614.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。\n\nSodium, cadmium, and lithium batteries are rechargeable batteries. They are crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost.
+gtnh.quest614.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。
 
 #Quest_615.Reusable battery: Lithium
 gtnh.quest615.name=可重覆使用電池:鋰Reusable battery: Lithium
-gtnh.quest615.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。\n\nSodium, cadmium, and lithium batteries are rechargeable batteries. They are crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost.
+gtnh.quest615.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。
 
 #Quest_616.Mercury
 gtnh.quest616.name=汞Mercury
-gtnh.quest616.desc=要得到汞，可以離心紅石。如果你在紅石礦脈中找到辰砂礦，也可以使用辰砂礦。\n\nMercury can be centrifuged out of redstone. If you find some cinnabar ore in the redstone vein you can use that too.
+gtnh.quest616.desc=要得到汞，可以離心紅石。如果你在紅石礦脈中找到辰砂礦，也可以使用辰砂礦。
 
 #Quest_617.Fluid canner
 gtnh.quest617.name=液體灌裝機(Fluid canner)
-gtnh.quest617.desc=液體灌裝機是基礎機器，可用於運送一些液體，並可用來裝填空單元、玻璃罐、水桶，甚至是電池。\n\n另一件趣事是，液體灌裝機可以當水塔用，只要在上面覆蓋吸取板(所有的機器其實都可以...)。\n\nThe fluid canner is a fundamental machine, since it is necessary to move fluids around, as well as for filling tin cells, glass bottles, buckets, and even batteries.\n\nAnother interesting thing about the fluid canner is that it can be transformed into a raintank, by attaching a drain cover on its top (Any machine with tank actually can be...).
+gtnh.quest617.desc=液體灌裝機是基礎機器，可用於運送一些液體，並可用來裝填空單元、玻璃罐、水桶，甚至是電池。另一件趣事是，液體灌裝機可以當水塔用，只要在上面覆蓋吸取板(所有的機器其實都可以...)。
 
 #Quest_618.Sulfuric acid
 gtnh.quest618.name=Sulfuric acid
@@ -2510,19 +2510,19 @@ gtnh.quest626.desc=你想移動生怪磚，並建造一個怪物農場嗎？只�
 
 #Quest_627.Grain bait
 gtnh.quest627.name=穀物誘餌(Grain bait)
-gtnh.quest627.desc=為你的動物陷阱製作一些良好的穀物誘餌。Crafting some nice grain bait for your animal trap.
+gtnh.quest627.desc=為你的動物陷阱製作一些良好的穀物誘餌。
 
 #Quest_628.Fruit bait
 gtnh.quest628.name=水果誘餌(Fruit bait)
-gtnh.quest628.desc=為你的動物陷阱製作一些美味的水果誘餌。Crafting some tasty fruit bait for your animal trap.
+gtnh.quest628.desc=為你的動物陷阱製作一些美味的水果誘餌。
 
 #Quest_629.Veggie bait
 gtnh.quest629.name=蔬菜誘餌(Veggie bait)
-gtnh.quest629.desc=為你的動物陷阱製作一些蔬菜誘餌。Crafting some veggie bait for your animal trap.
+gtnh.quest629.desc=為你的動物陷阱製作一些蔬菜誘餌。
 
 #Quest_630.Fish bait
 gtnh.quest630.name=魚類誘餌(Fish bait)
-gtnh.quest630.desc=為你的動物陷阱製作一些魚類誘餌。Crafting some fish bait for your fish trap.
+gtnh.quest630.desc=為你的動物陷阱製作一些魚類誘餌。
 
 #Quest_631.Animal trapping
 gtnh.quest631.name=動物陷阱(Animal trapping)
@@ -2570,7 +2570,7 @@ gtnh.quest641.desc=你可以將硫化石腦油處理成石腦油。石腦油在�
 
 #Quest_642.Sulfuric gas
 gtnh.quest642.name=硫酸氣體(Sulfuric gas)
-gtnh.quest642.desc=另一樣你可以從石油中蒸餾出來的燃氣是硫酸氣體，每單元燃燒值為25,000EU。Another distillate for your gas turbine you can make out of oil is sulfuric gas with a burn value of 25,000 EU per cell.
+gtnh.quest642.desc=另一樣你可以從石油中蒸餾出來的燃氣是硫酸氣體，每單元燃燒值為25,000EU。
 
 #Quest_643.Refinery gas
 gtnh.quest643.name=煉油氣(Refinery gas)
