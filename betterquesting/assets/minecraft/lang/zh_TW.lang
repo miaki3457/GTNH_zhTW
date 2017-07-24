@@ -3591,115 +3591,115 @@ gtnh.quest925.desc=You beat the game, literally. There is nothing left to do, yo
 ##################################Line##################################
 
 #Tier 0 - It begins
-gtnh.line0.name=第0階 - 由此開始 (Tier 0 - It begins)
-gtnh.line0.desc=第一層︰0階。本章節將介紹基本這模組包的基本機制，包含︰原始MINECRAFT、潘馬斯的豐收菜圃。\n\nThe very first tier, tier zero. This chapter will introduce you to the basic mechanics of this modpack. Mods covered: Vanilla, Pam's Harvestcraft.
+gtnh.line0.name=第0階 - 由此開始
+gtnh.line0.desc=第一層︰0階。本章節將介紹基本這模組包的基本機制，包含︰原始MINECRAFT、潘馬斯的豐收菜圃。
 
 #Tier 0.5 - Stone Age
-gtnh.line1.name=第0.5階 - 石器時代 (Tier 0.5 - Stone Age)
-gtnh.line1.desc=基本上，你在第0階所有的進展---你完成的第一層。可以幫助你，直到你製作出你的第一台蒸汽機。\n\nBasically the "Tier 0" of all your progression. This set helps you through the first tier until you can build your first steam machine
+gtnh.line1.name=第0.5階 - 石器時代
+gtnh.line1.desc=基本上，你在第0階所有的進展---你完成的第一層。可以幫助你，直到你製作出你的第一台蒸汽機。
 
 #Tier 1 - Steam
-gtnh.line2.name=第1階 - 蒸汽 (Tier 1 - Steam)
-gtnh.line2.desc=任務--為了所有基於蒸汽的機器。\n\nQuest set for all steam-based machines.
+gtnh.line2.name=第1階 - 蒸汽
+gtnh.line2.desc=任務--為了所有基於蒸汽的機器。
 
 #Tier 2 - 32 EU (LV)
-gtnh.line3.name=第2階 - 32 EU (LV) (Tier 2 - 32 EU (LV))
-gtnh.line3.desc=第一個 "電壓" 的階段。事情變得越來越容易了...\n\nThe first "voltage" tier of this pack. Things are getting easier...
+gtnh.line3.name=第2階 - 32 EU (LV)
+gtnh.line3.desc=第一個 "電壓" 的階段。事情變得越來越容易了...
 
 #Tier 3 - 128 EU (MV)
-gtnh.line4.name=第3階 - 128 EU (MV) (Tier 3 - 128 EU (MV))
-gtnh.line4.desc=第二個 "電壓" 的階段。不要混和不同EU的電壓，否則你會得到教訓。\n\nYour second voltage tier. Don't mix different voltage levels, or you will be punished in a hard way.
+gtnh.line4.name=第3階 - 128 EU (MV)
+gtnh.line4.desc=第二個 "電壓" 的階段。不要混和不同EU的電壓，否則你會得到教訓。
 
 #Tier 4 - 512 EU (HV)
-gtnh.line5.name=第4階 - 512 EU (HV) (Tier 4 - 512 EU (HV))
-gtnh.line5.desc=終於有些能量工作。這一層將幫助你征途星辰大海，收集更多稀有的資源，建造更先進的機器。\n\nFinally some power to work with. This tier will help you reach distant planets and gather more rare resources to build even more advanced machines.
+gtnh.line5.name=第4階 - 512 EU (HV)
+gtnh.line5.desc=終於有些能量工作。這一層將幫助你征途星辰大海，收集更多稀有的資源，建造更先進的機器。
 
 #Tier 5 - 2048 EU (EV)
-gtnh.line6.name=第5階 - 2048 EU (EV) (Tier 5 - 2048 EU (EV))
-gtnh.line6.desc=鈦階段，核裂變能源，應用能源2。\n\nTitanium level, fissile energy sources, Applied Energistics 2.
+gtnh.line6.name=第5階 - 2048 EU (EV)
+gtnh.line6.desc=鈦階段，核裂變能源，應用能源2。
 
 #Tier 6 and beyond
-gtnh.line7.name=第6階和更高 (Tier 6 and beyond)
-gtnh.line7.desc=將會是最後一個正規的階層，"指引"你。\n\nThe last regular tier that will "guide" you 
+gtnh.line7.name=第6階和更高
+gtnh.line7.desc=將會是最後一個正規的階層，"指引"你。
 
 #Forestry and Farms
-gtnh.line8.name=林業和農場 (Forestry and Farms)
-gtnh.line8.desc=自動化農場和更多...\n\nAutomated Farms and more.....
+gtnh.line8.name=林業和農場
+gtnh.line8.desc=自動化農場和更多...
 
 #Novice Thaumaturge
-gtnh.line9.name=新手術士 (Novice Thaumaturge)
-gtnh.line9.desc=魔法的奧秘皆藏於此。卓越的成就，但也有許多的工作。我將會指引你。照我的指導，你將成為一位偉大的巫師，就像我。\n\nMagic lies beyond. Great achievements, but also a lot of work. I shall be your guide. Follow my instructions, and you shall become a great wizard, like me.
+gtnh.line9.name=新手術士
+gtnh.line9.desc=魔法的奧秘皆藏於此。卓越的成就，但也有許多的工作。我將會指引你。照我的指導，你將成為一位偉大的巫師，就像我。
 
 #Adept Thaumaturgy
-gtnh.line10.name=熟練的奇術師 (Adept Thaumaturgy)
-gtnh.line10.desc=囊括扭曲。\n\nWarp included.
+gtnh.line10.name=熟練的奇術師
+gtnh.line10.desc=囊括扭曲。
 
 #Kaaami, Haaaami, ... HA!
-gtnh.line11.name=龜...派...氣...功波！(Kaaami, Haaaami, ... HA!)
-gtnh.line11.desc=終極的奧法力量！\n\nUltimate (magical) POWER!!!
+gtnh.line11.name=龜...派...氣...功波！
+gtnh.line11.desc=終極的奧法力量！
 
 #Alternative Magic
-gtnh.line12.name=替代魔法 (Alternative Magic)
-gtnh.line12.desc=這是什麼樣的巫術！？\n\nWhat kind of witchery is this!?
+gtnh.line12.name=替代魔法
+gtnh.line12.desc=這是什麼樣的巫術！？
 
 #Multiblock Goals
-gtnh.line13.name=多重結構 (Multiblock Goals)
-gtnh.line13.desc=全部的多重結構追蹤。你可以在各階段建造多重結構的各個部件。\n\nThis set is a global tracker for multiblock structure goals. As you can build several parts of many multiblocks way earlier than the respective tier.
+gtnh.line13.name=多重結構
+gtnh.line13.desc=全部的多重結構追蹤。你可以在各階段建造多重結構的各個部件。
 
 #Armors and Jetpacks
-gtnh.line14.name=裝甲和噴射背包 (Armors and Jetpacks)
-gtnh.line14.desc=指導你穿上裝甲和噴氣背包。\n\nGuiding you through the armor and jetpacks.
+gtnh.line14.name=裝甲和噴射背包
+gtnh.line14.desc=指導你穿上裝甲和噴氣背包。
 
 #Cooking Farming Fishing
-gtnh.line15.name=烹飪、農業、捕魚。 (Cooking Farming Fishing)
-gtnh.line15.desc=烹飪的基礎和精緻的食物。\n\nCooking basic and more advanced food
+gtnh.line15.name=烹飪、農業、捕魚
+gtnh.line15.desc=烹飪的基礎和精緻的食物。
 
 #Transportation
-gtnh.line16.name=運輸 (Transportation)
-gtnh.line16.desc=各種運輸方式。\n\nAll kinds of transportation means
+gtnh.line16.name=運輸
+gtnh.line16.desc=各種運輸方式。
 
 #Space Race
-gtnh.line17.name=太空競賽 (Space Race)
-gtnh.line17.desc=幫助你開始星系模組並抵達月球。\n\nA guide to help you start Galacticraft and reach the Moon
+gtnh.line17.name=太空競賽
+gtnh.line17.desc=幫助你開始星系模組並抵達月球。
 
 #Legendary Quests
-gtnh.line18.name=傳奇任務 (Legendary Quests)
-gtnh.line18.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？\n\nA legendary quest-line with difficult tasks, expensive recipes and potentially dangerous locations. Are you prepared?
+gtnh.line18.name=傳奇任務
+gtnh.line18.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
 
 #Legendary Tier X
-gtnh.line19.name=傳奇X (Legendary Tier X)
-gtnh.line19.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？\n\nA legendary quest-line with difficult tasks, expensive recipes and potentially dangerous locations. Are you prepared?
+gtnh.line19.name=傳奇X
+gtnh.line19.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
 
 #Legendary Infinity
-gtnh.line20.name=無窮傳奇 (Legendary Infinity)
-gtnh.line20.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？\n\nA legendary questline with difficult tasks, expensive recipes and potentially dangerous locations. Are you prepared?
+gtnh.line20.name=無窮傳奇
+gtnh.line20.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
 
 #Paying the highest price
-gtnh.line21.name=昂貴的代價 (Paying the highest price)
-gtnh.line21.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖然代價有些嚇人...但沒有風險就沒有樂趣！\n\nWhen regular magic just won't cover it, pay demons to do it for you! The cost might scare some people... But no risk no fun!
+gtnh.line21.name=昂貴的代價
+gtnh.line21.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖然代價有些嚇人...但沒有風險就沒有樂趣！
 
 #More blood, more stuff
-gtnh.line22.name=更多鮮血，更多材料 (More blood, more stuff)
-gtnh.line22.desc=高等血魔法？我感覺我的靜脈很怪異... \n\nAdvanced Blood Magic? My veins feel weird...
+gtnh.line22.name=更多鮮血，更多材料
+gtnh.line22.desc=高等血魔法？我感覺我的靜脈很怪異...
 
 #They are coming...
-gtnh.line23.name=他們來了... (They are coming...)
-gtnh.line23.desc=我召喚的靈魂...超越了惡魔入侵。真正墮入黑魔法！\n\nThe spirits that I've called... Demon invasions and beyond. Really deep into dark magic!
+gtnh.line23.name=他們來了...
+gtnh.line23.desc=我召喚的靈魂...超越了惡魔入侵。真正墮入黑魔法！
 
 #Kill all the things
-gtnh.line24.name=殺了所有的東西 (Kill all the things)
-gtnh.line24.desc=這世界充滿了污穢的東西。殺了他們提高你的聲望。\n\nThis world is full of nasty things. Time to kill some and improve your reputation.
+gtnh.line24.name=殺了所有的東西
+gtnh.line24.desc=這世界充滿了污穢的東西。殺了他們提高你的聲望。
 
 #How to be(e)
-gtnh.line25.name=人來瘋(蜂) (How to be(e))
-gtnh.line25.desc=一套在遊戲中不分階段的任務，蜜蜂的基礎探索和指南。是一個非常有用來推進的工具。\n\nA non-tiered quest set that is meant as an in game, quest based tutorial and guide to bees. Since they are a really helpful tool to advance forward.
+gtnh.line25.name=人來瘋(蜂)
+gtnh.line25.desc=一套在遊戲中不分階段的任務，蜜蜂的基礎探索和指南。是一個非常有用來推進的工具。
 
 #To grind, or not to grind
-gtnh.line26.name=磨碎，或者不磨碎 (To grind, or not to grind)
-gtnh.line26.desc="這就是問題所在。你想要更好的工具嗎？好，去研磨這些東西！相信我，這些任務的獎勵是值得的。\n\nThat is the question. Do you want good tools? Well, then go grind stuff! The rewards of these quests are worth it, trust me.
+gtnh.line26.name=磨碎，或者不磨碎
+gtnh.line26.desc="這就是問題所在。你想要更好的工具嗎？好，去研磨這些東西！相信我，這些任務的獎勵是值得的。
 
 #Reward Area
-gtnh.line27.name=獎勵區 (Reward Area)
-gtnh.line27.desc=升級你的獎勵包！\n\nUpgrade your loot bags!
+gtnh.line27.name=獎勵區
+gtnh.line27.desc=升級你的獎勵包！
 
 
