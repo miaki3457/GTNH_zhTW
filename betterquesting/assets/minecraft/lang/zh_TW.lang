@@ -2481,104 +2481,104 @@ gtnh.quest619.name=Battery buffer
 gtnh.quest619.desc=Batteries can be placed directly in machines. To recharge a battery you need a battery buffer. They come in different sizes: 1, 4, 9 and 16 slots.
 
 #Quest_620.IC2 Battery
-gtnh.quest620.name=IC2 Battery
-gtnh.quest620.desc=Some recipes require IC2 batteries. Fill your small battery hull with some molten redstone and you will get your RE-Battery.
+gtnh.quest620.name=IC2電池(IC2 Battery)
+gtnh.quest620.desc=有些配方會用到IC2電池，將你的小型電池外殻充填液態紅石，可以得到充電電池。
 
 #Quest_621.How to get sodium
-gtnh.quest621.name=How to get sodium
-gtnh.quest621.desc=A second source for sodium is glauconite ore or glauconite sand. This type of ore vein can be found at Y level 20-50.
+gtnh.quest621.name=取得鈉(How to get sodium)
+gtnh.quest621.desc=另一個鈉的來源是海綠石礦石跟海綠石沙，你可以在Y 20-50找到這種礦脈。
 
 #Quest_622.How to get sodium/lithium
-gtnh.quest622.name=How to get sodium/lithium
-gtnh.quest622.desc=Salt ore mixes can be found in the Overworld between Y level 50-70. Salt isn't only used to get sodium, it's an important ingredient in many pam's harvestcraft food recipes.\n\nHint: Lepidolite and spodumene are good sources of lithium for your batteries.
+gtnh.quest622.name=取得鈉及鋰(How to get sodium/lithium)
+gtnh.quest622.desc=鹽礦脈能在主世界的Y 50-70找到。鹽不只可以用來提煉鈉。在許多pam's harvestcraft的食譜中，鹽更是一樣重要的食材。提示: 鋰雲母礦石及鋰輝石礦石是很好的鋰來源，可用於你的電池。
 
 #Quest_623.A big meteorite
-gtnh.quest623.name=A big meteorite
-gtnh.quest623.desc=The best way to get rare earth is to find an applied energistics 2 meteorite and grind the blocks into dust. Maybe you completed the quest in the steam age and stored your crushed skystone somewhere? That dust can now be centrifuged into various byproducts like cadmium, neodymium, caesium, lanthanum, and yttrium.
+gtnh.quest623.name=巨大的隕石(A big meteorite)
+gtnh.quest623.desc=最好的方式是找到隕石，電解兩個隕石並將之研磨成粉。也許在蒸汽時代完成了隕石任務，並留下了一些破碎的隕石？現在你可以離心那些粉末得到多種副產品如鎘、釹、鑭、銫，和釔。
 
 #Quest_624.Basic canner
-gtnh.quest624.name=Basic canner
-gtnh.quest624.desc=The canning machine is mainly used to fill tin cans with any kind of food, but it is useful for filling and emptying tin cells with other solid items than food, usually in the form of dust. It can also fill batteries with redstone, cadmium, lithium or sodium.
+gtnh.quest624.name=基礎裝罐機(Basic canner)
+gtnh.quest624.desc=裝罐機主要用來裝填任何食物到錫罐中。但也可用來裝填食物以外的東西到錫容器中，通常是粉狀物。也可以裝填紅石、鎘、鋰或鈉到電池中。 
 
 #Quest_625.Packing your chests and barrels
-gtnh.quest625.name=Packing your chests and barrels
-gtnh.quest625.desc=Packing your chests and barrels without spilling all the things (buildcraft(tm))? \nNo problem! Make a dolly and you can carry your full chests, barrels or storage drawers anywhere you want. But be warned, you will get a slowness debuff so hopefully you don't have to travel very far.
+gtnh.quest625.name=打包你的箱子(Packing your chests and barrels)
+gtnh.quest625.desc=打包箱子而不使物品散落滿地(buildcraft(tm))?沒問題!做台手推車你就可以帶著裝滿的箱子、桶子或儲存抽屜到任何地方去。但注意，你會得到緩速負面效果，希望你不是要去太遠的地方。
 
 #Quest_626.Portable mob spawners..? Cool!
-gtnh.quest626.name=Portable mob spawners..? Cool!
-gtnh.quest626.desc=Do you want to move the spawners around and build some cool mob farms? That will be no problem if you get the diamond dolly.
+gtnh.quest626.name=可攜式生怪磚..?酷!(Portable mob spawners..? Cool!)
+gtnh.quest626.desc=你想移動生怪磚，並建造一個怪物農場嗎？只要有鑽石手推車就辦得到。
 
 #Quest_627.Grain bait
-gtnh.quest627.name=Grain bait
-gtnh.quest627.desc=Crafting some nice grain bait for your animal trap.
+gtnh.quest627.name=穀物誘餌(Grain bait)
+gtnh.quest627.desc=為你的動物陷阱製作一些良好的穀物誘餌。Crafting some nice grain bait for your animal trap.
 
 #Quest_628.Fruit bait
-gtnh.quest628.name=Fruit bait
-gtnh.quest628.desc=Crafting some tasty fruit bait for your animal trap.
+gtnh.quest628.name=水果誘餌(Fruit bait)
+gtnh.quest628.desc=為你的動物陷阱製作一些美味的水果誘餌。Crafting some tasty fruit bait for your animal trap.
 
 #Quest_629.Veggie bait
-gtnh.quest629.name=Veggie bait
-gtnh.quest629.desc=Crafting some veggie bait for your animal trap.
+gtnh.quest629.name=蔬菜誘餌(Veggie bait)
+gtnh.quest629.desc=為你的動物陷阱製作一些蔬菜誘餌。Crafting some veggie bait for your animal trap.
 
 #Quest_630.Fish bait
-gtnh.quest630.name=Fish bait
-gtnh.quest630.desc=Crafting some fish bait for your fish trap.
+gtnh.quest630.name=魚類誘餌(Fish bait)
+gtnh.quest630.desc=為你的動物陷阱製作一些魚類誘餌。Crafting some fish bait for your fish trap.
 
 #Quest_631.Animal trapping
-gtnh.quest631.name=Animal trapping
-gtnh.quest631.desc=Tired of hunting for cows, zombies or sheep? You can build a trap and hope some animal or monster drops will be caught by the netting inside.
+gtnh.quest631.name=動物陷阱(Animal trapping)
+gtnh.quest631.desc=厭倦獵殺牛、殭屍和羊了嗎？你可以建造陷阱並期望動物或怪物會被內部的網子抓到。
 
 #Quest_632.A fisherman's friend
-gtnh.quest632.name=A fisherman's friend
-gtnh.quest632.desc=Have you ever tried to catch a fish with your bare hands? It's time to craft a fishing rod and get some fish the easy way. Cast your fishing rod in some water and wait until the bobber dips below the surface. Then reel back in your line and hopefully you caught yourself something nice.
+gtnh.quest632.name=釣魚伙伴(A fisherman's friend)
+gtnh.quest632.desc=你有試過空手抓魚嗎？是時候做根釣魚竿輕鬆釣魚了。在水面使用你的釣竿並等到浮標降到水下，然後收線並希望你抓到些好東西。
 
 #Quest_633.Fish trapping
-gtnh.quest633.name=Fish trapping
-gtnh.quest633.desc=Fishing can be very boring. Why not to automate it with a fish trap?
+gtnh.quest633.name=捕魚陷阱(Fish trapping)
+gtnh.quest633.desc=釣魚可能很無聊，何不用陷阱自動捕魚？
 
 #Quest_634.Wheat time
-gtnh.quest634.name=Wheat time
-gtnh.quest634.desc=It's time to plant some wheat to make some bread or to prepare grain bait for your animal traps.
+gtnh.quest634.name=小麥時刻(Wheat time)
+gtnh.quest634.desc=是時候種些小麥，用於動物陷阱中所需要的穀物誘餌。
 
 #Quest_635.Floury flurry
-gtnh.quest635.name=Floury flurry
-gtnh.quest635.desc=The first step in making bread is to macerate your wheat into flour with a mortar or a macerator.\n\nFlour can be used in many food recipes for different pam's harvestcraft foods.
+gtnh.quest635.name=麵粉(Floury flurry)
+gtnh.quest635.desc=做麵包的第一步是使用研缽或磨粉機磨碎小麥以取得麵粉。麵可以用於許多pam's harvestcraft foods的食譜中。
 
 #Quest_636.First handmade bread
-gtnh.quest636.name=First handmade bread
-gtnh.quest636.desc=Baking your dough in a Furnace makes some tasty bread.\nYour first bread!
+gtnh.quest636.name=第一個手作麵包(First handmade bread)
+gtnh.quest636.desc=在熔爐烘焙你的生麵團，做些好吃的麵包吧。你的第一個麵包！
 
 #Quest_637.Do'h!
-gtnh.quest637.name=Do'h!
-gtnh.quest637.desc=Water and flour makes a dough or two...\nDough can be used in many different food recipes from pam's harvestcraft.
+gtnh.quest637.name=生麵團(Do'h!)
+gtnh.quest637.desc=水跟麵粉可以製成生麵團。生麵團可以用於許多pam's harvestcraft foods的食譜中。
 
 #Quest_638.Tasty toast
-gtnh.quest638.name=Tasty toast
-gtnh.quest638.desc=Smelt your bread again and you get some toast!? Give's you more nutrition points, and unlocks more culinary potential!
+gtnh.quest638.name=美味土司(Tasty toast)
+gtnh.quest638.desc=在次烘焙你的麵包做成土司！？更加營養而且有更多烹飪的潛力！
 
 #Quest_639.Sulfuric naphtha
-gtnh.quest639.name=Sulfuric naphtha
-gtnh.quest639.desc=Another distillate you can make out of oil is sulfuric naphtha with a burn value of 40,000 EU per cell in the gas turbine.
+gtnh.quest639.name=硫化石腦油(Sulfuric naphtha)
+gtnh.quest639.desc=另一樣你可以從石油中蒸餾出的東西是硫化石腦油。在燃氣發電機中每單元有400,000EU的燃燒值。
 
 #Quest_640.LPG
-gtnh.quest640.name=LPG
-gtnh.quest640.desc=Centrifuging your refinery gas gives you LPG with a burn value of 320,000 EU, the same as naphtha. Also it is a way to get methane and eventually epichlorohydrin.
+gtnh.quest640.name=液化石油氣(LPG)
+gtnh.quest640.desc=離心煉油氣可以得到液化石油氣，其燃燒值為320,000EU，與石腦油相同。這也是另一個得到甲烷和環氧氯丙烷的方法。
 
 #Quest_641.Naphtha
-gtnh.quest641.name=Naphtha
-gtnh.quest641.desc=You can process sulfuric naphtha to fluid naphtha which has a burn value of 320,000 EU in the gas turbine.\nNaphtha is also a base product for polyethylene and polycaprolactam.
+gtnh.quest641.name=甲烷(Naphtha)
+gtnh.quest641.desc=你可以將硫化石腦油處理成石腦油。石腦油在燃氣發電機中有320,000EU的燃燒值。石腦油也是polyethylene和polycaprolactam的基礎原料。
 
 #Quest_642.Sulfuric gas
-gtnh.quest642.name=Sulfuric gas
-gtnh.quest642.desc=Another distillate for your gas turbine you can make out of oil is sulfuric gas with a burn value of 25,000 EU per cell.
+gtnh.quest642.name=硫酸氣體(Sulfuric gas)
+gtnh.quest642.desc=另一樣你可以從石油中蒸餾出來的燃氣是硫酸氣體，每單元燃燒值為25,000EU。Another distillate for your gas turbine you can make out of oil is sulfuric gas with a burn value of 25,000 EU per cell.
 
 #Quest_643.Refinery gas
-gtnh.quest643.name=Refinery gas
-gtnh.quest643.desc=Refine your gas in a chemical reactor with hydrogen gas to give it a better burn value of 160,000 EU, and maybe use it to make methane gas.
+gtnh.quest643.name=煉油氣(Refinery gas)
+gtnh.quest643.desc=在化學反應器中使用氫氣提煉你的硫酸氣體，可得到煉油氣。其有較佳的燃燒值160,000EU，也可以用來製作甲烷。
 
 #Quest_644.Methane
-gtnh.quest644.name=Methane
-gtnh.quest644.desc=Distilling some "refinery gases" gives you some methane gas. There are many more ways to get methane.
+gtnh.quest644.name=甲烷(Methane)
+gtnh.quest644.desc=蒸餾某些精煉氣體，可以得到甲烷，有許多方法可以得到甲烷。
 
 #Quest_645.Glider wings
 gtnh.quest645.name=Glider wings
