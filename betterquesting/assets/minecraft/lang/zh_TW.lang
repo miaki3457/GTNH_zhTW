@@ -3,12 +3,15 @@
 #Quest_0.Your first night
 gtnh.quest0.name=第一個夜晚 (Your first night)
 gtnh.quest0.desc=你的首要任務是尋找食物，並為夜晚提供避難所。夜晚將是殘酷的，因為這個模組包擁有困難版的黑暗環境。現在收集一些食物可能是一個好主意...​ 
+
 #Quest_1.Where is the flint?
 gtnh.quest1.name=燧石在哪兒？ (Where is the flint?)
 gtnh.quest1.desc=你可能已經注意到了，當你收集礫石的時候，沒有一塊燧石掉落......好吧，這裡有一個......配方。查閱NEI中燧石的配方，並且做一些出來！ 
+
 #Quest_2.Sticks 'n Stones
 gtnh.quest2.name=棍與石頭(Sticks 'n Stones)
 gtnh.quest2.desc=你真幸運！這本書有內建閱讀燈光。你可能會在等待夜晚結束時閱讀這篇文章。一旦你離開了你的避難所，去收集一些礫石和木材。記住，你需要食物。去尋找潘馬斯的菜園（並保存一些種子！）。 
+
 #Quest_3.Storage for days
 gtnh.quest3.name=儲存之日	(Storage for days)
 gtnh.quest3.desc=現在你有了3×3的工作台，該為你的物品準備一些存儲空間了！用你的一些木頭來做一個箱子，你將需要4個原木，4塊木材和一個燧石。
