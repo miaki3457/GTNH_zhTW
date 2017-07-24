@@ -1,0 +1,17 @@
+﻿#zh_TW
+
+mud.name=模組更新檢查
+message.checking=檢查模組的更新版本
+message.check.done=檢查完畢
+message.you.have.outdated=你有 %s 過期模組
+message.type.to.view=使用指令流覽過期模組
+message.up.to.date=所有模組已經更新完畢
+
+button.download.latest=下載最新版本
+gui.downloading=下載中
+button.ok=確定
+button.url=打開模組頁面
+gui.download.complete=下載成功
+gui.download.failed=下載失敗
+gui.restart=請重啟minecraft
+gui.md5.fail=過期或無效頁面
