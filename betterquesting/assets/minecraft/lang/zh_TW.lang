@@ -2473,12 +2473,12 @@ gtnh.quest617.name=液體灌裝機(Fluid canner)
 gtnh.quest617.desc=液體灌裝機是基礎機器，可用於運送一些液體，並可用來裝填空單元、玻璃罐、水桶，甚至是電池。另一件趣事是，液體灌裝機可以當水塔用，只要在上面覆蓋吸取板(所有的機器其實都可以...)。
 
 #Quest_618.Sulfuric acid
-gtnh.quest618.name=Sulfuric acid
-gtnh.quest618.desc=Combining hydrogen sulfide and water in the chemical reactor will give you sulfuric acid for your single use acid batteries. If you have made some light or heavy fuel already maybe you have some spare hydrogen sulfide. If not, you can always make sulfuric acid with some sulfur and water in the chemical reactor.
+gtnh.quest618.name=硫酸(Sulfuric acid)
+gtnh.quest618.desc=用化學反應器混合硫化氫跟水，可以得到硫酸以用在一次性電池中。如果你有製做了一些輕質燃料或重質燃料，你也許有剩下些硫化氫。如果沒有，可以在化學反應器中使用硫粉跟水來製做硫酸。
 
 #Quest_619.Battery buffer
-gtnh.quest619.name=Battery buffer
-gtnh.quest619.desc=Batteries can be placed directly in machines. To recharge a battery you need a battery buffer. They come in different sizes: 1, 4, 9 and 16 slots.
+gtnh.quest619.name=電池盒(Battery buffer)
+gtnh.quest619.desc=電池可以直接裝在機器中。而你需要電池盒來為電池充電，有1、4、9、16槽可以選擇。
 
 #Quest_620.IC2 Battery
 gtnh.quest620.name=IC2電池(IC2 Battery)
