@@ -10,7 +10,7 @@ gtnh.quest1.desc=你可能已經注意到了，當你收集礫石的時候，沒
 gtnh.quest2.name=棍與石頭(Sticks 'n Stones)
 gtnh.quest2.desc=你真幸運！這本書有內建閱讀燈光。你可能會在等待夜晚結束時閱讀這篇文章。一旦你離開了你的避難所，去收集一些礫石和木材。記住，你需要食物。去尋找潘馬斯的菜園（並保存一些種子！）。 
 #Quest_3.Storage for days
-gtnh.quest3.name=儲存之日(Storage for days)
+gtnh.quest3.name=儲存之日	(Storage for days)
 gtnh.quest3.desc=現在你有了3×3的工作台，該為你的物品準備一些存儲空間了！用你的一些木頭來做一個箱子，你將需要4個原木，4塊木材和一個燧石。
 
 #Quest_4.Crafting time
