@@ -2405,35 +2405,35 @@ gtnh.quest600.name=不再饑餓(Hunger, no more)
 gtnh.quest600.desc=饑餓問題一直跟隨著你，消耗你的精力，從不讓你休息。這世界充滿各種營養的水果、蔬菜、各種餐點。靠這些解決你永不滿足的饑渴吧。
 
 #Quest_601.Building made easy
-gtnh.quest601.name=Building made easy
-gtnh.quest601.desc=Placing blocks by hand can be tedious. Wouldn't it be nice to be able to place blocks like "Another 9 here"? Well, good news. Get yourself some of the various building blocks, and I shall reward you with something nice.
+gtnh.quest601.name=輕鬆建築(Building made easy)
+gtnh.quest601.desc=手動放置方塊有時非常單調乏味。如果能一次放九個不是很好嗎？好消息，準備好下列各種建築方塊，然後我會給你些好東西。
 
 #Quest_602.Spatial distortions
-gtnh.quest602.name=Spatial distortions
-gtnh.quest602.desc=You detected a weird disturbance in the air around an enderman, I suggest you try to steal some of their pearls and research them.
+gtnh.quest602.name=空間扭曲(Spatial distortions)
+gtnh.quest602.desc=在終界使者附近，你感到空氣有種奇怪的擾動。建議你偷些他們的終界珍珠來研究。
 
 #Quest_603.Dimensional chest
-gtnh.quest603.name=Dimensional chest
-gtnh.quest603.desc=You've heard rumors, that the endermen had build laboratories in the End. To invent new machines and weapons in order to attack the Overworld. One of their inventions is a chest, which is somehow linked to all instances of itself. Go and try to find one of those.
+gtnh.quest603.name=次元箱(Dimensional chest)
+gtnh.quest603.desc=謠言說，終界使者在終界蓋了研究室。在那他們開發武器跟機器，準備進攻主世界。其中一項發明是一種箱子，不知為何，終界箱的所有實體都相連。試著找出一個終界箱。
 
 #Quest_604.A new dimension
-gtnh.quest604.name=A new dimension
-gtnh.quest604.desc=Your investigation into the pearls has shown you that the source of the disturbance seems to be coming out of the shimmering portals inside Strongholds. You feel strangely drawn into its mysterious depths.
+gtnh.quest604.name=新次元(A new dimension)
+gtnh.quest604.desc=通過研究終界珍珠，你發現擾動的源頭似乎是要塞中閃爍的傳送門。你從那神秘的深淵中感到奇怪的拉力。
 
 #Quest_605.Slay the Eyes!
-gtnh.quest605.name=Slay the Eyes!
-gtnh.quest605.desc=Find and kill Ender-Eyes, guarding the Defence Towers
+gtnh.quest605.name=消滅眼睛(Slay the Eyes!)
+gtnh.quest605.desc=找到並殺死終界之眼，保護防禦塔。
 
 #Quest_606.Ender Guardians
-gtnh.quest606.name=Ender Guardians
-gtnh.quest606.desc=Well if you decided to grind then do it... Kill some of the guardians.
+gtnh.quest606.name=終界守護者(Ender Guardians)
+gtnh.quest606.desc=如果你打算要農的話...獵殺一些終界守護者。
 
 #Quest_607.Slay the Dragon. (Again)
-gtnh.quest607.name=Slay the Dragon. (Again)
-gtnh.quest607.desc=If you're bored, you can resurrect the dragon. Or, you could find a chaos dragon, if you dare. Anyway, kill one of those, and you'll be well rewarded.
+gtnh.quest607.name=消滅終界龍(再一次)(Slay the Dragon. (Again))
+gtnh.quest607.desc=如果你感到無聊，可以復活終界龍。或者你敢的話，可以找到一隻混沌龍。不管怎樣，殺了其中一隻，你會得到豐厚的獎賞。
 
 #Quest_608.A lead about lead that leads to lead dust
-gtnh.quest608.name=鉛(A lead about lead that leads to lead dust)
+gtnh.quest608.name=鉛新萬苦找到鉛(A lead about lead that leads to lead dust)
 gtnh.quest608.desc=做電池的下意步是收集鉛。鉛跟方鉛礦可以在暮光森林找到。 
 
 #Quest_609.Battery alloy
