@@ -2581,40 +2581,40 @@ gtnh.quest644.name=甲烷(Methane)
 gtnh.quest644.desc=蒸餾某些精煉氣體，可以得到甲烷，有許多方法可以得到甲烷。
 
 #Quest_645.Glider wings
-gtnh.quest645.name=Glider wings
-gtnh.quest645.desc=If for some reason you want to be able to jump down a cliff without getting the message "Player X fell from a high place". A great idea would be to find a way to soften your landing first. The hang glider should do that just fine.
+gtnh.quest645.name=滑翔翼(Glider wings)
+gtnh.quest645.desc=如果你想跳下懸崖，而不出現某某玩家從高處跌落的訊息，找個辦法緩和你的降落是個好主意。滑翔翼可以做到這點。
 
 #Quest_646.Electrotine battery
-gtnh.quest646.name=Electrotine battery
-gtnh.quest646.desc=The electrotine battery is exclusively used in project red machines and the jetpack.\nElectrotine is a mixture of redstone and electrum dust.
+gtnh.quest646.name=空電池(藍石)(Electrotine battery)
+gtnh.quest646.desc=空電池這種藍石電池專門用於project red的機器跟噴氣背包中。藍石粉由紅石跟琥珀金粉混合而成。
 
 #Quest_647.Electrotine jetpack
-gtnh.quest647.name=Electrotine jetpack
-gtnh.quest647.desc=Your glider gets you to the ground safely but it does not have any method to get up. After you researched electrotine you discovered that it is powerful enough for your first jetpack.\nA diamond chestplate surrounded with 4 electrotine batteries is powerful enough to bring you up in the air.\n\nIt does not have a hover mode so you better take your glider with you. \n\nHint: This jetpack can't fly higher than Y level 128.
+gtnh.quest647.name=噴氣背包(Electrotine jetpack)
+gtnh.quest647.desc=滑翔翼讓你可以安全降落，但沒辦法讓你往上飛。研究藍石後，你發現他的能量足夠讓你做出第一個噴氣背包。一個鑽石胸甲加上四個空電池，就足夠讓你飛上天。但它並沒有盤旋模式，所以最好帶著你的滑翔翼。提示:這個噴氣背包無法飛超過Y 128。
 
 #Quest_648.Refill your jetpack
-gtnh.quest648.name=Refill your jetpack
-gtnh.quest648.desc=GREAT.... you now have an empty jetpack.\nYou need 25 electrotine dust to completely fill it.\nLet's craft an electrotine generator and a charging bench to use the power of electrotine. \nYou will very quickly discover that, while it is fast and cheap, it's empty in the blink of an eye. Despite this, it is useful in combination with the hang glider to get into the air and to get away from hairy situations.
+gtnh.quest648.name=裝填噴氣背包(Refill your jetpack)
+gtnh.quest648.desc=好極了...你現在有一個空的噴氣背包。你需要25個藍石粉來完全裝滿它。製作藍石發電機跟充電台以便使用藍石的能量。你馬上就會發現，雖然充電又快又便宜，但是在眨眼間就用盡了。儘管如此，配合滑翔翼可以讓你飛上空中，逃離一些困境。
 
 #Quest_649.Coal steam jetpack
-gtnh.quest649.name=Coal steam jetpack
-gtnh.quest649.desc=Your coal jetpack needs coal and water to produce steam. After a short warm-up period you can go and take it for a ride. Keep in mind you will need your glider to make a soft landing.\n\nPut your jetpack on your back and hit Shift and the adventure backpacks action-key to start it.\n\nMax flying height for these jetpacks is the Y level of 185.\n\nVertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.
+gtnh.quest649.name=燃煤蒸氣噴氣背包(Coal steam jetpack)未確認
+gtnh.quest649.desc=你的coal jetpack需要水跟炭來製造蒸氣。在短暫的暖機之後，就可以起飛了。記住你需要滑翔翼來安全的降落。將蒸氣背包裝在你的背上，並按shift以及探險背包動作鍵來啟動它。這種噴氣背包的最大飛行高度是Y 185。垂直速度在超過理想高度後，會線性降低。噴氣背包的理想高度是135，直升機的理想高度是100。
 
 #Quest_650.Copter jetpack
-gtnh.quest650.name=Copter jetpack
-gtnh.quest650.desc=The copter jetpack is the first jetpack with a hover mode. It is using all kind of different fuel types in buckets. \nBuckets of creosote, lava, oil and fuel will work.\nEquip your jetpack and hit Shift and the adventure backpacks action-key. You can also switch between hover and normal mode.\n\nMax flying height is limited to Y level 200. \n\nVertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.
+gtnh.quest650.name=直升機噴氣背包(Copter jetpack)未確認
+gtnh.quest650.desc=copter jetpack是第一個有盤旋模式的噴氣背包。它可以使用所有桶裝的燃料。桶裝雜酚油、岩漿、石油，或燃料都可以。裝備你的噴氣背包，按shift以及探險背包動作鍵來啟動它。你可以在正常模式跟盤旋模式間切換。最大飛行高度是Y 200。垂直速度在超過理想高度後，會線性降低。噴氣背包的理想高度是135，直升機的理想高度是100。
 
 #Quest_651.Electric jetpack
-gtnh.quest651.name=Electric jetpack
-gtnh.quest651.desc=Your first electrical jetpack. You need to hit the IC2 mode-switch key to toggle between normal mode and hover mode.\n\nThe only limitation is that you can't fly higher than Y level 185.
+gtnh.quest651.name=電動噴氣背包(Electric jetpack)
+gtnh.quest651.desc=你的第一個電動噴氣背包。你需要按IC2的切換模式鍵來切換飛行模式。唯一的限制是不能飛超過Y 185。
 
 #Quest_652.Fueled jetpack
-gtnh.quest652.name=Fueled jetpack
-gtnh.quest652.desc=This jetpack uses IC2 biogas and can fly up to Y level 245.\nYou can switch between hover and normal mode using the IC2 mode-switch key.\n\nYour jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.
+gtnh.quest652.name=燃氣噴氣背包(Fueled jetpack)未確認
+gtnh.quest652.desc=這個噴氣背包使用IC2的biogas，最高可飛到Y 245。你需要使用IC2的切換模式鍵來切換飛行模式。你的噴氣背包可以在IC2裝罐機中裝填燃料，共需30桶的biogas。
 
 #Quest_653.Advanced electric jetpack
-gtnh.quest653.name=Advanced electric jetpack
-gtnh.quest653.desc=The advanced electric jetpack is an upgraded version of the electric jetpack.\nWhile worn in the chest armor slot and charged with EU, it allows the player to fly. It provides no armor protection, but will charge tools being used in the same manner as the advanced lappack from its 3.000.000 EU internal storage.\n\nThe advanced electric jetpack is limited to a maximum flying height of Y level 256.
+gtnh.quest653.name=進階電力噴氣背包(Advanced electric jetpack)
+gtnh.quest653.desc=進階電力噴氣背包是電動噴氣背包的升級版。可以裝備在胸甲部位，當充滿EU電力時，可以飛行。它並沒有任何保護功能，但其內部儲存的3,000,000 EU電力可以為你的工具充電，如同進階電池背包一樣運作。進階噴氣背包的最大飛行高度是Y 256。
 
 #Quest_654.Advanced nano chestplate
 gtnh.quest654.name=Advanced nano chestplate
