@@ -181,8 +181,8 @@ gtnh.quest44.name=歡迎來到第一階段
 gtnh.quest44.desc=歡迎，到目前為止做得好！在這個階段你將擁有你的第一部機器、獲得更多礦物產品，並且更有效率的製作銅錠。
 
 #Quest_45.Multiblock tanks... Railcraft tanks
-gtnh.quest45.name=多方塊結構水塔...Railcraft水塔 (Multiblock tanks... Railcraft tanks)
-gtnh.quest45.desc=576桶的容量，這應該夠你儲存你截至目前為止所獲得的雜酚油了吧！如果不夠的話，你可以讓這個水塔更大！最小的水塔大小是 3 x 3 x 4 ，而最大的則是 9 x 9 x 8。（提示：如果你把閥門放在水槽底部的話，裡頭的東西即使沒有任何幫浦也會自動流出。）
+gtnh.quest45.name=多方塊結構水塔...Railcraft蓄水槽 (Multiblock tanks... Railcraft tanks)
+gtnh.quest45.desc=576桶的容量，這應該夠你儲存你截至目前為止所獲得的雜酚油了吧！如果不夠的話，你可以讓這個蓄水槽更大！最小的蓄水槽大小是 3 x 3 x 4 ，而最大的則是 9 x 9 x 8。（提示：如果你把閥門放在水槽底部的話，裡頭的東西即使沒有任何幫浦也會自動流出。）
 
 #Quest_46.More advanced alloys
 gtnh.quest46.name=更多高級合金 (More advanced alloys)
@@ -301,8 +301,8 @@ gtnh.quest74.name=You are not prepared!!!
 gtnh.quest74.desc=It's time for something really big: A smeltery! There's a lot to craft, so better gather some resources...
 
 #Quest_75.The water dilemma
-gtnh.quest75.name=The water dilemma
-gtnh.quest75.desc=Finite water is a problem. But fear not, there are solutions! I shall guide you to a steady supply of water.
+gtnh.quest75.name=缺水危機 (The water dilemma)
+gtnh.quest75.desc=有限的水源是一個問題，但不要害怕。我會引導你如何擁有穩定的水源。
 
 #Quest_76.Time to get some steel
 gtnh.quest76.name=Time to get some steel
@@ -3485,108 +3485,108 @@ gtnh.quest871.name=Molds, molds, molds
 gtnh.quest871.desc=After you can make steel and have a tinkers smelter you have to make molds. Molds can be use in the alloy smelter and the fluid solidifier.  You need them to make vacuum tubes, ingots, gears and more.
 
 #Quest_900.Don't look it in the eyes!
-gtnh.quest900.name=Don't look it in the eyes!
-gtnh.quest900.desc=Bad things may happen if this creature is allowed to stay alive. The ores in its cave are valuable anyway.
+gtnh.quest900.name=不要看他的眼睛！ (Don't look it in the eyes!)
+gtnh.quest900.desc=如果讓這生物活著可能會壞事。然而洞穴中的礦石也是有價值的。
 
 #Quest_901.I don't even...
-gtnh.quest901.name=I don't even...
-gtnh.quest901.desc=Ok so there is this maze. And there are... minotaurs. But what in the world is a minoshroom?
+gtnh.quest901.name=我甚至不... (I don't even...)
+gtnh.quest901.desc=OK，這是個迷宮。還有，那是...牛頭人戰士。但彌諾陶洛斯到底是啥！？
 
 #Quest_902.A big ugly snake
-gtnh.quest902.name=A big ugly snake
-gtnh.quest902.desc=Required for your first wand and in general, an ugly creature.
+gtnh.quest902.name=大醜蛇 (A big ugly snake)
+gtnh.quest902.desc=一般來說，製作你第一根魔杖需要一個醜陋的生物。
 
 #Quest_903.Adventure time!
-gtnh.quest903.name=Adventure time!
-gtnh.quest903.desc=Stop him before he makes his wish at Prismos'!
+gtnh.quest903.name=冒險時間！ (Adventure time!)
+gtnh.quest903.desc=在他在剩蛋節許願之前阻止他！
 
 #Quest_904.Who you're gonna call?
-gtnh.quest904.name=Who you're gonna call?
-gtnh.quest904.desc=Phantom Busters! Or wait... Ah whatever. They drop good armor by the way.
+gtnh.quest904.name=你會打電話給誰？ (Who you're gonna call?)
+gtnh.quest904.desc=幻影剋星！噢，等等…哎，管他的。啊，他們還掉了些好盔甲。
 
 #Quest_905.The big fluffy crybaby
-gtnh.quest905.name=The big fluffy crybaby
-gtnh.quest905.desc=It flies, it makes funny sounds, and .. IT'S SO FLUFFY! Well, kill it.
+gtnh.quest905.name=巨大又毛絨絨的愛哭鬼 (The big fluffy crybaby)
+gtnh.quest905.desc=它會飛，也會製造一些很好笑的聲音，還有--他毛絨絨的！好吧，宰了他。
 
 #Quest_906.Let her go
-gtnh.quest906.name=Let her go
-gtnh.quest906.desc=It seems the cold doesn't bother her. Committed crimes: None. But... you know... you have to progress somehow...
+gtnh.quest906.name=冰雪奇緣 (Let her go)
+gtnh.quest906.desc=寒冷未曾困擾她。犯罪事實：無。但你知道的，劇情總要走下去嘛…
 
 #Quest_907.Yeti. Alpha, Yeti.
-gtnh.quest907.name=Yeti. Alpha, Yeti.
-gtnh.quest907.desc=Wanted: Alpha Yeti. Death. Committed crimes: Violently throwing ice at people, for no reason.
+gtnh.quest907.name=雪怪。阿爾法，雪怪。 (Yeti. Alpha, Yeti.)
+gtnh.quest907.desc=通緝：殺死阿爾法雪怪。犯罪行為：毫無理由暴力的向人們投擲冰塊。
 
 #Quest_908.Secret: A nice....
-gtnh.quest908.name=Secret: A nice....
-gtnh.quest908.desc=Hey, you! I want that lamp. I have something for you in return. You don't need it anyways, do you?
+gtnh.quest908.name=秘密：一個很好的... (Secret: A nice...)
+gtnh.quest908.desc=嘿，你！ 我想要那盞燈。我有一些東西給你作為回報。 反正你不需要它，是吧？
 
 #Quest_909.Time to kill (Creeper)
-gtnh.quest909.name=Time to kill (Creeper)
-gtnh.quest909.desc=Who hasn't experienced this... You think nothing evil, mine a few diamonds, and suddenly, you wake up in your bed, all your items gone. Time to strike back!
+gtnh.quest909.name=殺戮時刻(爬行者) Time to kill (Creeper)
+gtnh.quest909.desc=那些沒有經歷過的人...你無法想像那是怎樣的邪惡，挖了幾個鑽石，你就突然在床上醒來，所有物品都沒了，是時候反擊了！
 
 #Quest_910.Time to kill (Pigman)
-gtnh.quest910.name=Time to kill (Pigman)
-gtnh.quest910.desc="Zombie Pigman"? What the hell is going on with you zombies! Maybe you should encase your animals better at night...
+gtnh.quest910.name=殺戮時刻！(豬人) Time to kill (Pigman)
+gtnh.quest910.desc="殭屍豬人"？那些殭屍在搞什麼鬼？！也許晚上你必須把你的動物關好...
 
 #Quest_911.Time to kill (Spiders)
-gtnh.quest911.name=Time to kill (Spiders)
-gtnh.quest911.desc=Eeeek! Wall climbing monsters, gross! Slay them. Quickly!
+gtnh.quest911.name=殺戮時刻！(蜘蛛) Time to kill (Spiders)
+gtnh.quest911.desc=咿咿咿！會爬牆的怪物，還毛茸茸的！殺了他們！快一點！
 
 #Quest_912.Time to kill (Skeleton)
-gtnh.quest912.name=Time to kill (Skeleton)
-gtnh.quest912.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen. \n\nHint: Arrows are an excellent source of telum.
+gtnh.quest912.name=殺戮時刻！(骷髏弓箭手) Time to kill (Skeleton)
+gtnh.quest912.desc=當你拿來射人的時候，箭矢棒棒的，但當你是被射的那個的時候，就不是什麼好東西了。（提示：箭矢是一個絕佳的武器來源！）
 
 #Quest_913.Time to kill (Blaze)
-gtnh.quest913.name=Time to kill (Blaze)
-gtnh.quest913.desc=You should be careful with this task. Fire protection is highly recommended.
+gtnh.quest913.name=殺戮時刻！(烈焰使者) Time to kill (Blaze)
+gtnh.quest913.desc=你應該小心這個任務，強烈推薦火焰防護。
 
 #Quest_914.Time to kill (Zombie)
-gtnh.quest914.name=Time to kill (Zombie)
-gtnh.quest914.desc=Nobody knows who they are, or where they came from. They're just annoying at night, and too stupid to make a crafting table.
+gtnh.quest914.name=殺戮時刻！(殭屍) Time to kill (Zombie)
+gtnh.quest914.desc=沒人知道他們是誰，或是來自哪裡。他們就是晚上很吵，而且蠢到連工作台都做不出來。
 
 #Quest_915.Time to kill (Enderman)
-gtnh.quest915.name=Time to kill (Enderman)
-gtnh.quest915.desc=Uh, fancy teleport pearls. You need them. All of them. Now!
+gtnh.quest915.name=殺戮時刻！(終界使者) Time to kill (Enderman)
+gtnh.quest915.desc=呃，花俏的傳送珍珠。你需要他們。全部！現在！
 
 #Quest_916.Time to kill (Wither)
-gtnh.quest916.name=Time to kill (Wither)
-gtnh.quest916.desc=After collecting a couple of those wither skeleton heads, you feel like you could need some more action. So why not kill a wither? You'll need a ton of nether stars anyway...
+gtnh.quest916.name=殺戮時刻！(凋零怪) Time to kill (Wither)
+gtnh.quest916.desc=收集了幾個凋零骷髏頭之後，你覺得你應該需要再多做點事--那為什麼不殺一個凋零怪？不管怎樣，你都需要一大堆地獄之星...
 
 #Quest_917.Secret: The trade for life
-gtnh.quest917.name=Secret: The trade for life
-gtnh.quest917.desc=You have been busy my friend. I have something for you. Give me your hearts, and I will magically enhance them so you can actually use those.
+gtnh.quest917.name=秘密：為了生命的買賣 (Secret: The trade for life)
+gtnh.quest917.desc=兄弟，你肯定很忙吧，我這有些東西給你！給我你的心，我會讓他們神奇地增強改善，讓你可以更確實地使用它們。
 
 #Quest_918.Skeleton: Evolved
-gtnh.quest918.name=Skeleton: Evolved
-gtnh.quest918.desc=In order to advance to a higher tier and reach Mars, Deimos and Phobos, you need to make yourself a better rocket. There are rumors, that an evolved skeleton has schematics of such a device.
+gtnh.quest918.name=骷髏☆進化 (Skeleton: Evolved)
+gtnh.quest918.desc=為了邁向更高的級別，並且登陸火星、火衛一，還有火衛二，你需要讓自己有個更強的火箭。聽說，有一隻進化的骷髏握有這種設備的藍圖。
 
 #Quest_919.Creeper: Evolved
-gtnh.quest919.name=Creeper: Evolved
-gtnh.quest919.desc=Not that regular creepers are nasty enough, no. There is an evolved creeper boss! He is your key (Well he HAS a key...) to reach the next tier of planets (Asteroid Belt, Ceres, Io, Europa, Ganymede, Callisto).
+gtnh.quest919.name=爬行者☆進化 (Creeper: Evolved)
+gtnh.quest919.desc=不，這種普通的爬行者還不夠讓人討厭，完全不夠。那裡有隻進化的爬行者老大！它就是那把能讓你登上另一個星球的鑰匙（呃，它的確也有一把鑰匙…）！（小行星帶、一號小行星、木衛一、木衛二、木衛三、木衛四）
 
 #Quest_920.Blaze: Evolved
-gtnh.quest920.name=Blaze: Evolved
-gtnh.quest920.desc=In order to proceed to Tier 4 Planets, the blaze boss needs to be killed. Find him in one of the dungeons on Ceres.
+gtnh.quest920.name=烈焰使者☆進化 (Blaze: Evolved)
+gtnh.quest920.desc=為了邁向第四階段的行星，必須殺了烈焰使者老大！他就在一號小行星的其中一個地牢裡！
 
 #Quest_921.Ghast: Evolved
-gtnh.quest921.name=Ghast: Evolved
-gtnh.quest921.desc=Fluffy, fluffier, ghasts! And also big crybabies. This one hides in a dungeon on IO, and holds the key for Tier 5 planets.
+gtnh.quest921.name=地獄幽靈☆進化 (Ghast: Evolved)
+gtnh.quest921.desc=毛絨絨，更多的毛絨絨，地獄幽靈！那還有一個巨大的愛哭鬼。這傢伙躲在木衛一的地牢裡，得到那把鑰匙，好讓你能前往第五階段的行星。
 
 #Quest_922.Crystal Boss: Ayyy.. Wait, what?
-gtnh.quest922.name=Crystal Boss: Ayyy.. Wait, what?
-gtnh.quest922.desc=Seriously, a crystal boss? Anyway, it's your key to Tier 6 planets, and he lurks around on Enceladus.
+gtnh.quest922.name=水晶之王：啊咿...等等，什麼？ (Crystal Boss: Ayyy.. Wait, what?)
+gtnh.quest922.desc=不是跟我開玩笑吧，一隻水晶之王？不管怎樣，它是你前往第六階段行星的關鍵，它躲在土衛二附近。
 
 #Quest_923.Slime: Evolved
-gtnh.quest923.name=Slime: Evolved
-gtnh.quest923.desc=Totally looks like a thaumic slime to me. Don't you think so? Find this dude on Proteus.
+gtnh.quest923.name=史萊姆☆進化 (Slime: Evolved)
+gtnh.quest923.desc=在我看來它長得跟神秘史萊姆沒兩樣，你不這麼覺得嗎？在海衛八找到這位老兄。
 
 #Quest_924.Wolf:Evolved
-gtnh.quest924.name=Wolf:Evolved
-gtnh.quest924.desc=The final frontier... A... wolf that is not even an Iron Maiden fan?... What did you expect, a super boss? Heh. No. Budget was too tight...
+gtnh.quest924.name=狼☆進化 (Wolf:Evolved)
+gtnh.quest924.desc=最後的區域…一隻…狼…它甚至不是鐵娘子樂團的粉絲欸？你在期待什麼？一個超強王怪？呵呵，想太多。預算有限好嗎。
 
 #Quest_925.Technology: Evolved
-gtnh.quest925.name=Technology: Evolved
-gtnh.quest925.desc=You beat the game, literally. There is nothing left to do, you might want to try real life... But one thing might be interesting for you. You know, just for the phuns. Select one of the totally OP items here.
+gtnh.quest925.name=科技☆進化 (Technology: Evolved)
+gtnh.quest925.desc=你破關了，真的。這裡沒事做了，你該去試試三次元的人生了……不過有件事情你應該會感興趣。你知道得～純粹好玩嘛。選個神器吧。
 
 ##################################Line##################################
 
