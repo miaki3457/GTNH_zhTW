@@ -9,7 +9,7 @@ gtnh.quest1.name=燧石在哪兒？ (Where is the flint?)
 gtnh.quest1.desc=你可能已經注意到了，當你收集礫石的時候，沒有一塊燧石掉落......好吧，這裡有一個......配方。查閱NEI中燧石的配方，並且做一些出來！ 
 
 #Quest_2.Sticks 'n Stones
-gtnh.quest2.name=棍與石頭(Sticks 'n Stones)
+gtnh.quest2.name=棍與石頭 (Sticks 'n Stones)
 gtnh.quest2.desc=你真幸運！這本書有內建閱讀燈光。你可能會在等待夜晚結束時閱讀這篇文章。一旦你離開了你的避難所，去收集一些礫石和木材。記住，你需要食物。去尋找潘馬斯的菜園（並保存一些種子！）。 
 
 #Quest_3.Storage for days
@@ -17,96 +17,96 @@ gtnh.quest3.name=儲存之日	(Storage for days)
 gtnh.quest3.desc=現在你有了3×3的工作台，該為你的物品準備一些存儲空間了！用你的一些木頭來做一個箱子，你將需要4個原木，4塊木材和一個燧石。
 
 #Quest_4.Crafting time
-gtnh.quest4.name=製作時間(Crafting time)
+gtnh.quest4.name=製作時間 (Crafting time)
 gtnh.quest4.desc=是時候解鎖3x3的工作台了。拿一些燧石和原木，製造一個!
  
 #Quest_5.Tools
-gtnh.quest5.name=Tools
-gtnh.quest5.desc=Now that you've got a shelter, crafting table, and a place to store your items, you should make some tools. (Unless you'd like to continue punching trees with your bare hand...)
+gtnh.quest5.name=基本工具 (Tools)
+gtnh.quest5.desc=現在你有一個避難所、工作台和一個儲存你物品的地方。你應該開始做一些基本工具了。(除非你想繼續空手撸樹...)
 
 #Quest_6.You reap...
-gtnh.quest6.name=You reap...
-gtnh.quest6.desc=You won't always get food rewards from this book, so it might be a good idea to take care of that problem. As you've created a hoe already, go and find some water nearby and make a field. Let's trade some sticks for a carrot, so you can start your own farm.
+gtnh.quest6.name=要怎麼收穫... (You reap...)
+gtnh.quest6.desc=你不會總是從這本書獲得食物獎勵，想辦法處理這個問題。當你製作了一個鋤頭，去附近找點水源建造一塊農田吧！讓我們用木棍換一些胡蘿蔔，這樣你就可以建造你的農場了。
 
 #Quest_7....what you sow
-gtnh.quest7.name=...what you sow
-gtnh.quest7.desc=If you, by chance, did read the previous quest and planted the carrot I gave you, then you're fine. Meanwhile, you should turn some more fruits and vegetables into seeds, and increase the size of your farm to get a steady supply of food.
+gtnh.quest7.name=...先怎麼栽 (...what you sow)
+gtnh.quest7.desc=如果你讀了以前的任務並種下了胡蘿蔔，那你好棒棒。同時，你應該把更多的水果和蔬菜做成種子種植到你的農田，直到你有穩定的食物來源。
 
 #Quest_8.Get that stone
-gtnh.quest8.name=Get that stone
-gtnh.quest8.desc=Look at you, with your shiny flint pickaxe! Time to mine some cobblestone. Yay! (And maybe you can improve this dirt-hut too...)
+gtnh.quest8.name=得到石頭 (Get that stone)
+gtnh.quest8.desc=看看你和你閃亮的燧石鎬！是時候挖出一些鵝卵石了，耶！(也許你還可以改善這個泥土小屋...)
 
 #Quest_9.Fire, fire, Grandpa!
-gtnh.quest9.name=Fire, fire, Grandpa!
-gtnh.quest9.desc=Time to burn some stuff, isn't it? You can't make charcoal in it, but you sure will find some usage for it soon(tm).
+gtnh.quest9.name=火、火、阿公！ (Fire, fire, Grandpa!)
+gtnh.quest9.desc=該燒一些木料了不是嗎？雖然你不能在熔爐中燒製木炭，但你肯定很快就會找到它的方法。
 
 #Quest_10.Rest in pieces
-gtnh.quest10.name=Rest in pieces
-gtnh.quest10.desc=It's GLOPPing time! Go kill some pigs to gather meat. (And yes, they will drop cooked porkchops. Now isn't that useful...)
+gtnh.quest10.name=息止安所 (Rest in pieces)
+gtnh.quest10.desc=狩獵時間！去殺一些豬來取得肉。(牠們會掉下熟豬肉，現在不是那麼的有用...)
 
 #Quest_11.Sharpness: Over... 5...
-gtnh.quest11.name=Sharpness: Over... 5...
-gtnh.quest11.desc=It's about time to craft something more useful: A sword!
+gtnh.quest11.name=銳度:超過...5... (Sharpness: Over... 5...)
+gtnh.quest11.desc=該做些有用的東西了︰一把劍！
 
 #Quest_12.Fluffy and red
-gtnh.quest12.name=Fluffy and red
-gtnh.quest12.desc=Epic quest: Kill some sheep! (And try to get some wool, for a bed, obviously...)
+gtnh.quest12.name=毛茸茸紅通通 (Fluffy and red)
+gtnh.quest12.desc=史詩任務︰屠殺綿羊！(順便試著撿些羊毛，不用我說你也知道那可以用來做成床吧。)
 
 #Quest_13.SO...TIRED...MUST...SLEEP...
-gtnh.quest13.name=SO...TIRED...MUST...SLEEP...
-gtnh.quest13.desc=Sleepy time, and the end of Tier 0. Congratulations, you've built your first hideout, and you should have a steady supply of food by now. See you again in tier 1!
+gtnh.quest13.name=好累...必須...睡覺... (SO...TIRED...MUST...SLEEP...)
+gtnh.quest13.desc=睡覺時間到了︰恭喜從0階畢業！你已經獨自建造了你的第一個窩，你現在應該有一個穩定的食物來源了。期待在第1階見到你！
 
 #Quest_14.What is that...?
-gtnh.quest14.name=What is that...?
-gtnh.quest14.desc=You've seen a lot of trees, but there are a few that look really special. You are sure that these trees are much more than just wood to build your home with or used to get charcoal.
+gtnh.quest14.name=這是什麼玩意兒？ (What is that...?)
+gtnh.quest14.desc=你已經看過很多樹了，而有幾棵看起來很特殊的，你很確信它們的功用絕對不只是拿來蓋房子或是燒成木炭。
 
 #Quest_15.Ready, set, go!
-gtnh.quest15.name=Ready, set, go!
-gtnh.quest15.desc=You probably should have a home by now. A steady supply of food is a fundamental requirement at all times. Take this journal to keep track of the things you've eaten. You will have to travel far in this tier, better be prepared!
+gtnh.quest15.name=準備好了？GO！ (Ready, set, go!)
+gtnh.quest15.desc=你差不多該有一個家了。不論何時，最基本的都是要有一個穩定的食物來源。在旅途中，拿著日誌來持續追蹤那些你吃過的東西。在這個階段，你將會有一個路途遙遠的旅程，最好做足準備囉！
 
 #Quest_16.Better Tank... Iron Tank
-gtnh.quest16.name=Better Tank... Iron Tank
-gtnh.quest16.desc=Storing more than 16 buckets of fluid in one tank? Sure! Just make an iron tank or upgrade the Buildcraft tank.\nDiamond tanks carry up to 64 buckets and obsidian ones are blast proof.
+gtnh.quest16.name=更好的水箱...鐵製水箱 (Better Tank... Iron Tank)
+gtnh.quest16.desc=想要在一個水箱中儲存超過16桶液體？那就做一個鐵製水箱或升級你的小水箱，鑽石水箱可以儲存64桶，而黑曜石水箱則可以防爆。
 
 #Quest_17.Sand: The Gathering
-gtnh.quest17.name=Sand: The Gathering
-gtnh.quest17.desc=In a strange vision you saw a big structure which would allow you to make charcoal. Finally some torches! According to your calculations, you will need a lot of sand for that.
+gtnh.quest17.name=積沙成塔 (Sand: The Gathering)
+gtnh.quest17.desc=你發現一個很大的構造可以讓你燒製木炭並做成一些火炬！根據你的計算，你需要很多的沙子。
 
 #Quest_18.Basic processing
-gtnh.quest18.name=Basic processing
-gtnh.quest18.desc=Most things are unavailable at the moment, so let's begin with something simple. Take some of your cobblestone and smelt it into regular stone. Since this modpack is evil, you'll need to use wood for that. How much fun is that?!
+gtnh.quest18.name=基本加工 (Basic processing)
+gtnh.quest18.desc=目前大多數的東西都無法使用，所以我們先從簡單的東西開始吧。拿一些鵝卵石，並將他們燒成普通的石頭。因為這MOD很機歪，所以你需要使用木材來當燃料，是不是很棒啊？
 
 #Quest_19.Maceration v0.1 Alpha
-gtnh.quest19.name=Maceration v0.1 Alpha
-gtnh.quest19.desc=This fancy little device works (almost...) like a macerator. Some people say it's even better, since it does not require power, yay! You only need to craft one for this quest, but you probably should make some more if you can...
+gtnh.quest19.name=粉碎機 v0.1 Alpha (Maceration v0.1 Alpha)
+gtnh.quest19.desc=這個花俏的小東西用起來(幾乎..)和粉碎機一樣，有些人說他更好用，因為他不需要任何能量，耶！在這個任務中你只需要製作一次，但可以的話，你應該做更多...
 
 #Quest_20.Gravel: The Gathering
-gtnh.quest20.name=Gravel: The Gathering
-gtnh.quest20.desc=Your tools will eventually lose durability. You think it would be a good idea to collect more gravel in order to provide yourself with flint for more tools.
+gtnh.quest20.name=聚石成塔 (Gravel: The Gathering)
+gtnh.quest20.desc=你的工具最終將會失去所有的耐久度。你認為收集更多的礫石是個好主意，以便為日後製造工具提供燧石。
 
 #Quest_21.Clay: The Gathering
-gtnh.quest21.name=Clay: The Gathering
-gtnh.quest21.desc=While bored, you thought that it might be a good idea to take up pottery. You should go and find some clay, the riverbanks should have some.
+gtnh.quest21.name=黏土聚會 (Clay: The Gathering)
+gtnh.quest21.desc=有點無聊，你覺得做陶器消磨時間是個好主意。你應該去河岸找一些黏土。
 
 #Quest_22.Finite water!?
-gtnh.quest22.name=Finite water!?
-gtnh.quest22.desc=Finite water is a problem, that's for sure. Last night, you had an idea. If you can drink cacti, you should also be able to use it for most recipes that require water. How cool is that? So what about another trade? 10 wood for.. 3 cacti so you can setup a farm. Deal?
+gtnh.quest22.name=有限的水！？ (Finite water!?)
+gtnh.quest22.desc=有限的水肯定是個問題。你昨晚想到：既然可以喝仙人掌內的水，應該也可以將仙人掌用在需要用水的配方中。酷吧！所以要不要用十個原木跟我換三個仙人掌，你就可以建造一個仙人掌田。
 
 #Quest_23.Something to carry liquids
-gtnh.quest23.name=Something to carry liquids
-gtnh.quest23.desc=You tried to move water with your bare hands, which didn't work at all. Luckily, you remember how to make a bucket out of clay.
+gtnh.quest23.name=裝液體的東西 (Something to carry liquids)
+gtnh.quest23.desc=你試圖用你的雙手裝點水，但沒啥鳥用。幸運的是，你還記得怎麼用黏土做一個桶子。
 
 #Quest_24.Getting (char)coal
-gtnh.quest24.name=Getting (char)coal
-gtnh.quest24.desc=It's time to get yourself some charcoal. For that, we're going to build a coke oven. Good that you just collected a lot of resources! (What a coincidence...)
+gtnh.quest24.name=獲得木炭 (Getting (char)coal)
+gtnh.quest24.desc=該幫自己弄點木炭了。為此，我們要建造一個焦炭爐。幹得好，你剛剛收集了很多資源！(好巧啊...)
 
 #Quest_25.Another brick in the wall
-gtnh.quest25.name=Another brick in the wall
-gtnh.quest25.desc=Your vision becomes more clear, you'll need bricks for your first multiblock structure. You think that 104 bricks should be enough. However, the bricks you'll need are somewhat special. Make sure to craft the correct ones!
+gtnh.quest25.name=牆上的另一塊磚 (Another brick in the wall)
+gtnh.quest25.desc=你的目標變得更明確，你將需要磚塊來完成你的第一個多方塊構造。你認為104個磚塊應該足夠了。但是，你需要的方塊有點特別，請確定你的製作方式是否正確！
 
 #Quest_26.Forming press v0.1
-gtnh.quest26.name=Forming press v0.1
-gtnh.quest26.desc=As you may have noticed, you cannot turn clay into bricks directly. Well, to be fair, it wasn't a good recipe anyway. You'll probably end up with something bread-shaped. So in order to make bricks, you need a form. Get yourself a knife and a blank pattern, and cut a brick sized piece out. It's as easy as that.
+gtnh.quest26.name=沖壓機v0.1 (Forming press v0.1)
+gtnh.quest26.desc=就像你注意到的，你沒辦法直接讓黏土變成磚塊－－好啦，客觀來說，不管從哪點來看他也不是什麼好配方，反正你大概要做好成品是某種長方形玩意的準備了。所以呢，為了做些磚塊，你得要有一把刀和一個空的模具，然後切下一塊磚塊大小的東西。你看，很簡單吧？
 
 #Quest_27.Finally, some power
 gtnh.quest27.name=Finally, some power
@@ -385,8 +385,8 @@ gtnh.quest95.name=You're gonna hate this #3
 gtnh.quest95.desc=A piston, but more .. "electrical". The third item you are going to craft a lot of in the future.
 
 #Quest_96.Saving redstone
-gtnh.quest96.name=節省紅石(Saving redstone)
-gtnh.quest96.desc=厭倦使用四個紅石製做含磁電桿了嗎？好消息！使用磁化機不需要紅石，只需要通電，你不一定需要接上電線，這台機器使用電池也運作得很好。\n\nTired of using 4 redstone for one magnetic iron rod? Well, good news for you! The polarizer doesn't need redstone, just a little bit of power. You don't need to attach this machine to a permanent power source, it runs fine on battery power.
+gtnh.quest96.name=節省紅石 (Saving redstone)
+gtnh.quest96.desc=厭倦使用四個紅石製做含磁電桿了嗎？好消息！使用磁化機不需要紅石，只需要通電，你不一定要接上電線，這台機器使用電池也能運作得很好。
 
 #Quest_97.Avengers, assemble!
 gtnh.quest97.name=Avengers, assemble!
@@ -405,28 +405,28 @@ gtnh.quest100.name=Press all the things
 gtnh.quest100.desc=If you want to make basic circuits more efficiently you can using the forming press. But for the good circuits you actually need it.
 
 #Quest_101.Mjolnir!!! (electric forge hammer)
-gtnh.quest101.name=雷神之鎚！Mjolnir!!! (電力鍛造錘electric forge hammer)
-gtnh.quest101.desc=非必須品，但這比蒸氣鍛造錘快得多，並可以自動化。如果你覺得洗礦太慢、使用這鍛造錘吧。蒸氣等級的鍛造錘就可以完成所有需要的加工。\n\nNot really required, but it is a lot faster than the steam one and it can be automated. If you feel like ore washing is too slow use this hammer. There are no recipes that require anything more than steam level to hammer something.
+gtnh.quest101.name=雷神之鎚！Mjolnir!!! (電力鍛造錘 electric forge hammer)
+gtnh.quest101.desc=非必須品，但這比蒸氣鍛造錘快得多，並可以自動化。如果你覺得洗礦太慢、使用這鍛造錘吧。蒸氣等級的鍛造錘就可以完成所有需要的加工。
 
 #Quest_102.Cutting things apart
-gtnh.quest102.name=切割(Cutting things apart)
-gtnh.quest102.desc=絕對必要的機器。能將桿切成螺栓、板切成外殼、原木切成木材、並且是最高效率。完全值回票價！\n\n提示：加點水吧！\n\nAn absolutely mandatory machine to have. It will cut rods into bolts, plates into casings, logs into planks, and all of that will be done with the highest possible efficiency. Totally worth it! \n\nHint: Just add water.
+gtnh.quest102.name=切割 (Cutting things apart)
+gtnh.quest102.desc=絕對必要的機器。能將桿切成螺栓、板切成外殼、原木切成木材、並且是最高效率。完全值回票價！提示：加點水吧！
 
 #Quest_103.Get ready for Tier 3
-gtnh.quest103.name=準備T3(Get ready for Tier 3)
-gtnh.quest103.desc=為了進一步發展，你需要鋁。非常多的鋁。但現在只需要一個鋁粉來完成這任務。黏土可能是最好的鋁來源。但那需要MV級機器，現在你需要找替代方案，直到你有足夠的鋁粉來完成準備工作。\n\nIn order to proceed forward, you need to get aluminium. A lot of it. But for now, one is enough to unlock this quest. Probably the best source for aluminium is clay, however you need a MV machine for that. So you need to find an alternative until you have enough dusts for your initial setup.
+gtnh.quest103.name=準備第3階 (Get ready for Tier 3)
+gtnh.quest103.desc=為了進一步發展，你需要鋁。非常多的鋁。但現在只需要一個鋁粉來完成這任務。黏土可能是最好的鋁來源。但那需要MV級機器，現在你需要找替代方案，直到你有足夠的鋁粉來完成準備工作。
 
 #Quest_104.Your magic progression
-gtnh.quest104.name=學習魔法(our magic progression)
-gtnh.quest104.desc=現在你可以煉鋁，可以開始研究魔法。如果你還沒解鎖神秘任務。找到銀樹樹苗跟宏偉巨木樹。\n\nNow that you are able to produce aluminium, you may dig into magic. If you haven't unlocked basic thaumaturgy, try to find a silverwood and a greatwood sapling.
+gtnh.quest104.name=學習魔法 (our magic progression)
+gtnh.quest104.desc=現在你可以煉鋁，可以開始研究魔法。如果你還沒解鎖神秘任務。找到銀樹樹苗跟宏偉巨樹。
 
 #Quest_105.The missing one
-gtnh.quest105.name=缺少的一環(The missing one)
-gtnh.quest105.desc=曾有人說...<basdxz> 管他的！把卷板機加進LV級任務...然後他就在那了。\n\nIt was once said... <basdxz> But ffs, add a plate bender to the LV tier book ...and then it popped into existence.
+gtnh.quest105.name=缺少的一環 (The missing one)
+gtnh.quest105.desc=曾有人說...<basdxz> 管他的！把卷板機加進LV級任務...然後他就在那了。
 
 #Quest_106.Your first automation
-gtnh.quest106.name=第一個自動化(Your first automation)
-gtnh.quest106.desc=好吧，也許不是第一次。但一定很重要！首先、你需要一台礦車組裝機。\n\nWell, probably not the first, but definitely something big! You will need a cart assembler in the first place.
+gtnh.quest106.name=第一個自動化 (Your first automation)
+gtnh.quest106.desc=好吧，也許不是第一次。但一定很重要！首先，你需要一台礦車組裝機。
 
 #Quest_107.Cart modules: Power
 gtnh.quest107.name=Cart modules: Power
@@ -3603,24 +3603,24 @@ gtnh.line2.name=第1階 - 蒸汽
 gtnh.line2.desc=任務--為了所有基於蒸汽的機器。
 
 #Tier 2 - 32 EU (LV)
-gtnh.line3.name=第2階 - 32 EU (LV)
+gtnh.line3.name=第2階 - 32EU (LV)
 gtnh.line3.desc=第一個 "電壓" 的階段。事情變得越來越容易了...
 
 #Tier 3 - 128 EU (MV)
-gtnh.line4.name=第3階 - 128 EU (MV)
-gtnh.line4.desc=第二個 "電壓" 的階段。不要混和不同EU的電壓，否則你會得到教訓。
+gtnh.line4.name=第3階 - 128EU (MV)
+gtnh.line4.desc=第二個 "電壓" 的階段。不要把不同電壓的機器混用，否則你會得到教訓。
 
 #Tier 4 - 512 EU (HV)
-gtnh.line5.name=第4階 - 512 EU (HV)
-gtnh.line5.desc=終於有些能量工作。這一層將幫助你征途星辰大海，收集更多稀有的資源，建造更先進的機器。
+gtnh.line5.name=第4階 - 512EU (HV)
+gtnh.line5.desc=終於有些能量去做了。這一層將幫助你征途星辰大海，收集更多稀有的資源，建造更先進的機器。
 
 #Tier 5 - 2048 EU (EV)
-gtnh.line6.name=第5階 - 2048 EU (EV)
-gtnh.line6.desc=鈦階段，核裂變能源，應用能源2。
+gtnh.line6.name=第5階 - 2048EU (EV)
+gtnh.line6.desc=鈦，核裂變能源，應用能源2(AE2)。
 
 #Tier 6 and beyond
 gtnh.line7.name=第6階和更高
-gtnh.line7.desc=將會是最後一個正規的階層，"指引"你。
+gtnh.line7.desc=將會是最後一個常規的階層來"指引"你。
 
 #Forestry and Farms
 gtnh.line8.name=林業和農場
@@ -3628,7 +3628,7 @@ gtnh.line8.desc=自動化農場和更多...
 
 #Novice Thaumaturge
 gtnh.line9.name=新手術士
-gtnh.line9.desc=魔法的奧秘皆藏於此。卓越的成就，但也有許多的工作。我將會指引你。照我的指導，你將成為一位偉大的巫師，就像我。
+gtnh.line9.desc=魔法的奧秘皆藏於此。卓越的成就，但也需要大量的工作。我將成為你的導師。照我的指導，你將成為一位偉大的巫師，就像我。
 
 #Adept Thaumaturgy
 gtnh.line10.name=熟練的奇術師
@@ -3643,12 +3643,12 @@ gtnh.line12.name=替代魔法
 gtnh.line12.desc=這是什麼樣的巫術！？
 
 #Multiblock Goals
-gtnh.line13.name=多重結構
-gtnh.line13.desc=全部的多重結構追蹤。你可以在各階段建造多重結構的各個部件。
+gtnh.line13.name=多方塊構造
+gtnh.line13.desc=全部的多方塊構造追蹤清單。你可以在各階段建造多方塊構造的各個部件。
 
 #Armors and Jetpacks
 gtnh.line14.name=裝甲和噴射背包
-gtnh.line14.desc=指導你穿上裝甲和噴氣背包。
+gtnh.line14.desc=指導你穿上裝甲和噴射背包。
 
 #Cooking Farming Fishing
 gtnh.line15.name=烹飪、農業、捕魚
@@ -3680,7 +3680,7 @@ gtnh.line21.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖
 
 #More blood, more stuff
 gtnh.line22.name=更多鮮血，更多材料
-gtnh.line22.desc=高等血魔法？我感覺我的靜脈很怪異...
+gtnh.line22.desc=高等血魔法？我的靜脈感覺很奇怪...
 
 #They are coming...
 gtnh.line23.name=他們來了...
