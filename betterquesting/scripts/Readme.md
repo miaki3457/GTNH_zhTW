@@ -1,4 +1,4 @@
-###### 以下內容轉自[yesterday17專案](https://github.com/yesterday17/GTNH-GuideBook-i18n/tree/master/scripts)，並把任務文本位置修改
+#### 以下內容轉自[yesterday17專案](https://github.com/yesterday17/GTNH-GuideBook-i18n/tree/master/scripts)，並把任務文本位置修改
 
 # GTNH.js 使用指南
 1.進入[JSZip](https://stuk.github.io/jszip/)的首頁<br />
