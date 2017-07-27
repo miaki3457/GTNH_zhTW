@@ -1,0 +1,8 @@
+﻿tile.autopackager.name=自動打包機
+
+autopackager.mode.current=當前模式：
+autopackager.mode.hybrid=先2x2後3x3
+autopackager.mode.small=只有2x2
+autopackager.mode.large=只有3x3
+autopackager.mode.hollow=中空3x3
+autopackager.mode.unpackage=只有1x1

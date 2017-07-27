@@ -1,0 +1,34 @@
+﻿#由MCBBS鞍山地區Chopper漢化
+bbw.key.category=更好的建築魔杖
+bbw.key.mode=改變模式
+
+item.betterbuilderswands:wandBasic.name=石制建築魔杖
+item.betterbuilderswands:wandAdvanced.name=鐵質建築魔杖
+item.betterbuilderswands:wandUnrestricted.name=鑽石質建築魔杖
+item.betterbuilderswands:wandUnbreakable.name=堅不可摧的建築魔杖
+
+bbw.hover.mode.northsouth=模式：南北
+bbw.hover.mode.verticalnorthsouth=模式：北南（+垂直）
+bbw.hover.mode.eastwest=模式：東西
+bbw.hover.mode.verticaleastwest=模式：東西（+垂直）
+bbw.hover.mode.horizontal=模式：水準
+bbw.hover.mode.vertical= 模式：垂直
+bbw.hover.mode.nolock=模式：任意
+bbw.hover.maxblocks=最多放置 %d 方塊
+bbw.chat.mode.northsouth=模式：北-南-從最初的區塊向北延伸。北/南面無建築物
+bbw.chat.mode.verticalnorthsouth=模式：北-南（+垂直）-向北延伸，南，向上和向下從最初的塊。北/南面無建築物
+bbw.chat.mode.eastwest=模式：東西-從最初的塊東向西延伸。東/西面無建築
+bbw.chat.mode.verticaleastwest=模式：東西（+垂直）-向東，西，向上和向下從原來的塊。東/西面無建築
+bbw.chat.mode.horizontal=模式：橫向-擴展左，右從原來的塊。頂/底面無建築物。
+bbw.chat.mode.vertical= 模式：垂直向上和向下延伸從原來的塊。頂/底面無建築物
+bbw.chat.mode.nolock=模式：任意-擴展左，右，上下從原來的塊。
+
+bbw.hover.fluidmode.stopat=流體：停止
+bbw.chat.fluidmode.stopat=流體：停止-停止液體。不通過任何類型的流體建立。
+bbw.hover.fluidmode.ignore=流體：忽略
+bbw.chat.fluidmode.ignore=流體：建築時忽略流體（兩個源塊和流動塊）
+
+bbw.chat.error.noundo=我不記得這根魔杖是什麼。
+bbw.chat.error.nowand=你手中需要有一根魔杖才能運行更好的建築MOD
+bbw.chat.error.bot=檢測到沒有玩家，請停止你的操作
+

@@ -1,0 +1,12 @@
+﻿itemGroup.avaritiaddons=更多箱子空間
+
+tile.CompressedChest.name=壓縮箱
+tile.InfinityChest.name=無盡箱
+tile.ExtremeAutoCrafter.name=駭人工作台
+
+container.CompressedChest=壓縮箱
+container.InfinityChest=無盡箱
+container.ExtremeAutoCrafter=駭人工作台
+
+tooltip.fillingRange=%1$s 的 %2$s
+

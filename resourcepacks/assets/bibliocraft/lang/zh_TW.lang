@@ -1,0 +1,1423 @@
+﻿language.name=Traditional Chinese
+language.region=TW
+language.code=zh_TW
+
+// Tab Names
+itemGroup.BiblioCraft=展示架
+itemGroup.BiblioCraftLights=展示架燈具
+itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft Lighting
+item.paneler.panels=Panels:
+
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=Crafting with recipe books is disabled.
+stockcatalog.inventory.notfound=Missing Inventory Name
+
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=Stockroom Catalog
+jds.tileentitychest=Framed Chest
+FramedChest.name=Framed Chest
+gui.catalog.close=Close
+gui.catalog.count=Count
+gui.catalog.names=Item / Block Name
+screwgun.selected.chest1=First Chest selected.
+screwgun.selected.chest2=Attempting to attach/detach Chests.
+gui.left=Left
+gui.right=Right
+gui.craft=Craft
+gui.recipe.crafted=Crafted Successfully
+gui.recipe.failed=Failed to remove ingredients
+gui.recipe.invalid=Invalid Recipe
+gui.recipe.missing=Missing Ingredients
+gui.recipe.wrong=Something went wrong. No Recipe Book with valid recipe data found or something.
+
+
+gui.clock.pulse=Pulse
+gui.clock.solid=Solid
+
+jds.tileentityarmorstand=Armor Stand
+jds.tileentitybookcase=Bookcase
+jds.teclipboard=Clipboard
+jds.tileentitycookiejar=Cookie Jar
+jds.tileentitywoodlabel=Label
+jds.tileentitygenericshelf=Shelf
+jds.tileentitymapframe=Map Frame
+jds.tefurnituretile=Furniture Paneler
+jds.tileentityfancyworkbench=Fancy Workbench
+jds.tileentityfancysign=Fancy Sign
+jds.tileentitydiscrack=Disc Rack
+jds.tileentitydinnerplate=Dinner Plate
+jds.tileentitypotionshelf=Potion Shelf
+jds.tileentitywritingdesk=Desk
+jds.tileentityweaponcase=Case
+jds.tileentitytoolrack=Tool Rack
+jds.tileentitytypewriter=Typewriter
+jds.tileentitytypemachine=Typesetting Table
+jds.tileentitytable=Table
+jds.tileentityswordpedestal=Sword Pedestal
+jds.tileentityseat=Seat
+jds.tileentityprintpress=Printing Press
+jds.tileentitypaintpress=Painting Press
+jds.tileentitypainting=Painting
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=Depth
+item.PlumbLine.name=Plumb line
+item.FramingSaw.name=Framing Saw
+item.FramingBoard.name=Framing Board
+item.FramingSheet.name=Framing Sheet
+
+OakPaneler.name=Oak Furniture Paneler
+SprucePaneler.name=Spruce Furniture Paneler
+BirchPaneler.name=Birch Furniture Paneler
+JunglePaneler.name=Jungle Furniture Paneler
+AcaciaPaneler.name=Acacia Furniture Paneler
+OldOakPaneler.name=Dark Oak Furniture Paneler
+FramedPaneler.name=Framed Furniture Paneler
+
+FramedClock.name=Framed Clock
+FrameBookcase.name=Framed Bookcase
+FramedWorkbench.name=Framed Fancy Workbench
+FramedSign.name=Framed Fancy Sign
+FramedShelf.name=Framed Shelf
+FramedPotionShelf.name=Framed Potion Shelf
+FramedLabel.name=Framed Label
+FramedMapFrame.name=Framed Map Frame
+FramedPaintingFrame.name=Framed Painting Frame
+FramedDesk.name=Framed Desk
+FramedWeaponRack.name=Framed Tool Rack
+FramedCase.name=Framed Case
+FramedTable.name=Framed Table
+FramedSeat.name=Framed Seat
+item.seatBack.FramedSeatBack.name=Framed Seat Back
+
+gui.painting.showFrame=Show Frame
+gui.painting.hideFrame=Hide Frame
+
+screwgun.selected.desk1=First desk selected.
+screwgun.selected.desk2=Attempting to attach/detach desks.
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=Atlas
+item.AtlasPlate.name=Atlas Plate
+item.DeathCompass.name=Eternal Compass
+enchant.deathcompass=Eternal Compass
+gui.atlas.zoom=Zoom level
+gui.atlas.center=Auto Center
+gui.atlas.create=Auto Create
+gui.atlas.mapXcenter=Map X Center:
+gui.atlas.mapZcenter=Map Z Center:
+gui.atlas.mapZoom=Map zoom level:
+gui.atlas.yes=Yes
+gui.atlas.no=No
+gui.atlas.atlas=The Atlas
+
+gui.atlas.select.tt1=Waypoint Select Mode
+gui.atlas.select.tt2=Hover over a waypoint
+gui.atlas.select.tt3=and left click to select
+gui.atlas.select.tt4=that waypoint.
+gui.atlas.select.tt5=Hold Ctrl and hover over map
+gui.atlas.select.tt6=to see real world coordinates.
+gui.atlas.select.tt7=Left click while holding Ctrl
+gui.atlas.select.tt8=to select any point on the map.
+
+gui.atlas.edit.tt1=Waypoint Pin Edit Mode
+gui.atlas.edit.tt2=Click a waypoint to edit
+gui.atlas.edit.tt3=the pin name and color
+gui.atlas.edit.tt4=or delete the selected pin.
+gui.atlas.edit.tt5=To quickly delete a waypoint,
+gui.atlas.edit.tt6=hold shift and click a waypoint.
+
+gui.atlas.add.tt1=Add Waypoint Pin Mode
+gui.atlas.add.tt2=Click anywhere on the map
+gui.atlas.add.tt3=to add a new waypoint.
+gui.atlas.add.tt4=A dialog will pop up and ask
+gui.atlas.add.tt5=for the name and color.
+gui.atlas.add.tt6=Hold shift and click the map
+gui.atlas.add.tt7=to place a new pin with a
+gui.atlas.add.tt8=random color and name.
+
+gui.atlas.switchtoinv=Switch to Inventory view.
+gui.atlas.switchtoatlas=Switch to Map view.
+
+gui.atlas.autocenter.tt1=If enabled, the atlas will
+gui.atlas.autocenter.tt2=search the inventory for a
+gui.atlas.autocenter.tt3=valid map that shows where
+gui.atlas.autocenter.tt4=you are at the currently
+gui.atlas.autocenter.tt5=selected zoom level.
+
+gui.atlas.autocreate.tt1=If enabled, creates new
+gui.atlas.autocreate.tt2=maps from blank maps in the
+gui.atlas.autocreate.tt3=inventory. When auto center 
+gui.atlas.autocreate.tt4=fails to find a matching map, 
+gui.atlas.autocreate.tt5=a new map is created based off
+gui.atlas.autocreate.tt6=from the last map loaded at
+gui.atlas.autocreate.tt7=the selected zoom level.
+
+gui.atlas.autocreate.tt8=Auto Center must be
+gui.atlas.autocreate.tt9=enabled for this to work.
+
+gui.atlas.transfer=Waypoint Transfer
+gui.atlas.transfer.cancel=Cancel
+gui.atlas.transfer.from=From Atlas to Map Frame
+gui.atlas.transfer.to=From Map Frame to Atlas
+
+gui.compass.currentlocation=Current Loc
+
+gui.paintpress.page=Page
+gui.paintpress.of=of
+
+item.TesterItem.name=ItemStack Name Tester
+gui.testeritem.name=ItemStack Name Tester
+gui.testeritem.display=Display name:
+gui.testeritem.unlocal=Unlocalized name:
+// end of 1.9 additions
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=Chime Sound
+gui.clock.ticksound=Tick Sound
+gui.clock.redstone=Redstone
+gui.clock.chime=Chime
+gui.clock.presets=Presets
+
+screwgun.selected.painting1=First Painting selected
+screwgun.selected.painting2=Second Painting selected
+screwgun.selected.clock1=First clock selected
+screwgun.selected.clock2=Second clock selected
+drill.failed=Connection Failed
+
+item.PaintingCanvas.name=Painting Canvas
+tile.BiblioPaintPress.name=Painting Press
+
+gui.paintpress.transfer=Transfer
+gui.paintpress.vanilla=Vanilla
+gui.paintpress.custom=Custom
+
+gui.painting.scale=Scale
+gui.painting.resolution=Resolution
+gui.painting.aspectRatio=Aspect Ratio
+gui.painting.size=Painting Size
+gui.painting.rotation=Rotation
+gui.painting.corner=Master Corner
+
+OakPaintingFrame.name=Oak Painting Frame
+SprucePaintingFrame.name=Spruce Painting Frame
+BirchPaintingFrame.name=Birch Painting Frame
+JunglePaintingFrame.name=Jungle Painting Frame
+AcaciaPaintingFrame.name=Acacia Painting Frame
+OldOakPaintingFrame.name=Dark Oak Painting Frame
+
+paintingFrame.0tier=Borderless
+paintingFrame.1tier=Single Tier
+paintingFrame.2tier=Double Tier
+paintingFrame.3tier=Triple Tier
+paintingFrame.4tier=Quadruple Tier
+
+OakClock.name=Oak Clock
+SpruceClock.name=Spruce Clock
+BirchClock.name=Birch Clock
+JungleClock.name=Jungle Clock
+AcaciaClock.name=Acacia Clock
+OldOakClock.name=Dark Oak Clock
+
+WhiteTypewriter.name=White Typewriter
+LightGrayTypewriter.name=Light Gray Typewriter
+GrayTypewriter.name=Gray Typewriter
+BlackTypewriter.name=Black Typewriter
+RedTypewriter.name=Red Typewriter
+OrangeTypewriter.name=Orange Typewriter
+YellowTypewriter.name=Yellow Typewriter
+LimeTypewriter.name=Lime Typewriter
+GreenTypewriter.name=Green Typewriter
+CyanTypewriter.name=Cyan Typewriter
+LightBlueTypewriter.name=Light Blue Typewriter
+BlueTypewriter.name=Blue Typewriter
+PurpleTypewriter.name=Purple Typewriter
+MagentaTypewriter.name=Magenta Typewriter
+PinkTypewriter.name=Pink Typewriter
+BrownTypewriter.name=Brown Typewriter
+
+// End of 1.8 additions and changes // 
+
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=你確定嗎？
+gui.recipe.finalize=點擊yes會永久關閉這本書的編輯功能
+gui.recipe.description=添增一個描述
+
+swordpedestal.name=劍座
+swordpedestal.white=白色切邊
+swordpedestal.orange=橘色切邊
+swordpedestal.magenta=桃紅切邊
+swordpedestal.lightblue=淡藍切邊
+swordpedestal.yellow=黃色切邊
+swordpedestal.lime=淺綠切邊
+swordpedestal.pink=粉紅切邊
+swordpedestal.gray=灰色切邊
+swordpedestal.lightgray=淺灰色切邊
+swordpedestal.cyan=青色切邊
+swordpedestal.purple=紫色切邊
+swordpedestal.blue=藍色切邊
+swordpedestal.brown=棕色切邊
+swordpedestal.green=綠色切邊
+swordpedestal.red=紅色切邊
+swordpedestal.black=黑色切邊
+
+OakSign.name=橡木特殊告示牌
+SpruceSign.name=杉木特殊告示牌
+BirchSign.name=樺木特殊告示牌
+JungleSign.name=叢林木特殊告示牌
+AcaciaSign.name=相思木特殊告示牌
+OldOakSign.name=黑橡木特殊告示牌
+
+OakWorkbench.name=橡木特殊工作台
+SpruceWorkbench.name=杉木特殊工作台
+BirchWorkbench.name=樺木特殊工作台
+JungleWorkbench.name=叢林木特殊工作台
+AcaciaWorkbench.name=相思木特殊工作台
+OldOakWorkbench.name=黑橡木特殊工作台
+
+tile.BiblioBell.name=桌鈴
+
+item.RecipeBook.name=空白配方書
+item.SlottedBook.name=有槽的書
+item.BigBook.name=大成書
+item.HandDrill.name=手搖鑽
+
+book.bold=B
+book.italic=I
+book.underline=U
+book.strike=中劃線
+book.obfuscated=O
+book.reset=重置
+book.save=保存
+book.sign=簽名
+book.entertitle=輸入書名：
+book.by=by
+book.signnotice=重要提示！當你給這本書簽名後，它再也不能被編輯了，包括編輯文字、格式、章節，以及增加頁數。
+book.textscale=文字比例
+book.lineselected=被選中的行
+book.cancel=取消
+book.linenum=行# =
+book.title=標題
+book.description=描述
+book.ingredients=需要材料:
+book.overwriterecipe=重寫覆蓋當前
+book.overwriterecipe2=配方書
+book.saverecipe=保存配方至
+book.saverecipe2=空白書
+book.loadrecipe=加載部件
+book.loadrecipe2=從物品欄
+book.areyousure=你確定嗎？
+book.areyousure2=點擊yes會永久關閉這本書的編輯功能
+book.setrecipename=配方:
+gui.fancyworkbench=特殊工作台
+
+gui.sign.left=左
+gui.sign.center=中央
+gui.sign.right=右
+
+gui.sign.black=黑色
+gui.sign.darkblue=深藍色
+gui.sign.darkgreen=深綠色
+gui.sign.darkaqua=深青色
+gui.sign.darkred=暗红色
+gui.sign.darkpurple=暗紫色
+gui.sign.gold=金色
+gui.sign.gray=灰色
+gui.sign.darkgray=深灰色
+gui.sign.blue=藍色
+gui.sign.green=綠色
+gui.sign.aqua=青色
+gui.sign.red=红色
+gui.sign.lightpurple=淡紫色
+gui.sign.yellow=黃色
+gui.sign.white=白色
+
+gui.sign.tooltip1=點擊一個按鍵或按Tab來選擇編輯頁面。Tab可切換頁面
+gui.sign.tooltip2=點擊上方的按鍵選擇空槽1，編輯選項頁面 編輯比例、位置和選項
+gui.sign.tooltip3=點擊上方的按鍵選擇文字編輯頁面。編輯比例，添加原版文字格式
+gui.sign.tooltip4=點擊上方的按鍵選擇空槽2，編輯選項 編輯比例、位置和選項 
+gui.sign.tooltip5=調整方塊比例
+gui.sign.tooltip6=調整方塊旋轉。方塊可以面朝左邊、右邊和中央，但是物品只能面朝左右
+gui.sign.tooltip7=調整方塊位置。可以使用方向鍵或者WASD鍵調整方塊位置
+gui.sign.tooltip8=輸入格式符號後，輸入以下任一數字/字母：
+gui.sign.tooltip9=點擊這個按鍵或按alt鍵，添加格式符號到選擇的行中
+
+gui.sign.bold=粗體
+gui.sign.strikethrough=刪除線
+gui.sign.underline=底線
+gui.sign.italic=斜體
+
+gui.sign.scale=文字比例
+gui.sign.format=格式
+gui.sign.linenum=行#
+
+
+//1.6.2 additions
+gui.redbook.title=書名:
+gui.redbook.description.p1=紅石書可以用於書架，發出紅石信號。當被放入一個書架時，除了書架正前方外，其它方向均有紅石信號。紅石信號強度取決於紅石書在書架中的位置。
+gui.redbook.description.p2=書架有16個空格，第1格為左上方第一格，第16格為右下最後一格。如果紅石書被放到第一格時，書架不會書出任何紅石信號，如果放到第二格，書架會發出強度為1的紅石信號，每往後一個，發出的紅石信號強度就增加，當紅石書被放到第16格時，會發出強度為15的紅石信號。
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+AcaciaDesk.name=相思木台桌
+OldOakDesk.name=黑橡木台桌
+AcaciaBookcase.name=相思木書架
+OldOakBookcase.name=黑橡木書架
+AcaciaPotionShelf.name=相思木藥水展示架
+OldOakPotionShelf.name=黑橡木藥水展示架
+AcaciaShelf.name=相思木展示架
+OldOakShelf.name=黑橡木展示架
+AcaciaWeaponRack.name=相思木工具展示架
+OldOakWeaponRack.name=黑橡木工具展示架
+AcaciaLabel.name=相思木標簽
+OldOakLabel.name=黑橡木標簽
+AcaciaTable.name=相思木桌子
+OldOakTable.name=黑橡木桌子
+AcaciaMapFrame.name=相思木地圖框
+OldOakMapFrame.name=黑橡木地圖框
+AcaciaSeat.name=相思木椅子
+OldOakSeat.name=黑橡木椅子
+OakCase.name=橡木收藏盒
+SpruceCase.name=杉木收藏盒
+BirchCase.name=樺木收藏盒
+JungleCase.name=叢林木收藏盒
+AcaciaCase.name=相思木收藏盒
+OldOakCase.name=黑橡木收藏盒
+item.seatBack.AcaciaSeatBack.name=相思木椅背
+item.seatBack.OldOakSeatBack.name=黑橡木椅背
+lighting.metalIron=鐵質
+lighting.metalGold=金質
+gui.typesetting.guiTitle=排版台: 書籍管理
+gui.typesetting.pageOfpages=of
+gui.typesetting.public=公用
+gui.typesetting.private=私用
+gui.typesetting.delete=刪除
+gui.typesetting.select=選擇
+gui.typesetting.nextPage=下一頁
+gui.typesetting.prevPage=上一頁
+gui.typesetting.exit=退出
+gui.typesetting.enableDiscard=放棄
+// End of 1.6 additions ////////////////////////////
+
+
+
+// Gui stuff
+gui.armorstand=衣架
+gui.bookcase=書架
+gui.cookiejar=餅干罐
+gui.shelf=木製架子
+gui.label=木製標簽
+gui.potionshelf=藥水架
+gui.table=木製桌子
+gui.case=展示盒
+gui.toolrack=工具架
+gui.desk=木製台桌
+gui.mapWaypoint.accept=確認
+gui.mapWaypoint.remove=移除
+gui.mapWaypoint.cancel=取消
+gui.mapWaypoint.waypoint=路標
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=餐盤
+gui.discRack=唱片
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=讀取
+redbook.by=by
+plate.notValid=無效
+typesetting.requires=需要
+typesetting.levels=等级
+typesetting.chase=Chases
+typesetting.bookSelect=選擇一本書
+print.ink=墨
+print.book=書
+screwgun.firstSeat=已選中第一個椅子
+screwgun.secondSeat=嘗試疊加/分離椅子
+
+//Tape Measure Texts
+tape.measurenorthsouth=測得南北方向距離=
+tape.measureeastwest=測得东西方向距離=
+tape.measureheight=測得垂直方向距離=
+tape.nomeasure=停止測量
+tape.measure=測得距離=
+tape.startmeasure=開始測量
+tape.mode0=切換模式為直線測量(東西/南北/垂直)
+tape.mode1=切換模式為絕對距離測量
+lock.creativeonly=僅限創造模型
+lock.notowner=你並非該物品的主人
+lock.locked=物品已上鎖
+lock.unlocked=物品已解鎖
+// Blocks
+CookieJar.name=餅干罐
+MarkerPole.name=標杆
+tile.BiblioType.name=排版台
+tile.BiblioPress.name=拓印機
+tile.BiblioArmorStand.name=衣架
+OakBookcase.name=橡木書架
+SpruceBookcase.name=杉木書架
+BirchBookcase.name=樺木書架
+JungleBookcase.name=叢森木書架
+OakPotionShelf.name=橡木藥水展示架
+SprucePotionShelf.name=杉木藥水展示架
+BirchPotionShelf.name=樺木藥水展示架
+JunglePotionShelf.name=叢林木藥水展示架
+OakShelf.name=橡木展示架
+SpruceShelf.name=杉木展示架
+BirchShelf.name=樺木展示架
+JungleShelf.name=叢林木展示架
+OakWeaponRack.name=橡木工具展示架
+SpruceWeaponRack.name=杉木工具展示架
+BirchWeaponRack.name=樺木工具展示架
+JungleWeaponRack.name=叢林木工具展示架
+OakLabel.name=橡木標簽
+SpruceLabel.name=杉木標簽
+BirchLabel.name=樺木標簽
+JungleLabel.name=叢林木標簽
+OakWritingDesk.name=橡木台桌
+SpruceWritingDesk.name=杉木台桌
+BirchWritingDesk.name=樺木台桌
+JungleWritingDesk.name=叢林木台桌
+OakTable.name=橡木桌子
+SpruceTable.name=杉木桌子
+BirchTable.name=樺木桌子
+JungleTable.name=叢林木桌子
+DiscRack.name=唱片架
+DinnerPlate.name=餐盤
+OakMapFrame.name=橡木地圖框
+SpruceMapFrame.name=杉木地圖框
+BirchMapFrame.name=樺木地圖框
+JungleMapFrame.name=叢林木地圖框
+OakSeat.name=橡木椅子
+SpruceSeat.name=杉木椅子
+BirchSeat.name=樺木椅子
+JungleSeat.name=叢林木椅子
+
+//lights
+whiteLantern.name=黃金燈籠
+lightGrayLantern.name=黃金燈籠
+grayLantern.name=黃金燈籠
+blackLantern.name=黃金燈籠
+redLantern.name=黃金燈籠
+orangeLantern.name=黃金燈籠
+yellowLantern.name=黃金燈籠
+limeLantern.name=黃金燈籠
+greenLantern.name=黃金燈籠
+cyanLantern.name=黃金燈籠
+lightBlueLantern.name=黃金燈籠
+blueLantern.name=黃金燈籠
+purpleLantern.name=黃金燈籠
+magentaLantern.name=黃金燈籠
+pinkLantern.name=黃金燈籠
+brownLantern.name=黃金燈籠
+
+whiteLamp.name=精緻燈具
+lightGrayLamp.name=精緻燈具
+grayLamp.name=精緻燈具
+blackLamp.name=精緻燈具
+redLamp.name=精緻燈具
+orangeLamp.name=精緻燈具
+yellowLamp.name=精緻燈具
+limeLamp.name=精緻燈具
+greenLamp.name=精緻燈具
+cyanLamp.name=精緻燈具
+lightBlueLamp.name=精緻燈具
+blueLamp.name=精緻燈具
+purpleLamp.name=精緻燈具
+magentaLamp.name=精緻燈具
+pinkLamp.name=精緻燈具
+brownLamp.name=精緻燈具
+
+lamp.hood0=白色燈罩
+lamp.hood1=淺灰色燈罩
+lamp.hood2=灰色燈罩
+lamp.hood3=黑色燈罩
+lamp.hood4=紅色燈罩
+lamp.hood5=橘色燈罩
+lamp.hood6=黃色燈罩
+lamp.hood7=淺綠色燈罩
+lamp.hood8=綠色燈罩
+lamp.hood9=青色燈罩
+lamp.hood10=淺藍色燈罩
+lamp.hood11=藍色燈罩
+lamp.hood12=紫色燈罩
+lamp.hood13=桃红色燈罩
+lamp.hood14=粉紅燈罩
+lamp.hood15=棕色燈罩
+
+lantern.candle0=白色蠟燭
+lantern.candle1=淺灰色蠟燭
+lantern.candle2=灰色蠟燭
+lantern.candle3=黑色蠟燭
+lantern.candle4=紅色蠟燭
+lantern.candle5=橘色蠟燭
+lantern.candle6=黃色蠟燭
+lantern.candle7=淺綠色蠟燭
+lantern.candle8=綠色蠟燭
+lantern.candle9=青色蠟燭
+lantern.candle10=淺藍色蠟燭
+lantern.candle11=藍色蠟燭
+lantern.candle12=紫色蠟燭
+lantern.candle13=桃红蠟燭
+lantern.candle14=粉紅蠟燭
+lantern.candle15=棕色蠟燭
+
+// Items
+item.tapeMeasure.name=卷尺
+item.tape.name=卷尺卷筒
+item.BiblioChase.name=拓印槽
+item.PrintPlate.name=拓印片
+item.EnchantedPlate.name=附魔片
+item.BiblioRedBook.name=紅石之書：卷Ⅰ
+item.BiblioGlasses.readingglasses.name=老花眼鏡
+item.BiblioGlasses.tintedglasses.name=太陽眼鏡
+item.BiblioGlasses.monocle.name=單片眼鏡
+item.BiblioDrill.name=電動螺絲刀
+item.BiblioCreativeLock.name=鎖與鑰匙
+item.BiblioClipboard.name=寫字板
+item.seatBack.OakSeatBack.name=橡木椅背
+item.seatBack.SpruceSeatBack.name=杉木椅背
+item.seatBack.BirchSeatBack.name=樺木椅背
+item.seatBack.JungleSeatBack.name=叢林木椅背
+item.BiblioWayPointCompass.name=路標盤
+item.BiblioMapTool.name=制圖盤
+
+
+language.name=Traditional Chinese 
+language.region=TW
+language.code=zh_TW
+
+// Tab Names
+itemGroup.BiblioWoodsBoP=展示架(BoP組件)
+
+// 1.8.0 additions
+SacredOakClock.name=天域樹橡樹時鐘
+CherryClock.name=櫻桃樹時鐘
+DarkClock.name=暗黑樹時鐘
+FirClock.name=杉樹時鐘
+HellBarkClock.name=地獄皮樹時鐘
+HolyClock.name=天域樹時鐘
+JacarandaClock.name=藍花楹時鐘
+MagicClock.name=魔法樹時鐘
+MangroveClock.name=紅杉時鐘
+PalmClock.name=棕櫚樹時鐘
+PineClock.name=松樹時鐘
+RedwoodClock.name=紅木時鐘
+WillowClock.name=柳樹時鐘
+MahoganyClock.name=桃花心樹時鐘
+
+SacredOakPaintingFrame.name=天域樹橡樹畫框
+CherryPaintingFrame.name=櫻桃樹畫框
+DarkPaintingFrame.name=暗黑樹畫框
+FirPaintingFrame.name=杉樹畫框
+HellBarkPaintingFrame.name=地獄皮樹畫框
+HolyPaintingFrame.name=天域樹畫框
+JacarandaPaintingFrame.name=藍花楹畫框
+MagicPaintingFrame.name=魔法樹畫框
+MangrovePaintingFrame.name=紅杉畫框
+PalmPaintingFrame.name=棕櫚樹畫框
+PinePaintingFrame.name=松樹畫框
+RedwoodPaintingFrame.name=紅木畫框
+WillowPaintingFrame.name=柳樹畫框
+MahoganyPaintingFrame.name=桃花心樹畫框
+//
+
+SacredOakFancySign.name=天域樹橡樹精緻木牌
+CherryFancySign.name=櫻桃樹精緻木牌
+DarkFancySign.name=黑暗樹精緻木牌
+FirFancySign.name=杉樹精緻木牌
+HellBarkFancySign.name=地獄皮樹精緻木牌
+HolyFancySign.name=天域樹精緻木牌
+JacarandaFancySign.name=藍花楹精緻木牌
+MagicFancySign.name=魔法樹精緻木牌
+MangroveFancySign.name=紅杉精緻木牌
+PalmFancySign.name=棕櫚樹精緻木牌
+PineFancySign.name=松樹精緻木牌
+RedwoodFancySign.name=紅木精緻木牌
+WillowFancySign.name=柳樹精緻木牌
+MahoganyFancySign.name=桃花心樹精緻木牌
+
+SacredOakFancyWorkbench.name=天域樹橡樹精緻工作臺
+CherryFancyWorkbench.name=櫻桃樹精緻工作臺
+DarkFancyWorkbench.name=黑暗樹精緻工作臺
+FirFancyWorkbench.name=杉樹精緻工作臺
+HellBarkFancyWorkbench.name=地獄皮樹精緻工作臺
+HolyFancyWorkbench.name=天域樹精緻工作臺
+JacarandaFancyWorkbench.name=藍花楹精緻工作臺
+MagicFancyWorkbench.name=魔法樹精緻工作臺
+MangroveFancyWorkbench.name=紅杉精緻工作臺
+PalmFancyWorkbench.name=棕櫚樹精緻工作臺
+PineFancyWorkbench.name=松樹精緻工作臺
+RedwoodFancyWorkbench.name=紅木精緻工作臺
+WillowFancyWorkbench.name=柳樹精緻工作臺
+MahoganyFancyWorkbench.name=桃花心樹精緻工作臺
+
+SacredOakMapFrame.name=天域樹橡樹地圖框架
+CherryMapFrame.name=櫻桃樹地圖框架
+DarkMapFrame.name=櫻桃樹地圖框架
+FirMapFrame.name=杉樹地圖框架
+HellBarkMapFrame.name=地獄皮樹地圖框架
+HolyMapFrame.name=天域樹地圖框架
+JacarandaMapFrame.name=藍花楹地圖框架
+MagicMapFrame.name=魔法樹地圖框架
+MangroveMapFrame.name=紅杉地圖框架
+PalmMapFrame.name=棕櫚樹地圖框架
+PineMapFrame.name=松樹地圖框架
+RedwoodMapFrame.name=紅木地圖框架
+WillowMapFrame.name=柳樹地圖框架
+MahoganyMapFrame.name=桃花心樹地圖框架
+
+SacredOakSeat.name=天域樹橡樹座椅
+CherrySeat.name=櫻桃樹座椅
+DarkSeat.name=黑暗樹座椅
+FirSeat.name=杉樹座椅
+HellBarkSeat.name=地獄皮樹座椅
+HolySeat.name=天域樹座椅
+JacarandaSeat.name=藍花楹座椅
+MagicSeat.name=魔法樹座椅
+MangroveSeat.name=紅杉座椅
+PalmSeat.name=棕櫚樹座椅
+PineSeat.name=松樹座椅
+RedwoodSeat.name=紅木座椅
+WillowSeat.name=柳樹座椅
+MahoganySeat.name=桃花心樹座椅
+
+item.seatBack.SacredOakSeatBack.name=天域樹橡樹座椅背
+item.seatBack.CherrySeatBack.name=櫻桃樹座椅背
+item.seatBack.DarkSeatBack.name=黑暗樹座椅背
+item.seatBack.FirSeatBack.name=杉樹座椅背
+item.seatBack.HellBarkSeatBack.name=地獄皮樹座椅背
+item.seatBack.HolySeatBack.name=天域樹座椅背
+item.seatBack.JacarandaSeatBack.name=藍花楹座椅背
+item.seatBack.MagicSeatBack.name=魔法樹座椅背
+item.seatBack.MangroveSeatBack.name=紅杉座椅背
+item.seatBack.PalmSeatBack.name=棕櫚樹座椅背
+item.seatBack.PineSeatBack.name=松樹座椅背
+item.seatBack.RedwoodSeatBack.name=紅木座椅背
+item.seatBack.WillowSeatBack.name=柳樹座椅背
+item.seatBack.MahoganySeatBack.name=桃花心樹座椅背
+
+SacredOakBookcase.name=天域樹橡樹書架
+CherryBookcase.name=櫻桃樹書架
+DarkBookcase.name=黑暗樹書架
+FirBookcase.name=杉樹書架
+HellBarkBookcase.name=地獄皮樹書架
+HolyBookcase.name=閣樓樹書架
+JacarandaBookcase.name=藍花楹書架
+MagicBookcase.name=魔法樹書架
+MangroveBookcase.name=紅杉書架
+PalmBookcase.name=棕櫚樹書架
+PineBookcase.name=松樹書架
+RedwoodBookcase.name=紅木書架
+WillowBookcase.name=柳樹書架
+MahoganyBookcase.name=桃花心樹書架
+
+SacredOakDesk.name=天域樹橡樹台桌
+CherryDesk.name=櫻桃樹台桌
+DarkDesk.name=黑暗樹台桌
+FirDesk.name=杉樹台桌
+HellBarkDesk.name=地獄皮樹台桌
+HolyDesk.name=閣樓樹台桌
+JacarandaDesk.name=藍花楹台桌
+MagicDesk.name=魔法樹台桌
+MangroveDesk.name=紅杉台桌
+PalmDesk.name=棕櫚樹台桌
+PineDesk.name=松樹台桌
+RedwoodDesk.name=紅木台桌
+WillowDesk.name=柳樹台桌
+MahoganyDesk.name=桃花心樹台桌
+
+SacredOakShelf.name=天域樹橡樹架子
+CherryShelf.name=櫻桃樹架子
+DarkShelf.name=黑暗樹架子
+FirShelf.name=杉樹架子
+HellBarkShelf.name=地獄皮樹架子
+HolyShelf.name=閣樓樹架子
+JacarandaShelf.name=藍花楹架子
+MagicShelf.name=魔法樹架子
+MangroveShelf.name=紅杉架子
+PalmShelf.name=棕櫚樹架子
+PineShelf.name=松樹架子
+RedwoodShelf.name=紅木架子
+WillowShelf.name=柳樹架子
+MahoganyShelf.name=桃花心樹架子
+
+SacredOakLabel.name=天域樹橡樹標籤
+CherryLabel.name=櫻桃樹標籤
+DarkLabel.name=黑暗樹標籤
+FirLabel.name=杉樹標籤
+HellBarkLabel.name=地獄皮樹標籤
+HolyLabel.name=閣樓樹標籤
+JacarandaLabel.name=藍花楹標籤
+MagicLabel.name=魔法樹標籤
+MangroveLabel.name=紅杉標籤
+PalmLabel.name=棕櫚樹標籤
+PineLabel.name=松樹標籤
+RedwoodLabel.name=紅木標籤
+WillowLabel.name=柳樹標籤
+MahoganyLabel.name=桃花心樹標籤
+
+SacredOakPotionShelf.name=天域樹橡樹藥水架
+CherryPotionShelf.name=櫻桃樹藥水架
+DarkPotionShelf.name=黑暗樹藥水架
+FirPotionShelf.name=杉樹藥水架
+HellBarkPotionShelf.name=地獄皮樹藥水架
+HolyPotionShelf.name=閣樓樹藥水架
+JacarandaPotionShelf.name=藍花楹藥水架
+MagicPotionShelf.name=魔法樹藥水架
+MangrovePotionShelf.name=紅杉藥水架
+PalmPotionShelf.name=棕櫚樹藥水架
+PinePotionShelf.name=松樹藥水架
+RedwoodPotionShelf.name=紅木藥水架
+WillowPotionShelf.name=柳樹藥水架
+MahoganyPotionShelf.name=桃花心樹藥水架
+
+SacredOakTable.name=天域樹橡樹桌子
+CherryTable.name=櫻桃樹桌子
+DarkTable.name=黑暗樹桌子
+FirTable.name=杉樹桌子
+HellBarkTable.name=地獄皮樹桌子
+HolyTable.name=閣樓樹桌子
+JacarandaTable.name=藍花楹桌子
+MagicTable.name=魔法樹桌子
+MangroveTable.name=紅杉桌子
+PalmTable.name=棕櫚樹桌子
+PineTable.name=松樹桌子
+RedwoodTable.name=紅木桌子
+WillowTable.name=柳樹桌子
+MahoganyTable.name=桃花心樹桌子
+
+SacredOakToolRack.name=天域樹橡樹工具架
+CherryToolRack.name=櫻桃樹工具架
+DarkToolRack.name=黑暗樹工具架
+FirToolRack.name=杉樹工具架
+HellBarkToolRack.name=地獄皮樹工具架
+HolyToolRack.name=閣樓樹工具架
+JacarandaToolRack.name=藍花楹工具架
+MagicToolRack.name=魔法樹工具架
+MangroveToolRack.name=紅杉工具架
+PalmToolRack.name=棕櫚樹工具架
+PineToolRack.name=松樹工具架
+RedwoodToolRack.name=紅木工具架
+WillowToolRack.name=柳樹工具架
+MahoganyToolRack.name=桃花心樹工具架
+
+SacredOakCase.name=天域樹橡樹展示盒
+CherryCase.name=櫻桃樹展示盒
+DarkCase.name=黑暗樹展示盒
+FirCase.name=杉樹展示盒
+HellbarkCase.name=地獄皮樹展示盒
+HolyCase.name=閣樓樹展示盒
+JacarandaCase.name=藍花楹展示盒
+MagicCase.name=魔法樹展示盒
+MangroveCase.name=紅杉展示盒
+PalmCase.name=棕櫚樹展示盒
+PineCase.name=松樹展示盒
+RedwoodCase.name=紅木展示盒
+WillowCase.name=柳樹展示盒
+MahoganyCase.name=桃花心樹展示盒
+
+language.name=Traditional Chinese 
+language.region=TW
+language.code=zh_TW
+
+// Tab Names
+itemGroup.BiblioWoodsForestry=展示架:林業
+
+// BiblioCraft v1.8.x changes
+AcaciaClock.name=金合歡時鐘
+BalsaClock.name=巴爾杉時鐘
+BaobabClock.name=猴麵包樹時鐘
+CherryClock.name=櫻桃樹時鐘
+ChestnutClock.name=栗樹時鐘
+CitrusClock.name=柑橘樹時鐘
+EbonyClock.name=烏檀樹時鐘
+GreenheartClock.name=樟樹時鐘
+KapokClock.name=木棉時鐘
+LarchClock.name=落葉松時鐘
+LimeClock.name=菩提樹時鐘
+MahoeClock.name=白皮樹時鐘
+MahoganyClock.name=桃花心木時鐘
+MapleClock.name=楓樹時鐘
+PalmClock.name=棕櫚樹時鐘
+PapayaClock.name=木瓜樹時鐘
+PineClock.name=松樹時鐘
+PlumClock.name=李子樹時鐘
+PopularClock.name=楊樹木時鐘
+SequoiaClock.name=紅杉時鐘
+TeakClock.name=柚木時鐘
+WalnutClock.name=核桃樹時鐘
+WengeClock.name=崖豆樹時鐘
+WillowClock.name=柳樹時鐘
+
+AcaciaPaintingFrame.name=金合歡畫框
+BalsaPaintingFrame.name=巴爾杉畫框
+BaobabPaintingFrame.name=猴麵包樹畫框
+CherryPaintingFrame.name=櫻桃樹畫框
+ChestnutPaintingFrame.name=栗樹畫框
+CitrusPaintingFrame.name=柑橘樹畫框
+EbonyPaintingFrame.name=烏檀樹畫框
+GreenheartPaintingFrame.name=樟樹畫框
+KapokPaintingFrame.name=木棉畫框
+LarchPaintingFrame.name=落葉松畫框
+LimePaintingFrame.name=菩提樹畫框
+MahoePaintingFrame.name=白皮樹畫框
+MahoganyPaintingFrame.name=桃花心木畫框
+MaplePaintingFrame.name=楓樹畫框
+PalmPaintingFrame.name=棕櫚樹畫框
+PapayaPaintingFrame.name=木瓜樹畫框
+PinePaintingFrame.name=松樹畫框
+PlumPaintingFrame.name=李子樹畫框
+PopularPaintingFrame.name=楊樹木畫框
+SequoiaPaintingFrame.name=紅杉畫框
+TeakPaintingFrame.name=柚木畫框
+WalnutPaintingFrame.name=核桃樹畫框
+WengePaintingFrame.name=崖豆樹畫框
+WillowPaintingFrame.name=柳樹畫框
+//
+
+AcaciaFancyWorkbench.name=金合歡精緻工作臺
+BalsaFancyWorkbench.name=巴爾杉精緻工作臺
+BaobabFancyWorkbench.name=猴麵包樹精緻工作臺
+CherryFancyWorkbench.name=櫻桃樹精緻工作臺
+ChestnutFancyWorkbench.name=栗樹精緻工作臺
+CitrusFancyWorkbench.name=柑橘樹精緻工作臺
+EbonyFancyWorkbench.name=烏檀樹精緻工作臺
+GreenheartFancyWorkbench.name=樟樹精緻工作臺
+KapokFancyWorkbench.name=木棉精緻工作臺
+LarchFancyWorkbench.name=落葉松精緻工作臺
+LimeFancyWorkbench.name=菩提樹精緻工作臺
+MahoeFancyWorkbench.name=白皮樹精緻工作臺
+MahoganyFancyWorkbench.name=桃花心木精緻工作臺
+MapleFancyWorkbench.name=楓樹精緻工作臺
+PalmFancyWorkbench.name=棕櫚樹精緻工作臺
+PapayaFancyWorkbench.name=木瓜樹精緻工作臺
+PineFancyWorkbench.name=松樹精緻工作臺
+PlumFancyWorkbench.name=李子樹精緻工作臺
+PopularFancyWorkbench.name=楊樹木精緻工作臺
+SequoiaFancyWorkbench.name=紅杉精緻工作臺
+TeakFancyWorkbench.name=柚木精緻工作臺
+WalnutFancyWorkbench.name=核桃樹精緻工作臺
+WengeFancyWorkbench.name=崖豆樹精緻工作臺
+WillowFancyWorkbench.name=柳樹精緻工作臺
+
+AcaciaFancySign.name=金合歡精緻木牌
+BalsaFancySign.name=巴爾杉精緻木牌
+BaobabFancySign.name=猴麵包樹精緻木牌
+CherryFancySign.name=櫻桃樹精緻木牌
+ChestnutFancySign.name=栗樹精緻木牌
+CitrusFancySign.name=柑橘樹精緻木牌
+EbonyFancySign.name=烏檀樹精緻木牌
+GreenheartFancySign.name=樟樹精緻木牌
+KapokFancySign.name=木棉精緻木牌
+LarchFancySign.name=落葉松精緻木牌
+LimeFancySign.name=菩提樹精緻木牌
+MahoeFancySign.name=白皮樹精緻木牌
+MahoganyFancySign.name=桃花心木精緻木牌
+MapleFancySign.name=楓樹精緻木牌
+PalmFancySign.name=棕櫚樹精緻木牌
+PapayaFancySign.name=木瓜樹精緻木牌
+PineFancySign.name=松樹精緻木牌
+PlumFancySign.name=李子樹精緻木牌
+PopularFancySign.name=楊樹木精緻木牌
+SequoiaFancySign.name=紅杉精緻木牌
+TeakFancySign.name=柚木精緻木牌
+WalnutFancySign.name=核桃樹精緻木牌
+WengeFancySign.name=崖豆樹精緻木牌
+WillowFancySign.name=柳樹精緻木牌
+
+AcaciaMapFrame.name=金合歡地圖框架
+BalsaMapFrame.name=巴爾杉地圖框架
+BaobabMapFrame.name=猴麵包樹地圖框架
+CherryMapFrame.name=櫻桃樹地圖框架
+ChestnutMapFrame.name=栗樹地圖框架
+CitrusMapFrame.name=柑橘樹地圖框架
+EbonyMapFrame.name=烏檀樹地圖框架
+GreenheartMapFrame.name=樟樹地圖框架
+KapokMapFrame.name=木棉地圖框架
+LarchMapFrame.name=落葉松地圖框架
+LimeMapFrame.name=菩提樹地圖框架
+MahoeMapFrame.name=白皮樹地圖框架
+MahoganyMapFrame.name=桃花心木地圖框架
+MapleMapFrame.name=楓樹地圖框架
+PalmMapFrame.name=棕櫚樹地圖框架
+PapayaMapFrame.name=木瓜樹地圖框架
+PineMapFrame.name=松樹地圖框架
+PlumMapFrame.name=李子樹地圖框架
+PopularMapFrame.name=楊樹木地圖框架
+SequoiaMapFrame.name=紅杉地圖框架
+TeakMapFrame.name=柚木地圖框架
+WalnutMapFrame.name=核桃樹地圖框架
+WengeMapFrame.name=崖豆樹地圖框架
+WillowMapFrame.name=柳樹地圖框架
+
+AcaciaSeat.name=金合歡座椅
+BalsaSeat.name=巴爾杉座椅
+BaobabSeat.name=猴麵包樹座椅
+CherrySeat.name=櫻桃樹座椅
+ChestnutSeat.name=栗樹座椅
+CitrusSeat.name=柑橘樹座椅
+EbonySeat.name=烏檀樹座椅
+GreenheartSeat.name=樟樹座椅
+KapokSeat.name=木棉座椅
+LarchSeat.name=落葉松座椅
+LimeSeat.name=菩提樹座椅
+MahoeSeat.name=白皮樹座椅
+MahoganySeat.name=桃花心木座椅
+MapleSeat.name=楓樹座椅
+PalmSeat.name=棕櫚樹座椅
+PapayaSeat.name=木瓜樹座椅
+PineSeat.name=松樹座椅
+PlumSeat.name=李子樹座椅
+PopularSeat.name=楊樹木座椅
+SequoiaSeat.name=紅杉座椅
+TeakSeat.name=柚木座椅
+WalnutSeat.name=核桃樹座椅
+WengeSeat.name=崖豆樹Seat
+WillowSeat.name=柳樹座椅
+
+item.seatBack.AcaciaSeatBack.name=金合歡座椅背
+item.seatBack.BalsaSeatBack.name=巴爾杉座椅背
+item.seatBack.BaobabSeatBack.name=猴麵包樹座椅背
+item.seatBack.CherrySeatBack.name=櫻桃樹座椅背
+item.seatBack.ChestnutSeatBack.name=栗樹座椅背
+item.seatBack.CitrusSeatBack.name=柑橘樹座椅背
+item.seatBack.EbonySeatBack.name=烏檀樹座椅背
+item.seatBack.GreenheartSeatBack.name=樟樹座椅背
+item.seatBack.KapokSeatBack.name=木棉座椅背
+item.seatBack.LarchSeatBack.name=落葉松座椅背
+item.seatBack.LimeSeatBack.name=菩提樹座椅背
+item.seatBack.MahoeSeatBack.name=白皮樹座椅背
+item.seatBack.MahoganySeatBack.name=桃花心木座椅背
+item.seatBack.MapleSeatBack.name=楓樹座椅背
+item.seatBack.Palm座椅背.name=棕櫚樹座椅背
+item.seatBack.PapayaSeatBack.name=木瓜樹座椅背
+item.seatBack.PineSeatBack.name=松樹座椅背
+item.seatBack.PlumSeatBack.name=李子樹座椅背
+item.seatBack.PopularSeatBack.name=楊樹木座椅背
+item.seatBack.SequoiaSeatBack.name=紅杉座椅背
+item.seatBack.TeakSeatBack.name=柚木座椅背
+item.seatBack.WalnutSeatBack.name=核桃樹座椅背
+item.seatBack.WengeSeatBack.name=崖豆樹座椅背
+item.seatBack.WillowSeatBack.name=柳樹座椅背
+
+AcaciaBookcase.name=金合歡書架
+BalsaBookcase.name=巴爾杉書架
+BaobabBookcase.name=猴麵包樹書架
+CherryBookcase.name=櫻桃樹書架
+ChestnutBookcase.name=栗樹書架
+CitrusBookcase.name=柑橘樹書架
+EbonyBookcase.name=烏檀樹書架
+GreenheartBookcase.name=樟樹書架
+KapokBookcase.name=木棉書架
+LarchBookcase.name=落葉松書架
+LimeBookcase.name=菩提樹書架
+MahoeBookcase.name=白皮樹書架
+MahoganyBookcase.name=桃花心木書架
+MapleBookcase.name=楓樹書架
+PalmBookcase.name=棕櫚樹書架
+PapayaBookcase.name=木瓜樹書架
+PineBookcase.name=松樹書架
+PlumBookcase.name=李子樹書架
+PopularBookcase.name=楊樹木書架
+SequoiaBookcase.name=紅杉書架
+TeakBookcase.name=柚木書架
+WalnutBookcase.name=核桃樹書架
+WengeBookcase.name=崖豆樹書架
+WillowBookcase.name=柳樹書架
+
+AcaciaDesk.name=金合歡台桌
+BalsaDesk.name=巴爾杉台桌
+BaobabDesk.name=猴麵包樹台桌
+CherryDesk.name=櫻桃樹台桌
+ChestnutDesk.name=栗樹台桌
+CitrusDesk.name=柑橘樹台桌
+EbonyDesk.name=烏檀樹台桌
+GreenheartDesk.name=樟樹台桌
+KapokDesk.name=木棉台桌
+LarchDesk.name=落葉松台桌
+LimeDesk.name=菩提樹台桌
+MahoeDesk.name=白皮樹台桌
+MahoganyDesk.name=桃花心木台桌
+MapleDesk.name=楓樹台桌
+PalmDesk.name=棕櫚樹台桌
+PapayaDesk.name=木瓜樹台桌
+PineDesk.name=松樹台桌
+PlumDesk.name=李子樹台桌
+PopularDesk.name=楊樹木台桌
+SequoiaDesk.name=紅杉台桌
+TeakDesk.name=柚木台桌
+WalnutDesk.name=核桃樹台桌
+WengeDesk.name=崖豆樹台桌
+WillowDesk.name=柳樹台桌
+
+AcaciaShelf.name=金合歡架子
+BalsaShelf.name=巴爾杉架子
+BaobabShelf.name=猴麵包樹架子
+CherryShelf.name=櫻桃樹架子
+ChestnutShelf.name=栗樹架子
+CitrusShelf.name=柑橘樹架子
+EbonyShelf.name=烏檀樹架子
+GreenheartShelf.name=樟樹架子
+KapokShelf.name=木棉架子
+LarchShelf.name=落葉松架子
+LimeShelf.name=菩提樹架子
+MahoeShelf.name=白皮樹架子
+MahoganyShelf.name=桃花心木架子
+MapleShelf.name=楓樹架子
+PalmShelf.name=棕櫚樹架子
+PapayaShelf.name=木瓜樹架子
+PineShelf.name=松樹架子
+PlumShelf.name=李子樹架子
+PopularShelf.name=楊樹木架子
+SequoiaShelf.name=紅杉架子
+TeakShelf.name=柚木架子
+WalnutShelf.name=核桃樹架子
+WengeShelf.name=崖豆樹架子
+WillowShelf.name=柳樹架子
+
+AcaciaLabel.name=金合歡標籤
+BalsaLabel.name=巴爾杉標籤
+BaobabLabel.name=猴麵包樹標籤
+CherryLabel.name=櫻桃樹標籤
+ChestnutLabel.name=栗樹標籤
+CitrusLabel.name=柑橘樹標籤
+EbonyLabel.name=烏檀樹標籤
+GreenheartLabel.name=樟樹標籤
+KapokLabel.name=木棉標籤
+LarchLabel.name=落葉松標籤
+LimeLabel.name=菩提樹標籤
+MahoeLabel.name=白皮樹標籤
+MahoganyLabel.name=桃花心木標籤
+MapleLabel.name=楓樹標籤
+PalmLabel.name=棕櫚樹標籤
+PapayaLabel.name=木瓜樹標籤
+PineLabel.name=松樹標籤
+PlumLabel.name=李子樹標籤
+PopularLabel.name=楊樹木標籤
+SequoiaLabel.name=紅杉標籤
+TeakLabel.name=柚木標籤
+WalnutLabel.name=核桃樹標籤
+WengeLabel.name=崖豆樹標籤
+WillowLabel.name=柳樹標籤
+
+AcaciaPotionShelf.name=金合歡藥水架
+BalsaPotionShelf.name=巴爾杉藥水架
+BaobabPotionShelf.name=猴麵包樹藥水架
+CherryPotionShelf.name=櫻桃樹藥水架
+ChestnutPotionShelf.name=栗樹藥水架
+CitrusPotionShelf.name=柑橘樹藥水架
+EbonyPotionShelf.name=烏檀樹藥水架
+GreenheartPotionShelf.name=樟樹藥水架
+KapokPotionShelf.name=木棉藥水架
+LarchPotionShelf.name=落葉松藥水架
+LimePotionShelf.name=菩提樹藥水架
+MahoePotionShelf.name=白皮樹藥水架
+MahoganyPotionShelf.name=桃花心木藥水架
+MaplePotionShelf.name=楓樹藥水架
+PalmPotionShelf.name=棕櫚樹藥水架
+PapayaPotionShelf.name=木瓜樹藥水架
+PinePotionShelf.name=松樹藥水架
+PlumPotionShelf.name=李子樹藥水架
+PopularPotionShelf.name=楊樹木藥水架
+SequoiaPotionShelf.name=紅杉藥水架
+TeakPotionShelf.name=柚木藥水架
+WalnutPotionShelf.name=核桃樹藥水架
+WengePotionShelf.name=崖豆樹藥水架
+WillowPotionShelf.name=柳樹藥水架
+
+AcaciaTable.name=金合歡桌子
+BalsaTable.name=巴爾杉桌子
+BaobabTable.name=猴麵包樹桌子
+CherryTable.name=櫻桃樹桌子
+ChestnutTable.name=栗樹桌子
+CitrusTable.name=柑橘樹桌子
+EbonyTable.name=烏檀樹桌子
+GreenheartTable.name=樟樹桌子
+KapokTable.name=木棉桌子
+LarchTable.name=落葉松桌子
+LimeTable.name=菩提樹桌子
+MahoeTable.name=白皮樹桌子
+MahoganyTable.name=桃花心木桌子
+MapleTable.name=楓樹桌子
+PalmTable.name=棕櫚樹桌子
+PapayaTable.name=木瓜樹桌子
+PineTable.name=松樹桌子
+PlumTable.name=李子樹桌子
+PopularTable.name=楊樹木桌子
+SequoiaTable.name=紅杉桌子
+TeakTable.name=柚木桌子
+WalnutTable.name=核桃樹桌子
+WengeTable.name=崖豆樹桌子
+WillowTable.name=柳樹桌子
+
+AcaciaToolrack.name=金合歡工具架
+BalsaToolrack.name=巴爾杉工具架
+BaobabToolrack.name=猴麵包樹工具架
+CherryToolrack.name=櫻桃樹工具架
+ChestnutToolrack.name=栗樹工具架
+CitrusToolrack.name=柑橘樹工具架
+EbonyToolrack.name=烏檀樹工具架
+GreenheartToolrack.name=樟樹工具架
+KapokToolrack.name=木棉Tool Rack
+LarchToolrack.name=落葉松工具架
+LimeToolrack.name=菩提樹工具架
+MahoeToolrack.name=白皮樹工具架
+MahoganyToolrack.name=桃花心木工具架
+MapleToolrack.name=楓樹工具架
+PalmToolrack.name=棕櫚樹工具架
+PapayaToolrack.name=木瓜樹工具架
+PineToolrack.name=松樹工具架
+PlumToolrack.name=李子樹工具架
+PopularToolrack.name=楊樹木工具架
+SequoiaToolrack.name=紅杉工具架
+TeakToolrack.name=柚木工具架
+WalnutToolrack.name=核桃樹工具架
+WengeToolrack.name=崖豆樹工具架
+WillowToolrack.name=柳樹工具架
+
+AcaciaCase.name=金合歡展示盒
+BalsaCase.name=巴爾杉展示盒
+BaobabCase.name=猴麵包樹展示盒
+CherryCase.name=櫻桃樹展示盒
+ChestnutCase.name=栗樹展示盒
+CitrusCase.name=柑橘樹展示盒
+EbonyCase.name=烏檀樹展示盒
+GreenheartCase.name=樟樹展示盒
+KapokCase.name=木棉展示盒
+LarchCase.name=落葉松展示盒
+LimeCase.name=菩提樹展示盒
+MahoeCase.name=白皮樹展示盒
+MahoganyCase.name=桃花心木展示盒
+MapleCase.name=楓樹展示盒
+PalmCase.name=棕櫚樹展示盒
+PapayaCase.name=木瓜樹展示盒
+PineCase.name=松樹展示盒
+PlumCase.name=李子樹展示盒
+PopularCase.name=楊樹木展示盒
+SequoiaCase.name=紅杉展示盒
+TeakCase.name=柚木展示盒
+WalnutCase.name=核桃樹展示盒
+WengeCase.name=崖豆樹展示盒
+WillowCase.name=柳樹展示盒
+
+language.name=Traditional Chinese 
+language.region=TW
+language.code=zh_TW
+
+// Tab Names
+itemGroup.BiblioWoodsNatura=收藏館:Natura版
+
+// BiblioCraft v1.8.x additions
+BloodwoodClock.name=血樹時鐘
+DarkwoodClock.name=黑暗樹時鐘
+EucalyptusClock.name=桉樹時鐘
+FusewoodClock.name=熔融樹時鐘
+GhostwoodClock.name=幽魂樹時鐘
+HopseedClock.name=車桑子樹時鐘
+MapleClock.name=楓樹時鐘
+PurpleheartClock.name=紫檀樹時鐘
+RedwoodClock.name=紅木時鐘
+SilverbellClock.name=銀鈴樹時鐘
+SakuraClock.name=櫻花樹時鐘
+TigerClock.name=核桃樹時鐘
+WillowClock.name=柳樹時鐘
+
+BloodwoodPaintingFrame.name=血樹畫框
+DarkwoodPaintingFrame.name=黑暗樹畫框
+EucalyptusPaintingFrame.name=桉樹畫框
+FusewoodPaintingFrame.name=熔融樹畫框
+GhostwoodPaintingFrame.name=幽魂樹畫框
+HopseedPaintingFrame.name=車桑子樹畫框
+MaplePaintingFrame.name=楓樹畫框
+PurpleheartPaintingFrame.name=紫檀樹畫框
+RedwoodPaintingFrame.name=紅木畫框
+SilverbellPaintingFrame.name=銀鈴樹畫框
+SakuraPaintingFrame.name=櫻花樹畫框
+TigerPaintingFrame.name=核桃樹畫框
+WillowPaintingFrame.name=柳樹畫框
+////
+
+BloodwoodFancyWorkbench.name=血樹精緻工作臺
+DarkwoodFancyWorkbench.name=黑暗樹精緻工作臺
+EucalyptusFancyWorkbench.name=桉樹精緻工作臺
+FusewoodFancyWorkbench.name=熔融樹精緻工作臺
+GhostwoodFancyWorkbench.name=熔融樹精緻工作臺
+HopseedFancyWorkbench.name=車桑子樹精緻工作臺
+MapleFancyWorkbench.name=楓樹精緻工作臺
+PurpleheartFancyWorkbench.name=紫檀樹精緻工作臺
+RedwoodFancyWorkbench.name=紅木樹精緻工作臺
+SilverbellFancyWorkbench.name=銀鈴樹精緻工作臺
+SakuraFancyWorkbench.name=櫻花樹精緻工作臺
+TigerFancyWorkbench.name=核桃樹精緻工作臺
+WillowFancyWorkbench.name=柳樹精緻工作臺
+
+BloodwoodFancySign.name=血樹精緻木牌
+DarkwoodFancySign.name=黑暗樹精緻木牌
+EucalyptusFancySign.name=桉樹精緻木牌
+FusewoodFancySign.name=熔融樹精緻木牌
+GhostwoodFancySign.name=熔融樹精緻木牌
+HopseedFancySign.name=車桑子樹精緻木牌
+MapleFancySign.name=楓樹精緻木牌
+PurpleheartFancySign.name=紫檀樹精緻木牌
+RedwoodFancySign.name=紅木樹精緻木牌
+SilverbellFancySign.name=銀鈴樹精緻木牌
+SakuraFancySign.name=櫻花樹精緻木牌
+TigerFancySign.name=核桃樹精緻木牌
+WillowFancySign.name=柳樹精緻木牌
+
+BloodwoodMapFrame.name=血樹地圖框架
+DarkwoodMapFrame.name=黑暗樹地圖框架
+EucalyptusMapFrame.name=桉樹地圖框架
+FusewoodMapFrame.name=熔融樹地圖框架
+GhostwoodMapFrame.name=熔融樹地圖框架
+HopseedMapFrame.name=車桑子樹地圖框架
+MapleMapFrame.name=楓樹地圖框架
+PurpleheartMapFrame.name=紫檀樹地圖框架
+RedwoodMapFrame.name=紅木樹地圖框架
+SilverbellMapFrame.name=銀鈴樹地圖框架
+SakuraMapFrame.name=櫻花樹地圖框架
+TigerMapFrame.name=核桃樹地圖框架
+WillowMapFrame.name=柳樹地圖框架
+
+BloodwoodSeat.name=血樹座椅
+DarkwoodSeat.name=黑暗樹座椅
+EucalyptusSeat.name=桉樹座椅
+FusewoodSeat.name=熔融樹座椅
+GhostwoodSeat.name=幽魂樹座椅
+HopseedSeat.name=車桑子樹座椅
+MapleSeat.name=楓樹座椅
+PurpleheartSeat.name=紫檀樹座椅
+RedwoodSeat.name=紅木樹座椅
+SilverbellSeat.name=銀鈴樹座椅
+SakuraSeat.name=櫻花樹座椅
+TigerSeat.name=核桃樹座椅
+WillowSeat.name=柳樹座椅
+
+item.seatBack.BloodwoodSeatBack.name=血樹座椅背
+item.seatBack.DarkwoodSeatBack.name=黑暗樹座椅背
+item.seatBack.EucalyptusSeatBack.name=桉樹座椅背
+item.seatBack.FusewoodSeatBack.name=熔融樹座椅背
+item.seatBack.GhostwoodSeatBack.name=幽魂樹座椅背
+item.seatBack.HopseedSeatBack.name=車桑子樹座椅背
+item.seatBack.MapleSeatBack.name=楓樹座椅背
+item.seatBack.PurpleheartSeatBack.name=紫檀樹座椅背
+item.seatBack.RedwoodSeatBack.name=紅木樹座椅背
+item.seatBack.SilverbellSeatBack.name=銀鈴樹座椅背
+item.seatBack.SakuraSeatBack.name=櫻花樹座椅背
+item.seatBack.TigerSeatBack.name=核桃樹座椅背
+item.seatBack.WillowSeatBack.name=柳樹座椅背
+
+BloodwoodBookcase.name=血樹書架
+DarkwoodBookcase.name=黑暗樹書架
+EucalyptusBookcase.name=桉樹書架
+FusewoodBookcase.name=熔融樹書架
+GhostwoodBookcase.name=幽魂樹書架
+HopseedBookcase.name=車桑子樹書架
+MapleBookcase.name=楓樹書架
+PurpleheartBookcase.name=紫檀樹書架
+RedwoodBookcase.name=紅木樹書架
+SilverbellBookcase.name=銀鈴樹書架
+SakuraBookcase.name=櫻花樹書架
+TigerBookcase.name=核桃樹書架
+WillowBookcase.name=柳樹書架
+
+BloodwoodDesk.name=血樹台桌
+DarkwoodDesk.name=黑暗樹台桌
+EucalyptusDesk.name=桉樹台桌
+FusewoodDesk.name=熔融樹台桌
+GhostwoodDesk.name=幽魂樹台桌
+HopseedDesk.name=車桑子樹台桌
+MapleDesk.name=楓樹台桌
+PurpleheartDesk.name=紫檀樹台桌
+RedwoodDesk.name=紅木樹台桌
+SilverbellDesk.name=銀鈴樹台桌
+SakuraDesk.name=櫻花樹台桌
+TigerDesk.name=核桃樹台桌
+WillowDesk.name=柳樹台桌
+
+BloodwoodCase.name=血樹展示框
+DarkwoodCase.name=黑暗樹展示框
+EucalyptusCase.name=桉樹展示框
+FusewoodCase.name=熔融樹展示框
+GhostwoodCase.name=幽魂樹展示框
+HopseedCase.name=車桑子樹展示框
+MapleCase.name=楓樹展示框
+PurpleheartCase.name=紫檀樹展示框
+RedwoodCase.name=紅木樹展示框
+SilverbellCase.name=銀鈴樹展示框
+SakuraCase.name=櫻花樹展示框
+TigerCase.name=核桃樹展示框
+WillowCase.name=柳樹展示框
+
+BloodwoodShelf.name=血樹架子
+DarkwoodShelf.name=黑暗樹架子
+EucalyptusShelf.name=桉樹架子
+FusewoodShelf.name=熔融樹架子
+GhostwoodShelf.name=幽魂樹架子
+HopseedShelf.name=車桑子樹架子
+MapleShelf.name=楓樹架子
+PurpleheartShelf.name=紫檀樹架子
+RedwoodShelf.name=紅木樹架子
+SilverbellShelf.name=銀鈴樹架子
+SakuraShelf.name=櫻花樹架子
+TigerShelf.name=核桃樹架子
+WillowShelf.name=柳樹架子
+
+BloodwoodLabel.name=血樹標籤
+DarkwoodLabel.name=黑暗樹標籤
+EucalyptusLabel.name=桉樹標籤
+FusewoodLabel.name=熔融樹標籤
+GhostwoodLabel.name=幽魂樹標籤
+HopseedLabel.name=車桑子樹標籤
+MapleLabel.name=楓樹標籤
+PurpleheartLabel.name=紫檀樹標籤
+RedwoodLabel.name=紅木樹標籤
+SilverbellLabel.name=銀鈴樹標籤
+SakuraLabel.name=櫻花樹標籤
+TigerLabel.name=核桃樹標籤
+WillowLabel.name=柳樹標籤
+
+BloodwoodPotionShelf.name=血樹藥水架
+DarkwoodPotionShelf.name=黑暗樹藥水架
+EucalyptusPotionShelf.name=桉樹藥水架
+FusewoodPotionShelf.name=熔融樹藥水架
+GhostwoodPotionShelf.name=幽魂樹藥水架
+HopseedPotionShelf.name=車桑子樹藥水架
+MaplePotionShelf.name=楓樹藥水架
+PurpleheartPotionShelf.name=紫檀樹藥水架
+RedwoodPotionShelf.name=紅木樹藥水架
+SilverbellPotionShelf.name=銀鈴樹藥水架
+SakuraPotionShelf.name=櫻花樹藥水架
+TigerPotionShelf.name=核桃樹藥水架
+WillowPotionShelf.name=柳樹藥水架
+
+BloodwoodTable.name=血樹桌子
+DarkwoodTable.name=黑暗樹桌子
+EucalyptusTable.name=桉樹桌子
+FusewoodTable.name=熔融樹桌子
+GhostwoodTable.name=幽魂樹桌子
+HopseedTable.name=車桑子樹桌子
+MapleTable.name=楓樹桌子
+PurpleheartTable.name=紫檀樹桌子
+RedwoodTable.name=紅木樹桌子
+SilverbellTable.name=銀鈴樹桌子
+SakuraTable.name=櫻花樹桌子
+TigerTable.name=核桃樹桌子
+WillowTable.name=柳樹桌子
+
+BloodwoodToolrack.name=血樹工具架
+DarkwoodToolrack.name=黑暗樹工具架
+EucalyptusToolrack.name=桉樹工具架
+FusewoodToolrack.name=熔融樹工具架
+GhostwoodToolrack.name=幽魂樹工具架
+HopseedToolrack.name=車桑子樹工具架
+MapleToolrack.name=楓樹工具架
+PurpleheartToolrack.name=紫檀樹工具架
+RedwoodToolrack.name=紅木樹工具架
+SilverbellToolrack.name=銀鈴樹工具架
+SakuraToolrack.name=櫻花樹工具架
+TigerToolrack.name=核桃樹工具架
+WillowToolrack.name=柳樹工具架
+
+

@@ -1,0 +1,709 @@
+﻿# Items
+item.shardSliver.0.name=風之裂片
+item.shardSliver.1.name=火之裂片
+item.shardSliver.2.name=水之裂片
+item.shardSliver.3.name=地之裂片
+item.shardSliver.4.name=秩序裂片
+item.shardSliver.5.name=混沌裂片
+item.crystalEye.name=水晶之眼
+item.crystalEntityEye.name=獸靈之眼
+item.avaricePearl.0.name=貪婪珍珠
+item.avaricePearl.1.name=吝物珍珠
+item.avaricePearl.15.name=
+item.enchantedPaper.0.name=附魔紙
+item.enchantedPaper.1.name=符文白名單
+item.enchantedPaper.2.name=符文黑名單
+item.enchantedPaper.3.name=附魔本
+item.crystalBrain.0.name=水晶之腦:風
+item.crystalBrain.1.name=水晶之腦:火
+item.crystalBrain.2.name=水晶之腦:水
+item.crystalBrain.3.name=水晶之腦:地
+item.crystalBrain.4.name=水晶之腦:秩序
+item.crystalBrain.5.name=水晶之腦:混沌
+item.ingredient.0.name=匯流圓盤
+item.horizontal.0.name=貪婪珍珠碎片
+item.edible.0.name=莫卡特斯汞劑
+item.foodstuff.0.name=毒菇湯
+item.golemLinker.name=傀儡綁定鈴鐺
+item.baubleEnderDisjunction.name=影裂指環
+item.baubleEnderDisjunction.1.name=影痕指環
+item.netherHeart.name=灰燼之心
+item.autoHandMirror.name=饕餮手鏡
+item.creativeTool.0.name=冥想之帽
+item.focusCrafting.name=法杖核心:合成
+item.tallyLens.0.name=計數盒透鏡:透明
+item.tallyLens.1.name=計數盒透鏡:零散
+item.tallyLens.2.name=計數盒透鏡:產物
+item.glyph.0.name=水之印泥
+item.glyph.1.name=符石:虛空
+item.glyph.2.name=符石:泯滅
+item.glyph.3.name=符石:虹吸
+item.glyph.4.name=符石:嫉妒
+item.glyph.5.name=符石:節制
+item.glyph.6.name=符石:貯存
+item.glyph.7.name=符石:狂飲
+item.glyph.8.name=符石:庫容
+item.glyph.9.name=符石:汲奶
+item.golemWorkbenchUpgrade.0.name=工作臺升級:風
+item.golemWorkbenchUpgrade.1.name=工作臺升級:火
+item.golemWorkbenchUpgrade.2.name=工作臺升級:水
+item.golemWorkbenchUpgrade.3.name=工作臺升級:地
+item.golemWorkbenchUpgrade.4.name=工作臺升級:秩序
+item.golemWorkbenchUpgrade.5.name=工作臺升級:混沌
+item.phialExtra.name=玻璃安瓿(附魔精華液)
+
+item.bucketMushroom.name=桶裝蘑菇湯
+item.bucketVishroom.name=桶裝毒菇湯
+
+# Blocks
+tile.blockTorchInversion.name=紅石轉換火把
+tile.blockTorchInversion_off.name=紅石轉換火把
+tile.blockRedcrystal.name=紅晶
+tile.blockRedcrystalAmp.name=增幅紅晶
+tile.blockRedcrystalDim.name=弱化紅晶
+tile.blockRedcrystalDense.name=鈍化紅晶
+tile.blockRedcrystalRes.name=共鳴紅晶
+tile.blockRedcrystalMerc.name=墨丘利紅晶
+tile.blockRemoteComparator.name=遠端比較器
+tile.blockVisReader.name=要素讀取器
+tile.blockHourglass.name=沙漏
+tile.blockHourglassMagic.name=魔法沙漏
+tile.blockGreedyChest.name=貪婪箱子
+tile.blockEagerChest.name=易物箱子
+tile.blockTenaciousChest.name=吝物箱子
+tile.blockHungryMaw.name=饕餮之洞
+tile.blockFinicalMaw.name=深究之洞
+tile.blockPhenomenon.name=奇跡
+tile.blockTally.name=計數盒
+tile.blockTallyLensWorld.name=計數盒(透鏡:零散
+tile.blockTallyLensDrops.name=計數盒(透鏡:產物)
+tile.blockGolemInhibitor.name=傀儡抑制器
+tile.blockEntitySignal.name=生物感應器
+tile.blockThaumostaticSpire.name=奧法尖塔
+tile.blockThaumostaticPylon.0.name=奧法能量柱
+tile.blockThaumostaticPylon.1.name=奧法控制器
+tile.blockEssentiaLocus.name=源質聚核
+tile.blockEssentiaLocusAggregator.name=源質聚合器
+tile.blockInventarium.name=庫存核心
+tile.blockUnseenScribe.name=容器記錄桌
+tile.blockScribePointer.name=記錄之眼
+tile.blockBookshelfEnchanted.0.name=附魔書架
+tile.blockBookshelfEnchanted.1.name=蘊魔書架
+# tile.blockBookshelfEnchanted.1.name=Mnemonic Bookshelf
+# tile.blockBookshelfEnchanted.2.name=Extradimensional Bookshelf
+tile.blockGolemTaskmaster.name=傀儡指示器
+tile.blockReqTome.name=申請台
+tile.blockGolemWorkbench.name=傀儡工作臺
+tile.blockThirstyTank.name=渴飲儲罐
+tile.blockCreativeJar.3.name=無盡之罐
+tile.blockNethermind.name=下界之核
+tile.blockRunedObsidian.name=符文黑曜石
+tile.blockNetherRune.0.name=符文黑曜石(岩石)
+tile.blockNetherRune.1.name=符文黑曜石(熾海)
+tile.blockNetherRune.2.name=符文黑曜石(晶體)
+tile.blockNetherRune.3.name=符文黑曜石(光明)
+tile.blockNetherRune.4.name=符文黑曜石(靈魂)
+tile.blockNetherRune.5.name=符文黑曜石(砂礫)
+tile.blockNetherRune.6.name=符文黑曜石(迅捷)
+tile.blockNetherRune.8.name=符文黑曜石(岩石)
+tile.blockNetherRune.9.name=符文黑曜石(熾海)
+tile.blockNetherRune.10.name=符文黑曜石(晶體)
+tile.blockNetherRune.11.name=符文黑曜石(光明)
+tile.blockNetherRune.12.name=符文黑曜石(靈魂)
+tile.blockNetherRune.13.name=符文黑曜石 (砂礫)
+tile.blockNetherRuneMob.0.name=符文黑曜石(僵屍)
+tile.blockNetherRuneMob.1.name=符文黑曜石(烈焰人)
+tile.blockNetherRuneMob.2.name=符文黑曜石(惡魂)
+tile.blockNetherRuneMob.3.name=符文黑曜石(骷髏)
+tile.blockNetherRuneMob.4.name=符文黑曜石(史萊姆)
+tile.blockNetherRuneMob.5.name=符文黑曜石(蝙蝠)
+tile.blockNetherRuneMob.6.name=符文黑曜石(精靈)
+tile.blockNetherRuneMob.8.name=符文黑曜石(僵屍)
+tile.blockNetherRuneMob.9.name=符文黑曜石(烈焰人)
+tile.blockNetherRuneMob.10.name=符文黑曜石(惡魂)
+tile.blockNetherRuneMob.11.name=符文黑曜石(骷髏)
+tile.blockNetherRuneMob.12.name=符文黑曜石(史萊姆)
+tile.blockNetherRuneMob.13.name=符文黑曜石(蝙蝠)
+tile.blockNetherRuneMob.14.name=符文黑曜石(精靈)
+tile.blockAmnesiac.name=遺忘之石
+tile.blockXPStone.name=靈魂之石
+tile.blockXPJar.name=罐裝附魔精華液
+tile.blockMobLure.name=塞壬之餌
+tile.blockDimensionLure.name=異界之餌
+tile.blockTranslucent.0.name=閃耀琥珀方塊
+tile.blockTranslucent.1.name=閃耀琥珀磚塊
+tile.blockMetalGlow.0.name=記憶方塊
+tile.blockMetalGlow.1.name=記憶方塊
+tile.blockFluidMilk.name=牛奶
+tile.blockFluidMushroom.name=蘑菇湯
+tile.blockFluidVishroom.name=毒菇湯
+tile.blockBoiler.name=煉金鍋爐
+tile.blockMirrorAlt.0.name=聚合魔境
+
+# Fluids
+fluid.fluidMilk=牛奶
+fluid.fluidMushroom=蘑菇湯
+fluid.fluidVishroom=毒菇湯
+
+# Entities
+entity.Automagy.XPOrbSuppressed.name=遺忘的經驗
+entity.Automagy.EntityItemDelayedFall.name=懸浮物品
+entity.Automagy.WispNether.name=地獄精靈
+
+# Research
+tc.research_category.AUTOMAGY=自動化魔法
+
+Automagy.research_name.SLIVERS=魔力裂片
+Automagy.research_text.SLIVERS=碎片的碎片
+Automagy.research_page.SLIVERS.1=你發現了種方法將各種魔力碎片碎成更小的部分.當你無需使用完整的碎片(如果可以稱其為完整的)而浪費在手頭工作時,這很有用.<BR>不幸的是,將它們重組為碎片實為難事.因此製造一個碎片會比粉碎一個消耗更多的要素.
+
+Automagy.research_name.SLIVERS_TRAVEL=旅行者鋪路石
+Automagy.research_text.SLIVERS_TRAVEL=當其走得夠遠時
+Automagy.research_page.SLIVERS_TRAVEL.1=魔力裂片可用于代替碎片合成旅行者鋪路石.
+
+Automagy.research_name.SLIVERS_WARDING=守衛者鋪路石
+Automagy.research_text.SLIVERS_WARDING=守護區域
+Automagy.research_page.SLIVERS_WARDING.1=魔力裂片可用于代替碎片合成守衛者鋪路石.
+
+
+Automagy.research_name.REDSTONETHEORY=紅石學
+Automagy.research_text.REDSTONETHEORY=魔法還是科技?
+Automagy.research_page.REDSTONETHEORY.1=紅石擁有許多不尋常的特性.它傳輸信號和構建電路的能力讓人們認為它是某種平凡的科技.實際上,紅石的力量正是各種科技所依賴的基礎.然而,精通奧術魔法的人深知它的特性對各種魔法來說都是極其重要的,活塞可能就是個最知名的例子.<BR>因為這些原因,紅石常被看做為魔法與科技之間的天然橋樑.它確實是,但神秘使們知道遠不止這些:從最基礎的層面來講,紅石完全不能算作平凡的材料.
+Automagy.research_page.REDSTONETHEORY.2=即使其作為複雜電路或是機器設備的一部分而運作時,進一步的研究說明它的特性更接近於魔法.<BR>你打算充分利用這種奇妙的物質.至此,你設計了些助你在日常中更好地運用"紅石邏輯"的簡單設備.<BR>你確定進一步的研究能產生更大的發現.實際上,這或許是完整的新神秘學科的基礎,它能讓神秘使們實現更智慧的自動化.你覺得應該稱它為§5自動化魔法§r.
+Automagy.research_page.REDSTONETHEORY.3=§l  §n紅石轉換火把§r<BR>紅石火把對紅石信號的轉化能力很有用,但你發現它會在兩態之間轉變.即便最弱的信號輸入了火把附著的方塊也會使其熄滅,並且當其亮著時總會發出滿強度的紅石信號.但若你想要的是真正意義上的轉化信號又怎麼樣?不僅僅是15轉為0,也包括10轉為5,3轉為12,以此類推?<BR>你利用基礎的神秘原理做出了個更加有序的,不僅僅是15和0強度之間變換的紅石火把.
+Automagy.research_page.REDSTONETHEORY.4=§l         §n沙漏§r<BR>紅石沙漏是個簡單實用的裝置,讓你能調節紅石信號傳遞的時間.<BR>當其被啟動時(通過右擊或者紅石信號),沙漏就會顛倒使得沙子漏下.當其完全漏完時就會輸出一個紅石脈衝.如果紅石比較器的後側貼著沙漏,它就會在沙子下落時輸出一個強度持續增大的信號.<BR>沙漏從左右兩側輸出信號.其他面接收信號.<BR>用法杖或木棍右擊沙漏即可調節時長.
+Automagy.research_page.REDSTONETHEORY.5=儘管計時十分精確但只能以5秒為增量調節,最高不能超過60秒,但你知道這個設備將成為更好發明的基石.
+
+Automagy.research_name.MAGICHOURGLASS=魔法沙漏
+Automagy.research_text.MAGICHOURGLASS=用魔法來計時
+Automagy.research_page.MAGICHOURGLASS.1=你所設計的沙漏在信號延時和紅石脈衝的產生上來說很實用,但它還缺些什麼比如重複工作的能力.並且有時候你需要它在被啟動時從零開始計時,但對普通沙漏而言這顯然是不可能的,因為它們會用一端的沙子繼續計時.<BR>為了彌補這些缺陷,你用魔法賦予了沙漏反復倒置和將沙子瞬間移回上端(重新計時)的能力.如果你有意,它亦可將沙子移至底端,提前結束計時而不從沙漏輸出信號
+Automagy.research_page.MAGICHOURGLASS.2=(亦會根據設置停止迴圈).<BR>此外,還有多種不同的信號模式.§l脈衝§r模式是標準的.§l持續§r模式意味著在沙子下落時沙漏會一直輸出信號.§l交替模式§r與其類似但只會在50%的情況下輸出信號.§l反脈衝§r模式類似於持續模式,不過在沙漏倒置的時候會有短暫的間隔不輸出信號(如果設置了迴圈的話). §l禁用§r意味著不會輸出任何信號.<BR>沙漏收到信號的反應(除了左右面以外的任意一側)也能改變.預設情況下,沙漏每次收到信號時都會顛倒.
+Automagy.research_page.MAGICHOURGLASS.3=另外的選項就是讓它僅在有信號或無信號時運行.它也能設置為完全無視紅石信號.<BR>最後,相比之前,現在你可以每次調節5單位的時間並且它的最長計時也比紅石沙漏要長.你需要用法杖來這麼做(右擊);因為這可不是插根棍子就能調整的機械裝置.
+
+Automagy.research_name.REDCRYSTAL=紅晶
+Automagy.research_text.REDCRYSTAL=這就是魔法.
+Automagy.research_page.REDCRYSTAL.1=你發現某些材料一旦通過特殊方法結晶化就能變得更易於用魔法控制.新的晶體結構會重組其構造,而在某些情況下,可將信號印於其上.<BR>這是你在研究紅石粉時的發現.最終你得到了紅石水晶-或者稱為§l紅晶§r-在調整選擇方向時更簡單.它能放在方塊的任何一面.用你的法杖右擊紅晶的某個方向就能增加或移除與鄰近方向的連接.
+Automagy.research_page.REDCRYSTAL.2=除了將信號傳遞給相鄰紅晶方塊之外,它也會將信號傳遞給轉角處沒有直接接觸的紅晶,前提是它們都附著在同一方塊上並且相鄰區域沒有阻隔.<IMG>automagy:textures/gui/redcrystal-corner.png:0:0:255:208:.5</IMG>
+
+Automagy.research_name.REDCRYSTAL_AMP=增幅紅晶
+Automagy.research_text.REDCRYSTAL_AMP=保持強度
+Automagy.research_page.REDCRYSTAL_AMP.1=當這種紅晶接收到紅石信號時,它會向特定方向輸出一個滿強度的信號.如果用於傳輸信號的是其他紅晶,那麼它的有效強度就會在衰減為強度14之前許多格保持為強度15,之後就會像普通紅石信號一樣每格衰減強度1.<BR>弱化紅晶則是個例外,它會將信號強度立刻減至14甚至更低.<BR>增幅紅晶只會接收從輸出方向的反側來的信號.
+
+Automagy.research_name.REDCRYSTAL_DIM=弱化紅晶
+Automagy.research_text.REDCRYSTAL_DIM=少即是多
+Automagy.research_page.REDCRYSTAL_DIM.1=這類紅晶讓你能限制其輸出信號的強度.在設備對不同信號強度反應不同時很實用.它仍能輸出比上限低些強度的信號,所以你可能需要配合其他的東西來使用,比如增幅紅晶或是紅石火把.<BR>用你的法杖右擊弱化紅晶的中心就能改變它的上限了.
+
+Automagy.research_name.REDCRYSTAL_DENSE=鈍化紅晶
+Automagy.research_text.REDCRYSTAL_DENSE=殲滅弱者
+Automagy.research_page.REDCRYSTAL_DENSE.1=鈍化紅晶的特殊構造使得弱些的紅石信號無法穿透它繼續傳遞.幸運的是,它的構造是魔法的並能按照你的意願調整.實際上,鈍化紅晶總會輸出一個小於等於你設定強度的信號,若輸入信號小於你的設定強度則不會輸出信號.<BR>要改變所需的最小強度,只需用法杖右擊鈍化紅晶的中心.
+
+Automagy.research_name.REDCRYSTAL_RES=共鳴紅晶
+Automagy.research_text.REDCRYSTAL_RES=無需連接
+Automagy.research_page.REDCRYSTAL_RES.1=在你製作各種紅晶的初始階段,你試驗了各種元始要素.風要素顯露出了獨特而有趣的振盪能量,但因其強度太弱不能投入實際運用.進一步研究後,你現在能將那種能量聚集在特定方向上,使其能被遠距離接收.<BR>共鳴紅晶通過空氣和類似的物體來直線傳輸紅石信號,直到其被另一個共鳴紅晶接收到.因此兩個紅晶必須面對面放置(若一個附著在方塊底部,
+Automagy.research_page.REDCRYSTAL_RES.2=另一個就必須附著在方塊頂端並且位於其下方).<BR>信號最多可以跨越15格傳輸.強度在這過程中沒有衰減,就好像兩個水晶相鄰放置的一樣.
+
+Automagy.research_name.REDCRYSTAL_MIRRORBOUND=墨丘利紅晶
+Automagy.research_text.REDCRYSTAL_MIRRORBOUND=神秘使的發信器
+Automagy.research_page.REDCRYSTAL_MIRRORBOUND.1=現在你終於能踏足通過魔鏡發現的奇妙領域,創造遠距離傳輸的網路,你需要能有效控制那些特性各異的元素.為何要將資源浪費在製造和用鏡子傳送物品上,明知這會堆滿箱子和減緩傳送速率?<BR>通過改進共鳴紅晶,使其振動接近於世界間那虛空的飄忽不定的狀態,你就做出了墨丘利紅晶.它能通過綁定鄰近的鏡子向鏡子另一側的墨丘利紅晶傳輸紅石信號.
+Automagy.research_page.REDCRYSTAL_MIRRORBOUND.2=為了輸送或接收信號,它必須連接到一個鏡子.手持它右擊鏡子即可.之後將它放在距離鏡子8格以內的一處.當然,你也需要在另一邊將另一個紅晶綁定到對應的鏡子.
+Automagy.research_page.REDCRYSTAL_MIRRORBOUND.MIRRORESSENTIA=§l      §n源質魔鏡§r<BR>除了標準的魔鏡以外,墨丘利紅晶也能連接到一面源質魔鏡.當普通魔鏡在使用時這應該算是更好的選擇了.
+
+Automagy.research_name.GREEDYCHEST=貪婪箱子
+Automagy.research_text.GREEDYCHEST=貪婪就是正義
+Automagy.research_page.GREEDYCHEST.1=有時你疑惑饕餮箱子是否和真正的暴食相關,或者你能否將其變為一種簡單穩定的自動功能.你所知的僅僅是它在吞食物品時發出的聲音....<BR>儘管你難以發覺自己對這些東西的認知能力,但你的研究顯示你或許還能給類似的物體注入其他的"需求".這是從基礎的饕餮邁向原始的貪婪的一小步,要將其運用起來還需要其他一些特殊部件的發明.
+Automagy.research_page.GREEDYCHEST.2=貪婪箱子會竊取鄰近容器內的物品.比如放入鄰近容器中50%的物品都會被放入它的內部.如果你用法杖右擊,則可以改變這個行為讓其每次取的數量更多或更少,維持固定存量,或只取走超出給定數量的物品.你也可以選擇抽取物品的來源方向.<BR>他不能從其下方的漏斗中抽取物品,也不能從另一個在它這裡抽取物品的貪婪箱子竊取物品.<BR>你正在研究如何讓箱子只抽取特定的物品(某種過濾機制)但
+Automagy.research_page.GREEDYCHEST.3=這應該是個好的開始.<BR>同時,對於這個§l珍珠§r的其他發現也很有趣.普通的末影珍珠會將你傳送到它落下的位置,但這一個則會作用於其附近的物品.或許你應該帶著它到處轉轉.§o你可能會學習到些什麼.§r
+Automagy.research_page.GREEDYCHEST.ENCHANTEDPAPER=§l      §n附魔紙§r<BR>利用符文白名單和黑名單,你就能改變箱子抽取物品的種類和具體抽取數量,讓你設置它應該抓取的物品.
+
+Automagy.research_name.ENCHANTEDPAPER=附魔紙
+Automagy.research_text.ENCHANTEDPAPER=規章條文
+Automagy.research_page.ENCHANTEDPAPER.1=有時手寫的指令並不能完全表達你想的東西...尤其是在你需要魔法時.<BR>通過向普通的紙中注入魔力並印上金色的符文,你就能做出讓你的設備按你所想而執行工作的附魔紙.<BR>最平常的用途就是用來製作白名單和黑名單,它們用於指示奧術設備如貪婪箱子所能"看見"的物品.
+Automagy.research_page.ENCHANTEDPAPER.2=你能在保持已寫入配置不變的條件下將白名單變為黑名單(或者反過來).<BR>你也能從一張名單中將過濾配置複製到另一張名單上(種類不限),只需將它們倆放入奧術工作臺即可.配置資訊就會拷入另一張名單(當然這個過程不會消耗第一張名單).
+Automagy.research_page.ENCHANTEDPAPER.3=§l        §n附魔§r<BR>附魔紙也能裝訂成書.用這些書所製成的書架能提供四倍於原版書架的附魔加成(對附魔台而言),因此只需4個這樣的書架就可以在附魔台進行30級的附魔了.
+
+Automagy.research_name.THIRSTYTANK=渴飲儲罐
+Automagy.research_text.THIRSTYTANK=無法抑制的衝動
+Automagy.research_page.THIRSTYTANK.1=在原有的基礎上稍加改動,驅使著饕餮箱子的饑餓之魔力也能讓一個特製的儲罐"吸取"與其接觸的液體.<BR>只有能被桶裝起的液體才能被吞入,但即便是流動的液體也能讓它有所反應.儲罐能吸收從目標方塊到本體之間相連的同種液體.這樣一來,不需要移動儲罐就能吸收完一個小池塘.<BR>液體也能通過一般的方法來輸入或輸出儲罐,
+Automagy.research_page.THIRSTYTANK.2=比如用桶或特定的傀儡.<BR>如果緊鄰水源方塊放置,它能無限地從中吸水.
+
+Automagy.research_name.THIRSTYTANK_GLYPH=渴飲符石
+Automagy.research_text.THIRSTYTANK_GLYPH=水之印記
+Automagy.research_page.THIRSTYTANK_GLYPH.1=渴飲儲罐能做的事可不僅僅是收集並儲存幾桶的流體.為了挖掘它的潛力,你開發了一系列符石和注入水之魔力的顏料.當這種"水之印泥"被塑造為正確的形狀時就會產生特殊的效果,它能被印在石板上,然後裝在渴飲儲罐的一側.<BR>一個渴飲儲罐最多能擁有六個符石,每個面一個.面的選擇很重要,因為某些符石的效果是指向性的.
+Automagy.research_page.THIRSTYTANK_GLYPH.2=若要移除一個符石,只需在潛行時用法杖右擊安裝的那一側.<BR>目前能製作的符石及其效果如下:<BR>§l虛空:§r 儲罐會吸收遠多於容量的流體.超出的部分將會被銷毀.<BR>§l泯滅:§r 儲罐將會逐漸消耗(銷毀)它所儲存的一切流體.增加數量可以提升消耗速度.<BR>§l虹吸:§r 流體將會從儲罐中沿著符石的朝向輸入另一個容器.<BR>§l嫉妒:§r 儲罐將會從指定方向的容器抽取流體
+Automagy.research_page.THIRSTYTANK_GLYPH.3=,每次抽取一桶的量.<BR>§l節制:§r 儲罐僅在受到紅石信號時才會將流體吸入其中.<BR>§l貯存:§r 儲罐會避免自身流體被抽光.你可以用它來確保儲罐總是存有定量的流體.<BR>§l狂飲:§r 儲罐吸取流體的速度加快.該種符石越多速度越快.<BR>§l庫容:§r 每個符石會使儲罐的流體容量提升16桶.
+
+Automagy.research_name.THIRSTYTANK_GLYPH_BOVINE=符石:汲奶
+Automagy.research_text.THIRSTYTANK_GLYPH_BOVINE=這裡可沒有公牛
+Automagy.research_page.THIRSTYTANK_GLYPH_BOVINE.1=對於生物檢測方面的進步讓你創造出了一種新符石:汲奶符石.裝有該符石的渴飲儲罐不會吸取附近流動的液體.而會沿著符石朝向的那一面搜尋可以取奶的奶牛.<BR>儘管搜尋奶牛的速度可以通過§l狂飲符石§r來提升,真正的限制因素在於:不能在短時間內從同一頭牛那兒取奶.
+# No, seriously. There are no bulls. What's up with that?
+
+Automagy.research_name.AVARICIOUS=貪婪之物
+Automagy.research_text.AVARICIOUS=為了樂趣和利益
+Automagy.research_page.AVARICIOUS.1=在試驗了貪婪珍珠之後,你記錄兩條重要的觀測結果.第一,珍珠有著吸引附近的物品並將它們送回投擲它的人或機器.第二,當被用於允許的範圍之外時,它是不穩定的.它轉移的物品越多,就越可能傷害到它的使用者或者碎裂.<BR>進行了一些研究後,你發現了方法強化這個珍珠.另一方面,你知道即便是這些碎片也有使用的潛力,所以你想出了種更有效獲取它們的方法.
+Automagy.research_page.AVARICIOUS.2=貪婪珍珠碎片一個有趣的性質就是當你帶著它時,末影人似乎更易出現在你的附近.或許它們是在潛意識裡被碎片散發到空中的末影魔力所吸引了.
+Automagy.research_page.AVARICIOUS.3=§l       §n吝物珍珠§r<BR>吝物珍珠在拾取散落的物品上比貪婪珍珠更勝一籌.它不僅不會因使用次數過多而碎裂或傷害使用者,而且能使物品像飛向你一樣移動.<BR>你需要清楚它的一些缺點.首先,每次投擲最多移動10組物品,但這個限制比起末影珍珠和其他材料的節省來說還是值得的.<BR>其次,手動使用時珍珠會消耗少量§8Ordo§0要素.需要隨身帶著能提供要素的東西-但你總是帶著根法杖不是麼?
+
+Automagy.research_name.EAGERCHEST=易物箱子
+Automagy.research_text.EAGERCHEST=一個急著被裝滿的箱子
+Automagy.research_page.EAGERCHEST.1=你成功在貪婪箱子上做了些改進,將其作用對象轉為開箱子的人而不是鄰近的容器.通過緩和所使用的珍珠,易物箱子被注入了對"交易"而不是竊取的渴望.它是如此的迫不及待以至於一被打開就會試著交易物品.<BR>不過你事先準備了一些漏洞,讓你能在§l潛行§r時直接查看箱內的物品而不是交易.另外,箱子不會與它無法識別的人交易,預設為放置者,
+Automagy.research_page.EAGERCHEST.2=但其他人也能用法杖來將自己添加進識別物件.<BR>法杖也可以用於設置箱子所要交易的物品.預設情況下,它會取走一切它覺得有價值的東西而給你它覺得無價值的那些-事實上,裝上了符文白名單和黑名單也是如此的,不同之處就在於這些名單改變了它的評估.
+
+Automagy.research_name.TENACIOUSCHEST=吝物箱子
+Automagy.research_text.TENACIOUSCHEST=一個不會放開物品的箱子
+Automagy.research_page.TENACIOUSCHEST.1=你已經掌握了如何給箱子注入貪婪的念頭,在此之上製作一個新的箱子就顯得輕而易舉了.<BR>吝物箱子會評估其中物品的價值,阻止它們被取出.你仍然可以直接打開並隨意的取出物品,但傀儡,漏斗以及其他大部分自動化的方法都無法取出§l最後一疊§r的指定物品.<BR>箱子會試著從每種物品中分離出一個.或許它覺得這樣才能保有這些物品,
+Automagy.research_page.TENACIOUSCHEST.2=但這種行為的真正目的卻是:讓自動化在保留餘量的前提下盡可能地存取其中的物品.
+
+Automagy.research_name.ENDERDISJUNCTION=影裂指環
+Automagy.research_text.ENDERDISJUNCTION=綻裂吧,千本影
+Automagy.research_page.ENDERDISJUNCTION.1=你對於貪婪珍珠和末影人恐嚇之間聯繫的研究終於有了回報.你製作了一個指環,戴在手上時,它就會鉤住末影生物製造的隱形的瞬移路徑.附近發生的每次瞬移(不管是瞬移來還是瞬移走)都會被這些鉤子強行撕扯,重傷瞬移的末影生物.<BR>它的能力需要有§8Perditio§0要素的供應源(如法杖).每當有生物因它受到傷害時就會抽取少量的魔力.
+Automagy.research_page.ENDERDISJUNCTION.RUNICAUGMENTATION=§l      §n符文護盾§r<BR>你對於§l符文護盾升級§r的研究應該能用在這個指環上,你若能承擔得起注魔成本就能讓它能提供符文護盾.
+
+Automagy.research_name.NITORLIGHT=閃耀琥珀方塊
+Automagy.research_text.NITORLIGHT=包裝著的閃耀之光
+Automagy.research_page.NITORLIGHT.1=用琥珀包裹住閃耀之光就能當作簡單的光源了.
+
+Automagy.research_name.REMOTECOMPARATOR=遠端比較器
+Automagy.research_text.REMOTECOMPARATOR=嘿,我在看著箱子呢
+Automagy.research_page.REMOTECOMPARATOR.1=信號能反映出箱子內物品的多少然而紅石比較器的放置經常會妨礙到其他事情.考慮到這個,你發明了遠端比較器.它以一個容器的儲存狀態為基礎輸出信號,就像紅石比較器那樣,但它不一定要貼著容器放置.它也能作用于一些普通比較器無法檢測的容器,包括許多神秘學相關的.<BR>當然,還有必要需要告訴它應檢測哪一個設備.幸運的是,你發現的晶體魔法能起到説明.
+Automagy.research_page.REMOTECOMPARATOR.2=§l      §n水晶之眼§r<BR>一個水晶之眼能用於讓特定的神秘設備監測其他座標的物件.用眼睛右擊需要監測的方塊就能指定位置.之後,只需將設定好的眼睛放入設備提供的槽中即可.<BR>在指定坐標系中監測設備的距離有一個限制.該限制預設是20格但部分設備可能還有其他要求.
+
+Automagy.research_name.VISREADER=要素讀取器
+Automagy.research_text.VISREADER=看著坩堝?我有特別的技巧..
+Automagy.research_page.VISREADER.1=測量容器內的空區是個簡單活兒,但涉及到要素的種類和數量就是另一回事了.如何解決?就需要要素讀取器了.<BR>從要素罐子到坩堝再到靈氣節點,它會根據測定物件的要素組成來輸出紅石信號.它甚至能讀取法杖的要素,前提是法杖放在了合適的設備上.<BR>它有兩種工作方式.最簡單的就是直接放在要讀取的物件的下方.另一種就是將一個遠端比較器放在讀取器上方,再將它的水晶之眼連接到目標位置.
+Automagy.research_page.VISREADER.2=比較器就會終止其原本的功能,成為向讀取器傳遞要素資訊的媒介.<BR>用你的法杖右擊要素讀取器就能打開設置介面.<BR>§l§n設置§r<BR>要素讀取器輸出的信號強度由它的設置和檢測的要素決定.信號強度的標準類似比較器的容器檢測:容器已滿時強度15,空時強度0,其餘的在之間變化.你可以放入§l罐子標籤§r來過濾要素類型.<BR>§l反轉模式:§r 空時輸出滿強度信號
+Automagy.research_page.VISREADER.3=而滿時不輸出信號,其餘的狀態則與預設的相反.<BR>§l總計模式:§r 所有要素的計數總量與容量相比.<BR>§l任意(高)模式:§r 計數量最大的要素量與容量相比.若是§l節點§r,詳見下一頁.<BR>§l任意(低)模式:§r 計數量最小的要素量與容量相比.若是§l節點§r,詳見下一頁.<BR>§l容量:§r 計為滿信號強度的那個值.如果設為§l自動§r,要素讀取器就會根據所檢測的物件自動
+Automagy.research_page.VISREADER.4=選擇容量(若可行的話).<BR>§l節點:§r 讀取物件為節點時,容量設為§l自動§r,模式選擇為§l任意§r時,容量就會由特定要素的最大檢測值而不是所有要素的來決定.用於對比的要素就是相對於自身容量最少或最多的那種,而不是某刻要素量最多或最少的.(因此如果模式為§l任意(高)§r,某種要素占滿50%,為10單位要素中的5單位,那麼就會比40單位要素中10單位即25%占滿的那種更優先,即使後者有更多的要素量.)
+Automagy.research_page.VISREADER.5=§l           §n節點§r<BR>當讀取的目標是節點時,容量為§l自動§r,以及§l任意§r選定模式,之後的容量則為某個指定要素檢測的最大值,而不是所有要素的最大值之和.而指定的要素則為相對自身容量最滿或最少的那一種,而不是當前含量最高或最低的那一種.<BR>(因此如果模式為§l任意 (高)§r,某種要素含量5vis,占50%,最大容量10vis,就會優先於另一種含量10vis,占25%,容量40vis的,儘管後者的要素含量更高.)
+Automagy.research_page.VISREADER.INFUSION=§l          §n注魔§r<BR>你發現要素讀取器不僅能測量物件中要素的存量,還能在某個設備運行時算出其缺乏的要素量.至少,這個應該能用在注魔祭壇中.<BR>它可以根據注魔是否進行以及進行的狀態來輸出紅石信號.
+Automagy.research_page.VISREADER.ESSENTIALOCUS=§l       §n源質聚核§r<BR>有了源質聚核的幫助,要素讀取器就能對許多罐子的要素總量立刻做出反應.也可以將要素讀取器放在結構中的水下或使用遠端比較器連接到聚核方塊本身來檢測.<BR>要素讀取器對聚合的檢測類似於靈氣節點.它根據罐子容量計算當前所含要素或標籤指定要素的最大值.
+
+Automagy.research_name.TALLYBLOCK=計數盒
+Automagy.research_text.TALLYBLOCK=總共就這麼多了
+Automagy.research_page.TALLYBLOCK.1=能瞭解一個箱子內東西的總量多少的確不錯,但事實上你更想知道特定的東西有多少.循著這個想法,你最終設計出了計數盒.<BR>將它對著一個容器放置(類似放置漏斗).然後向其中放入一張符文白名單或黑名單.它就會根據你指定的條件來輸出紅石信號.信號會從計數盒的後方輸出.<BR>A你也可以將一個§l遠端比較器§r放在盒子頂部,設置好水晶之眼,
+Automagy.research_page.TALLYBLOCK.2=再放入比較器.比較器就會終止其原本的功能,成為向計數盒傳遞物品資訊的媒介.<BR>如果一個計數盒讀取的是另一個計數盒,那麼資訊就會從第二個計數盒的目標獲取.如果它的目標還是一個計數盒,那麼它就會轉運它目標的資訊,以此類推.通過這種方法連結計數盒以及遠端比較器,就能從很遠的距離外讀取容器資訊.
+
+Automagy.research_name.TALLYBLOCK_LENS=計數盒透鏡
+Automagy.research_text.TALLYBLOCK_LENS=總共這麼多
+Automagy.research_page.TALLYBLOCK_LENS.1=將透鏡裝在計數盒上就能改變它在目標位置檢測物品的方式.<BR>裝有§l零散§r透鏡的盒子會檢測區域內散落的物品而不是容器中的.<BR>§l產物§r透鏡則會讓盒子瞭解目標方塊可能會掉落的物品.(標準結果以及精准採集的都會納入考慮.)在目標含有特殊方塊時這種輸出信號的方法或許也不錯.
+
+Automagy.research_name.HUNGRYMAW=饕餮之口
+Automagy.research_text.HUNGRYMAW=有口無胃
+Automagy.research_page.HUNGRYMAW.1=你將饕餮箱子的能力提取出來並用在了一種能裝在其他容器的洞上.觸碰到饕餮之口或是離得近的任何物品都會被吸入它所附著的容器中.<BR>開始時,先將一個黑曜石放在饕餮箱子上方.然後將另三個黑曜石放置在箱子側面(不需要在箱子下方放置).最後,用裝有可擕式洞穴核心的法杖右擊箱子上的方塊.
+Automagy.research_page.HUNGRYMAW.2=每個黑曜石能產生一個饕餮之口.饕鬄箱子和黑曜石都會被消耗掉;幸運的是,法杖和法杖核心不會消耗.
+
+Automagy.research_name.FINICALMAW=深究之口
+Automagy.research_text.FINICALMAW=更挑剔的味蕾
+Automagy.research_page.FINICALMAW.1=通過在饕餮之口的基礎上做些改進,你現在可以抑制它對特定物品的"食欲".手持法杖,符文白名單或黑名單右擊深究之口,然後根據你的需要放入白名單或黑名單.
+
+Automagy.research_name.AUTOHANDMIRROR=饕餮手鏡
+Automagy.research_text.AUTOHANDMIRROR=圓石饕客
+Automagy.research_page.AUTOHANDMIRROR.1=通過將深究之口與魔法手鏡相結合,你創造出了一個能自動將你拾取的物品傳入魔鏡網路的工具.<BR>手持鏡子右擊就能將物品手動放入其中,或者裝入符文名單來配置自動的行為.手鏡最多可以裝入兩張名單.<BR>只有被名單指定的物品才能自動傳輸(即便黑名單也是如此).黑名單需要指定數量.這種情況下,手鏡會保留背包中指定量的物品
+Automagy.research_page.AUTOHANDMIRROR.2=(超出的部分則會取走).<BR>饕餮手鏡應與一面魔鏡相連,就像普通魔法手鏡所做的那樣.一旦連接完成,符文名單就不能放入了.
+
+Automagy.research_name.CRYSTALBRAIN=水晶之腦
+Automagy.research_text.CRYSTALBRAIN=智慧的結晶
+Automagy.research_page.CRYSTALBRAIN.1=晶體魔法在紅石和蜘蛛眼的運用大獲成功,你決定挑戰個難點的:大腦.你發現這種複雜而脆弱的晶體構造需要魔法加固才能穩定下來.初始要素源質的效果似乎不錯,根據所用的要素共能做出六種不同的水晶之腦.<BR>對於這些記憶儲存體,你的腦海中已經浮現出了諸多潛在的應用.但具體仍需深入的研究.
+Automagy.research_page.CRYSTALBRAIN.WIP=§o[WIP]§r 其他幾種水晶之腦儘管存在但你決定先不製作它們,直到它們能派上用場時再考慮.(也別浪費資源做無謂的嘗試.沒用的.)
+
+Automagy.research_name.OVERSEER=Arcane Overseer
+Automagy.research_text.OVERSEER=Prying eyes
+
+Automagy.research_name.CONGREGATRIX=Congregatrix
+Automagy.research_text.CONGREGATRIX=Putting it all together
+
+Automagy.research_name.GOLEMINHIBITOR=傀儡抑制器
+Automagy.research_text.GOLEMINHIBITOR=再走一步我就要開槍了
+Automagy.research_page.GOLEMINHIBITOR.1=傀儡抑制器能將傀儡腳鐐產生的作用升級.它的作用可不止是讓傀儡在某個方塊上停下腳步,而是讓範圍內的傀儡全部停止.<BR>抑制器必須放在傀儡腳鐐的上方.它只在腳鐐被啟動時生效.下方可以繼續添加腳鐐.連接的啟動腳鐐越多(最多為4個),作用範圍就越大.
+Automagy.research_page.GOLEMINHIBITOR.GOLEMLINKER=§l          §n連接§r<BR>若有傀儡連接到了該設備,它就會免疫傀儡抑制器的效果,而能像正常的那樣繼續活動.<BR>你也可以讓連接的傀儡變為唯一的作用目標.<BR>用法杖右擊抑制器就能切換它的模式.
+
+Automagy.research_name.GOLEMLINKER=傀儡綁定鈴鐺
+Automagy.research_text.GOLEMLINKER=束以縛
+Automagy.research_page.GOLEMLINKER.1=為了最大化利用傀儡抑制器這樣的神秘設備,你必須將傀儡連接到它們.手持綁定鈴鐺右擊設備,就可以開始連接了.用綁定鈴鐺再次右擊一個傀儡就能將它綁定到設備上.<BR>當然,也有一些限制.儘管與設備的連接在任何距離都能保持,最大的生效範圍還是有限的.其次,每個傀儡只能連接到一個設備.最後,一個設備最多連接6個傀儡.(當數量超出這個值時可能會發生意想不到的情況,
+Automagy.research_page.GOLEMLINKER.2=比如部分傀儡會像是沒有被連接一樣活動.)<BR>如果你想切斷一個設備所有的連接,只需在潛行時用鈴鐺右擊 (按住Shift).<BR>潛行時右擊一個方塊即可移除鈴鐺已綁定的設備資訊.<BR>§o已更新目前所有支援傀儡連接的設備的研究筆記.§r
+
+Automagy.research_name.ENTITYSIGNAL=生物感應器
+Automagy.research_text.ENTITYSIGNAL=一隻羊,兩隻羊,三隻羊.
+Automagy.research_page.ENTITYSIGNAL.1=如果能數清楚一片區域內的生物和實體數想必會很有用,用§2Terra§0要素強化過的水晶之腦便能做到這一點-它兼有對生命§r魔力與建築方塊物質的親和力-使它更能勝任這一工作.<BR>當它所能感應範圍記憶體在指定實體時,它就能輸出紅石信號.數量越多,信號越強(最強為15).你也可以將它設定為只計算成年動物,或幼年動物.<BR>設備所檢驗的區域由周圍的方塊所決定.如果一側有空氣或草,
+Automagy.research_page.ENTITYSIGNAL.2=那麼該方向的檢測範圍就會增大一些.而如果所有的方向都是開闊的,設備就會處在檢測區域的中心.如果僅有頂,北,東是開闊的,設備就會處在檢測區域底部的西南角上.(預設的區域大小是11x11x11的範圍.)<LINE>§l        §n獸靈之眼§r<BR>你想要指定實體的種類,便利用現有的水晶之眼做了些改進,使其能記憶一種生物,它的靈魂,或是形態特徵.手持它右擊生物就能記憶,之後將獸靈之眼放入設備即可.
+Automagy.research_page.ENTITYSIGNAL.3=<BR>它也能做成用於觀察人類(玩家)的眼睛,無論是指定的個人或是任意的人都可以.記憶的方法和前面所講的相同.如果要記憶自身,手持它按住shift右鍵幾秒鐘即可.
+# I see you!
+
+Automagy.research_name.THAUMOSTATICREFUELER=奧法尖塔
+Automagy.research_text.THAUMOSTATICREFUELER=飛行補給站
+Automagy.research_page.THAUMOSTATICREFUELER.1=作為一名在各地間忙於飛行的神秘使,漫長的路途也需要給奧法韁繩提供充足的補給,這太麻煩了.現在,你有了更好的方法.<BR>通過結合你在神秘學領域與產能節點的知識,你可以將其運用到通過隔空傳輸Potentia要素源質上.在源質源頭與目標物件之間建立並維持連接會讓你疲憊不堪,但注入了風要素的水晶之腦更能勝任這項工作.<BR>用其搭建的§l奧法尖塔§r在建造時也需要滿足一些條件才能生效.
+Automagy.research_page.THAUMOSTATICREFUELER.2=<BR>首先需要製作2個§l奧法能量柱§r方塊和1個§l奧法控制器§r.還需要1個鏨制石英塊和1個神秘塊.<BR>然後,各個部件必須正確放置.鏨制石英塊在底部,神秘塊在頂部,能量柱和控制器在兩者之間隨意順序擺放(無間隔).神秘塊上方必須有空間使其能直視天空.所有的部分都擺放完畢後,用你的法杖右擊控制器.
+Automagy.research_page.THAUMOSTATICREFUELER.3=尖塔可以作用在很大一片區域內.只要尖塔有足夠的源質並且有§6Aer§0魔力的驅動,範圍內任何裝備著且裝有罐子的奧法韁繩都會有穩定供應的Potentia要素源質.用源質管道連接到§l控制器§r來提供Potentia要素源質.<LINE>有效範圍可通過向控制器穩定供應Aer要素源質來擴大.補充Potentia源質的速率則可以通過給其輸入Volatus源質來提升.結構中的添加能量柱可以同時增大範圍與速率.(最多6個能量柱,多餘的不會有增益效果.)
+Automagy.research_page.THAUMOSTATICREFUELER.4=用法杖右擊控制器的一側即可改變該側可接收的要素源質類型.
+
+
+Automagy.research_name.ESSENTIALOCUS=源質聚核
+Automagy.research_text.ESSENTIALOCUS=潮起潮落
+Automagy.research_page.ESSENTIALOCUS.1=你計畫著製作一個統一檢測要素製造與分配的系統.而它的核心-或者叫神經中樞-就是源質聚核.<BR>這個系統有很大的潛力但它的起點卻比較簡單.聚核會檢測要素罐子的內容物然後根據綜合情況轉化為紅石信號.儘管如此,作為要素讀取器來使用的話它可以方便地反映出所有罐子的源質總量,而不是單個.<BR>首先需要製作出聚核的關鍵元件,它需要放置在水之魔晶的上方,而水之魔晶要放在一個青金石塊的上方.
+Automagy.research_page.ESSENTIALOCUS.2=青金石塊周圍要有水環繞著,水池則要用銀樹木板圈起.<BR>源質聚核必須最後放置.<BR>建成聚核後,用水晶之眼來指定要素罐子.一個水晶之眼可以指向多個罐子:任何與初始位置相鄰的以及用類似方式相連接的罐子均會被檢測.用設定好的眼睛右擊聚核來使用.空手右擊則會移除已有的水晶之眼.<BR>通常來說,最多可以檢測12個罐子,使用一個水晶之眼.
+Automagy.research_page.ESSENTIALOCUS.3=在多方塊結構裡,若銀樹木板上放置了水之魔晶則會增加上限.每個增加8個罐子以及1個水晶之眼的上限.每個魔晶也會增加一組罐子離聚核最遠的有效距離.<BR>注意儘管要素讀取器不能直接放置在源質聚核方塊的下方,放置在多方塊結構中的水方塊的下方也是有效的,你也可以使用遠端比較器來讀取要素資訊.
+Automagy.research_page.ESSENTIALOCUS.ESSENTIARESERVOIR=§l     §n要素庫§r<BR>你發現源質聚核能像對罐子那樣獲取一個要素庫的總量.甚至不需多加校正.你覺得這一天一定會來的.有志者事竟成!
+
+Automagy.research_name.ESSENTIALOCUSAGGREGATOR=源質聚合器
+Automagy.research_text.ESSENTIALOCUSAGGREGATOR=配送的流水線
+Automagy.research_page.ESSENTIALOCUSAGGREGATOR.1=完成了源質聚核後,你開始將目光轉向一排排的罐子,是時候讓你的源質儲存庫變為分配中心了.<BR>下方裝有源質聚合器的聚核會成為鄰近§l源質魔鏡§r的源質供應端(當然也包括其他設備如符文祭壇).聚核抽取的源質來自它所監管的有效容器(如要素罐子).<BR>這樣一來你就能在一個地方統計源質,安置魔鏡,以及進行注魔.
+Automagy.research_page.ESSENTIALOCUSAGGREGATOR.2=你相信未來還能用它做到更多.
+# Special delivery
+
+Automagy.research_name.INVENTARIUM=庫存管理
+Automagy.research_text.INVENTARIUM=為了這些儲藏物
+Automagy.research_page.INVENTARIUM.1=你所有的物品越多,要管理它們就越難.當物件是一群不同的箱子甚至更多時,計數盒也會捉襟見肘.你所需的是一個集中式的儲存管理系統.應對這個需求就有了Inventarium(庫存的拉丁語).<BR>為了建成這個結構,庫存核心必須放在一個秩序魔晶的上方,秩序魔晶要放在一個琥珀方塊或琥珀磚塊的上方.還要按照後幾頁所示的圖擺好書架.<BR>核心必須最後放置.
+Automagy.research_page.INVENTARIUM.2=Inventarium本身不包含任何物品但它可以去許多容器相關聯.對於任何直接指向庫存核心或八個書架之一(或用遠端比較器連接核心)的計數盒,都會根據所有關聯容器的內容物輸出紅石信號.<LINE>若要將容器綁定至Inventarium,你需要至少一個§l容器記錄桌§r.這個蘊含魔力的設備將會記錄它附近特定物件的內容物,並將資訊完全輸送給Inventarium.它只會檢測一種指定的容器.
+Automagy.research_page.INVENTARIUM.3=而在它面前最早發現的容器就會限定該種類.有效範圍是以記錄桌為中心7x7x7的區域.<BR>注意每個記錄桌都需要穩定供應§8Ordo§0要素魔力,你可以用魔力中繼器來實現持續供給.<LINE>每個庫存核心最多支援的記錄桌數量起初都是1.以核心為中心7x7x7區域內放置的每個秩序魔晶都可以增加1個上限.這也會增加記錄桌距離核心最遠的有效距離.<BR>
+Automagy.research_page.INVENTARIUM.4=區域內每個書架使Inventarium所能檢測的最大容量增加81格.(相當於每個書架3個標準的箱子.)以下情況容器不會被部分檢測:如果它的總容量大於有效的容量,整個容器為非檢測物件.<BR>要將一個記錄桌連接到庫存核心,只需用法杖右擊記錄桌.核心必須在10格以內(每個秩序魔晶額外增加8格).
+Automagy.research_page.INVENTARIUM.5=如果記錄桌位於做個核心的範圍內,它就會連接到最近的那一個.若要讓它連接至另一個,你就要先用法杖右擊來標記那個核心.<BR>用法杖右擊核心也會提醒你Inventarium當前的使用量,最大庫存容量以及記錄桌數.
+
+Automagy.research_name.INVENTARIUM_EXTRA=密集管理
+Automagy.research_text.INVENTARIUM_EXTRA=不夠,還不夠
+Automagy.research_page.INVENTARIUM_EXTRA.1=將庫存核心周圍的普通書架替換成另外幾種,就可以提升它所能讀取的格數(遠多於81格).<BR>每個§l附魔書架§r (由附魔紙製成)可提供216格(相當於8個箱子的容量).<BR>每個§l蘊魔書架§r則可以提供486格(相當於18個箱子).和附魔書架類似,它也能用於提升附魔台的附魔等級.它的附魔加成相當於原版書架的8倍.
+
+Automagy.research_name.INVENTARIUM_POINTER=記錄之眼
+Automagy.research_text.INVENTARIUM_POINTER=另一種觀點
+Automagy.research_page.INVENTARIUM_POINTER.1=記錄桌的限制就在於它只能檢測一種類型的容器,且容器必須被放置在其後.記錄之眼就擺脫了這個約束.<BR>它使用§l水晶之眼§r指向鄰近的容器來設置類型.一次最多能使用5個眼睛.<BR>使用方法很簡單,將它放在記錄桌的上方再用準備好的水晶之眼右擊即可.空手右擊則可取下上一次裝入的水晶之眼.
+Automagy.research_page.INVENTARIUM_POINTER.2=right-click it with the crystalline eyes you have prepared. Right-click with an empty hand to remove the last eye inserted.
+
+Automagy.research_name.INVENTARIUM_DELIVERY=供與求
+Automagy.research_text.INVENTARIUM_DELIVERY=特種配送
+Automagy.research_page.INVENTARIUM_DELIVERY.1=為了有效管理你的儲存,你需要的不僅僅是一個清單,而是一種方法來取出你所儲存的東西.除了傀儡還有什麼更好的方法呢?<BR>為了讓你的配送系統如預期那樣運行你還需要一些東西.首先你得有一個有效的庫存系統(包括至少一個讀取了容器的記錄桌),一個能與儲存容器交互的傀儡,一個合適的卸貨點以便傀儡放下取出的物品,提供訂單的途徑以及讓訂單轉為傀儡理解範疇的方式.為了實現後兩個,你發明了一些新的設備.
+Automagy.research_page.INVENTARIUM_DELIVERY.2=可以使用多個卸貨點,每個對應一個或多個§l填充§r核心的傀儡,卸貨點就是傀儡的綁定點.卸貨點可以選在任何一處,但如果是一個容器的話,它§l必須能快速排空§r物品否則就可能造成堵塞.綜合考慮來說,物品格柵配合魔鏡要優於一個箱子 - 或許也會有人選擇將物品直接送往提交訂單的地方.<BR>每個被記錄桌讀取的容器都應該有至少一個填充傀儡連接(通過傀儡使鈴鐺),這些傀儡也不能連接到其他容器不然就有可能發生預料之外的情況.最好將容器內的物品整理以便在指定物品類型的情況下快速配送少走彎路.
+Automagy.research_page.INVENTARIUM_DELIVERY.3=<BR>接下來,在附近放置一個§l傀儡指示器§r然後將填充傀儡連接到它,使用§l傀儡連接鈴鐺§r即可.每個傀儡指示器最多能處理6個傀儡.這些傀儡必須綁定到同一個卸貨點,指示器只能控制休息點(當它們未搬運物品時所在的地點)距離5格以內的傀儡.<BR>就和記錄桌一樣,指示器必須連接到庫存核心(用法杖右擊)並且距離可以通過核心附近的秩序魔晶來提升.允許的指示器數量取決於安裝的
+Automagy.research_page.INVENTARIUM_DELIVERY.4=§l記憶方塊§r數,因此你需要安裝至少1個.<BR>要讓記憶方塊安裝成功,它必須放置在核心下方2格起7x2x7的範圍內,並且必須緊鄰琥珀方塊或琥珀磚塊(比如核心下方的那個).用法杖右擊核心就會顯示當前使用的以及最大的記憶槽數量.<LINE>
+Automagy.research_page.INVENTARIUM_DELIVERY.5=最後所需的就是§l申請台§r了.和記錄桌一樣,它會顯示整個儲存系統的內容物.這也就是你提交訂單的地方.<BR>左擊列表中的物品來增加征訂的數量,右擊減少.按住shift來移動整組,或ctrl來一次性移動10單位物品.使用左側的一欄或按住alt/option來請求多於儲存量的數目. <BR>申請台的需求類似於傀儡指示器: 一個專用的記憶方塊,連接至核心,並且可以通過秩序魔晶提升連接距離.此外它還需要供應§8Ordo§0要素魔力(通過魔力中繼器).
+Automagy.research_page.INVENTARIUM_DELIVERY.6=將一個§l計數盒§r指向申請台就會使盒子根據當前徵求的物品輸出紅石信號.<BR>最後提醒:傀儡並不能完美地適應訂單的變動,因此如果你在傀儡已經取多了的情況下減少徵求量,它們只會將多出的扔在地上.最好再想辦法將這些物品放回原位.
+
+Automagy.research_name.NETHERMIND=下界之核
+Automagy.research_text.NETHERMIND=始於灰燼
+Automagy.research_page.NETHERMIND.1=在近期的實驗中,你發現火要素強化的水晶之腦似乎會持續吸取能量(並且快速燒蝕自身).這股能量讓你追溯到了下界.如果你能找到什麼與下界之火密切聯繫又能與它共存的東西,或許就能做出一個"下界之核",利用源質來構建岩漿和下界方塊.<BR>§l灰燼之心§r或許能勝任.進一步的研究顯示,它與烈焰人這類地獄怪物甚至與它們的生成有著聯繫.
+Automagy.research_page.NETHERMIND.2=<BR>顯然你需要用某種方法來驅動並控制下界之核.最終你做出了§l符文黑曜石§r.除了用於包圍下界之核,這些符文還要按照指定的方式搭建好(見下一頁).<BR>不同的符文有不同的功能.圖中所示的任意基礎符文都可以被特殊符文所替換.某種符文數量越多,其效果就越強.如果只是用基礎的符文,該設備的運行將會十分緩慢,並且只會生成地獄岩和零星的岩漿.
+Automagy.research_page.NETHERMIND.3=當符文全都安裝完畢後,用你的法杖輕觸下界之核就能啟動它了.你也能再次右擊來關閉它,但每次啟動都會消耗法杖中的魔力.<BR>運行時,下界之核必須用§cIgnis§0要素魔力供應.它也需要附近有源質罐子以抽取源質.所需的源質類型及數量決定于工作中的符文.基礎的符文只會消耗Ignis和Terra.<BR>生成的下界方塊會出現在結構下方兩格9x9x9的區域內.
+Automagy.research_page.NETHERMIND.4=§l    §n符文黑曜石(岩石)§r<BR>使用該符文來增加地獄岩生成的概率.如果指定方塊類的符文至少安裝了4個,那麼就只會生成指定的方塊.使用的符文越多,方塊生成的概率就越大.(因此某種類型如果使用了4個,那麼生成概率就是100%%.)<BR>使用它的另一個好處在於生成地獄岩消耗的源質會比基礎符文更少.(放置額外的岩石符文不會進一步減少消耗.)<BR>每次生成消耗: %s.
+Automagy.research_page.NETHERMIND.5=§l    §n符文黑曜石(熾海)§r<BR>使用該符文增加岩漿生成的幾率.至少安裝4個就可以保證只會生成岩漿.<BR>每次生成消耗: %s.
+
+Automagy.research_name.NETHERRUNE_CRYSTAL=符文黑曜石:晶體
+Automagy.research_text.NETHERRUNE_CRYSTAL=石英地獄
+Automagy.research_page.NETHERRUNE_CRYSTAL.1=在下界之核構造中放入這種符文,就能生成下界石英.至少安裝4個即可保證只生成石英.<BR>每次生成消耗: %s.
+
+Automagy.research_name.NETHERRUNE_SOUL=符文黑曜石:靈魂
+Automagy.research_text.NETHERRUNE_SOUL=哀嚎遍野
+Automagy.research_page.NETHERRUNE_SOUL.1=在下界之核構造中放入這種符文,就能生成靈魂沙.至少安裝4個就能保證只生成靈魂沙.<BR>每次生成消耗: %s.
+
+Automagy.research_name.NETHERRUNE_CELERITY=符文黑曜石:迅捷
+Automagy.research_text.NETHERRUNE_CELERITY=煽動火勢
+Automagy.research_page.NETHERRUNE_CELERITY.1=如果你用迅捷符文替換了一些基礎符文黑曜石,生成方塊所需的時間就會減少.12個符文時速度封頂<BR>此外,每4個迅捷符文也會減少抽取源質的時間,進一步加快這個過程.
+Automagy.research_page.NETHERRUNE_CELERITY.DIMENSIONLURE=§l      §n異界之餌§r<BR>這些符文會像加速方塊那樣加快生物生成的速度.然而每個迅捷符文都會讓這個過程更加不穩定.
+
+Automagy.research_name.GOLEMWORKBENCH=傀儡工作臺
+Automagy.research_text.GOLEMWORKBENCH=需要裝配麼?
+Automagy.research_page.GOLEMWORKBENCH.1=傀儡工作臺讓你能擺出合成配方,加上一些魔法的協助,即便是傀儡也能照著合成.<BR>對你蠢萌的傀儡來說還有許多配方太過複雜.除非合成是2x2的或者所有的原料都是一樣的,不然你就需要§l高級傀儡§r了.<BR>首先在9個格子中設定好合成配方,底部的格子中提供所需的材料.然後對著工作臺放置一個裝有§l空置§r傀儡運轉核心的傀儡,命令傀儡從中容器取出合成產物(右擊傀儡設置).用傀儡使鈴鐺告訴傀儡應在何處放置新的物品.
+Automagy.research_page.GOLEMWORKBENCH.2=<BR>注意在這裡只有原版合成台可合成的才有效.即便是你最高級的傀儡也無法瞭解奧術合成使用魔力的原理.但你覺得這樣也足夠了.<BR>若要讓傀儡專心工作提升效率,你可以在附近放置一個裝有§8Fabrico§0要素源質的罐子.這將會起到很大幫助,尤其是傀儡在很長時間內持續合成物品,它們可能會有些'瞌睡'的情況下.真夠懶的.
+Automagy.research_page.GOLEMWORKBENCH.UPGRADEORDER=     §n秩序升級解鎖特性§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>當合成中產生了殘留物品並且無法當做合成原料(比如合成蛋糕中的空桶),通常物品就會被合成傀儡扔到一邊.如果傀儡安裝了這項升級,它就會將殘留的物品放入工作臺(如果空間允許的話)
+Automagy.research_page.GOLEMWORKBENCH.UPGRADEENTROPY=    §n混沌升級解鎖特性§r<IMG>thaumcraft:textures/items/golem_upgrade_entropy.png:0:0:255:255:0.0625</IMG>如果相連的傀儡安裝了混沌升級,那就意味著它會忽略物品的損傷,NBT資料以及檢測礦物詞典來判斷它所合成的東西.(這取決於傀儡是否能移動物品.)<BR>只會影響到合成產物,而不會影響到合成使用的原料.或許進一步的研究能解決這個問題.
+Automagy.research_page.GOLEMWORKBENCH.ADVANCEDGOLEM=§l      §n高級傀儡§r<BR>如你所願,高級傀儡能進行更複雜的合成.它們能使用3x3的配方以及不止一種原料.
+
+Automagy.research_name.GOLEMWORKBENCH_UPGRADE=工作臺升級
+Automagy.research_text.GOLEMWORKBENCH_UPGRADE=頂級的傀儡合成
+Automagy.research_page.GOLEMWORKBENCH_UPGRADE.1=在傀儡升級的基礎上,你開發出了一系列新的升級,用於增強傀儡工作臺的和合成性能.<BR>一次最多能安裝4個升級,每個側面一個.同種類型升級的效果可以疊加(除了混沌).<BR>潛行時用法杖右擊裝有升級的那一側即可移除升級.<BR>§l風:§r 傀儡能將它的速度優勢用於合成.傀儡速度越快,合成的也就越快.但使用該升級的傀儡更易疲倦,
+Automagy.research_page.GOLEMWORKBENCH_UPGRADE.2=這也就意味著需要更多的§8Fabrico§0源質來讓其全速工作.<BR>§l火:§r 傀儡能多記憶一個配方.相應的,工作臺內可用的格子也會多出一套.每個工作臺最多只能安裝§l兩個§r該種升級.<BR>§l地:§r 傀儡能將它的力量優勢用於合成.傀儡越強壯合成就越快.儘管加速效果稍弱於風的升級,但傀儡的耐力也會提升,不那麼容易疲倦了.
+Automagy.research_page.GOLEMWORKBENCH_UPGRADE.3=§l混沌:§r 合成配方不再作為精准匹配而是以形狀來確定.底部第一個槽裡的物品如果在配方中,都會被當做一個預留位置.傀儡會檢查工作臺含有的其他物品,以此來判斷用其他物品之一來替換預留位置是否能製作出所需的產物.<BR>舉例來說,在合成欄的一格中放入木棍,另一格放入羊毛,然後在下方最左邊的槽中放入木棍,這樣就能讓傀儡合成所有顏色的羊毛了(前提是提供所需的染料).<BR>這般模糊的邏輯也伴隨著代價,使用該種升級的傀儡會更容易疲勞.
+
+Automagy.research_name.AMNESIASTONE=遺忘之石
+Automagy.research_text.AMNESIASTONE=忘卻吧!
+Automagy.research_page.AMNESIASTONE.1=對於抑制傀儡思考的研究讓你對使用混沌水晶之腦有了新的想法:抽取記憶-經驗,直接說就是從人的腦中抽取.與§l缸中之腦§r配合使用或許會很有用.<BR>一旦接觸到這種石頭,經驗點就會被快速抽出.右擊一次抽取1級.潛行時點擊則是抽取5級.若站在石頭上那麼所有等級的經驗都會被快速抽光.<BR>這個石頭對缸中之腦也會起到特殊效果.如果它的上面放了缸中之腦,那麼空手shift右擊缸中之腦就會
+Automagy.research_page.AMNESIASTONE.2=讓它一次性釋放出所有儲存的經驗.<BR>如果用比較器讀取石頭,則會根據上方缸中之腦的經驗儲量輸出相應強度的紅石信號.<BR>扔在石頭上面的附魔之瓶也會被抽取經驗.經驗量在瓶子產生量的平均值之上.讓你能最大化獲取經驗.
+
+Automagy.research_name.MOBLURE=塞壬之餌
+Automagy.research_text.MOBLURE=熱切的渴求
+Automagy.research_page.MOBLURE.1=在研究下界之核所用的符文時,火注魔水晶之腦的另一項能力初露頭角.當它的能量潛入周圍生物的精神中時,就會灌輸一種強烈的情緒.<BR>在此之上你做出了一個能吸引周圍生物的設備.所灌輸的情緒讓這些生物忽視周圍的環境,即便途中會從高處落下也要向它靠近.<BR>儘管製作時使用了符文黑曜石,但產物卻截然不同.不能用於下界之核的構建.
+Automagy.research_page.MOBLURE.2=事實上就其自身而言,用已知的黑曜石還不能達到你想要的效果.幸運的是,古人們留下了一些可用的工藝品.<BR>要讓它生效,你需要將石頭作為一根豎直§l黑曜石圖騰§r柱(最少使用2塊圖騰)的一部分來放置.這樣一來水準方向範圍內的敏感生物就會被其所吸引,豎直的範圍由柱子的高度決定.(最大為向上或向下4格).<BR>水準的範圍可以擴大,如果附近有§4Fames§0源質罐子的話.<BR>用你的§l法杖§r輕擊來啟動它.
+Automagy.research_page.MOBLURE.3=<BR>不同的生物對塞壬的呼喚反應也不同.大部分會盲目的走向它.其他的如末影人則會陷入混亂,甚至在快要摔落的時候試著逃離,但這也是短暫的.事實上,受其影響的§l末影人§r會§l瞬移得更近§r而不是更遠.<BR>部分生物對它完全免疫,包括你的傀儡,一些強大的生物,以及頭腦簡單的史萊姆.<BR>如果一個生物所在的區域內有多個塞壬之餌,它就會轉向最強的那一個.圖騰柱越高,塞壬之餌就越強.
+Automagy.research_page.MOBLURE.4=將強度使用得巧妙的話,也能讓生物按你所想的路線被吸引而來.<BR>塞壬之餌不會永久的吸引生物的注意力.如果一段時間內它無法接近石頭,那麼效果就會消失,再次吸引該生物就又要消耗一些時間了.最後,忙於戰鬥的生物能擺脫它的蠱惑.
+
+Automagy.research_name.DIMENSIONLURE=異界之餌
+Automagy.research_text.DIMENSIONLURE=來自遠方的呼喚
+Automagy.research_page.DIMENSIONLURE.1=下界之核與塞壬之餌的共性是你發現兩者可以共同運行.經過對塞壬之餌和下界反應堆結構的調整,你就能讓其生成生物而不是方塊.<BR>The §l異界之餌§r會探入下界那些無人所知的角落尋找目標,開啟跨越空間的裂痕並吸引那裡的生物們.為了實現這個過程,下界之核與異界之餌都需要消耗相當量的源質. 下界之核所需的§cIgnis§0要素魔力(centi-vis)也會增加.<BR>需求的源質類型取決於目標生物,
+Automagy.research_page.DIMENSIONLURE.2=倘若不指定目標,就只會隨機吸引生物而來.(簡單來說就是所用的誘餌必須為生物量身定做)<BR>生物類型通過在下界之核結構中放入基礎符文黑曜石以及對應生物的特殊符文黑曜石來確定.可使用多種類型的生物指定符文,但需要§l至少四個§r該種類型的符文.你不能將生物指定符文與方塊指定符文裝在同一個結構內.<BR>異界之餌方塊必須放在下界之核下方6~8格,中間不能有固體方塊阻隔.周圍還需要放置一圈基礎的符文黑曜石,
+Automagy.research_page.DIMENSIONLURE.3=如前一頁所示的那樣.生成的生物會出項在該平臺與下界之核的結構之間.<BR>搭建完畢後,先用法杖右擊餌石,之後再右擊下界之核就會開始吸引生物出現.<LINE>不幸的是,該過程不是那麼穩定.有幾率產生各種負面效果,甚至會影響到召喚的生物.為了解決這個問題,你可以在圓的四個角上放置§l黑曜石圖騰§r柱.柱子越高,越穩定.
+Automagy.research_page.DIMENSIONLURE.4=(每個柱子做多四格高.)為了起到最好的效果,四根柱子要高度相同.<BR>在柱頂或下界之核結構的四臂下方放上§l閃耀之光§r也能提升穩定性.<IMG>automagy:textures/gui/dimensional-lure.png:0:0:255:235:.5</IMG>
+Automagy.research_page.DIMENSIONLURE.5=§l   §n符文黑曜石(烈焰人)§r<BR>既然灰燼之心已經注入了下界之核,那麼或許最容易吸引的就是烈焰人了.事實上,有時候也會§o製造§r出額外的烈焰人(無消耗那種情況下也會有些不穩定.<BR>下界之核與異界之餌都會消耗源質,具體資訊如下.<BR>§l下界之核§r - 每次生成消耗: %s.<BR>§l異界之餌§r - 每%s次生成消耗: %s.<BR>§l不穩定性§r: §9微量§0.
+Automagy.research_page.DIMENSIONLURE.6=<LINE>你確信自己還能做出其他一些符文黑曜石來吸引下界的各種生物.這只需要一點點的研究即可.<BR>用你的魔導透鏡掃描目標生物,然後在戰鬥中將其擊敗.你應該就會知道你所要瞭解的.<LINE>
+
+Automagy.research_name.NETHERRUNE_ZOMBIE=符文黑曜石:僵屍
+Automagy.research_text.NETHERRUNE_ZOMBIE=我喜歡金子!
+Automagy.research_page.NETHERRUNE_ZOMBIE.1=僵屍豬人不愧為一群頭腦簡單的生物.從裂痕中吸引他們只需要一些閃光的東西和多汁的大腦..<BR>不過你要小心:儘管它們十分愚鈍,但也可能會發現自己被愚弄了然後變得非常,非常生氣.<BR>§l下界之核§r - 每次生成消耗: %s.<BR>§l異界之餌§r - 每%s次生成消耗: %s.<BR>§l不穩定性§r: §9微量§0.
+
+Automagy.research_name.NETHERRUNE_GHAST=符文黑曜石:惡魂
+Automagy.research_text.NETHERRUNE_GHAST=將他們從痛苦中解放
+Automagy.research_page.NETHERRUNE_GHAST.1=談到惡魂就不得不想到兩個問題: 首先,它們很冷淡,難以被吸引.其次讓它們通過的裂痕必須很大才行.所需的源質類型截然不同,召喚的過程也不會像平常那樣穩定.<BR>此外,還是由於它們的體型,整個結構的構造也有特別的需求.下界之核與異界之餌之間的距離必須至少8格(而不是平常的6格).
+Automagy.research_page.NETHERRUNE_GHAST.2=§l下界之核§r - 每次生成消耗: %s.<BR>§l異界之餌§r - 每%s次生成消耗: %s.<BR>§l不穩定性§r: §5高§0.
+
+Automagy.research_name.NETHERRUNE_SKELETON=符文黑曜石:骷髏
+Automagy.research_text.NETHERRUNE_SKELETON=血與骨.除去血.
+Automagy.research_page.NETHERRUNE_SKELETON.1=凋零骷髏常見於下界那神秘的堡壘之中,因此要掌握這個符文不僅需要找到骷髏還需要找到它們的堡壘.<BR>不幸的是,這些骷髏和堡壘直接的聯繫也會產生一些干擾,使得召喚更加不穩定.<BR>§l下界之核§r - 每次生成消耗: %s.<BR>§l異界之餌§r - 每%s次生成消耗: %s.<BR>§l不穩定性§r: §5適量§0.
+
+Automagy.research_name.NETHERRUNE_SLIME=符文黑曜石:史萊姆
+Automagy.research_text.NETHERRUNE_SLIME=就像一個凝膠塊但是帶有酸性,還有一些火的特性.
+Automagy.research_page.NETHERRUNE_SLIME.1=能吸引岩漿怪的東西除了食物就是它們的同類了.<BR>§l下界之核§r - 每次生成消耗: %s.<BR>§l異界之餌§r - 每%s次生成消耗: %s.<BR>§l不穩定性§r: §9微量§0.
+
+Automagy.research_name.NETHERRUNE_BAT=符文黑曜石:蝙蝠
+Automagy.research_text.NETHERRUNE_BAT=爆炸即藝術
+Automagy.research_page.NETHERRUNE_BAT.1=炎蝠那自我毀滅的天性使得它十分容易被吸引.只需要提供一個類似人類的目標即可.<BR>§l下界之核§r - 每次生成消耗: %s.<BR>§l異界之餌§r - 每%s次生成消耗: %s.<BR>§l不穩定性§r: §9微量§0.
+
+Automagy.research_name.NETHERRUNE_WISP=符文黑曜石:精靈
+Automagy.research_text.NETHERRUNE_WISP=火之化身
+Automagy.research_page.NETHERRUNE_WISP.1=儘管你已在地獄發現了許多類型的精靈,其中大部分都能通過異界之餌所創造的裂痕.但它們的魔法能量會相互影響使得各自消散.你最終發現了一種完全不同于這些精靈的地獄變種.<BR>將你的裝置連接到它們的領地,加上其與生俱來的穩定性,你相信這樣一來便能召喚它們了 - 但你需要一個十分穩定的結構來進行.
+Automagy.research_page.NETHERRUNE_WISP.2=§l下界之核§r - 每次生成消耗: %s.<BR>§l異界之餌§r - 每%s次生成消耗: %s.<BR>§l不穩定性§r: §4危險§0.
+
+Automagy.research_name.FOCUSCRAFTING=法杖核心:合成
+Automagy.research_text.FOCUSCRAFTING=把它們放到一起
+Automagy.research_page.FOCUSCRAFTING.1=不管你離家多遠,合成的需求總是沒完沒了.油的合成還需要你到處都帶著合成台,現在你找到了更簡便的解決方法.<BR>這個法杖核心能用於製造奧術工作臺所能合成的一切物品(不管是普通合成還是奧術合成).安裝核心的法杖將會提供合成所需的要素魔力.<BR>你只要裝好核心再用法杖右擊即可開始合成.如果裝著核心的法杖在工具列裡,你也可以按'%s'鍵來打開合成.
+Automagy.research_page.FOCUSCRAFTING.2=當你打開合成欄的時候會消耗少量要素魔力,每次合成奧術物品的時候也會消耗一些.(普通合成的物品不需要額外的魔力.)
+Automagy.research_page.FOCUSCRAFTING.STAFF=§l        §n魔杖§r<BR>儘管這個核心也能裝在魔力手杖上面,但這類工具顯然不適合奧術合成的精密工作.但它仍能進行普通的合成.
+
+Automagy.research_name.FOCUSCRAFTING_UPGRADE=核心升級
+Automagy.research_text.FOCUSCRAFTING_UPGRADE=如此方便
+Automagy.research_page.FOCUSCRAFTING_UPGRADE.1=有了核心鑲飾台,現在你能拓展合成核心的能力了.<BR>§l無償:§r 這項升級使得核心的基本運行不消耗魔力. (打開合成欄以及合成物品時都不會消耗額外的魔力.)<BR>§l儲存:§r 在使用這種升級的核心合成之後,合成欄內留下的任何物品都會被儲存在與核心相連的異次元中.<BR>§l置換:§r 有此項升級的核心在使用者需要時會自動裝上法杖.無論核心是在背包還是手袋中都可以生效.
+Automagy.research_page.FOCUSCRAFTING_UPGRADE.2=(只要按下核心所對應的鍵位就可以自動安裝.)
+
+Automagy.research_name.VISHROOMSOUP=毒菇湯
+Automagy.research_text.VISHROOMSOUP=我要瘋了
+Automagy.research_page.VISHROOMSOUP.1=纖毛菇真是種奇怪的小東西.它們生於魔法所滋養的土地,你覺得將其用在神秘學方面能大有作為,但它的寄生性卻阻礙了你的研究.僅僅是碰到就要噁心好一陣子.如果食用的話- 好吧,應該沒人會蠢到那麼做的吧.<BR>不過你還是作死嘗試了一下.<BR>§l毒菇湯§r,就如你給它起的名字,難以將其作為食物來對待,但它除了會產生諸多副作用,也能讓你覺得神志清晰.但你還不是太確定,不管怎樣你認為這次實驗有所收穫了.
+Automagy.research_page.VISHROOMSOUP.2=品嘗了成功的喜悅後,你決心繼續研究其他物體與你的創造物接觸會發生的反應.看來先前所加的蘑菇只是為了讓你忍受這種混合物.通過將毒菇湯裝入更大的容器中(比如§l渴飲儲罐§r),然後就可以用桶取出"湯"以備他用.<BR>關於這種流體的許多特性尚未知曉,但你注意到了濃縮的這部分(流體源方塊)會生成菌絲並在你浸入其中時極大地增強你所聽見的私語.
+Automagy.research_page.VISHROOMSOUP.3=<BR>沒錯.浸泡在湯裡.喝著有毒的湯,吃著僵屍之腦.不管看起來多麼古怪,但是效果奇特!讓他們笑去,你知道你才是會笑到最後的那一個.
+
+Automagy.research_name.ALCHEMYBOILER=煉金鍋爐
+Automagy.research_text.ALCHEMYBOILER=冒泡...
+Automagy.research_page.ALCHEMYBOILER.1=在要素蒸餾方面的成功讓你決心進一步拓展分解物質的方式.§l煉金鍋爐§r的工作原理和煉金爐類似,但它所分解不是物品而是流體.<BR>使用桶或自動化設施(比如傀儡)來輸入或抽取流體.<BR>加速煉金爐工作的方法也能用於煉金鍋爐(如風箱).<BR>注意鍋爐被破壞時其中的流體也會損失.
+
+Automagy.research_name.ENCHANT_FISHING=垂釣附魔
+Automagy.research_text.ENCHANT_FISHING=充滿了魚腥味
+Automagy.research_page.ENCHANT_FISHING.1=很久以來,魔法的實踐家們都嘗試著用魔法給夥伴帶來便利.而在釣魚這方面,漁夫們都愛吹噓附魔.<BR>但不可靠的附魔結果讓人難以滿意.為什麼不試試魔法呢?將你所發現的注魔法附魔運用到垂釣之中,說不定就能讓他們眼前一亮呢.
+
+Automagy.research_name.ENTROPICREFINING=精煉蘊魔石
+Automagy.research_text.ENTROPICREFINING=變成十一個
+Automagy.research_page.ENTROPICREFINING.1=從蘊魔石獲取的碎片只是礦物中魔力的一部分.經過對該處理過程的一些細微調整,你就能從原礦中提取出更多潛在的魔力,雖然是以裂片的形式.
+# More from the sum of its parts
+
+Automagy.research_name.XPSTONE=靈魂之石
+Automagy.research_text.XPSTONE=我想起來了
+Automagy.research_page.XPSTONE.1=缸中之腦的經驗儲存容量是有限的.儘管遺忘之石能將這些記憶提取出來,但沒法在不損失舊有經驗的前提下為新的經驗騰出空間.為了解決這一問題,你創造了一種新的石頭.<BR>當一塊§l靈魂之石§r放置在缸中之腦下端的遺忘之石旁邊時,會從腦中抽取經驗,存入靈魂之石自身中.<BR>如果石頭中儲存的經驗超過了缸中之腦的量,那麼
+Automagy.research_page.XPSTONE.2=遺忘之石就會改變運行的方向,轉而從靈魂之石中向缸中之腦輸送經驗,除非後者被裝滿.<BR>這個組合就能滿足你對於增加缸中之腦儲存容量的需求了,但這裡的靈魂之石並沒有解決便攜性的問題.如果直接破壞就會損失一部分儲存的經驗,掉落剩下的.幸運的是,還有解決的方法.<BR>靈魂之石在某種意義上來說算是多孔的疏鬆結構.記憶能緩慢滲入石頭中,石頭起到了類似於濾網的作用,這些經驗會隨著流動而凝聚起來.<BR>最終,這種精華液將濃縮到足以裝入其他的容器.
+Automagy.research_page.XPSTONE.3=在石頭的下方放置一個未標籤的§l要素罐子§r(一兩格以內-再往下的話流體就會失效了),之後"附魔精華液"就會滴入其中.這個罐子可以安全地轉移到別處,或用§l安瓿§r裝取其中的精華液以飲用.<BR>要注意的是,除非有固體方塊的阻隔,即便沒有罐子流體也會緩慢地從靈魂之石中滴落.不得不說這樣做實在是浪費.<BR>倘若下方直接放置了一個物品格柵,那麼它在打開時能讓濃縮液流出.你也可以用活塞(舉例)來控制附魔精華液是否能從石頭流出.
+Automagy.research_page.XPSTONE.4=比較器能檢測靈魂之石的經驗儲量.如果比較器讀取的是遺忘之石,那麼它就會檢測整個結構的容量,而不僅僅是缸中之腦的.(如果你只想要檢測缸中之腦的儲量,直接用比較器讀取即可.)<BR>§l玻璃瓶§r也能用於從罐中取出精華液,但它無法保持流體的穩定性和密度,這就意味著它們不僅裝取更少的量,在飲用時也不太安全.其次,安瓿能將流體重新倒回罐中而玻璃瓶則不能,因為流體本身已經發生了變化.
+
+Automagy.research_name.ADVNODEJAR=高級缸中節點
+Automagy.research_text.ADVNODEJAR=Both more and less jarring, if you think about it
+Automagy.research_page.ADVNODEJAR.1=最終你找到了將節點無損裝罐的方法.利用你在守護魔法研究上的突破,你就能穩定化裝罐的過程中,使壓力最小化以保證節點不受損傷.<BR>圍繞節點搭建的結構保持不變,只是所用的普通玻璃和木臺階被替換成了守衛者玻璃和銀樹原木.接著,對§l原木§r使用§l守護核心§r.<BR>最後,再用沒有安裝核心的法杖(或類似的工具)右擊守護原木之一.
+Automagy.research_page.ADVNODEJAR.2=如果你的要素魔力充足,那麼節點就會立即被裝罐,真是安全又可靠.
+
+Automagy.research_name.MIRRORINPUT=聚合魔境
+Automagy.research_text.MIRRORINPUT=Crossing the streams
+Automagy.research_page.MIRRORINPUT.1=儘管魔鏡很適合將物品從一處送到另一處,但它們只能成對地連接.一個系統如果使用多個魔鏡從不同的地方將物品輸出到同一處的話,那麼成本也未免太高了.你對於虛空的瞭解和虛空金屬性質的研究或許能起到些幫助.<BR>§l聚合魔鏡§r是一面特製的"單向"鏡子,它只能接收而不能吐出物品.若要將它連接到其他的鏡子,你還需要給其鑲上一個§l水晶之眼§r(右擊).如果水晶之眼指向的位置是已經配對過的魔鏡的話(任何世界的任何位置)
+Automagy.research_page.MIRRORINPUT.2=聚合魔鏡就會尋找聯繫著配對魔鏡的跨維細流,然後通過匯流點將物品傳送到目標位置.<BR>在潛行時用法杖右擊即可移除魔鏡上的水晶之眼.<LINE>讓魔鏡能在虛空中利用連接點的關鍵部件就是§l匯流圓盤§r.圓盤本身佔據了魔鏡的大部分框架,製作所用的虛空金屬也讓它能以一種特殊的方式與玻璃結合,或許這也能幫助它應付虛空那些中充滿了混沌的細流.<BR>
+Automagy.research_page.MIRRORINPUT.3=匯流圓盤初始的製作成本較高,但只要有了一個,持續生產就不難了.因此建議保留一個以作備用.
+
+# Chat messages
+Automagy.chat.newVersionAvailable=自動化魔法有 v%s 的新版本了. (當前運行的是 v%s.)
+Automagy.chat.newVersionLink=["點此 [",{"text":"link","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click to go to Automagy's webpage","color":"green"}},"clickEvent":{"action":"open_url","value":"http://everburningtorch.com/minecraft/automagy/"}},"] 查看詳情和下載."]
+Automagy.chat.redcrystalDim.setCap=紅石信號強度上限設為 %s.
+Automagy.chat.redcrystalDense.setMin=最小紅石信號強度設為 %s.
+Automagy.chat.remoteComparator.itemUnlinked=在放置前你必須先將物品連接至某處.
+Automagy.chat.hourglass.setTimer=沙漏定時設為 %s 秒.
+Automagy.chat.triggerAvariciousResearch=貪婪珍珠粉碎的同時,你的靈感一閃而過!
+Automagy.chat.golemInhibitor.omitMatch=抑制器現在起忽略連接的傀儡.
+Automagy.chat.golemInhibitor.exclusiveMatch=抑制器現在起只會作用於連接的傀儡.
+Automagy.chat.essentiaLocus.itemUnlinked=在放置前你必須將物品連接至 %s 格內的某處.
+Automagy.chat.essentiaLocus.itemLinkedSelf=你無法將聚核連至其本身.
+Automagy.chat.unseenScribe.outOfRange=連接失敗.有效範圍內無庫存核心.
+Automagy.chat.unseenScribe.noConnectionsLeft=連接失敗.全部連接佔用中.
+Automagy.chat.unseenScribe.alreadyLinked=容器記錄桌已連接至庫存核心(%s, %s, %s)
+Automagy.chat.thaumostaticSpire.setSuction=該側設為輸入%s要素源質.
+Automagy.chat.nethermind.yTooLow=下界之核不能在這麼低的高度被啟動.
+Automagy.chat.nethermind.invalidMix=下界之核啟動失敗.你不能將方塊指定符文與生物指定符文混合使用.
+Automagy.chat.nethermind.missingLure=下界之核啟動失敗.生物指定符文需要一個啟動的異界之餌.
+Automagy.chat.nethermind.missingLureExtraDistance=由於所選符文,下界之核與異界之餌的距離需要增大.
+Automagy.chat.nethermind.needMoreMobRunes=下界之核啟動失敗.生物指定符文需要使用至少4個.
+Automagy.chat.inventarium.statusSlots=庫存容量: %s/%s.
+Automagy.chat.inventarium.statusScribes= 記錄桌: %s/%s.
+Automagy.chat.inventarium.statusNodes= 記錄桌: %s/%s. 記憶方塊: %s/%s.
+Automagy.chat.inventarium.chunkUnloaded=連接的庫存核心不可用. (區塊未載入.)
+Automagy.chat.golemTaskmaster.alreadyLinked=傀儡指示器已連接至庫存核心(%s, %s, %s)
+Automagy.chat.golemTaskmaster.noConnectionsLeft=連接失敗.所有連接都在使用中.
+Automagy.chat.golemTaskmaster.outOfRange=連接失敗.範圍內沒有庫存核心.
+Automagy.chat.reqTome.noConnectionsLeft=連接失敗.所有連接都在使用中.
+Automagy.chat.reqTome.outOfRange=連接失敗.範圍內沒有庫存核心
+Automagy.chat.reqTome.alreadyLinked=申請台已連接至庫存核心(%s, %s, %s)
+Automagy.chat.scribePointer.itemLinkedSelf=你不能將紀錄之眼連接到它自身.
+Automagy.chat.scribePointer.itemUnlinked=在安裝它之前你必須將其連接到%s格以內的某一位置.
+
+# Tooltips
+Automagy.tip.crystalEye.link=目標在 %s,%s,%s 位於 %s
+Automagy.tip.crystalEye.linkDistance=(與你距離 %s)
+Automagy.tip.crystalEntityEye.link=目標為 %s
+Automagy.tip.crystalEntityEye.linkPlayer=目標為 §3人類§7 ("%s")
+Automagy.tip.crystalEntityEye.desc=實體感測器(眼)
+Automagy.tip.blockEntitySignal.desc=實體感測器(信號)
+Automagy.tip.redcrystalMerc.link=連接至 %s,%s,%s 位於 %s
+Automagy.tip.golemLinker.linkToBlock=連接至 %s
+Automagy.tip.foodstuff.0=這不像是個明智的選擇.
+Automagy.tip.tankFluidData=%s / %s mB %s
+Automagy.tip.creativeModeOnly=僅限創造模式
+Automagy.tip.creativeTool.0=用法:與傀儡合成
+Automagy.tip.enderDisjunction=傷害附近的末影人
+Automagy.tip.focusCrafting.stored1=(裝有1組物品)
+Automagy.tip.focusCrafting.stored=(裝有%s組物品)
+Automagy.tip.golemWorkbenchUpgrade.0=傀儡速度提升合成速度
+Automagy.tip.golemWorkbenchUpgrade.1=額外合成配方
+Automagy.tip.golemWorkbenchUpgrade.3=傀儡力量提升合成速度
+Automagy.tip.golemWorkbenchUpgrade.5=通用合成配方
+Automagy.tip.jarXP=%s 級 (%s xp)
+Automagy.tip.phialXP=A swig of enlightenment
+
+# GUI
+Automagy.gui.visReader.mode.col=模式
+Automagy.gui.visReader.mode.0=禁用
+Automagy.gui.visReader.mode.1=總計
+Automagy.gui.visReader.mode.2=任意(高)
+Automagy.gui.visReader.mode.3=任意(低)
+Automagy.gui.visReader.mode.4=要素讀取
+Automagy.gui.visReader.capacity.col=容量
+Automagy.gui.visReader.capacity.auto=自動
+Automagy.gui.visReader.dir.col=輸出
+Automagy.gui.visReader.dir.all=所有
+Automagy.gui.visReader.dir.N=北
+Automagy.gui.visReader.dir.E=東
+Automagy.gui.visReader.dir.S=南
+Automagy.gui.visReader.dir.W=西
+Automagy.gui.visReader.dir.D=底
+Automagy.gui.visReader.invert=反轉
+
+Automagy.gui.hourglassMagic.repeat=迴圈?
+Automagy.gui.hourglassMagic.signal.name=紅石信號:
+Automagy.gui.hourglassMagic.signal.0=禁用
+Automagy.gui.hourglassMagic.signal.1=脈衝
+Automagy.gui.hourglassMagic.signal.2=交替
+Automagy.gui.hourglassMagic.signal.3=持續
+Automagy.gui.hourglassMagic.signal.4=反脈衝
+Automagy.gui.hourglassMagic.sandFlip.name=重置時:
+Automagy.gui.hourglassMagic.sandFlip.0=標準
+Automagy.gui.hourglassMagic.sandFlip.1=沙子移至頂端
+Automagy.gui.hourglassMagic.sandFlip.2=沙子移至底部
+Automagy.gui.hourglassMagic.timer.name=計時:
+Automagy.gui.hourglassMagic.timer.secondsOne=1秒
+Automagy.gui.hourglassMagic.timer.seconds=%s秒
+Automagy.gui.hourglassMagic.timer.minutes=%s分
+Automagy.gui.hourglassMagic.timer.minutesAndSeconds=%s分%s秒
+Automagy.gui.hourglassMagic.timer.sec=秒
+Automagy.gui.hourglassMagic.timer.min=分
+Automagy.gui.hourglassMagic.timer.tooltip=左擊增加.\n右擊減少.\n按住Shift時每次增減10.
+Automagy.gui.hourglassMagic.signalReact.name=收到信號時:
+Automagy.gui.hourglassMagic.signalReact.0=忽略
+Automagy.gui.hourglassMagic.signalReact.1=翻轉沙漏
+Automagy.gui.hourglassMagic.signalReact.2=不計時
+Automagy.gui.hourglassMagic.signalReact.3=才計時
+
+Automagy.gui.greedyChest.mode.name=抽取模式:
+Automagy.gui.greedyChest.mode.0=等分新增物
+Automagy.gui.greedyChest.mode.1=維持百分比
+Automagy.gui.greedyChest.mode.2=每種保留
+Automagy.gui.greedyChest.mode.3=每種抽取
+Automagy.gui.greedyChest.dir.name=抽取方向:
+Automagy.gui.greedyChest.dir.N=北
+Automagy.gui.greedyChest.dir.E=東
+Automagy.gui.greedyChest.dir.S=南
+Automagy.gui.greedyChest.dir.W=西
+Automagy.gui.greedyChest.dir.D=底
+Automagy.gui.greedyChest.dir.U=頂
+Automagy.gui.greedyChest.quantityResult.open=指定數量
+Automagy.gui.greedyChest.quantityResult.override=超出數量
+Automagy.gui.greedyChest.quantityResult.limit=限制存量
+Automagy.gui.greedyChest.quantityResult.leave=將被留下
+
+Automagy.gui.filter.ignoreQuantity=忽略數量
+Automagy.gui.filter.ignoreMetadata=忽略損傷值
+Automagy.gui.filter.ignoreNBT=忽略NBT
+Automagy.gui.filter.byName=包含:
+Automagy.gui.filter.textFilterTooltip=用於過濾左側設置的物品\n你可通過物品名篩選.使用\n星標(*)來在指定位置過濾\n字元.(確保使用*作為開頭\n和結束字元除非你只想匹配\n以該文本開頭或結尾的名字.)
+
+Automagy.gui.eagerChest.give=給
+Automagy.gui.eagerChest.take=取
+Automagy.gui.eagerChest.trade=打開時與我交換
+Automagy.gui.eagerChest.quantityResult.giveWhitelist.1=填充訪問者背包至
+Automagy.gui.eagerChest.quantityResult.giveWhitelist.2=指定數量
+Automagy.gui.eagerChest.quantityResult.giveBlacklist.1=保留數量
+Automagy.gui.eagerChest.quantityResult.giveBlacklist.2=在箱內
+Automagy.gui.eagerChest.quantityResult.takeWhitelist.1=填充箱子至
+Automagy.gui.eagerChest.quantityResult.takeWhitelist.2=指定數量
+Automagy.gui.eagerChest.quantityResult.takeBlacklist.1=保留數量
+Automagy.gui.eagerChest.quantityResult.takeBlacklist.2=來自訪問者
+
+Automagy.gui.finicalMaw.quantityResult.open=指定數量
+Automagy.gui.finicalMaw.quantityResult.limit=限制存量
+Automagy.gui.finicalMaw.quantityResult.leave=將被留下
+
+Automagy.gui.entitySignal.includeAdults=包括成年生物
+Automagy.gui.entitySignal.includeChildren=包括幼年生物
+Automagy.gui.entitySignal.players=人類(玩家)
+Automagy.gui.entitySignal.specificPlayer.1=指定玩家名為
+Automagy.gui.entitySignal.specificPlayer.2="%s"
+
+Automagy.gui.tallyBlock.allowPartialMatch=部分匹配
+Automagy.gui.tallyBlock.desc.white=輸出紅石信號如果目標
+Automagy.gui.tallyBlock.desc.black=輸出紅石信號除非目標
+Automagy.gui.tallyBlock.desc.all=包含所有指定物品.
+Automagy.gui.tallyBlock.desc.any=包含任意指定物品.
+Automagy.gui.tallyBlock.quantityResult.white=必須匹配或超過指定數量才可計數.
+Automagy.gui.tallyBlock.quantityResult.black=低於指定數量時才可物品計數.
+
+Automagy.gui.autoHandMirror.whitelist.1=要傳輸的物品
+Automagy.gui.autoHandMirror.whitelist.2=(忽略數量)
+Automagy.gui.autoHandMirror.blacklist.1=傳輸超出指定
+Automagy.gui.autoHandMirror.blacklist.2=數量的物品
+
+Automagy.gui.scribe.search=搜索...
+Automagy.gui.scribe.itemsLocal=本地
+Automagy.gui.scribe.itemsSystem=庫存
+Automagy.gui.scribe.sortCount=物品數
+Automagy.gui.scribe.sortName=名稱
+Automagy.gui.scribe.deliver=待定申請
+
+Automagy.gui.focusCrafting.visLow=魔力不足
+Automagy.gui.focusCrafting.staff.1=手杖:只能合成
+Automagy.gui.focusCrafting.staff.2=普通物品
+
+Automagy.gui.boiler.liquidQty=%s mB
+Automagy.gui.boiler.cannotProcess=該種流體無法\n被分解為源質
+
+# Focus upgrades
+Automagy.focus.upgrade.gratis.name=無償
+Automagy.focus.upgrade.gratis.text=該升級使核心的基礎操作不消耗魔力.(打開合成欄以及合成物品都不會消耗額外的魔力.)
+Automagy.focus.upgrade.storage.name=儲存
+Automagy.focus.upgrade.storage.text=使用該升級的核心合成後,留在合成欄內的一切物品都會被儲存在與核心相連的異次元之中.
+Automagy.focus.upgrade.transposing.name=置換
+Automagy.focus.upgrade.transposing.text=有此項升級的核心在使用者需要時會自動裝上法杖.無論核心是在背包還是手袋中都可以生效.(只要按下核心所對應的鍵位就可以自動安裝.)
+
+# Key bindings
+Automagy.key.focusCrafting=法杖核心:合成
+
+# Miscellaneous
+itemGroup.Automagy=自動化魔法
+wailaTip.redcrystalPower=能量: %s
+wailaTip.redcrystalPowerWithAmp=能量: %s(+%s)
+wailaTip.redcrystalPowerWithCap=能量: %s/%s
+wailaTip.redcrystalPowerMin=[最小 %s]
+wailaTip.hourglassTimerSec=計時: %s秒
+wailaTip.hourglassTimerSecOne=計時: 1秒
+wailaTip.hourglassTimerMinSec=計時: %s分%s秒
+wailaTip.hourglassTimerCountdown=         %s:%s 剩餘
+wailaTip.golemInhibitorMatchOmit=模式:忽略連接傀儡
+wailaTip.golemInhibitorMatchExclusive=模式:僅連接傀儡
+wailaTip.golem.linkedBlock=連接至%s於%s
+wailaTip.golem.taskFetch=讀取請求的物品中
+# wailaTip.golem.taskFetch.specific=Fetching %s %s
+wailaTip.tankFluidData=%s / %s mB %s
+wailaTip.tankFluidDataEmpty=0 / %s mB
+wailaTip.xp=%s 級 (%s xp)
+
