@@ -2641,48 +2641,48 @@ gtnh.quest659.name=鑽石標槍(Diamond spear)
 gtnh.quest659.desc=在MV階段你可以升級你的鐵標槍成鑽石標槍。做一個diamond arrowhead，兩個不銹鋼螺絲釘，跟一個木標槍。這標槍有優秀的耐久度。
 
 #Quest_660.Diamond shield
-gtnh.quest660.name=Diamond shield
-gtnh.quest660.desc=Your iron shield got very old. With a shield made from diamond plates you can maintain block for up to 5 seconds.
+gtnh.quest660.name=鑽石盾(Diamond shield)
+gtnh.quest660.desc=你的鐵盾已經很老舊了。使用diamand plates製成的盾牌，你將可以持續格擋5秒。
 
 #Quest_661.Bow, arrows and quiver
-gtnh.quest661.name=Bow, arrows and quiver
-gtnh.quest661.desc=Wow, your first handmade *ehm* machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. You can put up to 4 stacks of arrows in your quiver.\n\nLet's go hunt a bit.
+gtnh.quest661.name=弓，箭，與箭袋(Bow, arrows and quiver)
+gtnh.quest661.desc=哇，你的第一台手作機器做出了弓。你發現可以將弓放在武器欄位。現在是時候做些箭和一個箭袋了。你最多可以放四組箭在你的箭袋中。開始狩獵吧。
 
 #Quest_662.Basic arc furnace
 gtnh.quest662.name=基礎電弧爐(Basic arc furnace)
 gtnh.quest662.desc=電弧爐是將物品熔煉，得到原料跟製造熟鐵的一個替代方案。配方需要氧氣跟3安培的電流。
 
 #Quest_663.Faster steel production
-gtnh.quest663.name=Faster steel production
-gtnh.quest663.desc=A faster alternative to steel production is to use the arc furnace and smelt the iron ingots into wrought iron ingots. Then macerate them to dust and smelt them very fast in the EBF to steel. (Some might even dare arc furnacing the dust itself...)
+gtnh.quest663.name=更快的製造鋼(Faster steel production)
+gtnh.quest663.desc=生產鋼的一個更快的方法是，使用電弧爐將鐵錠製作成熟鐵錠。然後將之粉碎成熟鐵粉。最後在電力高爐(EBF)中快速煉成鋼。(Some might even dare arc furnacing the dust itself...)
 
 #Quest_664.LV battery buffer 4 slots
-gtnh.quest664.name=LV battery buffer 4 slots
-gtnh.quest664.desc=Upgrade your battery buffer to hold 4 batteries which allows max 4 ampere output.\nUseful for your EBF and the arc furnace.
+gtnh.quest664.name=LV級電池箱(4槽)(LV battery buffer 4 slots)
+gtnh.quest664.desc=升級你的電池箱成4槽，最大可輸出4安培電流。用於電力高爐(EBF)或電弧爐非常實用。
 
 #Quest_665.Kitchenware
-gtnh.quest665.name=Kitchenware
-gtnh.quest665.desc=To cook some healthy food you need a few tools crafted first.\nSaucepan, \npot, \nrolling pin, \nmortar, \nmixing bowl, \nsoft mallet, \nskillet, \nknife...
+gtnh.quest665.name=廚具(Kitchenware)
+gtnh.quest665.desc=為了烹調健康的食物，你需要先製做一些工具。燉鍋，罐，撖麵杖，研缽，攪拌缽，軟錘，平底鍋，刀。
 
 #Quest_666.Row, row, row your boat
-gtnh.quest666.name=Row, row, row your boat
-gtnh.quest666.desc=You live close to the water and don't have a boat?\nYou need wooden planks, slabs and a knife to craft one. (This is also quest id 666, be careful, something is going on.)
+gtnh.quest666.name=划呀划呀划著你的船(Row, row, row your boat)
+gtnh.quest666.desc=你住在水邊卻沒有船？你需要木板、台階、跟刀來製作一艘。 (這是任務編號666，小心點，有什麼事要發生了。)
 
 #Quest_667.Trainspotting
-gtnh.quest667.name=Trainspotting
-gtnh.quest667.desc=The wooden tracks can be made without any machine. Functionally equivalent to normal rails, but with a lower maximum speed (for safety reasons).
+gtnh.quest667.name=猜火車(Trainspotting)
+gtnh.quest667.desc=木製鐵軌不需要機器就可以做出來。跟正常鐵軌功能一樣，但是最大速度比較低。(為了安全的原因)
 
 #Quest_668.Rubber boat
-gtnh.quest668.name=Rubber boat
-gtnh.quest668.desc=The rubber dinghy requires only a few rubber plates. Like the vanilla wooden boat, it will break and dismantle whenever it hits a surface, however instead of returning sticks and planks, it will return a damaged rubber dinghy, which can be re-crafted with two pieces of rubber back into a useable rubber dinghy!
+gtnh.quest668.name=橡皮艇(Rubber boat)
+gtnh.quest668.desc=橡皮艇只需要一些橡膠片。像原版的木船一樣，撞到地表會損壞並散開。但並不會返還木棍跟木板，而是返還損壞的橡皮艇。可以使用兩個橡膠片來修復這艄橡皮艇！
 
 #Quest_669.Inflatable boot
-gtnh.quest669.name=Inflatable boot
-gtnh.quest669.desc=I meant to say boat... The inflatable boat is the first boat that doesn't break on impact with a solid block.
+gtnh.quest669.name=充氣靴(Inflatable boot)
+gtnh.quest669.desc=我是指小艇...充氣小艇是第一艘不會撞壞的船。
 
 #Quest_670.Carbon fiber boat
-gtnh.quest670.name=Carbon fiber boat
-gtnh.quest670.desc=Unlike all other boats, this amazing carbon fiber canoe is COMPLETELY INDESTRUCTIBLE!* This means that you can smash it into as many beaches, lily pads and alligators as you like, the carbon fiber canoe won't take a scratch!\n\nWarning: We are not held responsible for any damage caused by riding the carbon fiber canoe into a lava lake or the Void.\n\n*Therefore, warranty is NOT included.
+gtnh.quest670.name=碳纖維輕艇(Carbon fiber boat)
+gtnh.quest670.desc=與其他小艇不同， 這驚人的碳纖維輕艇*完全不可破壞*！這表示你可以用他衝進沙灘、荷葉，甚至是鱷魚。碳纖維輕艇連一點括傷都不會有！警告:我們不負責任何衝進岩漿或虛無之中的相關後果。因此也不在保固範圍中。
 
 #Quest_671.Electric boat
 gtnh.quest671.name=Electric boat
