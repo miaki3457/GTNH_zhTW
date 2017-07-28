@@ -2634,11 +2634,11 @@ gtnh.quest657.desc=升級你的木標槍，使用鐵螺絲釘為它加上石箭�
 
 #Quest_658.Iron spear
 gtnh.quest658.name=鐵標槍(Iron spear)
-gtnh.quest658.desc=在MV階段你可以升級你的鐵標槍成鑽石標槍。做一個diamond arrowhead，兩個不銹鋼螺絲釘，跟一個木標槍。這標槍有優秀的耐久度。
+gtnh.quest658.desc=升級你的木標槍，使用兩個鋼螺絲釘為它加上鐵箭頭就變成鐵標槍。鐵標槍的耐久度比石標槍更好。
 
 #Quest_659.Diamond spear
-gtnh.quest659.name=Diamond spear
-gtnh.quest659.desc=At MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.\nThis spear has superior durability.
+gtnh.quest659.name=鑽石標槍(Diamond spear)
+gtnh.quest659.desc=在MV階段你可以升級你的鐵標槍成鑽石標槍。做一個diamond arrowhead，兩個不銹鋼螺絲釘，跟一個木標槍。這標槍有優秀的耐久度。
 
 #Quest_660.Diamond shield
 gtnh.quest660.name=鑽石盾(Diamond shield)
@@ -2685,8 +2685,8 @@ gtnh.quest670.name=碳纖維輕艇(Carbon fiber boat)
 gtnh.quest670.desc=與其他小艇不同， 這驚人的碳纖維輕艇*完全不可破壞*！這表示你可以用他衝進沙灘、荷葉，甚至是鱷魚。碳纖維輕艇連一點括傷都不會有！警告:我們不負責任何衝進岩漿或虛無之中的相關後果。因此也不在保固範圍中。
 
 #Quest_671.Electric boat
-gtnh.quest671.name=Electric boat
-gtnh.quest671.desc=The alectric boat works mostly like a vanilla boat, chugging through the water at a decent pace. It will hopefully drop itself once you crash, which is slightly nicer than the usual sticks. That's all well and good, but what if we utilize the electric engine? Wearing an energy storage device in your chestplate slot, like a batpack or energypack, will cause the boat to drain energy from it and propel you forward at supersonic speed! Doing this will consume about 100 EU per block traveled, so even a decent batpack won't last long!
+gtnh.quest671.name=電動船(Electric boat)
+gtnh.quest671.desc=電動船的運作和原版的船相似，以相當快的速度穿過水面。當撞擊時將會掉出他的原型，而不是通常的木棒。這當然非常好，但如果我們利用電力引擎呢？在胸甲欄位穿上電力儲存裝置，例如電池背包或儲電背包。電動船將會吸取背包的電力，並推動你以超音速前進！每前進一格約消耗100EU，所以就算很好的電池背包也持續不了多久！
 
 #Quest_672.Boat shape?
 gtnh.quest672.name=Boat shape?
