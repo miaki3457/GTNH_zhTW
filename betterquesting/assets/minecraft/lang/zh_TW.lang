@@ -1,8 +1,8 @@
-﻿#################################Quests#################################
+#################################Quests#################################
 
 #Quest_0.Your first night
 gtnh.quest0.name=第一個夜晚 (Your first night)
-gtnh.quest0.desc=你的首要任務是尋找食物，並為夜晚提供避難所。夜晚將是殘酷的，因為這個模組包擁有困難版的黑暗環境。現在收集一些食物可能是一個好主意...​ 
+gtnh.quest0.desc=你的首要任務是尋找食物，並為夜晚提供避難所。夜晚將是殘酷的，因為這個模組包擁有困難版的黑暗環境。現在收集一些食物可能是一個好主意... 
 
 #Quest_1.Where is the flint?
 gtnh.quest1.name=燧石在哪兒？ (Where is the flint?)
@@ -10,7 +10,7 @@ gtnh.quest1.desc=你可能已經注意到了，當你收集礫石的時候，沒
 
 #Quest_2.Sticks 'n Stones
 gtnh.quest2.name=棍與石頭 (Sticks 'n Stones)
-gtnh.quest2.desc=你真幸運！這本書有內建閱讀燈光。你可能會在等待夜晚結束時閱讀這篇文章。一旦你離開了你的避難所，去收集一些礫石和木材。記住，你需要食物。去尋找潘馬斯的菜園（並保存一些種子！）。 
+gtnh.quest2.desc=你真幸運！這本書有內建閱讀燈光。你可能會在等待夜晚結束時閱讀這篇文章。一旦你離開了你的避難所，去收集一些礫石和木材。記住，你需要食物。去尋找潘馬斯的菜園（並保存一些種子！）。 
 
 #Quest_3.Storage for days
 gtnh.quest3.name=儲存之日	(Storage for days)
@@ -214,7 +214,7 @@ gtnh.quest52.desc=Are you still living in your dirt/cobblestone bunker? How abou
 
 #Quest_53.Hammer time v2
 gtnh.quest53.name=Hammer time v2
-gtnh.quest53.desc=Using 6 ingots to craft a hammer seems pretty wasteful, as this tool has durability. How nice would it be to have machine that does the same but without having durability and using three Ingots to make two plates? Guess what, there is one! And you should totally get one.
+gtnh.quest53.desc=Using 6 ingots to craft a hammer seems pretty wasteful, as this tool has durability. How nice would it be to have a machine that does the same but without having durability and using three ingots to make two plates? Guess what, there is one! And you should totally get one.
 
 #Quest_54.Compressing stuff
 gtnh.quest54.name=Compressing stuff
@@ -340,8 +340,8 @@ gtnh.quest83.desc=Sure, those coke ovens are nice, but they aren't even remotely
 gtnh.quest84.name=Where I can put all the liquids?
 gtnh.quest84.desc=With your brand new alloy smelter you are able to combine two materials. What happens if you mix some obsidian dust and glass? Obsidian glass, great. Your first tank that you can make would be a Buildcraft tank. This tank can carry up 16 buckets of a single fluid. It's possible to upgrade those tanks so they can hold up to 64 buckets.
 
-#Quest_85.Smelt all the things...
-gtnh.quest85.name=Smelt all the things...
+#Quest_85.Smelt all the things stack wise...
+gtnh.quest85.name=Smelt all the things stack wise...
 gtnh.quest85.desc=...with this great invention! Uses power to smelt up to 2 stacks of items at once! Can't go any faster! \n\nHint: Parallel smelting depends on coils, consult your local doctor before use.
 
 #Quest_86.Upgrade #3: Upgrade tier 4
@@ -646,7 +646,7 @@ gtnh.quest160.desc=Your first hull as usual...
 
 #Quest_161.Paying the highest price
 gtnh.quest161.name=Paying the highest price
-gtnh.quest161.desc=When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others.
+gtnh.quest161.desc=When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others.\n\nIn tier 1 you only need to place the blood altar.
 
 #Quest_162.Dimensional goal: Moon
 gtnh.quest162.name=Dimensional goal: Moon
@@ -982,7 +982,7 @@ gtnh.quest244.desc=In exchange for 6 clusters, I will give you this node. May it
 
 #Quest_245.The choice...
 gtnh.quest245.name=The choice...
-gtnh.quest245.desc=By now, you should've collected a few (or a lot) of locations for aura nodes to get vis from. You  might also have noticed, that you probably are low on a certain aspect, like ordo or ignis. Well, good news. In exchange for some crystal clusters, I will give you one of my old nodes. They are all pale, but they will help you out. You may only choose one, so think twice before you make your decision.
+gtnh.quest245.desc=By now, you should've collected a few (or a lot) of locations for aura nodes to get vis from. You  might also have noticed, that you probably are low on a certain aspect, like ordo or ignis. Well, good news. In exchange for some crystal clusters, I will give you one of my old nodes. They are all pale, but they will help you out. You may only choose one, so think twice before you make your decision.
 
 #Quest_246.The choice: Terra
 gtnh.quest246.name=The choice: Terra
@@ -1206,7 +1206,7 @@ gtnh.quest300.desc=As you do more and more infusions, you're getting tired of re
 
 #Quest_301.One does not simply...
 gtnh.quest301.name=One does not simply...
-gtnh.quest301.desc=...play with magic. Be warned, these fires are very dangerous! But who doesn't want a patch of snow in the nether?\n\n�cFire spread is disabled in the configs of servers to prevent massive lag and world destruction.
+gtnh.quest301.desc=...play with magic. Be warned, these fires are very dangerous! But who doesn't want a patch of snow in the nether?\n\n嚙箱Fire spread is disabled in the configs of servers to prevent massive lag and world destruction.
 
 #Quest_302.Useful plant life
 gtnh.quest302.name=Useful plant life
@@ -1638,7 +1638,7 @@ gtnh.quest408.desc=It's quite difficult to see how much blood there is in your a
 
 #Quest_409.Basic rune
 gtnh.quest409.name=Basic rune
-gtnh.quest409.desc=The basic rune that you can craft at this moment.
+gtnh.quest409.desc=The basic rune that you can craft at this moment.\n\nYou need  8 runes for your tier 2 altar, which can hold more blood, and you can make new recipes now.
 
 #Quest_410.Alchemy with blood
 gtnh.quest410.name=Alchemy with blood
@@ -1762,7 +1762,7 @@ gtnh.quest439.desc=Three steam backpacks give a better one = Tier 2.
 
 #Quest_440.Oak trees are not apple trees
 gtnh.quest440.name=Oak trees are not apple trees
-gtnh.quest440.desc=Oak trees which give apples?  Who the hell added this to minecraft? You find a way of combining an oak sapling and an apple to get an apple tree sapling. Try to plant one to get a permanent source of food.
+gtnh.quest440.desc=Oak trees which give apples?  Who the hell added this to minecraft? You find a way of combining an oak sapling and an apple to get an apple tree sapling. Try to plant one to get a permanent source of food.
 
 #Quest_441.Basic > Steam
 gtnh.quest441.name=Basic > Steam
@@ -1922,7 +1922,7 @@ gtnh.quest479.desc=Now more dangerous with extra hardcore infernal mobs. Have fu
 
 #Quest_480.Malachite
 gtnh.quest480.name=Malachite
-gtnh.quest480.desc=Another copper source  is "malachite" which can be found between Y level 10 and 40. This vein contains more iron ore variants like "brown limonite", "yellow limonite" and "banded iron ore".
+gtnh.quest480.desc=Another copper source  is "malachite" which can be found between Y level 10 and 40. This vein contains more iron ore variants like "brown limonite", "yellow limonite" and "banded iron ore".
 
 #Quest_481.Creosote oil
 gtnh.quest481.name=Creosote oil
@@ -2132,8 +2132,8 @@ gtnh.quest531.desc=Automate your bee or crop scanning. Later on, this machine ge
 gtnh.quest532.name=Diesel, oil or maybe creosote?
 gtnh.quest532.desc=You probably collected a ton of creosote and maybe even have built your first 'electric' blast furnace. creosote will be a good fuel for the moment. So try to build a few of the diesel generators and use them besides steam as a secondary power source.
 
-#Quest_533.Hydrogen, methane or some farts... (Natural gas) 
-gtnh.quest533.name=Hydrogen, methane or some farts... (Natural gas) 
+#Quest_533.Hydrogen, methane or some farts... (Natural gas) 
+gtnh.quest533.name=Hydrogen, methane or some farts... (Natural gas) 
 gtnh.quest533.desc=Some centrifugal processes leave gases behind like hydrogen or methane. Centrifuge some brown and yellow limonite to get hydrogen or dump your unused food in a centrifuge to get methane gas.
 
 #Quest_534.Pollution what....?
@@ -2226,7 +2226,7 @@ gtnh.quest555.desc=You can get some nitrogen by centrifuging... air. This proces
 
 #Quest_556.Glyceryl trini...... what?
 gtnh.quest556.name=Glyceryl trini...... what?
-gtnh.quest556.desc=Kids, today we will make some glyceryl trinitrate with some glycerol.\n    - Chemistry 101
+gtnh.quest556.desc=Kids, today we will make some glyceryl trinitrate with some glycerol.\n    - Chemistry 101
 
 #Quest_557.NITRO! (Cetane-boosted diesel)
 gtnh.quest557.name=NITRO! (Cetane-boosted diesel)
@@ -2254,7 +2254,7 @@ gtnh.quest562.desc=After you make steel you are able to craft a high pressure bo
 
 #Quest_563.Bookshelves...? Ah forestry... Multiblock farms!
 gtnh.quest563.name=Bookshelves...? Ah forestry... Multiblock farms!
-gtnh.quest563.desc=The bookshelf can only be made with an wooden plates in the compressor. Maybe someone thinks this is crazy...
+gtnh.quest563.desc=The bookshelf can only be made with wood planks, which are made in a compressor. Perhaps someone thinks this is a bit crazy...
 
 #Quest_564.Forestry Basic > Advanced
 gtnh.quest564.name=Forestry Basic > Advanced
@@ -2914,7 +2914,7 @@ gtnh.quest727.desc=While barrels offer only a single slot for storage, drawers c
 
 #Quest_728.Compact Drawers
 gtnh.quest728.name=Compact Drawers
-gtnh.quest728.desc=They are very compact and add some fanciness to your glorious dirt base. 
+gtnh.quest728.desc=They are very compact and add some fanciness to your glorious dirt base. 
 
 #Quest_729.Framing Drawers
 gtnh.quest729.name=Framing Drawers
@@ -2948,8 +2948,8 @@ gtnh.quest735.desc=If you are lucky and find some brewing stands or familiar eno
 gtnh.quest736.name=Fermented Biomass
 gtnh.quest736.desc=With the MV fermenter you can produce fermented biomass. This is the base product to make methane, ethanol and methanol.\nWhen you reach HV tier there's a more efficient way to process it; the distillation tower multiblock.
 
-#Quest_737.Can u eat those? 
-gtnh.quest737.name=Can u eat those? 
+#Quest_737.Can u eat those? 
+gtnh.quest737.name=Can u eat those? 
 gtnh.quest737.desc=No you can't eat them but you can add them to your routed pipes. Without chips routed pipes can't do anything on their own, chips also have a GUI to configure them wich can be opened by right clicking. \nThere are 8 types of chips:\n\n-Item extractor chip can be used to send items from its inventory to responder, dynamic responder, terminator and overflow responder chips in a pipe network. \n\n-Item responder chip will request items from the extractor chips in your network wich match the filter configured to the inventory connected to the responder chip. Chips with higher priority value will receive items first until the inventory is full then will be sent to other inventories with valid filters and remaining space.\n\n-Dynamic item responder chip will request items from the extractor chips in your network that match items inside the dynamic item responder connected inventory. This chip has to be in the same interface pipe as the item responder chip in order to work. Priority rules apply here as well. \n\n-Item overflow responder works exactly the same as the item responder chip, however it only accepts items that cannot go to an item responder chip, dynamic item responder chip, or item terminator chip. \n\n-Item terminator chip works as a backup for responder chips.\n\n-Item broadcaster chip will show you the inventory connected to the routed request pipe on the pipe network and can be used to retrieve items from it. They can also extract for wich side you configure them. \n\n-Item stock keeper chip will constantly check the network for items and pull them to its pipe. If the chip is set to pull when empty, it will only pull if the inventory next to it is empty, otherwise it will pull when there are less items in the inventory than configured in the chip.\n\n-Item crafting chips craft things. \n\n-Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.
 
 #Quest_738.Routed Pipes
@@ -2966,7 +2966,7 @@ gtnh.quest740.desc=Now you hit the MV tier and it's time to get a better ratio w
 
 #Quest_741.Tool Forge
 gtnh.quest741.name=Tool Forge
-gtnh.quest741.desc=Finally you get your first aluminum. Now it's time to craft a tool forge for making bigger Tinkers tools. A advanced bending machine is also needed. 
+gtnh.quest741.desc=Finally you get your first aluminum. Now it's time to craft a tool forge for making bigger Tinkers tools. A advanced bending machine is also needed. 
 
 #Quest_742.One Block mining is so Old School
 gtnh.quest742.name=One Block mining is so Old School
@@ -3022,7 +3022,7 @@ gtnh.quest754.desc=Some materials like stainless steel require 480 EU/t. Your LV
 
 #Quest_755.Better than Duct Tape
 gtnh.quest755.name=Better than Duct Tape
-gtnh.quest755.desc=A soldering iron tool to remove the burned out circuits message is better than duct tape. \nThe soldering iron requires one soldering material item and 10,000 EU. Valid soldering materials are fine wires, rods, and ingots made from either tin, lead, or soldering alloy. The soldering iron will consume the first such material it finds in the player's inventory.\n\nFor the other problems other tools are necessary.\n\nPossible problems                  Tool to fix\n"Pipe is loose."                        Wrench\n"Screws are missing."             Screwdriver \n"Something is stuck."               Soft mallet \n"Platings are dented."            Hammer \n"Circuitry burned out."          Soldering Iron \n"That doesn't belong there." Crowbar
+gtnh.quest755.desc=A soldering iron tool to remove the burned out circuits message is better than duct tape. \nThe soldering iron requires one soldering material item and 10,000 EU. Valid soldering materials are fine wires, rods, and ingots made from either tin, lead, or soldering alloy. The soldering iron will consume the first such material it finds in the player's inventory.\n\nFor the other problems other tools are necessary.\n\nPossible problems                  Tool to fix\n"Pipe is loose."                        Wrench\n"Screws are missing."             Screwdriver \n"Something is stuck."               Soft mallet \n"Platings are dented."            Hammer \n"Circuitry burned out."          Soldering Iron \n"That doesn't belong there." Crowbar
 
 #Quest_756.Less Power loss
 gtnh.quest756.name=Less Power loss
@@ -3030,7 +3030,7 @@ gtnh.quest756.desc=When you reach MV tier you can make your own duct tape in cas
 
 #Quest_757.Ruby Electrolyzing
 gtnh.quest757.name=Ruby Electrolyzing
-gtnh.quest757.desc=Ruby is a good source for electrolyzing to get chrome and aluminium.  Your new MV electrolyzer gives you access to a lot of new recipes.
+gtnh.quest757.desc=Ruby is a good source for electrolyzing to get chrome and aluminium.  Your new MV electrolyzer gives you access to a lot of new recipes.
 
 #Quest_758.MV Batteries
 gtnh.quest758.name=MV Batteries
@@ -3060,9 +3060,9 @@ gtnh.quest763.desc=Industrial TNT is the HV variant of TNT. It explodes with mor
 gtnh.quest764.name=Dynamite
 gtnh.quest764.desc=Dynamite is the most basic explosive you can use in the implosion compressor.\nMix some paper, string and glyceryl trinitrate in a chemical reactor to get dynamite.
 
-#Quest_765.Time to drill! 
-gtnh.quest765.name=Time to drill! 
-gtnh.quest765.desc=Pumps are nice but you're going to reach a point where you will want MOOOOOOOOOOOOORE oil. This multiblock will help with that but you will need to search for oil using a seismic prospector. You can find raw, light and heavy oil. There's also a chance to find natural gas.\n\nHigher tiers of power will drill faster. You need to upgrade the energy hatch coresponding to the power tier. 
+#Quest_765.Time to drill! 
+gtnh.quest765.name=Time to drill! 
+gtnh.quest765.desc=Pumps are nice but you're going to reach a point where you will want MOOOOOOOOOOOOORE oil. This multiblock will help with that but you will need to search for oil using a seismic prospector. You can find raw, light and heavy oil. There's also a chance to find natural gas.\n\nHigher tiers of power will drill faster. You need to upgrade the energy hatch coresponding to the power tier. 
 
 #Quest_766.Let's get it crackin!
 gtnh.quest766.name=Let's get it crackin!
@@ -3070,7 +3070,7 @@ gtnh.quest766.desc=Cracking oil will result in better by-products in the distill
 
 #Quest_767.Analyzing the soil
 gtnh.quest767.name=Analyzing the soil
-gtnh.quest767.desc=To determine which kind of oil or gas there is in the chunk you need to scan the soil by right clicking a seismic prospector with 8 dynamite, 4 TNT, 2 industrial TNT or 1 glyceryl. Then use a data stick to extract the data by right clicking on it after the animation has finished.\nProTip: you can do it more efficiently by only scanning every 6 chunks. \n\nNow you need to add the analyzed data stick to a scanner. Then place it in the bottom right slot of the printer and add 3 paper in the top left slot and make sure you have atleast 144 mb squid ink in it. (Only gregtech machines will work)\n\nAfter the process is done take the printed page and combine it with a piece of leather in an assembling machine filled with at least 20 mb of refined glue. \n\nTADA now you have a book with info about the chunk you scanned.  \n \n\n
+gtnh.quest767.desc=To determine which kind of oil or gas there is in the chunk you need to scan the soil by right clicking a seismic prospector with 8 dynamite, 4 TNT, 2 industrial TNT or 1 glyceryl. Then use a data stick to extract the data by right clicking on it after the animation has finished.\nProTip: you can do it more efficiently by only scanning every 6 chunks. \n\nNow you need to add the analyzed data stick to a scanner. Then place it in the bottom right slot of the printer and add 3 paper in the top left slot and make sure you have atleast 144 mb squid ink in it. (Only gregtech machines will work)\n\nAfter the process is done take the printed page and combine it with a piece of leather in an assembling machine filled with at least 20 mb of refined glue. \n\nTADA now you have a book with info about the chunk you scanned.  \n \n\n
 
 #Quest_768.You smell like a distillery!
 gtnh.quest768.name=You smell like a distillery!
@@ -3078,7 +3078,7 @@ gtnh.quest768.desc=This bad boy will tremendously boost the by-products of your 
 
 #Quest_769.Playing with dust
 gtnh.quest769.name=Playing with dust
-gtnh.quest769.desc=This machine will help you turn dust into crystals wich you will need for high tier recipes. 
+gtnh.quest769.desc=This machine will help you turn dust into crystals wich you will need for high tier recipes. 
 
 #Quest_770.Avengers, Assemble! 2
 gtnh.quest770.name=Avengers, Assemble! 2
@@ -3094,7 +3094,7 @@ gtnh.quest772.desc=You will use this a lot to make high tier circuits, and for o
 
 #Quest_773.Way one: Raw carbon mesh
 gtnh.quest773.name=Way one: Raw carbon mesh
-gtnh.quest773.desc=This way of making carbon requires autoclaveing 4 carbon dust. You can use polyethylene wich gives you only 1 raw carbon fibre at LV tier, polytetrafluoroethylene gives you 2 at MV Tier or go for the best way: molten epoxid which yields 4 at HV Tier.  
+gtnh.quest773.desc=This way of making carbon requires autoclaveing 4 carbon dust. You can use polyethylene wich gives you only 1 raw carbon fibre at LV tier, polytetrafluoroethylene gives you 2 at MV Tier or go for the best way: molten epoxid which yields 4 at HV Tier.  
 
 #Quest_774.Way two: Bio Organic Mesh
 gtnh.quest774.name=Way two: Bio Organic Mesh
@@ -3106,10 +3106,10 @@ gtnh.quest775.desc=Those are the first parts you will need for your beloved nano
 
 #Quest_776.Seeing things brighter
 gtnh.quest776.name=Seeing things brighter
-gtnh.quest776.desc=The nano helmet is a bit special. It will provide you with night vision as long as you have energy! 
+gtnh.quest776.desc=The nano helmet is a bit special. It will provide you with night vision as long as you have energy! 
 
-#Quest_777.Are those green diamonds? 
-gtnh.quest777.name=Are those green diamonds? 
+#Quest_777.Are those green diamonds? 
+gtnh.quest777.name=Are those green diamonds? 
 gtnh.quest777.desc=They may not be green diamonds but they are needed for your nano armor.
 
 #Quest_778.Carbon Plates
@@ -3138,7 +3138,7 @@ gtnh.quest783.desc=All your little turbines take up too much space? It is time t
 
 #Quest_784.It's time to get more steam
 gtnh.quest784.name=It's time to get more steam
-gtnh.quest784.desc=As soon as you have the ability to store energy in large quantities, it would be necessary to have a way to generate energy in large quantities. You need a large bronze boiler. But in order to make this boiler, you will need a mountain of bronze. Still have your old bronze blast furnace? Boldly throw it into an arc furnace and get back your bronze! You will also need 10 basic steam turbines, as this boiler produces 800 liters of steam per tick, and each turbine consumes 80.
+gtnh.quest784.desc=As soon as you have the ability to store energy in large quantities, it would be necessary to have a way to generate energy in large quantities. You need a large bronze boiler. But in order to make this boiler, you will need a mountain of bronze. This boiler produces 800 liters of steam per tick, and this is enough to run 10 basic steam turbines.
 
 #Quest_785.Transistor
 gtnh.quest785.name=Transistor
@@ -3216,8 +3216,8 @@ gtnh.quest802.desc=Plating all your armor parts with iridium alloy casings gives
 gtnh.quest803.name=Quantum Armor
 gtnh.quest803.desc=The quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.
 
-#Quest_804.Quantum crystal 
-gtnh.quest804.name=Quantum crystal 
+#Quest_804.Quantum crystal 
+gtnh.quest804.name=Quantum crystal 
 gtnh.quest804.desc=The quantum crystal is needed to turn quantum armor parts into wearable quantum armor.
 
 #Quest_805.Lapotron Dust
@@ -3230,7 +3230,7 @@ gtnh.quest806.desc=With your new HV mixer you can make lapotron dust. Place it i
 
 #Quest_807.Quantum Crystal
 gtnh.quest807.name=Quantum Crystal
-gtnh.quest807.desc=For you quantum armor you need some quantum crystals. Place a lapotron crystal in your precision laser to get a quantum crystal 
+gtnh.quest807.desc=For you quantum armor you need some quantum crystals. Place a lapotron crystal in your precision laser to get a quantum crystal 
 
 #Quest_808.Mixing at hv Level
 gtnh.quest808.name=Mixing at hv Level
@@ -3302,7 +3302,7 @@ gtnh.quest824.desc=The Light oxygen tank is an oxygen storage tank that can hold
 
 #Quest_825.Copper Ore
 gtnh.quest825.name=Copper Ore
-gtnh.quest825.desc=Can be found between y levels 5 and 60 either as "Copper Ore" or "Chalcopyrite". Most of the time you'll find it together with  "Iron" and "Pyrite".
+gtnh.quest825.desc=Can be found between y levels 5 and 60 either as "Copper Ore" or "Chalcopyrite". Most of the time you'll find it together with  "Iron" and "Pyrite".
 
 #Quest_826.Iron Ore
 gtnh.quest826.name=Iron Ore
@@ -3310,7 +3310,7 @@ gtnh.quest826.desc=With your new bronze tools, you are able to mine most of the 
 
 #Quest_827.Rocket Fuel
 gtnh.quest827.name=Rocket Fuel
-gtnh.quest827.desc=For every flight the rocket needs some fuel. So refine some fuel and fill some fuel cannisters. 
+gtnh.quest827.desc=For every flight the rocket needs some fuel. So refine some fuel and fill some fuel cannisters. 
 
 #Quest_828.Oxygen Collector
 gtnh.quest828.name=Oxygen Collector
@@ -3356,8 +3356,8 @@ gtnh.quest837.desc=Advanced circuits need itegrated logic circuits and random ac
 gtnh.quest838.name=Advanced Circuits
 gtnh.quest838.desc=For the next tier we need advanced circuits. To make an advanced circuit, you need good integrated circuits, RAM, an ILC and transistors.
 
-#Quest_839.Handle tiny piles like a King
-gtnh.quest839.name=Handle tiny piles like a King
+#Quest_839.Handle tiny piles like a K1ng
+gtnh.quest839.name=Handle tiny piles like a K1ng
 gtnh.quest839.desc=Don't you hate to manually compress all those tiny piles ? Well, let me show you how to automate that. A combination of typefilter, chest buffer (or super buffer in HV) and packager frees you from that annoying task. The chestbuffer can hold up to 9 stacks of tiny piles and the super buffer can hold 256 stacks of tiny dusts, which is more than enough. You can set its mode with a screwdriver on the output side. Set it to 9 to export 9 tiny piles at a time and let the packager compress these into regular dusts.
 
 #Quest_840.Butane and Propane
@@ -3390,7 +3390,7 @@ gtnh.quest846.desc=Oxygen can be made in different ways. Centrifuge some brown a
 
 #Quest_847.Ethylene
 gtnh.quest847.name=Ethylene
-gtnh.quest847.desc=You can make ethylene out of ethanol and sulfuric acid in a chemical reactor or by distilling various gases (i.e. wood gas) in a distillery.
+gtnh.quest847.desc=You can make ethylene out of ethanol and sulfuric acid in a chemical reactor or by distilling various gases (i.e. wood gas) in a distillery. Cracking naptha, fuels and gas with hydrogen or steam in the chemical reactor will work too.
 
 #Quest_848.Seed Oil
 gtnh.quest848.name=Seed Oil
@@ -3410,7 +3410,7 @@ gtnh.quest851.desc=Nitric acid can be made out of water, oxygen and nitrogen dio
 
 #Quest_852.Acetic Acid
 gtnh.quest852.name=Acetic Acid
-gtnh.quest852.desc=Fermented biomass can be destilled into acetic acid.
+gtnh.quest852.desc=Acetic acid can be made out of oxygen and ethylene. Alternatively, it can be made out of biomass, wood vinegar or vinegar.
 
 #Quest_853.Nitrogen Dioxide
 gtnh.quest853.name=Nitrogen Dioxide
@@ -3418,7 +3418,7 @@ gtnh.quest853.desc=To make nitrogen dioxide you need to combine oxygen gas and n
 
 #Quest_854.Ammonia
 gtnh.quest854.name=Ammonia
-gtnh.quest854.desc=Now you know one more output from distilling biomass... Ammonia.
+gtnh.quest854.desc=Nitrogen and hydrogen... Ammonia.
 
 #Quest_855.Nitric Oxide
 gtnh.quest855.name=Nitric Oxide
@@ -3462,27 +3462,143 @@ gtnh.quest864.desc=Is the bone bow too expensive for your taste? Then make a fli
 
 #Quest_865.Monster trap
 gtnh.quest865.name=Monster trap
-gtnh.quest865.desc=If you lucky you spawn in a sand or rainforest biome and find some quicksand. Collect a stack of the stuff, dig a small ditch and fill it with the quicksand to protect your "dirt base" home.
+gtnh.quest865.desc=If you're lucky you spawn in a sand or rainforest biome and find some quicksand. Collect a stack of the stuff, dig a small ditch and fill it with the quicksand to protect your "dirt base" home.
 
 #Quest_866.The transcontinental railroad
 gtnh.quest866.name=The transcontinental railroad
-gtnh.quest866.desc=All the different mining veins that have been found seems to be really far apart. One way to speed up the travel times is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.
+gtnh.quest866.desc=All the different mining veins that have been found seem to be really far apart. One way to shorten the travel time is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.
 
-#Quest_867.Lapis, Lazurit, Sodalite, Calcite
-gtnh.quest867.name=Lapis, Lazurit, Sodalite, Calcite
-gtnh.quest867.desc=In order to make your bricked blast furnace you need to find a lapis vine wherein is calcite.\nYou can find the vein in the overworld or the twilight forest at Y 20- 50.
+#Quest_867.Lapis, Lazurite, Sodalite, Calcite
+gtnh.quest867.name=Lapis, Lazurite, Sodalite, Calcite
+gtnh.quest867.desc=In order to make your bricked blast furnace you need to find a lapis vine containing calcite.\nYou can find the vein in the overworld or the Twilight Forest at Y 20-50.
 
 #Quest_868.Gypsum
 gtnh.quest868.name=Gypsum
-gtnh.quest868.desc=To making bricks for the blast furnace you need concrete and gypsum. It can be found in a vein together with basaltic and granitic mineral sand, fullers earth and gypsum. Y 50-60 and only in the overworld.
+gtnh.quest868.desc=To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.
 
 #Quest_869.Sifting Machine
 gtnh.quest869.name=Sifting Machine
-gtnh.quest869.desc=You need flawless or exquisite diomands, emralds rubys or other gems? Well then it's time for you doing a Sifting Machine.
+gtnh.quest869.desc=You need flawless or exquisite diamonds, emeralds, rubies or other gems? Well then it's time for you to make a Sifting Machine.
+
+#Quest_870.Smelt all the things...
+gtnh.quest870.name=Smelt all the things...
+gtnh.quest870.desc=Smelting up to nine items at once? With a bit of steel you can make a railcraft Steam Oven. 2x2x2\n\nHint: All furnace recipes work just fine, but you cannot use it to make charcoal from wood.
 
 #Quest_871.Molds, molds, molds
 gtnh.quest871.name=Molds, molds, molds
-gtnh.quest871.desc=After you can make steel and have a tinkers smelter you have to make molds. Molds can be use in the alloy smelter and the fluid solidifier.  You need them to make vacuum tubes, ingots, gears and more.
+gtnh.quest871.desc=After you can make steel and have a tinkers smelter you have to make molds. Molds can be used in the alloy smelter and the fluid solidifier. You need them to make vacuum tubes, ingots, gears and more.
+
+#Quest_872.Maple Syrup
+gtnh.quest872.name=Maple Syrup
+gtnh.quest872.desc=You spent hours and hours to find some maple trees? Why not use your forest ranger coins to buy some syrup? Add some spruce saplings and plant some maple trees.
+
+#Quest_873.Seed Bags
+gtnh.quest873.name=Seed Bags
+gtnh.quest873.desc=Finding some special "pams harvest craft" seeds can be very difficult. With your farmer coins you can buy some seedbags.
+
+#Quest_874.Jetpack v.0.1 Alpha
+gtnh.quest874.name=Jetpack v.0.1 Alpha
+gtnh.quest874.desc=Do you like flying? Ok then, make a slimy bouncepad and enjoy the good view.
+
+#Quest_875.Creeper
+gtnh.quest875.name=Creeper
+gtnh.quest875.desc=You feel lonely. Do you want a friend to hug?
+
+#Quest_876.Skeleton
+gtnh.quest876.name=Skeleton
+gtnh.quest876.desc=You feel lonely. Let me throw you a bone.
+
+#Quest_877.Spider
+gtnh.quest877.name=Spider
+gtnh.quest877.desc=You feel lonely. Want to stick around?
+
+#Quest_878.Zombie
+gtnh.quest878.name=Zombie
+gtnh.quest878.desc=You feel lonely. And brains sound delicious.
+
+#Quest_879.Slime
+gtnh.quest879.name=Slime
+gtnh.quest879.desc=You feel lonely, and a bit slippery.
+
+#Quest_880.Witch
+gtnh.quest880.name=Witch
+gtnh.quest880.desc=You feel lonely. What's cooking?
+
+#Quest_881.Pigmen
+gtnh.quest881.name=Pigmen
+gtnh.quest881.desc=You feel lonely. Do you want some bacon?
+
+#Quest_882.Blaze
+gtnh.quest882.name=Blaze
+gtnh.quest882.desc=You feel lonely. Let me warm you up a bit.
+
+#Quest_883.Magma Cube
+gtnh.quest883.name=Magma Cube
+gtnh.quest883.desc=You feel lonely, and bouncy.
+
+#Quest_884.Enderman
+gtnh.quest884.name=Enderman
+gtnh.quest884.desc=You feel lonely. Don't look me in the eyes!
+
+#Quest_885.Witch
+gtnh.quest885.name=Witch
+gtnh.quest885.desc=You feel lonely. Do you like my toad?
+
+#Quest_886.Ghast
+gtnh.quest886.name=Ghast
+gtnh.quest886.desc=You feel lonely. At least you're not a big cry-baby?
+
+#Quest_887.Bat
+gtnh.quest887.name=Bat
+gtnh.quest887.desc=You feel lonely. Na na na na batthing!
+
+#Quest_888.Silverfish
+gtnh.quest888.name=Silverfish
+gtnh.quest888.desc=You feel lonely. Let me be as annoying as possible.
+
+#Quest_889.Magma Cube
+gtnh.quest889.name=Magma Cube
+gtnh.quest889.desc=You feel lonely. Wanna bounce?
+
+#Quest_890.Better Tank... ULV Tank
+gtnh.quest890.name=Better Tank... ULV Tank
+gtnh.quest890.desc=Next step is to store 32 buckets in a tank. The ULV Tank from Gt++ needs steel plates, iron plates, tin plates a clay pipe and a water bucket.
+
+#Quest_891.Better Tank... LV Tank
+gtnh.quest891.name=Better Tank... LV Tank
+gtnh.quest891.desc=Next step is to store 64 buckets in a tank. The LV Tank from Gt++ needs steel plates, iron plates, bronze plates a huge clay pipe and a lv pump.
+
+#Quest_892.Better Tank... MV Tank
+gtnh.quest892.name=Better Tank... MV Tank
+gtnh.quest892.desc=Next step is to store 128 buckets in a tank. The MV Tank from Gt++ needs steel plates, darksteel plates, bronze plates a  bronze pipe and a lv pump.
+
+#Quest_893.You're gonna hate this #2 in mv too
+gtnh.quest893.name=You're gonna hate this #2 in mv too
+gtnh.quest893.desc=The second item you'll need a lot of in mv tier. When you want to get fluid out of tanks you'll need one. \n\nHint: Goes pretty well with fluid pipes or GT machines, adjust with a screwdriver. It can also be upgraded further into a fluid regulator which allows precise control of fluid transfer speed.
+
+#Quest_894.Better Tank... HV Tank
+gtnh.quest894.name=Better Tank... HV Tank
+gtnh.quest894.desc=Next step is to store 256 buckets in a tank. The HV Tank from Gt++ needs aluminium plates, darksteel plates, vacuum tubes a  steel pipe and a mv pump.
+
+#Quest_895.You're gonna hate this #1 in mv too
+gtnh.quest895.name=You're gonna hate this #1 in mv too
+gtnh.quest895.desc=The first item you'll need a lot of in mv too. If you want to pull items out of chests or barrels you'll need one. \n\nHint: Goes pretty well with item pipes or GT machines, adjust with a screwdriver.
+
+#Quest_896.You're gonna hate this #3 in mv too
+gtnh.quest896.name=You're gonna hate this #3 in mv too
+gtnh.quest896.desc=An electric piston for your mv machines. The third item you are going to craft a lot of in the future.
+
+#Quest_897.You're gonna hate this #4 in mv too
+gtnh.quest897.name=You're gonna hate this #4 in mv too
+gtnh.quest897.desc=The fourth item you'll need a lot of in mv, which is also a pain to craft. Arguably the most painful item ever. \n\nHint: Works like a conveyor but can work with selected item slots. Adjust with a screwdriver.
+
+#Quest_898.Simple Ore Washer
+gtnh.quest898.name=Simple Ore Washer
+gtnh.quest898.desc=Too lazy to make an ore washer, yet bored with your non-automatable cauldron? Then the simple washer is the machine for you! It work reasonably fast and uses 8eu max. Ok, you do not get any byproducts, but who cares!
+
+#Quest_899.Paying the highest price
+gtnh.quest899.name=Paying the highest price
+gtnh.quest899.desc=A tier 2 blood altar needs 8 runes placed around the altar. Your new altar can hold more blood.
 
 #Quest_900.Don't look it in the eyes!
 gtnh.quest900.name=不要看他的眼睛！ (Don't look it in the eyes!)
@@ -3588,6 +3704,70 @@ gtnh.quest924.desc=最後的區域…一隻…狼…它甚至不是鐵娘子樂�
 gtnh.quest925.name=科技☆進化 (Technology: Evolved)
 gtnh.quest925.desc=你破關了，真的。這裡沒事做了，你該去試試三次元的人生了……不過有件事情你應該會感興趣。你知道得～純粹好玩嘛。選個神器吧。
 
+#Quest_926.Blood Altar Tier 3
+gtnh.quest926.name=Blood Altar Tier 3
+gtnh.quest926.desc=To make your altar more powerfull you need to upgrade it. You need to build pillars two block high out of blood-soaked thaumium block and on top one block of glowstone blocks on each pillar.
+
+#Quest_927.Blood Altar Tier 4
+gtnh.quest927.name=Blood Altar Tier 4
+gtnh.quest927.desc=If you want to make tier 4 slates you need a Tier 4 altar. This can be made like the tier 3 altar with pillars out of void-blood-soaked stones four blocks high and a blood brick on top the pillars.
+
+#Quest_928.Blood Altar Tier 5
+gtnh.quest928.name=Blood Altar Tier 5
+gtnh.quest928.desc=If you want to make tier 5 slates you need a Tier 5 altar. This can be made with 4 beacons. Beacons have thaumcraft recipes and can be found in the thaumcraft book on the GTNH page.
+
+#Quest_929.Blood Altar Tier 6
+gtnh.quest929.name=Blood Altar Tier 6
+gtnh.quest929.desc=The highest tier of the blood altar is tier 6. You need pillars of blood-soaked ichorium 7 blocks high and on top the crystal cluster blocks out of demon souls shards.
+
+#Quest_930.Auto Mining
+gtnh.quest930.name=Auto Mining
+gtnh.quest930.desc=A miner in lv age wow. So this niffty machine will find ores fore you. Place up to two stacks of mining pipes in the right slots. This miner need 32 eu to work. With a 8 V Solar Pannel it works 4 times slover. The Miner searchen ores in a 16 block radius.
+
+#Quest_931.Auto Mining Mv
+gtnh.quest931.name=Auto Mining Mv
+gtnh.quest931.desc=The mv miner will find ores fore you and be better then the lv miner. Place up to two stacks of mining pipes in the right slots. This miner need 128 eu to work. The Miner searchen ores in a 24 block radius and works two times faster then the lv variant.
+
+#Quest_932.Auto Mining Hv
+gtnh.quest932.name=Auto Mining Hv
+gtnh.quest932.desc=The mv miner will find ores fore you and be better then the lv miner. Place up to two stacks of mining pipes in the right slots. This miner need 512 eu to work. The Miner searchen ores in a 32 block radius or two chuncks and works two times faster then the mv variant.
+
+#Quest_933.Power of the Sun
+gtnh.quest933.name=Power of the Sun
+gtnh.quest933.desc=Now its time to investigate in some rgenerative engery. Well let's start with solarpannels. The lowest one only give 1 eu/t. Most gt machine can use them as covers.
+
+#Quest_934.Power of the Sun 8V
+gtnh.quest934.name=Power of the Sun 8V
+gtnh.quest934.desc=Next  solarpannel you can make is the ULV one. It gives  8 eu/t. Most gt machine can use them as covers.
+
+#Quest_935.Power of the Sun 1x1
+gtnh.quest935.name=Power of the Sun 1x1
+gtnh.quest935.desc=Put those 1 eu pannel on a block make em placeable. Using a mv assembler to combining a ULV hull with the pannel.
+
+#Quest_936.Power of the Sun at Lv Level
+gtnh.quest936.name=Power of the Sun at Lv Level
+gtnh.quest936.desc=Next  solarpannel you can make is the LV one. It gives 32 eu/t max. Most gt machine can use them as covers. First you need to produce a sunnunamium item out of 10 mio eu power. 
+
+#Quest_937.Power of the Sun 1x1 LV
+gtnh.quest937.name=Power of the Sun 1x1 LV
+gtnh.quest937.desc=Put those 32 eu pannel on a block make em placeable. Using a mv assembler to combining a UL hull with the pannel.
+
+#Quest_938.Automated Sticky Resin Farmer
+gtnh.quest938.name=Automated Sticky Resin Farmer
+gtnh.quest938.desc=If you are tired of crafting tons of tree taps, how about a machine that uses power but never breaks? Let's craft an electric tree tap.
+
+#Quest_939.Automated Farmer
+gtnh.quest939.name=Automated Farmer
+gtnh.quest939.desc=Your hoe must be getting worn out by now. Why not craft an electric one which never breaks.
+
+#Quest_940.Cleanroom
+gtnh.quest940.name=Cleanroom
+gtnh.quest940.desc=If you want to make more advanced circuits you need a cleanroom. The cleanroom is a multiblock between 3x4x3 and 15x15x15 (WxHxDx) blocks. Besides plascrete blocks you need a controller, filter casings on the top, an energy and maintenance hatch , a reinforced door and three machine hulls. For now you can use mv tier.\n\nLet's build a 5x5x5 room.
+
+#Quest_941.A very useful Scanner
+gtnh.quest941.name=A very useful Scanner
+gtnh.quest941.desc=The portable scanner is a tool capable of showing advanced information about almost every block in the game. \nIn order to function, the tool needs to be charged first. It can hold up to 400k EU and accept 128 EU/t or less. This is MV tier.\n\nIt can scan crops, which shows more information than the cropnalyzer does. The crop, which was scanned in the world, will drop a scanned seed bag.\nIt can scan machines from GregTech, giving information about current progress, the stored energy, efficiency, problems and CPU-load.\nFor any block in the game it scans, it gives information about its ID, Metadata, position in the world and hardness value.\nIt also gives information about pollution level in the chunk the scanned block belongs to.\nAdditional to that it shows when the clenroom has reached his 100% efficeny level.
+
 ##################################Line##################################
 
 #Tier 0 - It begins
@@ -3622,84 +3802,88 @@ gtnh.line6.desc=鈦，核裂變能源，應用能源2(AE2)。
 gtnh.line7.name=第6階和更高
 gtnh.line7.desc=將會是最後一個常規的階層來"指引"你。
 
+#Coins, Coins, Coins
+gtnh.line8.name=Coins, Coins, Coins
+gtnh.line8.desc=These quests will guide you to use your Coins wisely and buy some useful or fancy stuff.
+
 #Forestry and Farms
-gtnh.line8.name=林業和農場
-gtnh.line8.desc=自動化農場和更多...
+gtnh.line9.name=林業和農場
+gtnh.line9.desc=自動化農場和更多...
 
 #Novice Thaumaturge
-gtnh.line9.name=新手術士
-gtnh.line9.desc=魔法的奧秘皆藏於此。卓越的成就，但也需要大量的工作。我將成為你的導師。照我的指導，你將成為一位偉大的巫師，就像我。
+gtnh.line10.name=新手術士
+gtnh.line10.desc=魔法的奧秘皆藏於此。卓越的成就，但也需要大量的工作。我將成為你的導師。照我的指導，你將成為一位偉大的巫師，就像我。
 
 #Adept Thaumaturgy
-gtnh.line10.name=熟練的奇術師
-gtnh.line10.desc=囊括扭曲。
+gtnh.line11.name=熟練的奇術師
+gtnh.line11.desc=囊括扭曲。
 
 #Kaaami, Haaaami, ... HA!
-gtnh.line11.name=龜...派...氣...功波！
-gtnh.line11.desc=終極的奧法力量！
+gtnh.line12.name=龜...派...氣...功波！
+gtnh.line12.desc=終極的奧法力量！
 
 #Alternative Magic
-gtnh.line12.name=替代魔法
-gtnh.line12.desc=這是什麼樣的巫術！？
+gtnh.line13.name=替代魔法
+gtnh.line13.desc=這是什麼樣的巫術！？
 
 #Multiblock Goals
-gtnh.line13.name=多方塊構造
-gtnh.line13.desc=全部的多方塊構造追蹤清單。你可以在各階段建造多方塊構造的各個部件。
+gtnh.line14.name=多方塊構造
+gtnh.line14.desc=全部的多方塊構造追蹤清單。你可以在各階段建造多方塊構造的各個部件。
 
 #Armors and Jetpacks
-gtnh.line14.name=裝甲和噴射背包
-gtnh.line14.desc=指導你穿上裝甲和噴射背包。
+gtnh.line15.name=裝甲和噴射背包
+gtnh.line15.desc=指導你穿上裝甲和噴射背包。
 
 #Cooking Farming Fishing
-gtnh.line15.name=烹飪、農業、捕魚
-gtnh.line15.desc=烹飪的基礎和精緻的食物。
+gtnh.line16.name=烹飪、農業、捕魚
+gtnh.line16.desc=烹飪的基礎和精緻的食物。
 
 #Transportation
-gtnh.line16.name=運輸
-gtnh.line16.desc=各種運輸方式。
+gtnh.line17.name=運輸
+gtnh.line17.desc=各種運輸方式。
 
 #Space Race
-gtnh.line17.name=太空競賽
-gtnh.line17.desc=幫助你開始星系模組並抵達月球。
+gtnh.line18.name=太空競賽
+gtnh.line18.desc=幫助你開始星系模組並抵達月球。
 
 #Legendary Quests
-gtnh.line18.name=傳奇任務
-gtnh.line18.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
-
-#Legendary Tier X
-gtnh.line19.name=傳奇X
+gtnh.line19.name=傳奇任務
 gtnh.line19.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
 
-#Legendary Infinity
-gtnh.line20.name=無窮傳奇
+#Legendary Tier X
+gtnh.line20.name=傳奇X
 gtnh.line20.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
 
+#Legendary Infinity
+gtnh.line21.name=無窮傳奇
+gtnh.line21.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
+
 #Paying the highest price
-gtnh.line21.name=昂貴的代價
-gtnh.line21.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖然代價有些嚇人...但沒有風險就沒有樂趣！
+gtnh.line22.name=昂貴的代價
+gtnh.line22.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖然代價有些嚇人...但沒有風險就沒有樂趣！
 
 #More blood, more stuff
-gtnh.line22.name=更多鮮血，更多材料
-gtnh.line22.desc=高等血魔法？我的靜脈感覺很奇怪...
+gtnh.line23.name=更多鮮血，更多材料
+gtnh.line23.desc=高等血魔法？我的靜脈感覺很奇怪...
 
 #They are coming...
-gtnh.line23.name=他們來了...
-gtnh.line23.desc=我召喚的靈魂...超越了惡魔入侵。真正墮入黑魔法！
+gtnh.line24.name=他們來了...
+gtnh.line24.desc=我召喚的靈魂...超越了惡魔入侵。真正墮入黑魔法！
 
 #Kill all the things
-gtnh.line24.name=殺了所有的東西
-gtnh.line24.desc=這世界充滿了污穢的東西。殺了他們提高你的聲望。
+gtnh.line25.name=殺了所有的東西
+gtnh.line25.desc=這世界充滿了污穢的東西。殺了他們提高你的聲望。
 
 #How to be(e)
-gtnh.line25.name=人來瘋(蜂)
-gtnh.line25.desc=一套在遊戲中不分階段的任務，蜜蜂的基礎探索和指南。是一個非常有用來推進的工具。
+gtnh.line26.name=人來瘋(蜂)
+gtnh.line26.desc=一套在遊戲中不分階段的任務，蜜蜂的基礎探索和指南。是一個非常有用來推進的工具。
 
 #To grind, or not to grind
-gtnh.line26.name=磨碎，或者不磨碎
-gtnh.line26.desc="這就是問題所在。你想要更好的工具嗎？好，去研磨這些東西！相信我，這些任務的獎勵是值得的。
+gtnh.line27.name=磨碎，或者不磨碎
+gtnh.line27.desc="這就是問題所在。你想要更好的工具嗎？好，去研磨這些東西！相信我，這些任務的獎勵是值得的。
 
 #Reward Area
-gtnh.line27.name=獎勵區
-gtnh.line27.desc=升級你的獎勵包！
+gtnh.line28.name=獎勵區
+gtnh.line28.desc=升級你的獎勵包！
 
 
