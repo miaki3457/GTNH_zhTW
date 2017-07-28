@@ -2617,24 +2617,24 @@ gtnh.quest653.name=進階電力噴氣背包(Advanced electric jetpack)
 gtnh.quest653.desc=進階電力噴氣背包是電動噴氣背包的升級版。可以裝備在胸甲部位，當充滿EU電力時，可以飛行。它並沒有任何保護功能，但其內部儲存的3,000,000 EU電力可以為你的工具充電，如同進階電池背包一樣運作。進階噴氣背包的最大飛行高度是Y 256。
 
 #Quest_654.Advanced nano chestplate
-gtnh.quest654.name=Advanced nano chestplate
-gtnh.quest654.desc=Combining the advanced electric jetpack and nanosuit yields you the advanced nano chestplate. Now you have the protection of the chestplate combined with the freedom of movement of the jetpack.
+gtnh.quest654.name=進階納米重力胸甲(Advanced nano chestplate)
+gtnh.quest654.desc=將進階電力噴氣背包及納米護甲組合，會得到進階納米重力胸甲。就可以擁有胸甲的防護能力，並可使用噴氣背包自由的移動。
 
 #Quest_655.Gravi suit
-gtnh.quest655.name=Gravi suit
-gtnh.quest655.desc=The gravi chestplate is the ultimate quantum armor combined with a high powered jetpack. It also has hidden features that you need to discover while wearing the whole quantum armor.
+gtnh.quest655.name=重力胸甲(Gravi suit)未確認 任務要求與配方對不上
+gtnh.quest655.desc=重力胸甲是由量子護甲與high powered jetpack組合而成。穿著全套的量子裝備有隱藏的效果，需要你自己去發掘。
 
 #Quest_656.Iron shields
-gtnh.quest656.name=Iron shields
-gtnh.quest656.desc=You have been using your hide shield long enough. After you make your first tools, grab a bit of iron ore and make a nice iron shield.
+gtnh.quest656.name=鐵盾(Iron shields)
+gtnh.quest656.desc=你的皮盾已經用夠久了。完成第一個工具後，取得一些鐵礦，製作一個良好的鐵盾吧。
 
 #Quest_657.Stone spear
-gtnh.quest657.name=Stone spear
-gtnh.quest657.desc=Upgrade your wooden spear with a stone arrowhead and iron screws to a stone spear.\nThis spear has better durability than the wooden one.
+gtnh.quest657.name=石頭標槍(Stone spear)
+gtnh.quest657.desc=升級你的木標槍，使用鐵螺絲釘為它加上石箭頭就變成石頭標槍。這標槍比木製的有更好的耐久度。
 
 #Quest_658.Iron spear
-gtnh.quest658.name=Iron spear
-gtnh.quest658.desc=Upgrade your wooden spear with an iron arrowhead and two steel screws to an iron spear. \nThe iron spear has better durability than the stone variant.
+gtnh.quest658.name=鐵標槍(Iron spear)
+gtnh.quest658.desc=在MV階段你可以升級你的鐵標槍成鑽石標槍。做一個diamond arrowhead，兩個不銹鋼螺絲釘，跟一個木標槍。這標槍有優秀的耐久度。
 
 #Quest_659.Diamond spear
 gtnh.quest659.name=Diamond spear
@@ -2649,8 +2649,8 @@ gtnh.quest661.name=Bow, arrows and quiver
 gtnh.quest661.desc=Wow, your first handmade *ehm* machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. You can put up to 4 stacks of arrows in your quiver.\n\nLet's go hunt a bit.
 
 #Quest_662.Basic arc furnace
-gtnh.quest662.name=Basic arc furnace
-gtnh.quest662.desc=The arc furnace is an alternative to smelting stuff back into components and making wrought iron. The recipes use oxygen and 3 amperes of power.
+gtnh.quest662.name=基礎電弧爐(Basic arc furnace)
+gtnh.quest662.desc=電弧爐是將物品熔煉，得到原料跟製造熟鐵的一個替代方案。配方需要氧氣跟3安培的電流。
 
 #Quest_663.Faster steel production
 gtnh.quest663.name=Faster steel production
