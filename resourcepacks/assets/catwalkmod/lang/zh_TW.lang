@@ -1,0 +1,10 @@
+﻿item.legacy.lore.0=§dThis item is outdated,
+item.legacy.lore.1=§dplace in a crafting
+item.legacy.lore.2=§dwindow to update
+item.legacy.name=%s §4(OUTDATED)
+tile.legacy.ladder.name=籠梯
+tile.legacy.catwalk.name=羊腸小徑
+item.legacy.lightrope.name=繩燈
+item.legacy.blowtorch.name=噴燈
+item.legacy.steelgrate.name=鋼柵欄
+

@@ -1,0 +1,1729 @@
+﻿# Key localizations
+
+#Stat localizations
+stat.blockChiseled=Blocks Chiseled
+
+# Entity localizations
+entity.chisel.snowman.name=雪傀儡
+
+# Item localizations
+item.chisel.chisel_iron.name=鑿子
+
+item.chisel.chisel.desc.gui=右鍵打開介面
+item.chisel.chisel.desc.lc1=左鍵方塊進行雕刻
+item.chisel.chisel.desc.lc2=存放於鑿子中的方塊可定為雕刻目標
+item.chisel.chisel.desc.modes=擁有多種雕刻模式.
+
+item.chisel.chisel_diamond.name=鑽石鑿子
+item.chisel.chisel_obsidian.name=黑曜石鑿子
+
+item.ballMoss.name=苔蘚球
+item.ballMoss.desc=右鍵丟出.若碰到圓石則使其變成苔石.
+item.cloudBottle.name=瓶裝雲朵
+item.cloudBottle.desc=右鍵丟出.可生成一大片雲.
+item.smashingRock.name=碎石塊
+item.smashingRock.desc=右鍵丟出.可使圓石變成砂礫;砂礫變為沙子.
+item.upgrade_speed.name=速度升級元件
+item.upgrade_automation.name=自動化升級組件
+item.upgrade_stack.name=堆疊升級組件
+item.upgrade_reversion.name=Reversion Upgrade
+
+item.upgrade_speed.desc=加快雕刻速度.
+item.upgrade_automation.desc=允許雕刻機自動輸入或輸出.
+item.upgrade_stack.desc=允許整組進行雕刻.
+item.upgrade_reversion.desc=Reverts the base slot to its original form
+
+# Block localizations
+
+#Chisel 2
+
+#Nation
+tile.chisel.nation.name=盟軍方塊
+tile.chisel.rebel.name=叛軍方塊
+tile.nation.0.desc=迷彩偽裝
+tile.nation.1.desc=迷彩偽裝(隱蔽)
+tile.nation.2.desc=螺栓板面
+tile.nation.3.desc=白色警示帶
+tile.nation.4.desc=團隊警示帶
+
+#Shingles
+tile.chisel.shingles.name=Shingles
+tile.shingles.0.desc=Red Diagonal
+tile.shingles.1.desc=Red Tiny Squares
+tile.shingles.2.desc=Red Big Squares
+tile.shingles.3.desc=Black Diagonal
+tile.shingles.4.desc=Black Tiny Squares
+tile.shingles.5.desc=Black Big Squares
+
+#Valentines
+tile.chisel.valentines.name=少女心方塊
+tile.valentines.0.desc=少女心磚塊
+tile.valentines.1.desc=如果她開始說話了,你最好遠離她
+
+#AntiBlocks
+tile.chisel.antiBlock.name=純色方塊
+tile.antiBlock.black.desc=黑純色方塊
+tile.antiBlock.blue.desc=藍純色方塊
+tile.antiBlock.brown.desc=棕純色方塊
+tile.antiBlock.cyan.desc=青純色方塊
+tile.antiBlock.green.desc=綠純色方塊
+tile.antiBlock.light_blue.desc=淡藍純色方塊
+tile.antiBlock.silver.desc=淡灰純色方塊
+tile.antiBlock.lime.desc=黃綠純色方塊
+tile.antiBlock.magenta.desc=品紅純色方塊
+tile.antiBlock.orange.desc=橙純色方塊
+tile.antiBlock.pink.desc=粉純色方塊
+tile.antiBlock.purple.desc=紫純色方塊
+tile.antiBlock.red.desc=紅純色方塊
+tile.antiBlock.white.desc=白純色方塊
+tile.antiBlock.yellow.desc=黃純色方塊
+tile.antiBlock.gray.desc=灰純色方塊
+
+#Diorite
+tile.chisel.diorite.name=閃長岩
+tile.diorite.0.desc=會生成在世界中
+tile.diorite.1.desc=拋光閃長岩
+tile.diorite.2.desc=豎紋閃長岩
+tile.diorite.3.desc=閃長岩磚塊
+tile.diorite.4.desc=鏨制閃長岩
+tile.diorite.5.desc=棱角閃長岩
+tile.diorite.6.desc=小方磚閃長岩
+
+#Andesite
+tile.chisel.andesite.name=安山岩
+tile.andesite.0.desc=會生成在世界中
+tile.andesite.1.desc=拋光安山岩
+tile.andesite.2.desc=豎紋安山岩
+tile.andesite.3.desc=安山岩磚塊
+tile.andesite.4.desc=鏨制安山岩
+tile.andesite.5.desc=棱角安山岩
+tile.andesite.6.desc=小方磚安山岩
+
+#Granite
+tile.chisel.granite.name=花崗岩
+tile.granite.0.desc=會生成在世界中
+tile.granite.1.desc=拋光花崗岩
+tile.granite.2.desc=豎紋花崗岩
+tile.granite.3.desc=花崗岩磚塊
+tile.granite.4.desc=鏨制花崗岩
+tile.granite.5.desc=棱角花崗岩
+tile.granite.6.desc=小方磚花崗岩
+
+#Auto Chisel
+tile.chisel.autoChisel.name=自動雕刻機
+autochisel.slot.chisel.tooltip=在此處放置鑿子
+autochisel.slot.target.tooltip=在此處放置雕刻目標方塊
+autochisel.slot.speed.tooltip=Speed Upgrade
+autochisel.slot.automation.tooltip=Automation Upgrade
+autochisel.slot.stack.tooltip=Stack Upgrade
+autochisel.slot.reversion.tooltip=Reversion Upgrade
+chisel.autochisel.upgrade.disabled=Upgrades Disabled
+
+#Beacon
+tile.chisel.beacon.name=Beacon
+tile.beacon.black.desc=Black Beamed Beacon
+tile.beacon.blue.desc=Blue Beamed Beacon
+tile.beacon.brown.desc=Brown Beamed Beacon
+tile.beacon.cyan.desc=Cyan Beamed Beacon
+tile.beacon.green.desc=Green Beamed Beacon
+tile.beacon.lightBlue.desc=Light Blue Beamed Beacon
+tile.beacon.silver.desc=Light Gray Beamed Beacon
+tile.beacon.lime.desc=Lime Beamed Beacon
+tile.beacon.magenta.desc=Magenta Beamed Beacon
+tile.beacon.orange.desc=Orange Beamed Beacon
+tile.beacon.pink.desc=Pink Beamed Beacon
+tile.beacon.purple.desc=Purple Beamed Beacon
+tile.beacon.red.desc=Red Beamed Beacon
+tile.beacon.white.desc=Rainbow Beamed Beacon
+tile.beacon.yellow.desc=Yellow Beamed Beacon
+tile.beacon.gray.desc=Gray Beamed Beacon
+
+#Leaves
+tile.chisel.leaves.name=樹葉
+tile.leaves.6.desc=枯樹葉
+tile.leaves.7.desc=精緻修剪的樹葉
+tile.leaves.8.desc=粉色花瓣
+tile.leaves.9.desc=紅色玫瑰
+tile.leaves.10.desc=白色玫瑰
+tile.leaves.11.desc=聖誕樹掛飾
+tile.leaves.12.desc=聖誕樹燈飾
+
+#Void Stone Blocks
+tile.chisel.voidstone.name=虛空石
+tile.voidstone.0.desc=天然虛空石
+tile.voidstone.1.desc=方磚虛空石
+tile.voidstone.2.desc=拋光虛空石
+tile.voidstone.3.desc=頭顱虛空石
+tile.voidstone.4.desc=符文虛空石
+tile.voidstone.5.desc=金屬鑲板虛空石
+tile.voidstone.6.desc=虛空之眼
+tile.voidstone.7.desc=斜紋虛空石
+tile.chisel.voidstoneRunic.name=符文虛空石
+tile.voidstoneRunic.0.desc=橙色符文
+tile.voidstoneRunic.1.desc=品紅色符文
+tile.voidstoneRunic.2.desc=淡藍色符文
+tile.voidstoneRunic.3.desc=黃色符文
+tile.voidstoneRunic.4.desc=黃綠色符文
+tile.voidstoneRunic.5.desc=粉色符文
+tile.voidstoneRunic.6.desc=灰色符文
+tile.voidstoneRunic.7.desc=淡灰色符文
+tile.voidstoneRunic.8.desc=青色符文
+tile.voidstoneRunic.9.desc=紫色符文
+tile.voidstoneRunic.10.desc=藍色符文
+tile.voidstoneRunic.11.desc=棕色符文
+tile.voidstoneRunic.12.desc=綠色符文
+tile.voidstoneRunic.13.desc=紅色符文
+tile.voidstoneRunic.14.desc=黑色符文
+
+#Void Stone Pillars
+tile.chisel.voidstonePillar.name=虛空石柱
+tile.voidstonePillar.0.desc=豎紋虛空石
+
+#Warning
+tile.chisel.warningSign.name=警告標誌
+tile.warningSign.0.desc=輻射
+tile.warningSign.1.desc=生化
+tile.warningSign.2.desc=火焰
+tile.warningSign.3.desc=爆炸
+tile.warningSign.4.desc=死亡
+tile.warningSign.5.desc=高空墜物
+tile.warningSign.6.desc=注意摔落
+tile.warningSign.7.desc=高電壓
+tile.warningSign.8.desc=一般警告
+tile.warningSign.9.desc=危險化學品
+tile.warningSign.10.desc=施工重地
+tile.warningSign.11.desc=雜訊污染
+tile.warningSign.12.desc=禁止通行
+tile.warningSign.13.desc=超低溫製冷
+tile.warningSign.14.desc=無氧環境
+
+#Energised Void Stone Blocks
+tile.chisel.voidstone2.name=充能虛空石
+tile.voidstone2.0.desc=原始虛空石
+tile.voidstone2.1.desc=方磚虛空石
+tile.voidstone2.2.desc=拋光虛空石
+tile.voidstone2.3.desc=頭顱虛空石
+tile.voidstone2.4.desc=符文虛空石
+tile.voidstone2.5.desc=金屬鑲板虛空石
+tile.voidstone2.6.desc=虛空之眼
+tile.voidstone2.7.desc=斜紋虛空石
+
+#Void Stone Pillars
+tile.chisel.voidstonePillar2.name=充能虛空石柱
+tile.voidstonePillar2.0.desc=豎紋虛空石
+
+#Arcane
+tile.chisel.arcane.name=奧術石塊
+tile.arcane.0.desc=半月刻紋
+tile.arcane.1.desc=灼光半月刻紋
+tile.arcane.2.desc=斜紋方磚
+tile.arcane.3.desc=符咒刻紋
+tile.arcane.4.desc=灼光符咒刻紋
+tile.arcane.5.desc=奧術磚塊
+tile.arcane.6.desc=時間鴻溝
+tile.arcane.7.desc=奧法之腦
+tile.arcane.8.desc=邪魔石磚
+tile.arcane.9.desc=令人反胃的納斯卡線條
+tile.arcane.10.desc=優秀神秘使的象徵石
+tile.arcane.11.desc=邪術裂隙石
+
+#Thaumium
+tile.chisel.thaumium.name=神秘方塊
+tile.thaumium.0.desc=鏨制神秘方塊
+tile.thaumium.1.desc=圖騰刻紋
+tile.thaumium.2.desc=神秘磚塊
+tile.thaumium.3.desc=小方磚神秘方塊
+tile.thaumium.4.desc=晶格式神秘方塊
+tile.thaumium.5.desc=木鑲板神秘方塊
+
+#Tallow
+tile.chisel.tallow.name=油脂方塊
+tile.tallow.0.desc=光滑油脂方塊
+tile.tallow.1.desc=賦魂油脂方塊
+
+#Blood Rune
+tile.chisel.bloodRune.name=血符文石
+tile.bloodRune.0.desc=齊紋血符文石
+tile.bloodRune.1.desc=血符文磚塊
+tile.bloodRune.2.desc=刻紋血符文石
+tile.bloodRune.3.desc=放射狀刻紋血符文石
+tile.bloodRune.4.desc=古典式鑲板血符文石
+tile.bloodRune.5.desc=方磚血符文石
+
+#Futura
+tile.chisel.futura.name=未來科技方塊
+tile.chisel.futuraCircuit.name=Futura Circuit
+tile.chisel.fakeController.name=ME Controller?
+tile.futura.0.desc=金屬邊框顯示幕
+tile.futura.1.desc=青色邊框顯示幕
+tile.futura.2.desc=能源控制器霓虹燈
+tile.futura.3.desc=彩虹曲線
+tile.futura.4.desc=Purple Applied Labyrinthic Neon Lines
+tile.futura.5.desc=Psychedelic Poptart Rainbow.v02
+tile.futuraCircuit.black.desc=Black
+tile.futuraCircuit.blue.desc=Blue
+tile.futuraCircuit.brown.desc=Brown
+tile.futuraCircuit.cyan.desc=Cyan
+tile.futuraCircuit.green.desc=Green
+tile.futuraCircuit.light_blue.desc=Light Blue
+tile.futuraCircuit.silver.desc=Light Gray
+tile.futuraCircuit.lime.desc=Lime
+tile.futuraCircuit.magenta.desc=Magenta
+tile.futuraCircuit.orange.desc=Orange
+tile.futuraCircuit.pink.desc=Pink
+tile.futuraCircuit.purple.desc=Purple
+tile.futuraCircuit.red.desc=Red
+tile.futuraCircuit.white.desc=White
+tile.futuraCircuit.yellow.desc=Yellow
+tile.futuraCircuit.gray.desc=Gray
+
+#Waterstone
+tile.chisel.waterstone.name=流水石
+tile.waterstone.0.desc=流水石磚塊
+tile.waterstone.1.desc=黑色流水石磚塊
+tile.waterstone.2.desc=方磚流水石
+tile.waterstone.3.desc=小碎石流水石
+tile.waterstone.4.desc=爬行者方磚流水石
+tile.waterstone.5.desc=鑲板流水石
+tile.waterstone.6.desc=華麗鑲板流水石
+
+#Hex Plating
+tile.chisel.hexPlating.name=六角金屬鍍層塊
+tile.hexPlating.black.desc=黑色金屬鍍層
+tile.hexPlating.blue.desc=藍色金屬鍍層
+tile.hexPlating.brown.desc=棕色金屬鍍層
+tile.hexPlating.cyan.desc=青色金屬鍍層
+tile.hexPlating.green.desc=綠色金屬鍍層
+tile.hexPlating.light_blue.desc=淡藍色金屬鍍層
+tile.hexPlating.silver.desc=淡灰色金屬鍍層
+tile.hexPlating.lime.desc=黃綠色金屬鍍層
+tile.hexPlating.magenta.desc=品紅色金屬鍍層
+tile.hexPlating.orange.desc=橙色金屬鍍層
+tile.hexPlating.pink.desc=粉色金屬鍍層
+tile.hexPlating.purple.desc=紫色金屬鍍層
+tile.hexPlating.red.desc=紅色金屬鍍層
+tile.hexPlating.white.desc=白色金屬鍍層
+tile.hexPlating.yellow.desc=黃色金屬鍍層
+tile.hexPlating.gray.desc=灰色金屬鍍層
+
+#Hex Large Plating
+tile.chisel.hexLargePlating.name=大型六角金屬鍍層塊
+
+#Grimstone
+tile.chisel.grimstone.name=陰森石
+tile.grimstone.0.desc=陰森石塊
+tile.grimstone.1.desc=拋光陰森石
+tile.grimstone.2.desc=神秘符號
+tile.grimstone.3.desc=鏨制陰森石
+tile.grimstone.4.desc=方磚陰森石
+tile.grimstone.5.desc=粗雕方磚陰森石
+tile.grimstone.6.desc=陰森石磚
+tile.grimstone.7.desc=陰森磚塊
+tile.grimstone.8.desc=陰森石平臺
+tile.grimstone.9.desc=方磚陰森石平臺
+tile.grimstone.10.desc=精緻刻紋陰森石
+tile.grimstone.11.desc=精緻陰森石瓷磚
+tile.grimstone.12.desc=拋光鑲板陰森石
+tile.grimstone.13.desc=鑲板陰森石
+tile.grimstone.14.desc=詭異陰森石
+
+#Technical Block
+tile.chisel.technical.name=工藝方塊
+tile.chisel.technical2.name=簡易工藝方塊
+tile.chisel.technical3.name=工業工藝方塊
+tile.technical.0.desc=腳手架
+tile.technical.1.desc=警示帶鑲板
+tile.technical.2.desc=歐尼特芙大陸的古物
+tile.technical.3.desc=下水管道(大型)
+tile.technical.4.desc=風扇(快速)
+tile.technical.5.desc=下水管道(小型)
+tile.technical.6.desc=風扇(停止)
+tile.technical.7.desc=排氣口
+tile.technical.8.desc=發光排氣口
+tile.technical.9.desc=絕緣方塊
+tile.technical.10.desc=轉動的齒輪與調速輪
+tile.technical.11.desc=電纜
+tile.technical.12.desc=生銹鐵板
+tile.technical.13.desc=爐條式火爐
+tile.technical.14.desc=風扇(故障)
+tile.technical.15.desc=生銹的爐條式火爐
+tile.technical3.0.desc=巨型風扇的一部分
+tile.technical3.1.desc=工業裝甲護板
+tile.technical3.1.desc=Industrial Armor Plating
+tile.technical4.0.desc=Corroded Metal Chunks
+tile.technical4.1.desc=Rusted Metal Chunks
+tile.technical4.2.desc=Sturdy
+tile.technical4.3.desc=MegaCell??Battery
+tile.technical4.4.desc=Thermal Exhaust Plating
+tile.technical4.5.desc=Makeshift Plating
+tile.technical4.6.desc=Pipe Dream
+tile.technical4.7.desc=Worn Concrete
+tile.technical4.16.desc=Tape Drive? (I'm too young for this.)
+
+#End Stone
+tile.chisel.end_Stone.name=End Stone
+tile.end_Stone.0.desc=End Stone Bricks
+tile.end_Stone.1.desc=End Chaotic Bricks
+tile.end_Stone.2.desc=Checkered Tiles
+tile.end_Stone.3.desc=Ender Circuit
+tile.end_Stone.4.desc=Fancy Bricks
+tile.end_Stone.5.desc=End Stone Pillar
+tile.end_Stone.6.desc=Etched End Stone
+tile.end_Stone.7.desc=Prismatic End Stone
+tile.end_Stone.8.desc=End Stone Chunk
+tile.end_Stone.9.desc=Framed End Stone Chunk
+tile.end_Stone.10.desc=Arcane Block of End Stone
+tile.end_Stone.11.desc=Framed End Stone
+tile.end_Stone.12.desc=Ornate End Stone
+tile.end_Stone.13.desc=End Stone Large Tile
+
+#Purpur
+tile.chisel.purpur.name=Purpur Block
+tile.purpur.0.desc=Medium Tiles
+tile.purpur.1.desc=Pillar
+tile.purpur.2.desc=Not Shulker
+tile.purpur.3.desc=Small Tiles
+tile.purpur.4.desc=Broken Small Tiles
+tile.purpur.5.desc=Prismatic Purpur
+tile.purpur.6.desc=Rough Bricks
+tile.purpur.7.desc=Cracked Surface
+tile.purpur.8.desc=Arcane Block of Purpur
+tile.purpur.9.desc=Purpur Large Tile
+tile.purpur.10.desc=Ornate Purpur
+
+#Metal Blocks
+tile.chisel.aluminumblock.name=鋁塊
+tile.chisel.bronzeblock.name=青銅塊
+tile.chisel.copperblock.name=銅塊
+tile.chisel.gold2.name=金塊
+tile.chisel.iron2.name=鐵塊
+tile.chisel.leadblock.name=鉛塊
+tile.chisel.silverblock.name=銀塊
+tile.chisel.steelblock.name=鋼塊
+tile.chisel.tinblock.name=錫塊
+tile.chisel.uraniumblock.name=鈾塊
+tile.metalOre.0.desc=警示條紋
+tile.metalOre.1.desc=郵輪貨箱
+tile.metalOre.2.desc=熱力膨脹式
+tile.metalOre.3.desc=歐尼特芙大陸的古物
+tile.metalOre.4.desc=新穎鑲邊方塊
+tile.metalOre.5.desc=精緻螺栓板面
+
+#Present Chest
+tile.chisel.present.name=禮物
+tile.chisel.present.desc=一個精緻漂亮的禮物箱子
+
+#Brick
+tile.chisel.brickCustom.name=磚塊
+tile.brickCustom.1.desc=大塊紅磚
+tile.brickCustom.2.desc=無灰泥磚塊
+tile.brickCustom.3.desc=雜色磚塊
+tile.brickCustom.5.desc=古老磚塊
+tile.brickCustom.6.desc=黃磚磚塊
+
+#Chisel 1
+
+#Cobblestone Blocks
+tile.chisel.cobblestone.name=圓石
+tile.cobblestone.0.desc=方正圓石磚
+tile.cobblestone.1.desc=精雕圓石磚
+tile.cobblestone.2.desc=小塊圓石磚
+tile.cobblestone.3.desc=大塊圓石磚
+tile.cobblestone.4.desc=小塊圓石瓷磚
+tile.cobblestone.5.desc=法式圓石瓷磚
+tile.cobblestone.6.desc=法式圓石瓷磚
+tile.cobblestone.7.desc=爬行者雕紋瓷磚
+tile.cobblestone.8.desc=破損圓石瓷磚
+tile.cobblestone.9.desc=大方圓石瓷磚
+tile.cobblestone.10.desc=爬行者雕紋鑲板磚
+tile.cobblestone.11.desc=凹面圓石磚
+tile.cobblestone.12.desc=鑲板圓石磚
+tile.cobblestone.13.desc=淺色鑲板圓石磚
+tile.cobblestone.14.desc=深色鑲板圓石磚
+
+#Sandstone Blocks
+tile.chisel.sandstone.name=沙石
+
+#Marble Blocks
+tile.chisel.marble.name=大理石
+tile.marble.0.desc=天然大理石
+tile.marble.1.desc=大理石磚
+tile.marble.2.desc=古典鑲板大理石
+tile.marble.3.desc=華麗鑲板大理石
+tile.marble.4.desc=普通鑲板大理石
+tile.marble.5.desc=大理石塊
+tile.marble.6.desc=深色爬行者雕紋
+tile.marble.7.desc=淺色爬行者雕紋
+tile.marble.8.desc=刻紋大理石
+tile.marble.9.desc=放射狀刻紋大理石
+tile.marble.10.desc=凹面大理石
+tile.marble.11.desc=大塊凹面大理石
+tile.marble.12.desc=大理石瓷磚
+tile.marble.13.desc=齊紋大理石瓷磚
+tile.marble.14.desc=花式大理石瓷磚
+tile.marble.15.desc=大理石方磚
+
+#Marble Slabs
+tile.chisel.marble_slab.name=大理石臺階
+tile.marbleSlab.0.desc=天然大理石臺階
+tile.marbleSlab.1.desc=大理石磚臺階
+tile.marbleSlab.2.desc=古典鑲板大理石臺階
+tile.marbleSlab.3.desc=華麗鑲板大理石臺階
+tile.marbleSlab.4.desc=普通鑲板大理石臺階
+tile.marbleSlab.5.desc=大理石塊臺階
+tile.marbleSlab.6.desc=深色爬行者雕紋臺階
+tile.marbleSlab.7.desc=淺色爬行者雕紋臺階
+tile.marbleSlab.8.desc=刻紋大理石臺階
+tile.marbleSlab.9.desc=放射狀刻紋大理石臺階
+tile.marbleSlab.10.desc=凹面大理石臺階
+tile.marbleSlab.11.desc=大塊凹面大理石臺階
+tile.marbleSlab.12.desc=大理石瓷磚臺階
+tile.marbleSlab.13.desc=齊紋大理石瓷磚臺階
+tile.marbleSlab.14.desc=花式大理石瓷磚臺階
+tile.marbleSlab.15.desc=大理石方磚臺階
+
+#Marble Pillars (old)
+tile.chisel.marble_pillar.name=大理石柱
+tile.marblePillarOld.0.desc=大理石柱
+tile.marblePillarOld.1.desc=大理石柱頂石
+tile.marblePillarOld.2.desc=大理石柱基石
+tile.marblePillarOld.3.desc=Small Marble Pillar
+tile.marblePillarOld.4.desc=Carved Marble Pillar
+tile.marblePillarOld.5.desc=Ornamental Marble Pillar
+tile.marblePillarOld.6.desc=Greek Marble Pillar
+tile.marblePillarOld.7.desc=Plain Marble Pillar
+tile.marblePillarOld.8.desc=Greek Marble Pillar Capstone
+tile.marblePillarOld.9.desc=Plain Marble Pillar Capstone
+tile.marblePillarOld.10.desc=Greek Marble Pillar Base
+tile.marblePillarOld.11.desc=Plain Marble Pillar Base
+tile.marblePillarOld.12.desc=Greek Marble Pillar Ornate Capstone
+tile.marblePillarOld.13.desc=Plain Marble Pillar Ornate Capstone
+tile.marblePillarOld.14.desc=Greek Marble Pillar Ornate Base
+tile.marblePillarOld.15.desc=Plain Marble Pillar Ornate Base
+
+#Marble Pillars (current)
+tile.marblePillar.0.desc=大理石柱
+tile.marblePillar.1.desc=原始大理石柱
+tile.marblePillar.2.desc=簡約大理石柱
+tile.marblePillar.3.desc=凸面大理石柱
+tile.marblePillar.4.desc=粗雕大理石柱
+tile.marblePillar.5.desc=有著精雕頂石的希臘式石柱
+tile.marblePillar.6.desc=希臘式石柱
+tile.marblePillar.7.desc=有著簡樸頂石的希臘式石柱
+tile.marblePillar.8.desc=有著精雕頂石的簡樸石柱
+tile.marblePillar.9.desc=有著希臘式頂石的簡樸石柱
+tile.marblePillar.10.desc=簡樸石柱
+tile.marblePillar.11.desc=有著精雕頂石的寬紋石柱
+tile.marblePillar.12.desc=有著希臘式頂石的寬紋石柱
+tile.marblePillar.13.desc=有著簡樸頂石的寬紋石柱
+tile.marblePillar.14.desc=雕紋柱頂石
+tile.marblePillar.15.desc=華麗刻紋柱頂石
+
+#Marble Slabs (old)
+tile.chisel.marble_pillar_slab.name=Marble Pillar Slab
+tile.marblePillarSlabOld.0.desc=Marble Pillar Slab
+tile.marblePillarSlabOld.1.desc=Marble Pillar Capstone Slab
+tile.marblePillarSlabOld.2.desc=Marble Pillar Base Slab
+tile.marblePillarSlabOld.3.desc=Small Marble Pillar Slab
+tile.marblePillarSlabOld.4.desc=Carved Marble Pillar Slab
+tile.marblePillarSlabOld.5.desc=Ornamental Marble Pillar Slab
+tile.marblePillarSlabOld.6.desc=Greek Marble Pillar Slab
+tile.marblePillarSlabOld.7.desc=Plain Marble Pillar Slab
+tile.marblePillarSlabOld.8.desc=Greek Marble Pillar Capstone Slab
+tile.marblePillarSlabOld.9.desc=Plain Marble Pillar capstone Slab
+tile.marblePillarSlabOld.10.desc=Greek Marble Pillar Base Slab
+tile.marblePillarSlabOld.11.desc=Plain Marble Pillar Base Slab
+tile.marblePillarSlabOld.12.desc=Greek Marble Pillar Ornate Capstone Slab
+tile.marblePillarSlabOld.13.desc=Plain Marble Pillar Ornate Capstone Slab
+tile.marblePillarSlabOld.14.desc=Greek Marble Pillar Ornate Base Slab
+tile.marblePillarSlabOld.15.desc=Plain Marble Pillar Ornate Base Slab
+
+#Marble Slabs (current)
+tile.marblePillarSlab.0.desc=豎紋大理石臺階
+tile.marblePillarSlab.1.desc=原始豎紋臺階
+tile.marblePillarSlab.2.desc=簡約豎紋臺階
+tile.marblePillarSlab.3.desc=凸面豎紋臺階
+tile.marblePillarSlab.4.desc=粗雕豎紋臺階
+tile.marblePillarSlab.5.desc=希臘式豎紋臺階(精雕頂石)
+tile.marblePillarSlab.6.desc=希臘式豎紋臺階
+tile.marblePillarSlab.7.desc=希臘式豎紋臺階(簡樸頂石)
+tile.marblePillarSlab.8.desc=簡樸豎紋臺階(精雕頂石)
+tile.marblePillarSlab.9.desc=簡樸豎紋臺階(希臘式頂石)
+tile.marblePillarSlab.10.desc=簡樸豎紋臺階
+tile.marblePillarSlab.11.desc=寬豎紋臺階(精雕頂石)
+tile.marblePillarSlab.12.desc=寬豎紋臺階(希臘式頂石)
+tile.marblePillarSlab.13.desc=寬豎紋臺階(簡樸頂石)
+tile.marblePillarSlab.14.desc=雕紋頂石臺階
+tile.marblePillarSlab.15.desc=華麗刻紋頂石臺階
+
+#Marble Stairs
+#The same name goes here 8 different times since stairs take up 8 block positions.
+#Sorry!  It was the only way!
+tile.chisel.marble_stairs.0.name=大理石樓梯
+tile.chisel.marble_stairs.1.name=大理石樓梯
+tile.chisel.marble_stairs.2.name=大理石樓梯
+tile.chisel.marble_stairs.3.name=大理石樓梯
+tile.chisel.marble_stairs.4.name=大理石樓梯
+tile.chisel.marble_stairs.5.name=大理石樓梯
+tile.chisel.marble_stairs.6.name=大理石樓梯
+tile.chisel.marble_stairs.7.name=大理石樓梯
+
+#These are bugged.... so sad :,(
+tile.marbleStairs.0.desc=天然大理石樓梯
+tile.marbleStairs.1.desc=大理石磚樓梯
+tile.marbleStairs.2.desc=古典鑲板大理石樓梯
+tile.marbleStairs.3.desc=華麗鑲板大理石樓梯
+tile.marbleStairs.4.desc=普通鑲板大理石樓梯
+tile.marbleStairs.5.desc=大理石塊樓梯
+tile.marbleStairs.6.desc=深色爬行者雕紋樓梯
+tile.marbleStairs.7.desc=淺色爬行者雕紋樓梯
+tile.marbleStairs.8.desc=刻紋大理石樓梯
+tile.marbleStairs.9.desc=放射狀刻紋大理石樓梯
+tile.marbleStairs.10.desc=凹面大理石樓梯
+tile.marbleStairs.11.desc=大塊凹面大理石樓梯
+tile.marbleStairs.12.desc=大理石瓷磚樓梯
+tile.marbleStairs.13.desc=齊紋大理石瓷磚樓梯
+tile.marbleStairs.14.desc=花式大理石瓷磚樓梯
+tile.marbleStairs.15.desc=大理石方磚樓梯
+
+#Limestone
+tile.chisel.limestone.name=石灰岩
+tile.limestone.0.desc=石灰岩
+tile.limestone.1.desc=小塊灰岩瓷磚
+tile.limestone.2.desc=法式灰岩瓷磚
+tile.limestone.3.desc=法式灰岩瓷磚
+tile.limestone.4.desc=爬行者雕紋瓷磚
+tile.limestone.5.desc=小塊灰岩磚
+tile.limestone.6.desc=破損灰岩瓷磚
+tile.limestone.7.desc=拋光灰岩
+tile.limestone.8.desc=華麗鑲板灰岩
+tile.limestone.9.desc=精雕鑲板灰岩
+tile.limestone.10.desc=爬行者雕紋鑲板灰岩
+tile.limestone.11.desc=凹面灰岩
+tile.limestone.12.desc=鑲板灰岩
+tile.limestone.13.desc=方磚灰岩
+tile.limestone.14.desc=淺色鑲板灰岩
+tile.limestone.15.desc=深色鑲板灰岩
+
+#Limestone Slabs
+tile.chisel.limestone_slab.name=石灰岩臺階
+tile.limestoneSlab.0.desc=石灰岩臺階
+tile.limestoneSlab.1.desc=小塊灰岩瓷磚臺階
+tile.limestoneSlab.2.desc=法式灰岩瓷磚臺階
+tile.limestoneSlab.3.desc=法式灰岩瓷磚臺階
+tile.limestoneSlab.4.desc=爬行者雕紋瓷磚臺階
+tile.limestoneSlab.5.desc=小塊灰岩磚臺階
+tile.limestoneSlab.6.desc=破損灰岩瓷磚臺階
+tile.limestoneSlab.7.desc=拋光灰岩臺階
+tile.limestoneSlab.8.desc=華麗鑲板灰岩臺階
+tile.limestoneSlab.9.desc=精雕鑲板灰岩臺階
+tile.limestoneSlab.10.desc=爬行者雕紋鑲板灰岩臺階
+tile.limestoneSlab.11.desc=凹面灰岩臺階
+tile.limestoneSlab.12.desc=鑲板灰岩臺階
+tile.limestoneSlab.13.desc=方磚灰岩臺階
+tile.limestoneSlab.14.desc=淺色鑲板灰岩臺階
+tile.limestoneSlab.15.desc=深色鑲板灰岩臺階
+
+#Limestone Stairs
+#The same name goes here 8 different times since stairs take up 8 block positions.
+#Sorry!  It was the only way!
+tile.chisel.limestone_stairs.0.name=石灰岩樓梯
+tile.chisel.limestone_stairs.1.name=石灰岩樓梯
+tile.chisel.limestone_stairs.2.name=石灰岩樓梯
+tile.chisel.limestone_stairs.3.name=石灰岩樓梯
+tile.chisel.limestone_stairs.4.name=石灰岩樓梯
+tile.chisel.limestone_stairs.5.name=石灰岩樓梯
+tile.chisel.limestone_stairs.6.name=石灰岩樓梯
+tile.chisel.limestone_stairs.7.name=石灰岩樓梯
+
+#These are bugged.... so sad :,(
+tile.limestoneStairs.0.desc=石灰岩樓梯
+tile.limestoneStairs.1.desc=小塊灰岩瓷磚樓梯
+tile.limestoneStairs.2.desc=法式灰岩瓷磚樓梯
+tile.limestoneStairs.3.desc=法式灰岩瓷磚樓梯
+tile.limestoneStairs.4.desc=爬行者雕紋瓷磚樓梯
+tile.limestoneStairs.5.desc=小塊灰岩磚樓梯
+tile.limestoneStairs.6.desc=破損灰岩瓷磚樓梯
+tile.limestoneStairs.7.desc=拋光灰岩樓梯
+tile.limestoneStairs.8.desc=華麗鑲板灰岩樓梯
+tile.limestoneStairs.9.desc=精雕鑲板灰岩樓梯
+tile.limestoneStairs.10.desc=爬行者雕紋鑲板灰岩樓梯
+tile.limestoneStairs.11.desc=凹面灰岩樓梯
+tile.limestoneStairs.12.desc=鑲板灰岩樓梯
+tile.limestoneStairs.13.desc=方磚灰岩樓梯
+tile.limestoneStairs.14.desc=淺色鑲板灰岩樓梯
+tile.limestoneStairs.15.desc=深色鑲板灰岩樓梯
+
+#Factory Blocks
+tile.chisel.factoryblock.name=工廠方塊
+tile.factory.0.desc=點狀鏽跡金屬板
+tile.factory.1.desc=生銹金屬板
+tile.factory.2.desc=銹蝕金屬板
+tile.factory.3.desc=略微生銹的金屬板
+tile.factory.4.desc=格柵塊
+tile.factory.5.desc=紫影格柵塊
+tile.factory.6.desc=黃黑相間的警示方塊
+tile.factory.7.desc=橙白相間的警示方塊
+tile.factory.8.desc=精密電路方塊
+tile.factory.9.desc=精緻的金屬盒
+tile.factory.10.desc=鍍金的精密電路方塊
+tile.factory.11.desc=鍍金的紫色生銹方塊
+tile.factory.12.desc=拋光的金屬建築方塊
+tile.factory.13.desc=金屬牆面磨損的通風口
+tile.factory.14.desc=生銹金屬板
+tile.factory.15.desc=磨損的金屬圓柱
+
+tile.chisel.factoryblock2.name=工廠方塊
+tile.factory2.0.desc=霓虹藍鑲板
+tile.factory2.1.desc=垂直通風口
+tile.factory2.2.desc=金屬藍電路板
+tile.factory2.3.desc=藍色格柵塊
+
+#Diamond blocks
+tile.chisel.diamond_block.name=鑽石塊
+tile.diamond.1.desc=拋光鑽石塊
+tile.diamond.2.desc=鑲板鑽石塊
+tile.diamond.3.desc=細胞雕紋鑽石塊
+tile.diamond.4.desc=鑲嵌著鑽石的紫色黑曜石
+tile.diamond.5.desc=鑲嵌著鑽石的黑曜石
+tile.diamond.6.desc=普通鑽石塊
+tile.diamond.7.desc=鉍紋鑽石塊
+tile.diamond.8.desc=碎裂鑽石塊
+tile.diamond.9.desc=方磚鑽石塊
+tile.diamond.10.desc=精雕方磚鑽石塊
+tile.diamond.11.desc=塞爾達鑽石塊
+tile.diamond.12.desc=華麗金框鑽石塊
+
+#Snakestone
+tile.chisel.snakestoneSand.name=蛇紋沙石
+tile.chisel.snakestoneStone.name=蛇紋石頭
+tile.chisel.obsidianSnakestone.name=蛇紋黑曜石
+
+#Glass blocks
+tile.chisel.glass.name=玻璃
+tile.glass.1.desc=凸面玻璃
+tile.glass.2.desc=中式窗櫺
+tile.glass.3.desc=日式窗格
+tile.glass.4.desc=地牢玻璃
+tile.glass.5.desc=輕型玻璃
+tile.glass.6.desc=無框玻璃
+tile.glass.7.desc=精緻鋼架玻璃
+tile.glass.8.desc=屏風
+tile.glass.9.desc=葉岩框玻璃
+tile.glass.10.desc=鋼框玻璃
+tile.glass.11.desc=石框玻璃
+tile.glass.12.desc=條紋玻璃
+tile.glass.13.desc=粗格柵玻璃
+tile.glass.14.desc=細格柵玻璃
+tile.glass.15.desc=現代式鐵格柵
+
+tile.chisel.glass2.name=玻璃
+tile.glass2.0.desc=非對稱式格柵鉛框玻璃
+
+#Sandstone
+tile.chisel.sandstone.name=沙石
+
+tile.sandstone.0.desc=Sandstone Glyphs
+tile.sandstone.1.desc=Sandcobble
+tile.sandstone.2.desc=Sandstone Creeper
+
+tile.sandstone.3.desc=褪色沙石
+tile.sandstone.4.desc=沙石柱
+tile.sandstone.5.desc=沙石柱頂石
+tile.sandstone.6.desc=矮式沙石柱
+tile.sandstone.7.desc=沙石柱基石
+tile.sandstone.8.desc=光滑又平整的沙石
+tile.sandstone.9.desc=拋光沙石柱頂石
+tile.sandstone.10.desc=拋光矮式沙石柱
+tile.sandstone.11.desc=拋光沙石柱基石
+tile.sandstone.12.desc=沙石塊
+tile.sandstone.13.desc=方磚沙石
+tile.sandstone.14.desc=鑲嵌圖案沙石
+tile.sandstone.15.desc=層疊沙石瓷磚
+
+#Sandstone scribbles
+tile.chisel.sandstone_scribbles.name=刻文沙石
+tile.sandstoneScribbles.desc=刻文沙石
+
+#Concrete
+tile.chisel.concrete.name=混凝土
+tile.concrete.0.desc=混凝土
+tile.concrete.1.desc=混凝土塊
+tile.concrete.2.desc=雙層混凝土臺階
+tile.concrete.3.desc=方磚混凝土
+tile.concrete.4.desc=風化混凝土
+tile.concrete.5.desc=風化混凝土塊
+tile.concrete.6.desc=風化雙層混凝土臺階
+tile.concrete.7.desc=風化方磚混凝土
+tile.concrete.8.desc=局部風化的混凝土
+tile.concrete.9.desc=局部風化的混凝土塊
+tile.concrete.10.desc=瀝青
+
+#Road Line
+tile.chisel.road_line.name=道路標線
+tile.roadLine.0.desc=白色標線
+tile.roadLine.1.desc=黃色標線
+tile.roadLine.2.desc=白色雙標線
+tile.roadLine.3.desc=黃色雙標線
+
+#Iron Blocks
+tile.chisel.iron_block.name=鐵塊
+tile.iron.1.desc=大塊鐵錠
+tile.iron.2.desc=小塊鐵錠
+tile.iron.3.desc=鐵齒輪
+tile.iron.4.desc=鐵磚
+tile.iron.5.desc=鐵板
+tile.iron.6.desc=有錨釘的鐵板
+tile.iron.7.desc=正面朝上的鐵幣堆
+tile.iron.8.desc=正面朝下的鐵幣堆
+tile.iron.9.desc=深色鐵制貨箱
+tile.iron.10.desc=亮色鐵制貨箱
+tile.iron.11.desc=半月雕紋鐵塊
+tile.iron.12.desc=嵌有鐵質半月裝飾的紫黑曜石
+tile.iron.13.desc=嵌有鐵質半月裝飾的黑曜石
+tile.iron.14.desc=鐵制通風口
+tile.iron.15.desc=普通鐵塊
+
+#Gold Blocks
+tile.chisel.gold_block.name=金塊
+tile.gold.1.desc=大塊金錠
+tile.gold.2.desc=小塊金錠
+tile.gold.3.desc=金磚
+tile.gold.4.desc=金礦車
+tile.gold.5.desc=正面朝上的金幣堆
+tile.gold.6.desc=正面朝下的金幣堆
+tile.gold.7.desc=深色金制貨箱
+tile.gold.8.desc=亮色金制貨箱
+tile.gold.9.desc=金板
+tile.gold.10.desc=有錨釘的金板
+tile.gold.11.desc=半月雕紋金塊
+tile.gold.12.desc=嵌有金質半月裝飾的紫黑曜石
+tile.gold.13.desc=嵌有金質半月裝飾的黑曜石
+tile.gold.14.desc=普通金塊
+
+#Glowstone
+tile.chisel.glowstone.name=螢石
+tile.lightstone.1.desc=圓石紋螢石
+tile.lightstone.2.desc=被腐蝕的方磚螢石
+tile.lightstone.3.desc=玻璃方磚螢石
+tile.lightstone.4.desc=霓虹螢石
+tile.lightstone.5.desc=精雕方磚螢石
+tile.lightstone.6.desc=岩狀螢石
+tile.lightstone.7.desc=頁狀螢石
+tile.lightstone.8.desc=螢石瓷磚
+tile.lightstone.9.desc=精緻螢石燈籠
+tile.lightstone.10.desc=破碎的螢石
+tile.lightstone.11.desc=有機螢石
+tile.lightstone.12.desc=層狀螢石
+tile.lightstone.13.desc=被腐蝕的螢石瓷磚
+tile.lightstone.14.desc=鉍紋螢石
+tile.lightstone.15.desc=鉍紋鑲板螢石
+
+#Lapis blocks
+tile.chisel.lapis_block.name=青金石塊
+tile.lapis.1.desc=塊狀青金石塊
+tile.lapis.2.desc=深色青金石塊
+tile.lapis.3.desc=塞爾達青金石塊
+tile.lapis.4.desc=精緻的青金石塊
+tile.lapis.5.desc=青金石瓷磚
+tile.lapis.6.desc=鑲板青金石塊
+tile.lapis.7.desc=拋光青金石塊
+tile.lapis.8.desc=華麗金框青金石塊
+
+#Emerald Blocks
+tile.chisel.emerald_block.name=綠寶石塊
+tile.emerald.1.desc=磨面綠寶石塊
+tile.emerald.2.desc=經典磨面綠寶石塊
+tile.emerald.3.desc=拋光綠寶石塊
+tile.emerald.4.desc=塊狀綠寶石塊
+tile.emerald.5.desc=華麗金框綠寶石塊
+tile.emerald.6.desc=塞爾達綠寶石塊
+tile.emerald.7.desc=細胞雕紋綠寶石塊
+tile.emerald.8.desc=鉍紋綠寶石塊
+tile.emerald.9.desc=方磚綠寶石塊
+tile.emerald.10.desc=精雕方磚綠寶石塊
+tile.emerald.11.desc=精雕綠寶石塊
+
+#Nether Brick
+tile.chisel.nether_brick.name=地獄磚
+tile.netherBrick.1.desc=藍色地獄磚
+tile.netherBrick.2.desc=污穢地獄磚
+tile.netherBrick.3.desc=內臟砌成的地獄磚
+tile.netherBrick.4.desc=內臟砌成的深色地獄磚
+tile.netherBrick.5.desc=小塊內臟砌成的深色地獄磚
+tile.netherBrick.6.desc=溢出岩漿的藍色地獄磚
+tile.netherBrick.7.desc=棕色地獄磚
+tile.netherBrick.8.desc=黑曜石質地獄磚
+tile.netherBrick.9.desc=石質地獄磚
+tile.netherBrick.10.desc=肉塊砌成的地獄磚
+tile.netherBrick.11.desc=肉塊砌成的鮮紅色地獄磚
+tile.netherBrick.12.desc=小肉塊砌成的地獄磚
+tile.netherBrick.13.desc=小肉塊砌成的紅色地獄磚
+tile.netherBrick.14.desc=紅色地獄磚
+tile.netherBrick.15.desc=小塊紅色地獄磚
+
+#Netherrack
+tile.chisel.netherrack.name=地獄岩
+tile.hellrock.1.desc=染血的下界砂礫
+tile.hellrock.2.desc=染血的地獄岩
+tile.hellrock.3.desc=染血的深色下界砂礫
+tile.hellrock.4.desc=藍色地獄岩
+tile.hellrock.5.desc=頁狀藍色地獄岩
+tile.hellrock.6.desc=經典地獄岩
+tile.hellrock.7.desc=污穢地獄岩
+tile.hellrock.8.desc=內臟砌成的地獄岩
+tile.hellrock.9.desc=內臟砌成的深色地獄岩
+tile.hellrock.10.desc=肉塊砌成的地獄岩
+tile.hellrock.11.desc=肉塊砌成的鮮紅色地獄岩
+tile.hellrock.12.desc=小肉塊砌成的地獄岩
+tile.hellrock.13.desc=深紅色地獄岩
+tile.hellrock.14.desc=溢出岩漿的地獄岩
+
+#Mossy Stone
+tile.chisel.mossy_cobblestone.name=苔石
+tile.stoneMoss.1.desc=方正苔石磚
+tile.stoneMoss.2.desc=精雕苔石磚
+tile.stoneMoss.3.desc=小塊苔石磚
+tile.stoneMoss.4.desc=大塊苔石磚
+tile.stoneMoss.5.desc=小塊苔石瓷磚
+tile.stoneMoss.6.desc=法式苔石瓷磚
+tile.stoneMoss.7.desc=法式苔石瓷磚
+tile.stoneMoss.8.desc=爬行者雕紋瓷磚
+tile.stoneMoss.9.desc=破損苔石瓷磚
+tile.stoneMoss.10.desc=大方苔石瓷磚
+tile.stoneMoss.11.desc=爬行者雕紋鑲板磚
+tile.stoneMoss.12.desc=凹面苔石磚
+tile.stoneMoss.13.desc=鑲板苔石磚
+tile.stoneMoss.14.desc=淺色鑲板苔石磚
+tile.stoneMoss.15.desc=深色鑲板苔石磚
+
+#Stone Bricks
+tile.chisel.stonebricksmooth.name=石磚
+tile.stonebricksmooth.0.desc=時尚朴色石磚
+tile.stonebricksmooth.1.desc=時尚長英質石磚
+tile.stonebricksmooth.2.desc=時尚鎂鐵質石磚
+tile.stonebricksmooth.3.desc=時尚混合質石磚
+tile.stonebricksmooth.4.desc=小塊石磚
+tile.stonebricksmooth.5.desc=寬磚石磚
+tile.stonebricksmooth.6.desc=雜亂小碎石磚
+tile.stonebricksmooth.7.desc=雜亂石磚
+tile.stonebricksmooth.8.desc=雜亂石板
+tile.stonebricksmooth.9.desc=光滑整齊的石磚
+tile.stonebricksmooth.10.desc=精緻石瓷磚
+tile.stonebricksmooth.11.desc=大塊精緻石瓷磚
+tile.stonebricksmooth.12.desc=磨面石磚
+tile.stonebricksmooth.13.desc=凹面石磚
+tile.stonebricksmooth.14.desc=精緻凹面石磚
+tile.stonebricksmooth.15.desc=雕紋浮誇的石磚
+
+#Dirt
+tile.chisel.dirt.name=泥土
+tile.dirt.0.desc=雜亂堆砌的泥磚
+tile.dirt.1.desc=模仿地獄磚設計的泥磚
+tile.dirt.2.desc=泥磚
+tile.dirt.3.desc=圓石紋泥磚
+tile.dirt.4.desc=加固的圓石紋泥磚
+tile.dirt.5.desc=加固的泥土
+tile.dirt.6.desc=笑臉雕紋泥土
+tile.dirt.7.desc=大塊泥磚
+tile.dirt.8.desc=覆蓋著泥土的大塊泥磚
+tile.dirt.9.desc=水準花紋泥土
+tile.dirt.10.desc=垂直花紋泥土
+tile.dirt.11.desc=層狀泥土
+tile.dirt.12.desc=碎裂泥土
+
+#Ice
+tile.chisel.ice.name=冰
+tile.ice.1.desc=粗雕冰塊
+tile.ice.2.desc=圓石紋冰塊
+tile.ice.3.desc=大塊粗砌冰磚
+tile.ice.4.desc=大塊冰磚
+tile.ice.5.desc=小塊冰磚
+tile.ice.6.desc=拋光冰牆
+tile.ice.7.desc=方磚冰瓷磚
+tile.ice.8.desc=拋光冰瓷磚
+tile.ice.9.desc=凹面方磚冰瓷磚
+tile.ice.10.desc=雜亂冰瓷磚
+tile.ice.11.desc=磨面冰磚
+tile.ice.12.desc=雙層冰臺階
+tile.ice.13.desc=塞爾達冰塊
+tile.ice.14.desc=鉍紋冰塊
+tile.ice.15.desc=雕紋浮誇的冰塊
+
+#Ice Pillars
+tile.chisel.ice_pillar.name=冰柱
+tile.icePillar.0.desc=有著簡樸頂石的簡樸冰柱
+tile.icePillar.1.desc=有著希臘式頂石的簡樸冰柱
+tile.icePillar.2.desc=有著簡樸頂石的希臘式冰柱
+tile.icePillar.3.desc=有著希臘式頂石的希臘式冰柱
+tile.icePillar.4.desc=精雕柱頂石
+tile.icePillar.5.desc=雕紋柱頂石
+tile.icePillar.6.desc=華麗刻紋柱頂石
+
+#Ice Stairs
+tile.chisel.ice_stairs.name=冰樓梯
+tile.chisel.ice_stairs.0.name=冰樓梯
+tile.chisel.ice_stairs.1.name=冰樓梯
+tile.chisel.ice_stairs.2.name=冰樓梯
+tile.chisel.ice_stairs.3.name=冰樓梯
+tile.chisel.ice_stairs.4.name=冰樓梯
+tile.chisel.ice_stairs.5.name=冰樓梯
+tile.chisel.ice_stairs.6.name=冰樓梯
+tile.chisel.ice_stairs.7.name=冰樓梯
+tile.ice_stairs.0.desc=冰樓梯
+tile.ice_stairs.1.desc=粗雕冰樓梯
+tile.ice_stairs.2.desc=圓石紋冰樓梯
+tile.ice_stairs.3.desc=大塊粗砌冰磚樓梯
+tile.ice_stairs.4.desc=大塊冰磚樓梯
+tile.ice_stairs.5.desc=小塊冰磚樓梯
+tile.ice_stairs.6.desc=拋光冰牆樓梯
+tile.ice_stairs.7.desc=方磚冰瓷磚樓梯
+tile.ice_stairs.8.desc=拋光冰瓷磚樓梯
+tile.ice_stairs.9.desc=凹面方磚冰瓷磚樓梯
+tile.ice_stairs.10.desc=雜亂冰瓷磚樓梯
+tile.ice_stairs.11.desc=磨面冰磚樓梯
+tile.ice_stairs.12.desc=雙層冰臺階樓梯
+tile.ice_stairs.13.desc=塞爾達冰樓梯
+tile.ice_stairs.14.desc=鉍紋冰樓梯
+tile.ice_stairs.15.desc=雕紋浮誇的冰樓梯
+
+#Packed Ice
+tile.chisel.packedice.name=浮冰
+tile.packedice.1.desc=粗雕浮冰塊
+tile.packedice.2.desc=圓石紋浮冰塊
+tile.packedice.3.desc=大塊粗砌浮冰磚
+tile.packedice.4.desc=大塊浮冰磚
+tile.packedice.5.desc=小塊浮冰磚
+tile.packedice.6.desc=拋光浮冰牆
+tile.packedice.7.desc=方磚浮冰瓷磚
+tile.packedice.8.desc=拋光浮冰瓷磚
+tile.packedice.9.desc=凹面方磚浮冰瓷磚
+tile.packedice.10.desc=雜亂浮冰瓷磚
+tile.packedice.11.desc=磨面浮冰磚
+tile.packedice.12.desc=雙層浮冰臺階
+tile.packedice.13.desc=塞爾達浮冰塊
+tile.packedice.14.desc=鉍紋浮冰塊
+tile.packedice.15.desc=雕紋浮誇的浮冰塊
+
+#Packed Ice Pillars
+tile.chisel.packedice_pillar.name=浮冰柱
+tile.packedice_pillar.0.desc=有著簡樸頂石的簡樸浮冰柱
+tile.packedice_pillar.1.desc=有著希臘式頂石的簡樸浮冰柱
+tile.packedice_pillar.2.desc=有著簡樸頂石的希臘式浮冰柱
+tile.packedice_pillar.3.desc=有著希臘式頂石的希臘式浮冰柱
+tile.packedice_pillar.4.desc=精雕柱頂石
+tile.packedice_pillar.5.desc=雕紋柱頂石
+tile.packedice_pillar.6.desc=華麗刻紋柱頂石
+
+#Packed Ice Stairs
+tile.chisel.packedice_stairs.name=浮冰樓梯
+tile.chisel.packedice_stairs.0.name=浮冰樓梯
+tile.chisel.packedice_stairs.1.name=浮冰樓梯
+tile.chisel.packedice_stairs.2.name=浮冰樓梯
+tile.chisel.packedice_stairs.3.name=浮冰樓梯
+tile.chisel.packedice_stairs.4.name=浮冰樓梯
+tile.chisel.packedice_stairs.5.name=浮冰樓梯
+tile.chisel.packedice_stairs.6.name=浮冰樓梯
+tile.chisel.packedice_stairs.7.name=浮冰樓梯
+tile.packedice_stairs.0.desc=浮冰樓梯
+tile.packedice_stairs.1.desc=粗雕浮冰樓梯
+tile.packedice_stairs.2.desc=圓石紋浮冰樓梯
+tile.packedice_stairs.3.desc=大塊粗砌浮冰磚樓梯
+tile.packedice_stairs.4.desc=大塊浮冰磚樓梯
+tile.packedice_stairs.5.desc=小塊浮冰磚樓梯
+tile.packedice_stairs.6.desc=拋光浮冰牆樓梯
+tile.packedice_stairs.7.desc=方磚浮冰瓷磚樓梯
+tile.packedice_stairs.8.desc=拋光浮冰瓷磚樓梯
+tile.packedice_stairs.9.desc=凹面方磚浮冰瓷磚樓梯
+tile.packedice_stairs.10.desc=雜亂浮冰瓷磚樓梯
+tile.packedice_stairs.11.desc=磨面浮冰磚樓梯
+tile.packedice_stairs.12.desc=雙層浮冰臺階樓梯
+tile.packedice_stairs.13.desc=塞爾達浮冰樓梯
+tile.packedice_stairs.14.desc=鉍紋浮冰樓梯
+tile.packedice_stairs.15.desc=雕紋浮誇的浮冰樓梯
+
+#Obsidian
+tile.chisel.obsidian.name=黑曜石
+tile.obsidian.1.desc=粗豎紋黑曜石
+tile.obsidian.2.desc=細豎紋黑曜石
+tile.obsidian.3.desc=鏨制黑曜石
+tile.obsidian.4.desc=亮色鑲板黑曜石
+tile.obsidian.5.desc=磨面黑曜石
+tile.obsidian.6.desc=有機塊狀黑曜石
+tile.obsidian.7.desc=有機生長黑曜石
+tile.obsidian.8.desc=黑曜石水晶
+tile.obsidian.9.desc=地圖雕紋黑曜石
+tile.obsidian.10.desc=地圖雕紋黑曜石
+tile.obsidian.11.desc=有光澤的鑲板黑曜石
+tile.obsidian.12.desc=方磚黑曜石
+tile.obsidian.13.desc=黑曜石瓷磚
+tile.obsidian.14.desc=古希臘刻紋亮色黑曜石
+tile.obsidian.15.desc=裝在橡木板條箱中的黑曜石
+
+#Wood
+tile.chisel.oak_planks.name=橡木板
+tile.chisel.birch_planks.name=白樺木板
+tile.chisel.spruce_planks.name=雲杉木板
+tile.chisel.jungle_planks.name=叢林木板
+tile.chisel.dark_oak_planks.name=深色橡木板
+tile.chisel.acacia_planks.name=金合歡木板
+
+#Iron Fence
+tile.chisel.iron_bars.name=鐵柵欄
+tile.iron_bars.1.desc=無框鐵柵欄
+tile.iron_bars.2.desc=環狀鐵柵欄
+tile.iron_bars.3.desc=牢籠鐵柵欄
+tile.iron_bars.4.desc=禦敵用尖刺柵欄
+tile.iron_bars.5.desc=粗鐵格網
+tile.iron_bars.6.desc=細鐵格網
+tile.iron_bars.7.desc=精緻鐵框柵欄
+tile.iron_bars.8.desc=豎直鐵棒
+tile.iron_bars.9.desc=鐵尖刺柵欄
+
+#Glass Panes
+tile.chisel.glass_pane.name=玻璃板
+tile.glass_pane.1.desc=凸面玻璃板
+tile.glass_pane.2.desc=無框玻璃板
+tile.glass_pane.3.desc=屏風板
+tile.glass_pane.4.desc=條紋玻璃板
+tile.glass_pane.12.desc=中式窗櫺板
+tile.glass_pane.13.desc=中式金框窗櫺板
+tile.glass_pane.14.desc=日式窗格板
+tile.glass_pane.15.desc=精緻日式窗格板
+
+#Redstone block
+tile.chisel.redstone_block.name=紅石塊
+tile.redstone_block.1.desc=拋光紅石塊
+tile.redstone_block.2.desc=磨面紅石塊
+tile.redstone_block.3.desc=方磚紅石塊
+tile.redstone_block.4.desc=紅石磚塊
+tile.redstone_block.5.desc=小塊紅石磚
+tile.redstone_block.6.desc=小碎石紅石磚
+tile.redstone_block.7.desc=鏨制紅石塊
+tile.redstone_block.8.desc=希臘式雕紋紅石塊
+tile.redstone_block.9.desc=精雕紅石瓷磚
+tile.redstone_block.10.desc=豎紋紅石塊
+tile.redstone_block.11.desc=紅石瓷磚
+tile.redstone_block.12.desc=紅石電路板
+tile.redstone_block.13.desc=迷宮式佈線的紅石電路板
+tile.redstone_block.14.desc=頭顱雕紋紅石塊
+tile.redstone_block.15.desc=塞爾達紅石塊
+
+#Holystone
+tile.chisel.holystone.name=神聖石
+tile.holystone.0.desc=神聖石塊
+tile.holystone.1.desc=拋光神聖石
+tile.holystone.2.desc=神秘圖案
+tile.holystone.3.desc=鏨制神聖石
+tile.holystone.4.desc=方磚神聖石
+tile.holystone.5.desc=粗雕方磚神聖石
+tile.holystone.6.desc=神聖石磚
+tile.holystone.7.desc=神聖磚塊
+tile.holystone.8.desc=神聖石平臺
+tile.holystone.9.desc=神聖石瓷磚平臺
+tile.holystone.10.desc=精緻刻紋神聖石
+tile.holystone.11.desc=精緻神聖石瓷磚
+tile.holystone.12.desc=拋光鑲板神聖石
+tile.holystone.13.desc=鑲板神聖石
+
+#Lavastone
+tile.chisel.lavastone.name=熔岩石
+tile.lavastone.0.desc=熔岩石
+tile.lavastone.1.desc=黑色熔岩石
+tile.lavastone.2.desc=方磚熔岩石
+tile.lavastone.3.desc=小碎石熔岩石
+tile.lavastone.4.desc=爬行者方磚熔岩石
+tile.lavastone.5.desc=鑲板熔岩石
+tile.lavastone.6.desc=華麗鑲板熔岩石
+tile.lavastone.7.desc=黑暗熔岩石
+
+#Carpet
+tile.chisel.carpet_block.name=地毯
+tile.carpet_block.0.desc=白色地毯方塊
+tile.carpet_block.1.desc=橙色地毯方塊
+tile.carpet_block.2.desc=品紅色地毯方塊
+tile.carpet_block.3.desc=淡藍色地毯方塊
+tile.carpet_block.4.desc=黃色地毯方塊
+tile.carpet_block.5.desc=淡綠色地毯方塊
+tile.carpet_block.6.desc=粉色地毯方塊
+tile.carpet_block.7.desc=深灰色地毯方塊
+tile.carpet_block.8.desc=灰色地毯方塊
+tile.carpet_block.9.desc=藍綠色地毯方塊
+tile.carpet_block.10.desc=紫色地毯方塊
+tile.carpet_block.11.desc=深藍色地毯方塊
+tile.carpet_block.12.desc=棕色地毯方塊
+tile.carpet_block.13.desc=綠色地毯方塊
+tile.carpet_block.14.desc=紅色地毯方塊
+tile.carpet_block.15.desc=黑色地毯方塊
+
+#Carpet floor
+tile.chisel.carpet.name=地毯
+tile.carpet.0.desc=白色地毯
+tile.carpet.1.desc=橙色地毯
+tile.carpet.2.desc=品紅色地毯
+tile.carpet.3.desc=淡藍色地毯
+tile.carpet.4.desc=黃色地毯
+tile.carpet.5.desc=淡綠色地毯
+tile.carpet.6.desc=粉色地毯
+tile.carpet.7.desc=深灰色地毯
+tile.carpet.8.desc=灰色地毯
+tile.carpet.9.desc=藍綠色地毯
+tile.carpet.10.desc=紫色地毯
+tile.carpet.11.desc=深藍色地毯
+tile.carpet.12.desc=棕色地毯
+tile.carpet.13.desc=綠色地毯
+tile.carpet.14.desc=紅色地毯
+tile.carpet.15.desc=黑色地毯
+
+#Bookshelf
+tile.chisel.bookshelf.name=書架
+tile.bookshelf.1.desc=七彩書架
+tile.bookshelf.2.desc=巫師學徒的書架
+tile.bookshelf.3.desc=巫師的書架
+tile.bookshelf.4.desc=放滿了紅色書冊
+tile.bookshelf.5.desc=古老書架
+tile.bookshelf.6.desc=收藏者的書架
+tile.bookshelf.7.desc=放滿了無聊的蠟筆畫冊
+tile.bookshelf.8.desc=歷史學家的書架
+
+#Tyrian
+tile.chisel.tyrian.name=未來風格金屬塊
+tile.tyrian.0.desc=裝甲護板塊
+tile.tyrian.1.desc=暗色裝甲護板塊
+tile.tyrian.2.desc=紫色裝甲護板塊
+tile.tyrian.3.desc=褪色的紫色裝甲護板塊
+tile.tyrian.4.desc=生銹的裝甲護板塊
+tile.tyrian.5.desc=精巧的裝甲護板塊
+tile.tyrian.6.desc=充滿縫隙的裝甲護板塊
+tile.tyrian.7.desc=平臺金屬塊
+tile.tyrian.8.desc=方磚裝甲護板塊
+tile.tyrian.9.desc=斜紋裝甲護板塊
+tile.tyrian.10.desc=凹面裝甲護板塊
+tile.tyrian.11.desc=藍色裝甲護板塊
+tile.tyrian.12.desc=黑色裝甲護板塊
+tile.tyrian.13.desc=黑色裝甲護板瓷磚
+tile.tyrian.14.desc=有艙門的黑色裝甲護板塊
+tile.tyrian.15.desc=拋光裝甲護板塊
+
+#Temple
+tile.chisel.templeblock.name=神廟石
+tile.templeblock.0.desc=神廟圓石
+tile.templeblock.1.desc=精雕神廟石
+tile.templeblock.2.desc=鑲板神廟石
+tile.templeblock.3.desc=碎裂神廟石
+tile.templeblock.4.desc=神廟磚塊
+tile.templeblock.5.desc=大塊神廟磚
+tile.templeblock.6.desc=磨損的神廟磚塊
+tile.templeblock.7.desc=雜亂砌成的石磚
+tile.templeblock.8.desc=神廟圓柱
+tile.templeblock.9.desc=神廟平臺
+tile.templeblock.10.desc=鑲嵌圖案的神廟平臺
+tile.templeblock.11.desc=爬行者雕紋神廟平臺
+tile.templeblock.12.desc=神廟石瓷磚
+tile.templeblock.13.desc=小塊神廟石瓷磚
+tile.templeblock.14.desc=亮色神廟石瓷磚
+tile.templeblock.15.desc=小塊亮色神廟石瓷磚
+
+#Temple Mossy
+tile.chisel.mossy_templeblock.name=神廟苔石
+tile.mossy_templeblock.0.desc=神廟苔石
+tile.mossy_templeblock.1.desc=精雕神廟苔石
+tile.mossy_templeblock.2.desc=鑲板神廟苔石
+tile.mossy_templeblock.3.desc=碎裂神廟苔石
+tile.mossy_templeblock.4.desc=神廟苔石磚
+tile.mossy_templeblock.5.desc=大塊神廟苔石磚
+tile.mossy_templeblock.6.desc=磨損的神廟苔石磚
+tile.mossy_templeblock.7.desc=雜亂砌成的苔石磚
+tile.mossy_templeblock.8.desc=神廟圓柱
+tile.mossy_templeblock.9.desc=神廟平臺
+tile.mossy_templeblock.10.desc=鑲嵌圖案的神廟平臺
+tile.mossy_templeblock.11.desc=爬行者雕紋神廟平臺
+tile.mossy_templeblock.12.desc=神廟苔石瓷磚
+tile.mossy_templeblock.13.desc=小塊神廟苔石瓷磚
+tile.mossy_templeblock.14.desc=亮色神廟苔石瓷磚
+tile.mossy_templeblock.15.desc=小塊亮色神廟苔石瓷磚
+
+#Cloud
+tile.chisel.cloud.name=雲朵
+tile.cloud.0.desc=雲朵方塊
+tile.cloud.1.desc=大塊雲朵
+tile.cloud.2.desc=小塊雲朵磚
+tile.cloud.3.desc=小塊豎直雲朵磚
+tile.cloud.4.desc=格狀雲朵磚
+
+#Stained glass T.T
+tile.chisel.stained_glass_white.name=染色玻璃
+tile.chisel.stained_glass_orange.name=染色玻璃
+tile.chisel.stained_glass_magenta.name=染色玻璃
+tile.chisel.stained_glass_lightBlue.name=染色玻璃
+tile.chisel.stained_glass_yellow.name=染色玻璃
+tile.chisel.stained_glass_lime.name=染色玻璃
+tile.chisel.stained_glass_pink.name=染色玻璃
+tile.chisel.stained_glass_gray.name=染色玻璃
+tile.chisel.stained_glass_lightgray.name=染色玻璃
+tile.chisel.stained_glass_cyan.name=染色玻璃
+tile.chisel.stained_glass_purple.name=染色玻璃
+tile.chisel.stained_glass_blue.name=染色玻璃
+tile.chisel.stained_glass_brown.name=染色玻璃
+tile.chisel.stained_glass_green.name=染色玻璃
+tile.chisel.stained_glass_red.name=染色玻璃
+tile.chisel.stained_glass_black.name=染色玻璃
+tile.chisel.stained_glass_forestry.name=Stained Glass
+
+#Stained GlassPane T.T
+tile.chisel.stained_glass_pane_white.name=染色玻璃板
+tile.chisel.stained_glass_pane_orange.name=染色玻璃板
+tile.chisel.stained_glass_pane_magenta.name=染色玻璃板
+tile.chisel.stained_glass_pane_lightBlue.name=染色玻璃板
+tile.chisel.stained_glass_pane_yellow.name=染色玻璃板
+tile.chisel.stained_glass_pane_lime.name=染色玻璃板
+tile.chisel.stained_glass_pane_pink.name=染色玻璃板
+tile.chisel.stained_glass_pane_gray.name=染色玻璃板
+tile.chisel.stained_glass_pane_lightgray.name=染色玻璃板
+tile.chisel.stained_glass_pane_cyan.name=染色玻璃板
+tile.chisel.stained_glass_pane_purple.name=染色玻璃板
+tile.chisel.stained_glass_pane_blue.name=染色玻璃板
+tile.chisel.stained_glass_pane_brown.name=染色玻璃板
+tile.chisel.stained_glass_pane_green.name=染色玻璃板
+tile.chisel.stained_glass_pane_red.name=染色玻璃板
+tile.chisel.stained_glass_pane_black.name=染色玻璃板
+
+#Fantasy block
+tile.chisel.fantasyblock.name=紫色幻想石
+tile.fantasyblock.0.desc=幻想石磚
+tile.fantasyblock.1.desc=褪色的幻想石
+tile.fantasyblock.2.desc=磨損的幻想石
+tile.fantasyblock.3.desc=破損的幻想石
+tile.fantasyblock.4.desc=鏨制幻想石
+tile.fantasyblock.5.desc=鏨制幻想石塊
+tile.fantasyblock.6.desc=豎紋幻想石
+tile.fantasyblock.7.desc=豎紋鏨制幻想石
+tile.fantasyblock.8.desc=金蛇雕紋幻想石
+tile.fantasyblock.9.desc=十字雕紋幻想石
+tile.fantasyblock.10.desc=波浪雕紋幻想石
+tile.fantasyblock.11.desc=鎖鏈雕紋幻想石
+tile.fantasyblock.12.desc=鑲板鏨制幻想石
+tile.fantasyblock.13.desc=幻想石塊
+tile.fantasyblock.14.desc=雜亂砌成的幻想石磚
+tile.fantasyblock.15.desc=雜亂砌成的磨損幻想石磚
+
+#Fantasy block 2
+tile.chisel.fantasyblock2.name=幻想石
+tile.fantasyblock2.0.desc=幻想石磚
+tile.fantasyblock2.1.desc=褪色的幻想石
+tile.fantasyblock2.2.desc=磨損的幻想石
+tile.fantasyblock2.3.desc=破損的幻想石
+tile.fantasyblock2.4.desc=鏨制幻想石
+tile.fantasyblock2.5.desc=鏨制幻想石塊
+tile.fantasyblock2.6.desc=豎紋幻想石
+tile.fantasyblock2.7.desc=豎紋鏨制幻想石
+tile.fantasyblock2.8.desc=金蛇雕紋幻想石
+tile.fantasyblock2.9.desc=十字雕紋幻想石
+tile.fantasyblock2.10.desc=波浪雕紋幻想石
+tile.fantasyblock2.11.desc=鎖鏈雕紋幻想石
+tile.fantasyblock2.12.desc=鑲板鏨制幻想石
+tile.fantasyblock2.13.desc=幻想石塊
+tile.fantasyblock2.14.desc=雜亂砌成的幻想石磚
+tile.fantasyblock2.15.desc=雜亂砌成的磨損幻想石磚
+
+#Paperwall
+tile.chisel.paperwall.name=障子
+tile.chisel.paperwall_block.name=障子方塊
+tile.paperwall.0.desc=方框障子
+tile.paperwall.1.desc=二等分障子
+tile.paperwall.2.desc=四等分障子
+tile.paperwall.3.desc=六等分障子
+tile.paperwall.4.desc=垂直框障子
+tile.paperwall.5.desc=水準框障子
+tile.paperwall.6.desc=花卉圖案障子
+tile.paperwall.7.desc=空白障子
+tile.paperwall.8.desc=障子門
+
+#Woolen Clay
+tile.chisel.woolen_clay.name=羊毛粘土
+tile.woolenClay.0.desc=白色羊毛粘土
+tile.woolenClay.1.desc=橙色色羊毛粘土
+tile.woolenClay.2.desc=品紅色羊毛粘土
+tile.woolenClay.3.desc=淡藍色羊毛粘土
+tile.woolenClay.4.desc=黃色羊毛粘土
+tile.woolenClay.5.desc=黃綠色羊毛粘土
+tile.woolenClay.6.desc=粉紅色羊毛粘土
+tile.woolenClay.7.desc=灰色羊毛粘土
+tile.woolenClay.8.desc=淡灰色羊毛粘土
+tile.woolenClay.9.desc=青色羊毛粘土
+tile.woolenClay.10.desc=紫色羊毛粘土
+tile.woolenClay.11.desc=藍色羊毛粘土
+tile.woolenClay.12.desc=棕色羊毛粘土
+tile.woolenClay.13.desc=綠色羊毛粘土
+tile.woolenClay.14.desc=紅色羊毛粘土
+tile.woolenClay.15.desc=黑色羊毛粘土
+
+#Colored Sand
+tile.chisel.colored_sand.name=染色沙子
+tile.coloredSand.0.desc=白色染色沙子
+tile.coloredSand.1.desc=橙色染色沙子
+tile.coloredSand.2.desc=品紅色染色沙子
+tile.coloredSand.3.desc=淡藍色染色沙子
+tile.coloredSand.4.desc=黃色染色沙子
+tile.coloredSand.5.desc=黃綠色染色沙子
+tile.coloredSand.6.desc=粉色染色沙子
+tile.coloredSand.7.desc=灰色染色沙子
+tile.coloredSand.8.desc=淡灰色染色沙子
+tile.coloredSand.9.desc=青色染色沙子
+tile.coloredSand.10.desc=紫色染色沙子
+tile.coloredSand.11.desc=藍色染色沙子
+tile.coloredSand.12.desc=棕色染色沙子
+tile.coloredSand.13.desc=綠色染色沙子
+tile.coloredSand.14.desc=紅色染色沙子
+tile.coloredSand.15.desc=黑色染色沙子
+
+#Laboratory Block
+tile.chisel.laboratoryblock.name=實驗室方塊
+tile.laboratory.0.desc=牆板
+tile.laboratory.1.desc=點狀圖案牆板
+tile.laboratory.2.desc=琺瑯牆
+tile.laboratory.3.desc=圓孔琺瑯牆
+tile.laboratory.4.desc=琺瑯牆通風口
+tile.laboratory.5.desc=大塊琺瑯瓷磚
+tile.laboratory.6.desc=方磚琺瑯瓷磚
+tile.laboratory.7.desc=實驗室地板
+tile.laboratory.8.desc=棋盤格地板
+tile.laboratory.9.desc=乾淨牆板
+tile.laboratory.10.desc=毛面牆板
+tile.laboratory.11.desc=大塊鋼地磚
+tile.laboratory.12.desc=方磚鋼地磚
+tile.laboratory.13.desc=方向控制台(右)
+tile.laboratory.14.desc=方向控制台(左)
+tile.laboratory.15.desc=信息控制台
+
+#Planks (They go in order of creative tab appearance if that helps)
+#Oak
+tile.oak.planks.1.desc=Smooth Oak Wood Planks
+tile.oak.planks.2.desc=Short Oak Wood Planks
+tile.oak.planks.6.desc=Fancy Oak Wood Plank Arrangement
+tile.oak.planks.8.desc=Oak Wood Panel
+tile.oak.planks.9.desc=Oak Wood Double Slab
+tile.oak.planks.10.desc=Oak Wood Crate
+tile.oak.planks.11.desc=Fancy Oak Wood Crate
+tile.oak.planks.13.desc=Large Long Oak Wood Planks
+tile.oak.planks.3.desc=Vertical Oak Wood Planks
+tile.oak.planks.4.desc=Vertical Uneven Oak Wood Planks
+tile.oak.planks.5.desc=Oak Wood Parquet
+tile.oak.planks.7.desc=Oak Wood Plank Blinds
+tile.oak.planks.12.desc=Oak Wood Scaffold
+tile.oak.planks.14.desc=Oak Wood Planks in Disarray
+tile.oak.planks.15.desc=Vertical Oak Wood Planks in Disarray
+
+#Spruce
+tile.spruce.planks.1.desc=Smooth Spruce Wood Planks
+tile.spruce.planks.2.desc=Short Spruce Wood Planks
+tile.spruce.planks.6.desc=Fancy Spruce Wood Plank Arrangement
+tile.spruce.planks.8.desc=Spruce Wood Panel
+tile.spruce.planks.9.desc=Spruce Wood Double Slab
+tile.spruce.planks.10.desc=Spruce Wood Crate
+tile.spruce.planks.11.desc=Fancy Spruce Wood Crate
+tile.spruce.planks.13.desc=Large Long Spruce Wood Planks
+tile.spruce.planks.3.desc=Vertical Spruce Wood Planks
+tile.spruce.planks.4.desc=Vertical Uneven Spruce Wood Planks
+tile.spruce.planks.5.desc=Spruce Wood Parquet
+tile.spruce.planks.7.desc=Spruce Wood Plank Blinds
+tile.spruce.planks.12.desc=Spruce Wood Scaffold
+tile.spruce.planks.14.desc=Spruce Wood Planks in Disarray
+tile.spruce.planks.15.desc=Vertical Spruce Wood Planks in Disarray
+
+#Birch
+tile.birch.planks.1.desc=Smooth Birch Wood Planks
+tile.birch.planks.2.desc=Short Birch Wood Planks
+tile.birch.planks.6.desc=Fancy Birch Wood Plank Arrangement
+tile.birch.planks.8.desc=Birch Wood Panel
+tile.birch.planks.9.desc=Birch Wood Double Slab
+tile.birch.planks.10.desc=Birch Wood Crate
+tile.birch.planks.11.desc=Fancy Birch Wood Crate
+tile.birch.planks.13.desc=Large Long Birch Wood Planks
+tile.birch.planks.3.desc=Vertical Birch Wood Planks
+tile.birch.planks.4.desc=Vertical Uneven Birch Wood Planks
+tile.birch.planks.5.desc=Birch Wood Parquet
+tile.birch.planks.7.desc=Birch Wood Plank Blinds
+tile.birch.planks.12.desc=Birch Wood Scaffold
+tile.birch.planks.14.desc=Birch Wood Planks in Disarray
+tile.birch.planks.15.desc=Vertical Birch Wood Planks in Disarray
+
+#Jungle
+tile.jungle.planks.1.desc=Smooth Jungle Wood Planks
+tile.jungle.planks.2.desc=Short Jungle Wood Planks
+tile.jungle.planks.6.desc=Fancy Jungle Wood Plank Arrangement
+tile.jungle.planks.8.desc=Jungle Wood Panel
+tile.jungle.planks.9.desc=Jungle Wood Double Slab
+tile.jungle.planks.10.desc=Oak Wood Crate
+tile.jungle.planks.11.desc=Fancy jungle Wood Crate
+tile.jungle.planks.13.desc=Large Long Jungle Wood Planks
+tile.jungle.planks.3.desc=Vertical Jungle Wood Planks
+tile.jungle.planks.4.desc=Vertical Uneven Jungle Wood Planks
+tile.jungle.planks.5.desc=Jungle Wood Parquet
+tile.jungle.planks.7.desc=Jungle Wood Plank Blinds
+tile.jungle.planks.12.desc=Jungle Wood Scaffold
+tile.jungle.planks.14.desc=Jungle Wood Planks in Disarray
+tile.jungle.planks.15.desc=Vertical Jungle Wood Planks in Disarray
+
+#Acacia
+tile.acacia.planks.1.desc=Smooth Acacia Wood Planks
+tile.acacia.planks.2.desc=Short Acacia Wood Planks
+tile.acacia.planks.6.desc=Fancy Acacia Wood Plank Arrangement
+tile.acacia.planks.8.desc=Acacia Wood Panel
+tile.acacia.planks.9.desc=Acacia Wood Double Slab
+tile.acacia.planks.10.desc=Acacia Wood Crate
+tile.acacia.planks.11.desc=Fancy Acacia Wood Crate
+tile.acacia.planks.13.desc=Large Long Acacia Wood Planks
+tile.acacia.planks.3.desc=Vertical Acacia Wood Planks
+tile.acacia.planks.4.desc=Vertical Uneven Acacia Wood Planks
+tile.acacia.planks.5.desc=Acacia Wood Parquet
+tile.acacia.planks.7.desc=Acacia Wood Plank Blinds
+tile.acacia.planks.12.desc=Acacia Wood Scaffold
+tile.acacia.planks.14.desc=Acacia Wood Planks in Disarray
+tile.acacia.planks.15.desc=Vertical Acacia Wood Planks in Disarray
+
+#Dark Oak
+tile.dark-oak.planks.1.desc=Smooth Dark Oak Wood Planks
+tile.dark-oak.planks.2.desc=Short Dark Oak Wood Planks
+tile.dark-oak.planks.6.desc=Fancy Dark Oak Wood Plank Arrangement
+tile.dark-oak.planks.8.desc=Dark Oak Wood Panel
+tile.dark-oak.planks.9.desc=Dark Oak Wood Double Slab
+tile.dark-oak.planks.10.desc=Dark Oak Wood Crate
+tile.dark-oak.planks.11.desc=Fancy Dark Oak Wood Crate
+tile.dark-oak.planks.13.desc=Large Long Dark Oak Wood Planks
+tile.dark-oak.planks.3.desc=Vertical Dark Oak Wood Planks
+tile.dark-oak.planks.4.desc=Vertical Uneven Dark Oak Wood Planks
+tile.dark-oak.planks.5.desc=Dark Oak Wood Parquet
+tile.dark-oak.planks.7.desc=Dark Oak Wood Plank Blinds
+tile.dark-oak.planks.12.desc=Dark Oak Wood Scaffold
+tile.dark-oak.planks.14.desc=Dark Oak Wood Planks in Disarray
+tile.dark-oak.planks.15.desc=Vertical Dark Oak Wood Planks in Disarray
+
+#Stained Glass
+white.bubble.desc=White Bubble Glass
+white.glass.desc=White Glass Panel
+white.glass.fancy.desc=White Fancy Glass Panel
+white.glass.noborder.desc=White Borderless Glass
+white.glass.forestry.desc=White Forestry Glass
+
+orange.bubble.desc=Orange Bubble Glass
+orange.glass.desc=Orange Glass Panel
+orange.glass.fancy.desc=Orange Fancy Glass Panel
+orange.glass.noborder.desc=Orange Borderless Glass
+orange.glass.forestry.desc=Orange Forestry Glass
+
+magenta.bubble.desc=Magenta Bubble Glass
+magenta.glass.desc=Magenta Glass Panel
+magenta.glass.fancy.desc=Magenta Fancy Glass Panel
+magenta.glass.noborder.desc=Magenta Borderless Glass
+magenta.glass.forestry.desc=Magenta Forestry Glass
+
+lightblue.bubble.desc=Light Blue Bubble Glass
+lightblue.glass.desc=Light Blue Glass Panel
+lightblue.glass.fancy.desc=Light Blue Fancy Glass Panel
+lightblue.glass.noborder.desc=Light Blue Borderless Glass
+lightblue.glass.forestry.desc=Light Blue Forestry Glass
+
+yellow.bubble.desc=Yellow Bubble Glass
+yellow.glass.desc=Yellow Glass Panel
+yellow.glass.fancy.desc=Yellow Fancy Glass Panel
+yellow.glass.noborder.desc=Yellow Borderless Glass
+yellow.glass.forestry.desc=Yellow Forestry Glass
+
+lime.bubble.desc=Lime Bubble Glass
+lime.glass.desc=Lime Glass Panel
+lime.glass.fancy.desc=Lime Fancy Glass Panel
+lime.glass.noborder.desc=Lime Borderless Glass
+lime.glass.forestry.desc=Lime Forestry Glass
+
+pink.bubble.desc=Pink Bubble Glass
+pink.glass.desc=Pink Glass Panel
+pink.glass.fancy.desc=Pink Fancy Glass Panel
+pink.glass.noborder.desc=Pink Borderless Glass
+pink.glass.forestry.desc=Pink Forestry Glass
+
+darkgray.bubble.desc=Gray Bubble Glass
+darkgray.glass.desc=Gray Glass Panel
+darkgray.glass.fancy.desc=Gray Fancy Glass Panel
+darkgray.glass.noborder.desc=Gray Borderless Glass
+darkgray.glass.forestry.desc=Gray Forestry Glass
+
+lightgray.bubble.desc=Light Gray Bubble Glass
+lightgray.glass.desc=Light Gray Glass Panel
+lightgray.glass.fancy.desc=Light Gray Fancy Glass Panel
+lightgray.glass.noborder.desc=Light Gray Borderless Glass
+lightgray.glass.forestry.desc=Light Gray Forestry Glass
+
+cyan.bubble.desc=Cyan Bubble Glass
+cyan.glass.desc=Cyan Glass Panel
+cyan.glass.fancy.desc=Cyan Fancy Glass Panel
+cyan.glass.noborder.desc=Cyan Borderless Glass
+cyan.glass.forestry.desc=Cyan Forestry Glass
+
+purple.bubble.desc=Purple Bubble Glass
+purple.glass.desc=Purple Glass Panel
+purple.glass.fancy.desc=Purple Fancy Glass Panel
+purple.glass.noborder.desc=Purple Borderless Glass
+purple.glass.forestry.desc=Purple Forestry Glass
+
+blue.bubble.desc=Blue Bubble Glass
+blue.glass.desc=Blue Glass Panel
+blue.glass.fancy.desc=Blue Fancy Glass Panel
+blue.glass.noborder.desc=Blue Borderless Glass
+blue.glass.forestry.desc=Blue Forestry Glass
+
+brown.bubble.desc=Brown Bubble Glass
+brown.glass.desc=Brown Glass Panel
+brown.glass.fancy.desc=Brown Fancy Glass Panel
+brown.glass.noborder.desc=Brown Borderless Glass
+brown.glass.forestry.desc=Brown Forestry Glass
+
+green.bubble.desc=Green Bubble Glass
+green.glass.desc=Green Glass Panel
+green.glass.fancy.desc=Green Fancy Glass Panel
+green.glass.noborder.desc=Green Borderless Glass
+green.glass.forestry.desc=Green Forestry Glass
+
+red.bubble.desc=Red Bubble Glass
+red.glass.desc=Red Glass Panel
+red.glass.fancy.desc=Red Fancy Glass Panel
+red.glass.noborder.desc=Red Borderless Glass
+red.glass.forestry.desc=Red Forestry Glass
+
+black.bubble.desc=Black Bubble Glass
+black.glass.desc=Black Glass Panel
+black.glass.fancy.desc=Black Fancy Glass Panel
+black.glass.noborder.desc=Black Borderless Glass
+black.glass.forestry.desc=Black Forestry Glass
+
+#Stained Glass Pane
+white.pane.bubble.desc=White Bubble Glass
+white.pane.glass.desc=White Glass Panel
+white.pane.glass.fancy.desc=White Fancy Glass Panel
+white.pane.glass.noborder.desc=White Borderless Glass
+white.pane.glass.quadrant.desc=White Quadrant Glass
+white.pane.glass.fancyquadrant.desc=White Fancy Quadrant Glass
+
+orange.pane.bubble.desc=Orange Bubble Glass
+orange.pane.glass.desc=Orange Glass Panel
+orange.pane.glass.fancy.desc=Orange Fancy Glass Panel
+orange.pane.glass.noborder.desc=Orange Borderless Glass
+orange.pane.glass.quadrant.desc=Orange Quadrant Glass
+orange.pane.glass.fancyquadrant.desc=Orange Fancy Quadrant Glass
+
+magenta.pane.bubble.desc=Magenta Bubble Glass
+magenta.pane.glass.desc=Magenta Glass Panel
+magenta.pane.glass.fancy.desc=Magenta Fancy Glass Panel
+magenta.pane.glass.noborder.desc=Magenta Borderless Glass
+magenta.pane.glass.quadrant.desc=Magenta Quadrant Glass
+magenta.pane.glass.fancyquadrant.desc=Magenta Fancy Quadrant Glass
+
+lightblue.pane.bubble.desc=Light Blue Bubble Glass
+lightblue.pane.glass.desc=Light Blue Glass Panel
+lightblue.pane.glass.fancy.desc=Light Blue Fancy Glass Panel
+lightblue.pane.glass.noborder.desc=Light Blue Borderless Glass
+lightblue.pane.glass.quadrant.desc=Light Blue Quadrant Glass
+lightblue.pane.glass.fancyquadrant.desc=Light Blue Fancy Quadrant Glass
+
+yellow.pane.bubble.desc=Yellow Bubble Glass
+yellow.pane.glass.desc=Yellow Glass Panel
+yellow.pane.glass.fancy.desc=Yellow Fancy Glass Panel
+yellow.pane.glass.noborder.desc=Yellow Borderless Glass
+yellow.pane.glass.quadrant.desc=Yellow Quadrant Glass
+yellow.pane.glass.fancyquadrant.desc=Yellow Fancy Quadrant Glass
+
+lime.pane.bubble.desc=Lime Bubble Glass
+lime.pane.glass.desc=Lime Glass Panel
+lime.pane.glass.fancy.desc=Lime Fancy Glass Panel
+lime.pane.glass.noborder.desc=Lime Borderless Glass
+lime.pane.glass.quadrant.desc=Lime Quadrant Glass
+lime.pane.glass.fancyquadrant.desc=Lime Fancy Quadrant Glass
+
+pink.pane.bubble.desc=Pink Bubble Glass
+pink.pane.glass.desc=Pink Glass Panel
+pink.pane.glass.fancy.desc=Pink Fancy Glass Panel
+pink.pane.glass.noborder.desc=Pink Borderless Glass
+pink.pane.glass.quadrant.desc=Pink Quadrant Glass
+pink.pane.glass.fancyquadrant.desc=Pink Fancy Quadrant Glass
+
+darkgray.pane.bubble.desc=Gray Bubble Glass
+darkgray.pane.glass.desc=Gray Glass Panel
+darkgray.pane.glass.fancy.desc=Gray Fancy Glass Panel
+darkgray.pane.glass.noborder.desc=Gray Borderless Glass
+darkgray.pane.glass.quadrant.desc=Gray Quadrant Glass
+darkgray.pane.glass.fancyquadrant.desc=Gray Fancy Quadrant Glass
+
+lightgray.pane.bubble.desc=Light Gray Bubble Glass
+lightgray.pane.glass.desc=Light Gray Glass Panel
+lightgray.pane.glass.fancy.desc=Light Gray Fancy Glass Panel
+lightgray.pane.glass.noborder.desc=Light Gray Borderless Glass
+lightgray.pane.glass.quadrant.desc=Light Gray Quadrant Glass
+lightgray.pane.glass.fancyquadrant.desc=Light Gray Fancy Quadrant Glass
+
+cyan.pane.bubble.desc=Cyan Bubble Glass
+cyan.pane.glass.desc=Cyan Glass Panel
+cyan.pane.glass.fancy.desc=Cyan Fancy Glass Panel
+cyan.pane.glass.noborder.desc=Cyan Borderless Glass
+cyan.pane.glass.quadrant.desc=Cyan Quadrant Glass
+cyan.pane.glass.fancyquadrant.desc=Cyan Fancy Quadrant Glass
+
+purple.pane.bubble.desc=Purple Bubble Glass
+purple.pane.glass.desc=Purple Glass Panel
+purple.pane.glass.fancy.desc=Purple Fancy Glass Panel
+purple.pane.glass.noborder.desc=Purple Borderless Glass
+purple.pane.glass.quadrant.desc=Purple Quadrant Glass
+purple.pane.glass.fancyquadrant.desc=Purple Fancy Quadrant Glass
+
+blue.pane.bubble.desc=Blue Bubble Glass
+blue.pane.glass.desc=Blue Glass Panel
+blue.pane.glass.fancy.desc=Blue Fancy Glass Panel
+blue.pane.glass.noborder.desc=Blue Borderless Glass
+blue.pane.glass.quadrant.desc=Blue Quadrant Glass
+blue.pane.glass.fancyquadrant.desc=Blue Fancy Quadrant Glass
+
+brown.pane.bubble.desc=Brown Bubble Glass
+brown.pane.glass.desc=Brown Glass Panel
+brown.pane.glass.fancy.desc=Brown Fancy Glass Panel
+brown.pane.glass.noborder.desc=Brown Borderless Glass
+brown.pane.glass.quadrant.desc=Brown Quadrant Glass
+brown.pane.glass.fancyquadrant.desc=Brown Fancy Quadrant Glass
+
+green.pane.bubble.desc=Green Bubble Glass
+green.pane.glass.desc=Green Glass Panel
+green.pane.glass.fancy.desc=Green Fancy Glass Panel
+green.pane.glass.noborder.desc=Green Borderless Glass
+green.pane.glass.quadrant.desc=Green Quadrant Glass
+green.pane.glass.fancyquadrant.desc=Green Fancy Quadrant Glass
+
+red.pane.bubble.desc=Red Bubble Glass
+red.pane.glass.desc=Red Glass Panel
+red.pane.glass.fancy.desc=Red Fancy Glass Panel
+red.pane.glass.noborder.desc=Red Borderless Glass
+red.pane.glass.quadrant.desc=Red Quadrant Glass
+red.pane.glass.fancyquadrant.desc=Red Fancy Quadrant Glass
+
+black.pane.bubble.desc=Black Bubble Glass
+black.pane.glass.desc=Black Glass Panel
+black.pane.glass.fancy.desc=Black Fancy Glass Panel
+black.pane.glass.noborder.desc=Black Borderless Glass
+black.pane.glass.quadrant.desc=Black Quadrant Glass
+black.pane.glass.fancyquadrant.desc=Black Fancy Quadrant Glass
+
+# Creative Tab localizations
+itemGroup.tabOtherChiselBlocks=鑿工藝|其它方塊
+itemGroup.tabStoneChiselBlocks=鑿工藝|石質方塊
+itemGroup.tabWoodChiselBlocks=鑿工藝|木質方塊
+itemGroup.tabMetalChiselBlocks=鑿工藝|金屬方塊
+itemGroup.tabModdedChiselBlocks=鑿工藝方塊|其它模組
+itemGroup.tabStairChiselBlocks=Chisel Stairs
+itemGroup.tabChisel=鑿工藝|物品
+
+#Container
+container.chisel=鑿子
+container.chisel.title=雕刻方塊
+container.chisel.titleShort=雕刻
+container.chisel.mode=模式:
+container.chisel.mode.single=單個雕刻
+container.chisel.mode.panel=範圍雕刻
+container.chisel.mode.column=豎向雕刻
+container.chisel.mode.row=橫向雕刻

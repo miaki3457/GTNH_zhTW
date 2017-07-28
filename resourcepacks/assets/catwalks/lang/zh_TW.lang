@@ -1,0 +1,16 @@
+﻿item.blowtorch.name=噴燈
+item.rope_light.name=繩燈
+item.caution_tape.name=警示膠帶
+item.steel_grate.name=鋼柵欄
+
+tile.catwalk.name=羊腸小徑
+tile.caged_ladder.name=籠梯
+tile.scaffold.name=鷹架
+tile.scaffold.builder.name=建築師鷹架
+tile.support_column.name=支撐柱n
+tile.sturdy_rail.name=堅固的鐵軌
+tile.sturdy_booster_rail.name=堅固的充能鐵軌
+tile.sturdy_activator_rail.name=堅固的觸發鐵軌
+tile.sturdy_detector_rail.name=堅固的壓力鐵軌
+itemGroup.catwalks=貓步s
+

@@ -1,0 +1,269 @@
+﻿fluid.binnie.dna.raw=原生 DNA
+fluid.binnie.bacteria=細菌
+fluid.binnie.growthMedium=培養基
+fluid.binnie.bacteriaPoly=聚合菌
+fluid.binnie.bacteriaVector=細菌質粒
+
+genetics.item.fieldKit.name=實地考察工具包
+genetics.item.fieldKit.tooltip.noPaper=沒有紙
+genetics.item.fieldKit.tooltip.sheetsOfPaper=%d 張紙
+genetics.item.fieldKit.tooltip.sheetOfPaper=%d 張紙
+
+genetics.item.casingIron.name=硬化部件
+genetics.item.dnaDye.name=DNA 染料
+genetics.item.dyeFluor.name=螢光染料
+genetics.item.enzyme.name=酶
+genetics.item.growthMedium.name=培養基
+genetics.item.sequencerEmpty.name=空白序列
+genetics.item.serumEmpty.name=空血清瓶
+genetics.item.genomeEmpty.name=空血清陣列
+genetics.item.cylinderEmpty.name=玻璃罐
+genetics.item.integratedCircuit.name=積體電路板
+genetics.item.integratedCPU.name=集成 CPU
+genetics.item.casingCircuit.name=集成部件
+genetics.item.analyst.name=品種分析儀
+genetics.item.database.0.name=基因資料庫
+genetics.item.database.1.name=基因學大師資料庫
+genetics.item.registry.0.name=圖鑒
+genetics.item.registry.1.name=全圖鑒
+genetics.item.serum.name=%s 血清
+genetics.item.serumArray.name=%s 血清陣列
+
+genetics.item.sequence=DNA 序列
+genetics.item.sequence.0=極弱
+genetics.item.sequence.1=弱
+genetics.item.sequence.2=略弱
+genetics.item.sequence.3=中等
+genetics.item.sequence.4=強
+genetics.item.sequence.5=極強
+
+genetics.gene.charge.empty=空
+genetics.gene.charge.one=可使用 1 次
+genetics.gene.charge.many=可使用 %d 次
+genetics.gene.more=還有 %d 種基因，按下 Shift 顯示全部。
+
+genetics.sequence.corrupted=損壞的 DNA 序列
+genetics.sequence.descriptor=%s DNA 序列
+genetics.sequence.unknown=<未知>
+genetics.sequence.unsequenced=未測序
+genetics.sequence.fully=已測序
+genetics.sequence.partially=測序 %d%%
+
+genetics.machine.machine.isolator=基因分離器
+genetics.machine.machine.isolator.info=基因分離器將會從蜜蜂、樹苗或者其它的獨立個體中隨機提取基因片段，並複製到空白序列中。此過程需要乙醇作為溶劑，還需要酶來切斷DNA。未測序的序列可以在基因同化器中擴增，並在測序儀中進行測序。
+genetics.machine.isolator.error.noIndividual=沒有個體樣本
+genetics.machine.isolator.error.noRoom=沒有空間
+genetics.machine.isolator.error.noVials=沒有空白序列
+genetics.machine.isolator.error.noLiquid=乙醇不足
+genetics.machine.isolator.error.noEnzyme=沒有酶
+
+genetics.machine.machine.sequencer=測序儀
+genetics.machine.machine.sequencer.info=測序儀可以確定未測序 DNA 序列中的等位基因片段。這個過程很慢並且需要使用螢光染料。
+genetics.machine.sequencer.unsequencedDNA=未測序 DNA 序列
+genetics.machine.sequencer.error.noSequence=沒有 DNA 序列
+genetics.machine.sequencer.error.noOwner.title=無人認領此設備
+genetics.machine.sequencer.error.noOwner=重新放置此設備以重新認領
+genetics.machine.sequencer.error.noSpace=沒有空白序列的空間
+genetics.machine.sequencer.error.noDye=染料不足
+genetics.machine.sequencer.gui.sequensedBy=該基因將由 %s 完成序列化
+genetics.machine.sequencer.gui.willNotSave=無用序列，將直接丟棄
+
+genetics.machine.machine.polymeriser=PCR 儀
+genetics.machine.machine.polymeriser.info=PCR 儀將會以原生 DNA 為原料，通過聚合菌提供的 DNA 聚合酶來重新填充血清。該過程可用金粒加速。
+genetics.machine.polymeriser.error.noItem=沒有需要複製的物品
+genetics.machine.polymeriser.error.itemFilled=物品已填充
+genetics.machine.polymeriser.error.noLiquid=細菌不足
+genetics.machine.polymeriser.error.noDNA=原生 DNA 不足
+genetics.machine.polymeriser.replicatingWithGene=正在複製 1 個基因
+genetics.machine.polymeriser.replicatingWithGenes=正在複製 %d 個基因
+genetics.machine.polymeriser.unfilledSerum=沒有填充的血清瓶
+
+genetics.machine.machine.inoculator=基因注射器
+genetics.machine.machine.inoculator.info=基因注射器可將血清中含有的特定基因注入可雜交個體中。這個過程相當耗時，並且需要細菌質粒，但必定會成功。
+genetics.machine.inoculator.error.noIndividual=沒有可供基因注射的個體
+genetics.machine.inoculator.error.noSerum=沒有血清
+genetics.machine.inoculator.error.noLiquid=細菌質粒不足
+genetics.machine.inoculator.error.emptySerum.title=空白血清
+genetics.machine.inoculator.error.emptySerum=血清為空
+genetics.machine.inoculator.error.invalidSerum.title=血清無效
+genetics.machine.inoculator.error.invalidSerum.0=該血清中沒有任何基因
+genetics.machine.inoculator.error.invalidSerum.1=血清種類與目標不相容
+genetics.machine.inoculator.error.defunctSerum.title=性狀重複
+genetics.machine.inoculator.error.defunctSerum=目標個體已擁有此種性狀
+genetics.machine.inoculator.inoculatingWithGene=正在注入 1 種基因
+genetics.machine.inoculator.inoculatingWithGenes=正在注入 %d 種基因
+genetics.machine.inoculator.inoculableIndividual=可植入基因的個體
+genetics.machine.inoculator.serums=血清瓶／序列
+
+genetics.machine.labMachine.genepool=基因池
+genetics.machine.labMachine.genepool.info=基因池使用酶和乙醇將個體分解成原生 DNA 。在此過程中，所有遺傳信息都會丟失，而原生 DNA 的來源個體也將被破壞。
+genetics.machine.genepool.error.noIndividual=沒有個體
+genetics.machine.genepool.error.noRoom=原生 DNA 已滿
+genetics.machine.genepool.error.noEthanol=乙醇不足
+genetics.machine.genepool.error.insufficientEnzyme=酶不足
+
+genetics.machine.labMachine.labMachine=實驗台
+
+genetics.machine.labMachine.analyser=分析儀
+genetics.machine.labMachine.analyser.info=分析儀可分析可增殖個體和 DNA 序列，並確定當前的基因類型。此過程需要 DNA 染料，可由紫色染料和熒石粉合成得到。
+genetics.machine.analyser.dnaDye=DNA 染料
+genetics.machine.analyser.unanalysedItem=未經分析的物品
+genetics.machine.analyser.error.alreadyAnalysed.title=已經過分析
+genetics.machine.analyser.error.alreadyAnalysed=目標物品已經過分析
+genetics.machine.analyser.error.insufficientDye.title=染料不足
+genetics.machine.analyser.error.insufficientDye=DNA 染料不足以完成分析
+genetics.machine.analyser.error.noItem=沒有物品可供分析
+
+genetics.machine.labMachine.incubator=恒溫箱
+genetics.machine.labMachine.incubator.info=恒溫箱使用特定液體和物品來進行恒溫，確保細菌能夠在理想的環境下快速增殖。
+genetics.machine.incubator.error.noRecipe.title=沒有配方
+genetics.machine.incubator.error.noRecipe=沒有找到任何有效配方
+genetics.machine.incubator.error.noLiquid=液體不足
+genetics.machine.incubator.error.noRoom=輸出槽已滿
+
+genetics.machine.labMachine.acclimatiser=適應性調整器
+genetics.machine.labMachine.acclimatiser.info=適應性調整器使用適應性調整物品來調整個體的溫度和濕度適應性。
+genetics.machine.acclimatiser.acclimatizingItems=適應性調整物品
+genetics.machine.acclimatiser.error.noIndividual=沒有可供調整適應性的個體
+genetics.machine.acclimatiser.error.noAcclimatizingItems=沒有適應性調整物品
+genetics.machine.acclimatiser.error.invalidAcclimatizingItems=該個體不能使用給定物品進行氣候改造
+
+genetics.machine.advMachine.splicer=基因拼接器
+genetics.machine.advMachine.splicer.info=基因拼接器是一台可將基因直接植入個體之中的強大機器。雖然工作迅速，但耗能巨大。
+genetics.machine.splicer.error.noIndividual=沒有可供基因拼接的個體
+genetics.machine.splicer.error.noSerum=沒有血清
+genetics.machine.splicer.error.emptySerum.title=空白血清
+genetics.machine.splicer.error.emptySerum=血清為空
+genetics.machine.splicer.error.invalidSerum.title=血清無效
+genetics.machine.splicer.error.invalidSerum.0=該血清中沒有任何基因
+genetics.machine.splicer.error.invalidSerum.1=血清種類與目標不相容
+genetics.machine.splicer.error.defunctSerum.title=性狀重複
+genetics.machine.splicer.error.defunctSerum=目標個體已擁有此種性狀
+genetics.machine.splicer.splicableIndividual=可供拼接基因的個體
+genetics.machine.splicer.serums=血清瓶／序列
+genetics.machine.splicer.splicingIn.0=正在拼接 %d/%d 個基因
+genetics.machine.splicer.splicingIn.1=正在拼接 %d/%d 個基因
+genetics.machine.splicer.splicingIn.2=正在拼接 %d 個基因
+genetics.machine.splicer.splicingIn.3=正在拼接 %d 個基因
+
+genetics.gui.geneBank=基因資料庫
+genetics.gui.geneBank.info=信息
+genetics.gui.geneBank.stats=狀態
+genetics.gui.geneBank.ranking=評級
+genetics.gui.geneBank.project=全基因組計畫
+genetics.gui.geneBank.sequencedGenes=已測序 %d/%d 基因
+genetics.gui.geneBank.sequencedGenes.short=%d/%d 基因
+
+genetics.gui.analyst.info=將蜜蜂、樹苗、花或蝴蝶等樣本放置于左上格子中。若樣本還未經分析過，則還需要添加 DNA 染料。本設備還可將原版樹苗轉化成可供雜交的樹苗。
+genetics.gui.analyst.registry=圖鑒
+genetics.gui.analyst.page.hours=%s 小時
+genetics.gui.analyst.page.minutes=%s 分鐘
+genetics.gui.analyst.page.seconds=%s 秒
+genetics.gui.analyst.chromosome.active=活躍：%s
+genetics.gui.analyst.chromosome.inactive=非活躍：%s
+genetics.gui.analyst.karyogram=核型
+genetics.gui.analyst.specimen=樣本
+
+genetics.gui.analyst.appearance=外觀
+genetics.gui.analyst.appearance.primaryColor=主要花色
+genetics.gui.analyst.appearance.secondColor=次要花色
+genetics.gui.analyst.appearance.stemColor=莖色
+
+genetics.gui.analyst.behaviour=行為
+genetics.gui.analyst.behaviour.effect=效果：%s
+genetics.gui.analyst.behaviour.pollinatesNearby=授粉對象：
+genetics.gui.analyst.behaviour.withinBlocks=授粉範圍：%d 方塊
+genetics.gui.analyst.behaviour.everyTime=授粉頻率：每 %s
+genetics.gui.analyst.behaviour.territory=活動範圍：%dx%dx%d
+genetics.gui.analyst.behaviour.metabolism=代謝：%s
+
+genetics.gui.analyst.biology=生物學指征
+genetics.gui.analyst.biology.allDay=全天活動
+genetics.gui.analyst.biology.night=夜間活動
+genetics.gui.analyst.biology.day=白天活動
+genetics.gui.analyst.biology.notRain=不耐雨
+genetics.gui.analyst.biology.rain=耐雨
+genetics.gui.analyst.biology.underground=可在地下活動
+genetics.gui.analyst.biology.notUnderground=不能在地下活動
+genetics.gui.analyst.biology.flammable=可燃
+genetics.gui.analyst.biology.nonflammable=抗燃
+genetics.gui.analyst.biology.sappiness=多汁：%s
+genetics.gui.analyst.biology.fertility.drones=每個蜂巢產出 %d 工蜂
+genetics.gui.analyst.biology.fertility.drone=每個蜂巢產出 1 工蜂
+genetics.gui.analyst.biology.fertility.moths=死亡前產出 %d 只幼蟲
+genetics.gui.analyst.biology.fertility.moth=死亡前產出 1 只幼蟲
+genetics.gui.analyst.biology.fertility.leaves=每 %d 個樹葉掉落 1 樹苗
+genetics.gui.analyst.biology.fertility.leaf=每 1 個樹葉掉落 1 樹苗
+genetics.gui.analyst.biology.caterpillarGestation=幼蟲妊娠
+genetics.gui.analyst.biology.flightSpeed=飛行速度
+genetics.gui.analyst.biology.blocksPerSec=%d 方塊每秒
+genetics.gui.analyst.biology.mothSpawn.perLeaf=蝴蝶生成頻率\n每個樹葉 %s
+genetics.gui.analyst.biology.mothSpawn=蝴蝶生成頻率\n%s
+genetics.gui.analyst.biology.plantTypes=植物類型
+genetics.gui.analyst.biology.averageLifespan=平均壽命
+genetics.gui.analyst.biology.pollination=授粉
+genetics.gui.analyst.biology.seedDispersal=種子傳播
+genetics.gui.analyst.biology.perLifetime=%d／每個生命週期
+genetics.gui.analyst.biology.mcDays=%s MC日
+
+genetics.gui.analyst.climate=氣候
+genetics.gui.analyst.climate.biomes=生物群系
+genetics.gui.analyst.climate.humidity=濕度耐受
+genetics.gui.analyst.climate.temperature=溫度耐受
+
+genetics.gui.analyst.soil=土壤
+genetics.gui.analyst.soil.moistureTolerance=濕度耐受
+genetics.gui.analyst.soil.pHTolerance=酸鹼度耐受
+genetics.gui.analyst.soil.recommendedSoil=推薦土壤
+genetics.gui.analyst.soil.otherSoils=其他土壤
+
+genetics.gui.analyst.genome.active=活躍基因
+genetics.gui.analyst.genome.inactive=非活躍基因
+
+genetics.gui.analyst.growth=生長
+genetics.gui.analyst.growth.mature=生長時間：
+genetics.gui.analyst.growth.height=高度：%s
+genetics.gui.analyst.growth.girth=幹圍：%s
+genetics.gui.analyst.growth.conditions=生長條件
+
+genetics.gui.analyst.mutations=突變
+genetics.gui.analyst.mutations.habitat=發現地
+genetics.gui.analyst.mutations.habitat.any=野外蜂巢
+genetics.gui.analyst.mutations.habitat.villagers=村民處購買
+genetics.gui.analyst.mutations.habitat.chest=地牢箱子
+genetics.gui.analyst.mutations.resultantMutations=導向突變
+genetics.gui.analyst.mutations.furtherMutations=次代突變
+genetics.gui.analyst.mutations.chance=%d%% 概率
+genetics.gui.analyst.mutations.chance.current=（當前為 %d%%）
+genetics.gui.analyst.mutations.unknownMutation=未知突變
+genetics.gui.analyst.mutations.unknown=未知
+
+genetics.gui.analyst.description=描述
+genetics.gui.analyst.description.unknown=<未知>
+genetics.gui.analyst.description.discoveredBy=由 %s 發現
+genetics.gui.analyst.description.complexity=基因複雜度：%s
+
+genetics.gui.analyst.produce=產物
+genetics.gui.analyst.produce.rate=概率：%s
+genetics.gui.analyst.produce.natural=自然產物
+genetics.gui.analyst.produce.speciality=特殊產物
+genetics.gui.analyst.produce.refined=精加工產物
+genetics.gui.analyst.produce.centrifuge=離心後可獲得：
+genetics.gui.analyst.produce.squeezes=壓榨後可獲得：
+genetics.gui.analyst.produce.everyTime=每 %s
+
+genetics.gui.analyst.fruit=果實
+genetics.gui.analyst.fruit.yield=產量：%s
+genetics.gui.analyst.fruit.natural=自然產物
+genetics.gui.analyst.fruit.speciality=特殊產物
+genetics.gui.analyst.fruit.refined=精加工產物
+genetics.gui.analyst.fruit.possible=可能的果實
+genetics.gui.analyst.fruit.none=這種樹不結果實
+
+genetics.gui.analyst.wood=木材
+genetics.gui.analyst.wood.fireproof=防火
+genetics.gui.analyst.wood.flammable=可燃
+genetics.gui.analyst.wood.logs=原木
+genetics.gui.analyst.wood.products=精加工產物
+genetics.gui.analyst.wood.noFruits=這種樹不結果實
+

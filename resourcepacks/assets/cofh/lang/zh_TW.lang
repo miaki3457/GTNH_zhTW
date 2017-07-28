@@ -1,0 +1,207 @@
+﻿#zh_TW
+
+# Config GUI Tooltips
+config.Client.tooltip=調整用戶端設定.
+config.Common.tooltip=調整一般設定.
+config.Core.tooltip=調整核心模組設定.
+config.Loot.tooltip=調整戰利品模組設定.
+
+chat.cofh.secure=這是屬於%s的私有物品!繼續嘗試接近將會被立刻消滅!
+chat.cofh.secureItem=現在這個物品屬於你.
+chat.cofh.secureNotice=注意:伺服器管理員可以任意訪問伺服器上受“保護”的方塊.
+
+enchant.cofh.holding=Holding
+enchant.cofh.multishot=Multishot
+
+info.cofh.access=訪問
+info.cofh.accessMode=訪問模式
+info.cofh.accessPublic=公開
+info.cofh.accessRestricted=受限
+info.cofh.accessPrivate=私有
+info.cofh.addDestination=添加目標
+info.cofh.addFrequency=添加頻率
+info.cofh.all=全部
+info.cofh.angle=角度
+info.cofh.anotherplayer=另一個玩家
+info.cofh.amount=數量
+info.cofh.augmentation=
+info.cofh.blank=空白
+info.cofh.buffer=緩衝
+info.cofh.capacity=容量
+info.cofh.charge=充能
+info.cofh.cheater=作弊的!
+info.cofh.configuration=配置
+info.cofh.contents=目錄
+info.cofh.controlStatus=控制狀態
+info.cofh.damageAttack=攻擊傷害
+info.cofh.damageFlux=RF傷害
+info.cofh.disabled=禁止
+info.cofh.disabled=已禁止
+info.cofh.distance=距離
+info.cofh.dry=乾燥
+info.cofh.duration=耐久
+info.cofh.efficiency=效率
+info.cofh.empty=空
+info.cofh.enabled=允許
+info.cofh.enabled=已允許
+info.cofh.energy=能量
+info.cofh.energyConsume=消耗功率
+info.cofh.energyProduce=輸出功率
+info.cofh.energyStored=存儲能量
+info.cofh.filter=過濾
+info.cofh.fluid=流體
+info.cofh.fluids=流體
+info.cofh.folded=Folded
+info.cofh.force=強制
+info.cofh.forDetails=獲取詳情
+info.cofh.frequency=頻率
+info.cofh.friendsList=好友列表
+info.cofh.hasInfo=有信息
+info.cofh.high=高
+info.cofh.hold=持有
+info.cofh.idle=閒置
+info.cofh.ignored=忽略
+info.cofh.information=信息
+info.cofh.infinite=無限
+info.cofh.item=物品
+info.cofh.items=物品
+info.cofh.legacy=舊版本
+info.cofh.level=等級
+info.cofh.locked=鎖定
+info.cofh.loot=戰利品
+info.cofh.low=低
+info.cofh.output=輸出
+info.cofh.maxEnergyPerTick=最大功率
+info.cofh.modeChange=以改變模式
+info.cofh.none=無
+info.cofh.owner=主人
+info.cofh.perUse=每次使用
+info.cofh.preferences=偏好設定
+info.cofh.press=按下
+info.cofh.receive=接收
+info.cofh.receiving=接收中...
+info.cofh.redstoneControl=紅石控制
+info.cofh.removeDestination=移除目標
+info.cofh.removeFrequency=移除頻率
+info.cofh.security=安全
+info.cofh.send=發送
+info.cofh.sending=發送中...
+info.cofh.setDestination=設定目標
+info.cofh.setFrequency=設定頻率
+info.cofh.shift=Shift
+info.cofh.signal=信號
+info.cofh.signalRequired=需要信號
+info.cofh.soaked=Soaked
+info.cofh.source=資源
+info.cofh.stored=存儲
+info.cofh.strength=強度
+info.cofh.success=成功!
+info.cofh.template=範本
+info.cofh.transfer=傳輸
+info.cofh.tutorial=教程
+info.cofh.unlocked=已解鎖
+info.cofh.work=Work
+
+info.cofh.command.friend=本命令可用於在你的好友列表中添加或刪除好友.
+info.cofh.command.help=本命令可以幫助你瞭解其他命令的使用!
+info.cofh.command.syntax=本命令可以幫助你瞭解其他命令的參數!
+info.cofh.command.killall=清除全部與給定名字相同的實體,預設會清除全部敵對生物.
+info.cofh.command.tps=獲得當前伺服器的TPS(每秒tick數)資訊.理想的伺服器中此資料應為20.
+info.cofh.command.tpx=增強版/tp指令,可進行跨維度傳送.
+info.cofh.command.version=返回本MOD的版本資訊.
+info.cofh.command.enchant=增強版/enchant.無等級限制,忽略可附魔
+info.cofh.command.clearblocks=清零指定世界的指定區域的指定方塊.
+info.cofh.command.countblocks=統計指定世界的指定區域的指定方塊.
+info.cofh.command.pregen=預載入世界中的一部分區塊.
+info.cofh.command.replaceblocks=替換指定世界的指定區域的方塊為其他方塊.
+info.cofh.command.reloadworldgen=從磁片上重載世界生成.
+info.cofh.command.unloadchunk=卸載玩家目視的區塊.
+
+info.cofh.command.friend.syntax=/cofh friend {gui | add <用戶名> | remove <用戶名>}
+info.cofh.command.help.syntax=/cofh help [指令]
+info.cofh.command.syntax.syntax=/cofh syntax [指令]
+info.cofh.command.killall.syntax=/cofh killall [部分實體名]
+info.cofh.command.tps.syntax=/cofh tps [{o | a | <維度ID>}]
+info.cofh.command.tpx.syntax=/cofh tpx [玩家] {(<玩家> | <維度>) | <x> <y> <z> [維度]}
+info.cofh.command.version.syntax=/cofh version
+info.cofh.command.enchant.syntax=/cofh enchant [玩家] <附魔ID> [等級]
+info.cofh.command.clearblocks.syntax=/cofh clearblocks {<用戶名> <x範圍> <y範圍> <z範圍> | <x起始點> <y起始點> <z起始點> <x結束點> <y結束點> <z結束點>} [block#meta] [block#meta] ...
+info.cofh.command.countblocks.syntax=/cofh countblocks {<用戶名> <x範圍> <y範圍> <z範圍> | <x起始點> <y起始點> <z起始點> <x結束點> <y結束點> <z結束點>} [block#meta] [block#meta] ...
+info.cofh.command.pregen.syntax=/cofh pregen {<用戶名> <x區塊範圍> <y區塊範圍> <z區塊範圍> | <x區塊起始點> <y區塊起始點> <z區塊起始點> <x區塊結束點> <y區塊結束點> <z區塊結束點>}
+info.cofh.command.replaceblocks.syntax=/cofh replaceblocks {<用戶名> <x範圍> <y範圍> <z範圍> | <x起始點> <y起始點> <z起始點> <x結束點> <y結束點> <z結束點>} <replaceBlock#meta> [block#meta] [block#meta] ...
+info.cofh.command.reloadworldgen.syntax=/cofh reloadworldgen
+info.cofh.command.unloadchunk.syntax=/cofh unloadchunk
+
+info.cofh.command.syntaxError=無效參數.
+info.cofh.command.notFound=未知指令.請使用/cofh help獲取可用指令清單.
+info.cofh.command.world.notFound=指定世界不存在.
+
+info.cofh.command.friend.0=成功添加好友到你的好友列表.
+info.cofh.command.friend.1=很抱歉,在添加到你的列表時
+info.cofh.command.friend.2=出現了問題
+info.cofh.command.friend.3=很抱歉,這不是有效的用戶名.
+info.cofh.command.friend.4=成功從你的好友列表中刪除好友.
+info.cofh.command.friend.5=不是你的好友
+
+info.cofh.command.help.0=當前可用指令:
+info.cofh.command.version.0=This mod is on version
+
+info.cofh.command.killall.success=已清除%d個實體. (%s)
+info.cofh.command.killall.successHostile=已清除%d個敵對實體. (%s)
+info.cofh.command.killall.noMatch=未發現指定實體!
+info.cofh.command.killall.noHostile=未發現敵對實體!
+
+info.cofh.command.tpx.snark.0=成功將你傳送到你自己!
+info.cofh.command.tpx.snark.1=成功將%s傳送到他們自己!
+info.cofh.command.tpx.self=成功傳送至%.2f %.2f %.2f
+info.cofh.command.tpx.dimensionSelf=成功傳送至%1$s的%2$.2f %3$.2f %4$.2f
+info.cofh.command.tpx.other=成功將%s傳送至%.2f %.2f %.2f
+info.cofh.command.tpx.otherTo=成功將%s傳送至%s所在的%.2f %.2f %.2f
+info.cofh.command.tpx.dimensionOther=成功將%s傳送至%2$s的%3$.2f %4$.2f %5$.2f
+info.cofh.command.tpx.dimensionOtherTo=成功將%s傳送至%s所在的%3$s的%4$.2f %5$.2f %6$.2f
+info.cofh.command.tpx.otherToSelf=成功將%s傳送至%.2f %.2f %.2f
+info.cofh.command.tpx.dimensionOtherToSelf=成功將%s傳送至%2$s的%3$.2f %4$.2f %5$.2f
+
+info.cofh.command.reloadworldgen.success=成功重載世界生成器.
+
+info.cofh.command.replaceblocks.failure=沒有要替換的方塊.
+info.cofh.command.replaceblocks.start=正在替換%s個方塊,範圍為 %s:%s:%s 到 %s:%s:%s,使用%s替換.
+info.cofh.command.replaceblocks.success=成功替換%s個方塊,範圍為 %s:%s:%s 到 %s:%s:%s,使用%s替換.
+
+info.cofh.command.clearblocks.failure=沒有要清理的方塊.
+info.cofh.command.clearblocks.start=開始清理%s個方塊,範圍為 %s:%s:%s 到 %s:%s:%s.
+info.cofh.command.clearblocks.success=成功清理%s個方塊,範圍為 %s:%s:%s 到 %s:%s:%s.
+
+info.cofh.command.countblocks.failure=該區域中沒有方塊.
+info.cofh.command.countblocks.start=正在統計%s個方塊,範圍為 %s:%s:%s 到 %s:%s:%s.
+info.cofh.command.countblocks.success=找到%s個方塊,範圍為 %s:%s:%s 到 %s:%s:%s.
+
+info.cofh.command.pregen.start=預載入%s個區塊,範圍為 %s:%s 到 %s:%s.
+
+info.cofh.command.unloadchunk.success=卸載位於 %s:%s 的區塊
+
+info.cofh.updater.download=下載
+info.cofh.updater.tooltip=點擊以獲取新版本
+info.cofh.updater.version=有新版本可用
+
+info.cofh.tutorial.fluxRequired=需要RF能量來驅動;
+info.cofh.tutorial.tabAugment=The Augment tab allows for modular additions.
+info.cofh.tutorial.tabConfiguration.0=該配置欄可以設定物品如何進入和離開設備.
+info.cofh.tutorial.tabConfiguration.1=該配置欄可以設定能量如何在設備間傳輸.
+info.cofh.tutorial.tabConfiguration.2=該配置欄可以設定該設備的操作模式.
+info.cofh.tutorial.tabRedstone=紅石控制配置欄用來設定設備對紅石信號的回應.
+info.cofh.tutorial.tabSecurity=安全控制欄用來設定機器的存取權限控制.
+
+item.invalid.name=無效物品(請銷毀之)
+
+key.cofh.category=CoFH按鍵設定
+key.cofh.empower=Empower/Quell Item
+key.cofh.multimode=Cycle Item Mode
+key.cofh.augments=Open Player Augment GUI
+
+tab.cofh.friend.0=添加/刪除好友!
+tab.cofh.friend.1=好友未經過驗證.
+
+fluid.tile.water=水
+fluid.tile.lava=岩漿
+

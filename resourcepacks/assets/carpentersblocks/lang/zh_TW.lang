@@ -1,0 +1,61 @@
+﻿# Carpenter's Blocks Language File = 繁體中文
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=木匠錘
+item.itemCarpentersChisel.name=木匠鑿
+item.itemCarpentersDoor.name=木匠門
+item.itemCarpentersBed.name=木匠床
+item.itemCarpentersTile.name=木匠瓷磚
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=木匠柵欄
+tile.blockCarpentersBed.name=木匠床
+tile.blockCarpentersBlock.name=木匠方塊
+tile.blockCarpentersButton.name=木匠按鈕
+tile.blockCarpentersDaylightSensor.name=木匠陽光感測器
+tile.blockCarpentersCollapsibleBlock.name=木匠折疊方塊
+tile.blockCarpentersDoor.name=木匠門
+tile.blockCarpentersGarageDoor.name=木匠卷閘門
+tile.blockCarpentersGate.name=木匠柵欄門
+tile.blockCarpentersHatch.name=木匠活板門
+tile.blockCarpentersLadder.name=木匠梯子
+tile.blockCarpentersLever.name=木匠拉杆
+tile.blockCarpentersPressurePlate.name=木匠壓力盤
+tile.blockCarpentersSlope.wedge.name=木匠楔形斜坡
+tile.blockCarpentersSlope.obliqueInterior.name=木匠內傾斜坡
+tile.blockCarpentersSlope.obliqueExterior.name=木匠外傾斜坡
+tile.blockCarpentersSlope.prism.name=木匠棱形斜坡
+tile.blockCarpentersSlope.prismWedge.name=木匠三角坡
+tile.blockCarpentersStairs.name=木匠樓梯
+tile.blockCarpentersTorch.name=木匠火把
+tile.blockCarpentersSafe.name=木匠保險箱
+tile.blockCarpentersFlowerPot.name=木匠花盆
+
+# ENTITIES
+entity.CarpentersTile.name=木匠瓷磚
+
+# MESSAGES
+message.polarity_pos.name=輸出相: 標準紅石信號輸出.
+message.polarity_neg.name=輸出相: 反相紅石信號輸出.
+message.activation_iron.name=啟動條件: 類似鐵門需要信號控制.
+message.activation_wood.name=啟動條件: 類似木門不需要信號控制.
+message.trigger_player.name=觸發條件: 只能由玩家觸發.
+message.trigger_monster.name=觸發條件: 只能由怪物觸發.
+message.trigger_animal.name=觸發條件: 只能由動物觸發.
+message.trigger_all.name=觸發條件: 任何實體均可觸發.
+message.safe_lock.name=控制: 保險箱已鎖.
+message.safe_unlock.name=控制: 保險箱已解鎖.
+message.automation_all.name=自動: 可以放入取出物品.
+message.automation_disabled.name=自動: 禁用.
+message.automation_insert.name=自動: 僅能放入物品.
+message.automation_extract.name=自動: 僅能取出物品.
+message.block_lock.name=控制: 該方塊已鎖.
+message.sensitivity_sleep.name=靈敏性:晚間睡覺臨界點切換狀態 (日出與日落).
+message.sensitivity_monsters.name=靈敏性:怪物生成亮度臨界點切換狀態 (包括雨天).
+message.sensitivity_dynamic.name=靈敏性:輸出紅石信號強度根據太陽位置變化.
+
+# </file>
+
