@@ -2689,24 +2689,24 @@ gtnh.quest671.name=電動船(Electric boat)
 gtnh.quest671.desc=電動船的運作和原版的船相似，以相當快的速度穿過水面。當撞擊時將會掉出他的原型，而不是通常的木棒。這當然非常好，但如果我們利用電力引擎呢？在胸甲欄位穿上電力儲存裝置，例如電池背包或儲電背包。電動船將會吸取背包的電力，並推動你以超音速前進！每前進一格約消耗100EU，所以就算很好的電池背包也持續不了多久！
 
 #Quest_672.Boat shape?
-gtnh.quest672.name=Boat shape?
-gtnh.quest672.desc=Really? Yes for the more advanced boats you need a new shape form.
+gtnh.quest672.name=船形？(Boat shape?)
+gtnh.quest672.desc=別懷疑，為了做更高階的船，你需要一個新的範本。
 
 #Quest_673.LV extruder
-gtnh.quest673.name=LV extruder
-gtnh.quest673.desc=The extruder is not very useful in the LV age. But it will extrude your next tier of boat.
+gtnh.quest673.name=基礎壓模器(LV extruder)
+gtnh.quest673.desc=LV時代的壓模器並不是很有用。但你可以使用他來製作下一階段的船。
 
 #Quest_674.Wooden rail variants
-gtnh.quest674.name=Wooden rail variants
-gtnh.quest674.desc=The wooden junction, wye and switch tracks need an assembling machine to craft. They allow you to join and switch to tracks going to different locations.
+gtnh.quest674.name=更多不同的木軌(Wooden rail variants) 未確認
+gtnh.quest674.desc=需要一台組裝機來組裝木製十字軌、木製Y型軌、木製跟轉轍軌。它們使你可以結合或切換通往不同地點的軌道。
 
 #Quest_675.Switch lever
-gtnh.quest675.name=Switch lever
-gtnh.quest675.desc=The switch lever is the manual version of the switch motor, requiring a player to operate it instead of a redstone signal. \nIt is used in various signaling systems, mainly to change the way switch tracks and wye tracks work.
+gtnh.quest675.name=手動轉轍器(Switch lever)
+gtnh.quest675.desc=手動轉轍器是手動版本的電動轉轍器，需要玩家來操作而非使用紅石信號。在許多不同的信號系統中被使用，主要是用來切換轉轍軌及Y型軌的運作方式。
 
 #Quest_676.Crowbar
-gtnh.quest676.name=Crowbar
-gtnh.quest676.desc=The crowbar comes in a Railcraft and a gregtech variant. It is used to manipulate machines from railcraft, remove plates and any other covers (pumps, conveyor belts, etc.) from gregtech pipes and machines as well as breaking certain objects faster, such as tracks. This tool is also used to access certain inventories from Railcraft.\n\nThe crowbar can be used as a weapon, though it costs twice as much durability on attack (just like any other non weapon tool...).
+gtnh.quest676.name=鐵橇(Crowbar)
+gtnh.quest676.desc=鐵橇有Railcraft版本跟GT版本。可以用來操作Railcraft的機器，或用來移除在GT管道和機器上的覆蓋板(電動泵，輸送機模組等等)。並可以更快的拆除一些物件，像是軌道。這樣工具也可用來存取Railcraft的物品庫存。鐵橇也可以當武器使用，雖然攻擊會消耗雙倍耐久(就像其他的非武器工具一樣...)。
 
 #Quest_677.Minecart
 gtnh.quest677.name=Minecart
