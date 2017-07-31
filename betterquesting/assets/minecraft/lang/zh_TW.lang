@@ -2709,20 +2709,20 @@ gtnh.quest676.name=鐵橇(Crowbar)
 gtnh.quest676.desc=鐵橇有Railcraft版本跟GT版本。可以用來操作Railcraft的機器，或用來移除在GT管道和機器上的覆蓋板(電動泵，輸送機模組等等)。並可以更快的拆除一些物件，像是軌道。這樣工具也可用來存取Railcraft的物品庫存。鐵橇也可以當武器使用，雖然攻擊會消耗雙倍耐久(就像其他的非武器工具一樣...)。
 
 #Quest_677.Minecart
-gtnh.quest677.name=Minecart
-gtnh.quest677.desc=After you craft your first cart the journey can begin...\nWell, not really. You will need some kind of tracks first.
+gtnh.quest677.name=礦車(Minecart)
+gtnh.quest677.desc=當你做好第一台車，旅程就可以開始了。好吧，還不行，你還需要先準備一些軌道。
 
 #Quest_678.Fast Food > Slow Food
-gtnh.quest678.name=Fast Food > Slow Food
-gtnh.quest678.desc=Three fast food lootbags give a better one = Slow Food Lootbag. (Since when is slow food better?)
+gtnh.quest678.name=速食 > 慢食(Fast Food > Slow Food)
+gtnh.quest678.desc=三個速食獎勵包可以換一個更好的慢食獎勵包。(從何時開始慢食被認為是比較好的？)
 
 #Quest_679.Slow Food > Haute Cuisine
-gtnh.quest679.name=Slow Food > Haute Cuisine
-gtnh.quest679.desc=Three slow food lootbags give a better one = Haute Cuisine Lootbag.
+gtnh.quest679.name=慢食 > 美食(Slow Food > Haute Cuisine)
+gtnh.quest679.desc=三個慢食獎勵包可以換一個更好的美食獎勵包。
 
 #Quest_680.Haute Cuisine > Dessert
-gtnh.quest680.name=Haute Cuisine > Dessert
-gtnh.quest680.desc=Six haute cuisine lootbags give a better one = Dessert Lootbag.
+gtnh.quest680.name=美食 > 甜點(Haute Cuisine > Dessert)
+gtnh.quest680.desc=六個美食獎勵包可以換一個更好的甜點獎勵包。
 
 #Quest_681.Transportation Class 3 > Transportation Class 2
 gtnh.quest681.name=Transportation Class 3 > Transportation Class 2
