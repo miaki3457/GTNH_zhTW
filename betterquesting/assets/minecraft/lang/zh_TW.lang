@@ -2801,76 +2801,76 @@ gtnh.quest699.name=為何只造一個焦炭爐當你能擁有十個(Why one coke
 gtnh.quest699.desc=你的磚砌高爐(bricked blast furnace)的炭用量大得要命，而你的蒸汽鍋爐也是？好吧，是時候建造更多焦炭爐然後將它們自動化了。木製流體管道以及tin item pipes將幫助你完成目標。
 
 #Quest_700.How dark can you go?
-gtnh.quest700.name=How dark can you go?
-gtnh.quest700.desc=Seriously, how dark can one be? You are sure the face in that crystal was nothing but imagination...
+gtnh.quest700.name=你能夠有多黑暗？(How dark can you go?) 待確認
+gtnh.quest700.desc=認真地，一個人能有多黑暗？你確信水晶中的那張臉只不過是你的想像。
 
 #Quest_701.Ascended
-gtnh.quest701.name=Ascended
-gtnh.quest701.desc=You feel empowered, light, almost like a ghost.
+gtnh.quest701.name=昇華(Ascended)
+gtnh.quest701.desc=你感到被賦予了力量、光明，幾乎就像幽靈一樣。
 
 #Quest_702.Tier 5 slates
-gtnh.quest702.name=Tier 5 slates
-gtnh.quest702.desc=1023 Buckets of blood in one slate! How much more I can store, oh I wish I would know. Then I add one and check if it works. 1024 buckets of blood in one slate! ... ...
+gtnh.quest702.name=T5石板(Tier 5 slates)
+gtnh.quest702.desc=1023桶血在一塊石板中！我還能再裝多少，我希望我知道。然後我再加了一桶來確認是否足夠。1024桶血在一塊石板中！... ...
 
 #Quest_703.Powerful shards
-gtnh.quest703.name=Powerful shards
-gtnh.quest703.desc=The demons summoned are rather strong, but their souls contain immense power!
+gtnh.quest703.name=強大的碎片(Powerful shards)
+gtnh.quest703.desc=召喚來的惡魔相當強大，但他們的靈魂含有巨大的力量。
 
 #Quest_704.Tier 4 slates
-gtnh.quest704.name=Tier 4 slates
-gtnh.quest704.desc=Tier 4 slates: Getting close.
+gtnh.quest704.name=T4石板(Tier 4 slates)
+gtnh.quest704.desc=T4石板：接近了。(Tier 4 slates: Getting close.)
 
 #Quest_705.Accelerated plant growth
-gtnh.quest705.name=Accelerated plant growth
-gtnh.quest705.desc=Plants grow very slowly, you might've discovered that by now. So why you don't counter that? A watering can will come in handy very soon.
+gtnh.quest705.name=加速植物生長速度(Accelerated plant growth)
+gtnh.quest705.desc=植物生長得很緩慢，你現在應該發現這點了。所以何不改善這點？灑水壺馬上就可以派上用場。
 
 #Quest_706.Ethereal chalk
-gtnh.quest706.name=Ethereal chalk
-gtnh.quest706.desc=Top tier chalk, for fancy wall paintings?
+gtnh.quest706.name=靈氣粉筆(Ethereal chalk)
+gtnh.quest706.desc=頂級的粉筆，用來畫花俏的壁畫？
 
 #Quest_707.Archmage orb. Let them come!
-gtnh.quest707.name=Archmage orb. Let them come!
-gtnh.quest707.desc=Your tier 5 orb.
+gtnh.quest707.name=賢者氣血寶珠。讓他們來吧！(Archmage orb. Let them come!)
+gtnh.quest707.desc=你的T5寶珠。
 
 #Quest_708.Master orb: Getting close
-gtnh.quest708.name=Master orb: Getting close
-gtnh.quest708.desc=Your tier 4 orb.
+gtnh.quest708.name=導師氣血寶珠:接近了(Master orb: Getting close)
+gtnh.quest708.desc=你的T4寶珠。
 
 #Quest_709.Elemental chalk II
-gtnh.quest709.name=Elemental chalk II
-gtnh.quest709.desc=Enhanced elemental chalk, to write "darker" runes than you're used to...
+gtnh.quest709.name=元素粉筆II(Elemental chalk II)
+gtnh.quest709.desc=強化過的元素粉筆，可以用來書寫一些比你習慣的符文更"黑"的符文...
 
 #Quest_710.Tier 4 runes
-gtnh.quest710.name=Tier 4 runes
-gtnh.quest710.desc=You will want both runes. Rune of superior capacity to increase the storage of your blood altar, and rune of the orb. Later it is required if you want to advance to higher levels.
+gtnh.quest710.name=T4符文(Tier 4 runes)
+gtnh.quest710.desc=這兩種符文你都會想要。超容符文可以增加你的血之祭壇的容量。而之後你會需要寶珠符文才能進階到更高的階段。
 
 #Quest_711.Tier 5 runes
-gtnh.quest711.name=Tier 5 runes
-gtnh.quest711.desc=The final frontier: There are not many runes available. The acceleration rune allows you to speed up the interaction with external tanks.
+gtnh.quest711.name=T5符文(Tier 5 runes)
+gtnh.quest711.desc=最後邊境：並沒有太多可得到的符文。促進符文使你可以加速與外部容器的互動。
 
 #Quest_712.Advanced rituals
-gtnh.quest712.name=Advanced rituals
-gtnh.quest712.desc=More powerful rituals require dusk runes. With your new dusk chalk, you can enhance your ritual diviner to place those. Allowing you to perform a lot more rituals.
+gtnh.quest712.name=進階儀式(Advanced rituals)
+gtnh.quest712.desc=更強力的儀式需要幽暗銘文。使用你的新幽暗粉筆，可以強化你的儀式推測杖來放置這些。讓你可以進行更多的儀式。
 
 #Quest_713.Highend rituals
-gtnh.quest713.name=Highend rituals
-gtnh.quest713.desc=The last rune so far, used for the most powerful rituals.
+gtnh.quest713.name=高端儀式(Highend rituals)
+gtnh.quest713.desc=最後的符文，用於最強大的儀式。
 
 #Quest_714.Convocation of the damned
-gtnh.quest714.name=Convocation of the damned
-gtnh.quest714.desc=Time to open a portal to the demons we're using all the time. What could possibly go wrong? (It is recommended to do this ritual on a planet, as the demon city will spread quite a bit...)
+gtnh.quest714.name=被詛咒之物的集會(Convocation of the damned)
+gtnh.quest714.desc=是時候開啟一個傳送門，通往我們以往召喚的惡魔所在之地。能出什麼差錯呢？(建議在一個行星上進行這個儀式，惡魔的城市會延伸蠻大的範圍...)
 
 #Quest_715.Imbued spell upgrades
-gtnh.quest715.name=Imbued spell upgrades
-gtnh.quest715.desc=With these new shards you are able to craft the most powerful spell components. Maybe it's time to upgrade your mining spell?
+gtnh.quest715.name=灌輸法術附屬(Imbued spell upgrades)
+gtnh.quest715.desc=有了這些新的碎片，你可以製作最強力的法術元件。也許是時候升級你的挖礦法術了？
 
 #Quest_716.Find some Quartz
-gtnh.quest716.name=Find some Quartz
-gtnh.quest716.desc=The Nether is full of different kinds of quartz. Go and find a quartzite and certus quartz vein. It is located between Y level 40-80.
+gtnh.quest716.name=尋找石英(Find some Quartz)
+gtnh.quest716.desc=地獄充滿各種不同的石英。找到一個石英岩及賽特斯石英礦脈。其分佈高度為Y 40-80。
 
 #Quest_717.Good Circuits.
-gtnh.quest717.name=Good Circuits.
-gtnh.quest717.desc=Good circuits are an improvement on basic circuits. They are a component of all MV gregtech machines. Be sure you build the electric blast furnace first, so you can process some aluminium dust into ingots.
+gtnh.quest717.name=進階電子電路(Good Circuits.)
+gtnh.quest717.desc=進階電子電路是基礎電子電路的改良版。它是所有MV機器的元件。確認你先蓋了電力高爐(EBF)，以便將鋁粉煉成鋁錠。
 
 #Quest_718.Crop Breeding
 gtnh.quest718.name=作物配種(Crop Breeding)
