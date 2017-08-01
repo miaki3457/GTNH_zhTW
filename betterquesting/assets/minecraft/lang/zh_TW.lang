@@ -2389,11 +2389,11 @@ gtnh.quest596.name=Upgrade of the upgrade of the...
 gtnh.quest596.desc=It's upgrade time. Unlock redstone and obsidian level for your different tools.
 
 #Quest_597.Tetrahedrite, stibnite and copper
-gtnh.quest597.name=黝銅礦 、輝銻礦、及銅礦Tetrahedrite, stibnite and copper
+gtnh.quest597.name=黝銅礦 、輝銻礦、及銅礦(Tetrahedrite, stibnite and copper)
 gtnh.quest597.desc=你可能會疑惑為何需要黝銅礦，或輝銻礦。主要是可以離心出銻，在LV時代用於製做電池。可以在Y 80-120找到礦脈。
 
 #Quest_598.Antimony
-gtnh.quest598.name= 銻(Antimony)
+gtnh.quest598.name=銻(Antimony)
 gtnh.quest598.desc=要得到電池所需的銻，最有效率的方法是離心輝銻粉，其次是使用黝銅礦粉。
 
 #Quest_599.Thermal centrifuge
@@ -2634,11 +2634,11 @@ gtnh.quest657.desc=升級你的木標槍，使用鐵螺絲釘為它加上石箭�
 
 #Quest_658.Iron spear
 gtnh.quest658.name=鐵標槍(Iron spear)
-gtnh.quest658.desc=在MV階段你可以升級你的鐵標槍成鑽石標槍。做一個diamond arrowhead，兩個不銹鋼螺絲釘，跟一個木標槍。這標槍有優秀的耐久度。
+gtnh.quest658.desc=升級你的木標槍，使用兩個鋼螺絲釘為它加上鐵箭頭就變成鐵標槍。鐵標槍的耐久度比石標槍更好。
 
 #Quest_659.Diamond spear
-gtnh.quest659.name=Diamond spear
-gtnh.quest659.desc=At MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.\nThis spear has superior durability.
+gtnh.quest659.name=鑽石標槍(Diamond spear)
+gtnh.quest659.desc=在MV階段你可以升級你的鐵標槍成鑽石標槍。做一個diamond arrowhead，兩個不銹鋼螺絲釘，跟一個木標槍。這標槍有優秀的耐久度。
 
 #Quest_660.Diamond shield
 gtnh.quest660.name=鑽石盾(Diamond shield)
@@ -2689,116 +2689,116 @@ gtnh.quest671.name=Electric boat
 gtnh.quest671.desc=The alectric boat works mostly like a vanilla boat, chugging through the water at a decent pace. It will hopefully drop itself once you crash, which is slightly nicer than the usual sticks. That's all well and good, but what if we utilize the electric engine? Wearing an energy storage device in your chestplate slot, like a batpack or energypack, will cause the boat to drain energy from it and propel you forward at supersonic speed! Doing this will consume about 100 EU per block traveled, so even a decent batpack won't last long!
 
 #Quest_672.Boat shape?
-gtnh.quest672.name=Boat shape?
-gtnh.quest672.desc=Really? Yes for the more advanced boats you need a new shape form.
+gtnh.quest672.name=船形？(Boat shape?)
+gtnh.quest672.desc=別懷疑，為了做更高階的船，你需要一個新的範本。
 
 #Quest_673.LV extruder
-gtnh.quest673.name=LV extruder
-gtnh.quest673.desc=The extruder is not very useful in the LV age. But it will extrude your next tier of boat.
+gtnh.quest673.name=基礎壓模器(LV extruder)
+gtnh.quest673.desc=LV時代的壓模器並不是很有用。但你可以使用他來製作下一階段的船。
 
 #Quest_674.Wooden rail variants
-gtnh.quest674.name=Wooden rail variants
-gtnh.quest674.desc=The wooden junction, wye and switch tracks need an assembling machine to craft. They allow you to join and switch to tracks going to different locations.
+gtnh.quest674.name=更多不同的木軌(Wooden rail variants) 未確認
+gtnh.quest674.desc=需要一台組裝機來組裝木製十字軌、木製Y型軌、木製跟轉轍軌。它們使你可以結合或切換通往不同地點的軌道。
 
 #Quest_675.Switch lever
-gtnh.quest675.name=Switch lever
-gtnh.quest675.desc=The switch lever is the manual version of the switch motor, requiring a player to operate it instead of a redstone signal. \nIt is used in various signaling systems, mainly to change the way switch tracks and wye tracks work.
+gtnh.quest675.name=手動轉轍器(Switch lever)
+gtnh.quest675.desc=手動轉轍器是手動版本的電動轉轍器，需要玩家來操作而非使用紅石信號。在許多不同的信號系統中被使用，主要是用來切換轉轍軌及Y型軌的運作方式。
 
 #Quest_676.Crowbar
-gtnh.quest676.name=Crowbar
-gtnh.quest676.desc=The crowbar comes in a Railcraft and a gregtech variant. It is used to manipulate machines from railcraft, remove plates and any other covers (pumps, conveyor belts, etc.) from gregtech pipes and machines as well as breaking certain objects faster, such as tracks. This tool is also used to access certain inventories from Railcraft.\n\nThe crowbar can be used as a weapon, though it costs twice as much durability on attack (just like any other non weapon tool...).
+gtnh.quest676.name=鐵橇(Crowbar)
+gtnh.quest676.desc=鐵橇有Railcraft版本跟GT版本。可以用來操作Railcraft的機器，或用來移除在GT管道和機器上的覆蓋板(電動泵，輸送機模組等等)。並可以更快的拆除一些物件，像是軌道。這樣工具也可用來存取Railcraft的物品庫存。鐵橇也可以當武器使用，雖然攻擊會消耗雙倍耐久(就像其他的非武器工具一樣...)。
 
 #Quest_677.Minecart
-gtnh.quest677.name=Minecart
-gtnh.quest677.desc=After you craft your first cart the journey can begin...\nWell, not really. You will need some kind of tracks first.
+gtnh.quest677.name=礦車(Minecart)
+gtnh.quest677.desc=當你做好第一台車，旅程就可以開始了。好吧，還不行，你還需要先準備一些軌道。
 
 #Quest_678.Fast Food > Slow Food
-gtnh.quest678.name=Fast Food > Slow Food
-gtnh.quest678.desc=Three fast food lootbags give a better one = Slow Food Lootbag. (Since when is slow food better?)
+gtnh.quest678.name=速食 > 慢食(Fast Food > Slow Food)
+gtnh.quest678.desc=三個速食獎勵包可以換一個更好的慢食獎勵包。(從何時開始慢食被認為是比較好的？)
 
 #Quest_679.Slow Food > Haute Cuisine
-gtnh.quest679.name=Slow Food > Haute Cuisine
-gtnh.quest679.desc=Three slow food lootbags give a better one = Haute Cuisine Lootbag.
+gtnh.quest679.name=慢食 > 美食(Slow Food > Haute Cuisine)
+gtnh.quest679.desc=三個慢食獎勵包可以換一個更好的美食獎勵包。
 
 #Quest_680.Haute Cuisine > Dessert
-gtnh.quest680.name=Haute Cuisine > Dessert
-gtnh.quest680.desc=Six haute cuisine lootbags give a better one = Dessert Lootbag.
+gtnh.quest680.name=美食 > 甜點(Haute Cuisine > Dessert)
+gtnh.quest680.desc=六個美食獎勵包可以換一個更好的甜點獎勵包。
 
 #Quest_681.Transportation Class 3 > Transportation Class 2
 gtnh.quest681.name=Transportation Class 3 > Transportation Class 2
-gtnh.quest681.desc=Three transportation class 3 lootbags give a better one = Transportation Class 2 Lootbag.
+gtnh.quest681.desc=三個transportation class 3獎勵包可以換一個更好的Transportation Class 2獎勵包。
 
 #Quest_682.Transportation Class 2 > Transportation Class 1
 gtnh.quest682.name=Transportation Class 2 > Transportation Class 1
-gtnh.quest682.desc=Three transportation class 2 Lootbags give a better one = Transportation Class 1 Lootbag.
+gtnh.quest682.desc=三個transportation class 2獎勵包可以換一個更好的Transportation Class 1獎勵包。
 
 #Quest_683.Wet dirt armor?
-gtnh.quest683.name=Wet dirt armor?
-gtnh.quest683.desc=If you don't have any armor, "mud armor" is better than nothing. Mud can be found in some wet biomes.
+gtnh.quest683.name=泥巴護甲？(Wet dirt armor?)
+gtnh.quest683.desc=如果你沒有任何護甲，泥巴護甲至少比什麼都沒有好。泥巴可以在某些濕地找到。
 
 #Quest_684.Wooden armor
-gtnh.quest684.name=Wooden armor
-gtnh.quest684.desc=If you can't find mud you can make very poor armor out of wood. Cutting down a few trees to make a set should do. You will need a soft mallet too, so save a few logs for that.
+gtnh.quest684.name=木製護甲(Wooden armor)
+gtnh.quest684.desc=如果你沒辦法找到泥巴，你可以用木頭製作非常克難的護甲。砍一些樹來做一套。同時你也會需要一個軟錘，為此存一些木頭吧。
 
 #Quest_685.Armor 2.0
-gtnh.quest685.name=Armor 2.0
-gtnh.quest685.desc=Iron armor is much better than the leather armor. Especially when you have to go outside during the night.
+gtnh.quest685.name=護甲2.0(Armor 2.0)
+gtnh.quest685.desc=鐵製護甲比皮革護甲好得多。特別是當你在夜晚出外探險的時候。
 
 #Quest_686.Leather armor
-gtnh.quest686.name=Leather armor
-gtnh.quest686.desc=Killing some cows will give you enough leather to craft a complete set of leather armor. \n\nHint: You are able to dye this armor.
+gtnh.quest686.name=皮革護甲(Leather armor)
+gtnh.quest686.desc=殺一些牛來取得足夠的皮革，以便製作一套完整的皮革護甲。提示：你可以染色這套護甲。
 
 #Quest_687.Bronze armor
-gtnh.quest687.name=Bronze armor
-gtnh.quest687.desc=Bronze armor has the same abilities as iron armor. Same durability, same protection and same enchantment capability.
+gtnh.quest687.name=青銅護甲(Bronze armor)
+gtnh.quest687.desc=青銅護甲跟鐵製護甲有相同的性能。同樣的耐久，同樣的護甲，以及同樣的附魔潛力。
 
 #Quest_688."Nice to have" armor
-gtnh.quest688.name="Nice to have" armor
-gtnh.quest688.desc=The gold armor is a "nice to have" armor. The durability is very low but you look expensive when you wear it.
+gtnh.quest688.name=「有錢真好」護甲("Nice to have" armor)
+gtnh.quest688.desc=擁有黃金護甲也不錯。它的耐久不非常低，不過穿著黃金護甲使你看起來很高貴。
 
 #Quest_689."Oh shiny" armor
-gtnh.quest689.name="Oh shiny" armor
-gtnh.quest689.desc=Diamond armor is the best armor in Vanilla Minecraft, but over here there are much better armors available.
+gtnh.quest689.name=閃亮亮護甲("Oh shiny" armor)
+gtnh.quest689.desc=在原版麥塊中，鑽石護甲是最好的護甲。但在這有很多更好的護甲。
 
 #Quest_690.Fancy armor
-gtnh.quest690.name=Fancy armor
-gtnh.quest690.desc=Not really better but fancy. The chain mail armor is made out of steel rings.
+gtnh.quest690.name=花俏護甲(Fancy armor)
+gtnh.quest690.desc=並非真的比較好，但很花俏。鎖鍊護甲是使用鋼環製作的。
 
 #Quest_691.Armor 2.5
-gtnh.quest691.name=Armor 2.5
-gtnh.quest691.desc=The steel armor has much more durability than the iron/bronze or chainmail armor.
+gtnh.quest691.name=護甲 2.5(Armor 2.5)
+gtnh.quest691.desc=鋼鐵護甲的耐久度比鐵、青銅，及鎖鍊護甲都高非常多。
 
 #Quest_692.Composite vest
-gtnh.quest692.name=Composite vest
-gtnh.quest692.desc=Combining the strength of advanced alloy plates with the steel chestplate makes your vest very hard. Now you have double the durability and increased armor points by 1,5.
+gtnh.quest692.name=複合背心(Composite vest)
+gtnh.quest692.desc=將高級合金的強度與鋼鐵胸甲結合，將使你非常非常硬。現在你有雙倍的耐久度，以及額外的1.5護甲。
 
 #Quest_693.Fallen from the sky
-gtnh.quest693.name=Fallen from the sky
-gtnh.quest693.desc=There are big meteors everywhere and you are wondering why you need to mine them now?\nSkystone is a good source of rare earth metals in the LV age. \nInside the meteor you can find a skystone chest containing some processor press plates. Save them for later, as they are really important.
+gtnh.quest693.name=從天而降(Fallen from the sky)
+gtnh.quest693.desc=你可以在許多地方找到巨大的殞石。而你可能會疑惑為何需要現在去挖掘它們？?在LV時代，隕石是地球上稀有金屬的一個好來源。在隕石中你可以找到一個隕石箱，其中裝了一些處理器印壓範本。將它們保存起來，它們非常重要。
 
 #Quest_694.One Anvil... Better make that two!
-gtnh.quest694.name=One Anvil... Better make that two!
-gtnh.quest694.desc=With your brand-new Compressor you are able to make some metal blocks for your new anvil. Better craft two anvils, one will be required for the forge hammer.\n\nWith the anvil you can repair, rename and enchant armor and tools.\n
+gtnh.quest694.name=一個鐵砧...最好做兩個！(One Anvil... Better make that two!)
+gtnh.quest694.desc=使用你全新的壓縮機，可以製作一些金屬磚以製作鐵砧。最好做兩個鐵砧，一個用於製作鍛造錘。有了鐵砧你就可以修理、更名，以及附魔你的護甲及工具。
 
 #Quest_695.Automation tier 1
-gtnh.quest695.name=Automation tier 1
-gtnh.quest695.desc=Do you want to automate your smeltery because you are planning to make stacks of glass blocks? \nNo problem, craft a large bronze pipe and place it under the faucet. Now the molten fluid will flow inside the pipe. Under the pipe you have to place the casting basins or tables.\nA hopper and a chest underneath would be good to auto-output products.
+gtnh.quest695.name=自動化 T1(Automation tier 1)
+gtnh.quest695.desc=因為你計畫製作許多通透玻璃，你希望將冶煉爐自動化嗎？沒問題，製作一個大型青銅流體管道，將之放在澆注口下。現在那些熔融液體將在管道中流動。在管道下你必須放置鑄造盆或澆鑄台。在下方放置漏斗及箱子，將有助於自動輸出成品。
 
 #Quest_696.Automation tier 2
-gtnh.quest696.name=Automation tier 2
-gtnh.quest696.desc=You want a better automation than using pipes? Sure, craft a comparator and link it with redstone dust placed on the ground. The redstone needs to be adjecent to the faucet to activate the crafting process.
+gtnh.quest696.name=自動化 T2(Automation tier 2)
+gtnh.quest696.desc=你想要比管道更好的自動化嗎？肯定是，製作一個紅石比較器，並將紅石鋪設在地面與之連結。紅石必須連接澆注口來啟動製造程序。
 
 #Quest_697.2x steel
-gtnh.quest697.name=2x steel
-gtnh.quest697.desc=Steel production is so slow. If you got enough bricks and clay, build a second BBF. Build it attached to the first one, so they can share a wall an you will save some bricks, clay and concrete.
+gtnh.quest697.name=2x鋼鐵(2x steel)
+gtnh.quest697.desc=鋼鐵的製作過程實在太慢了。如果你有足夠的紅磚和粘土，建造第二個磚砌高爐(BBF)。將它蓋在第一個爐的旁邊，所以他們可以共用一道牆，體就可以省下一些紅磚、粘土，以及混凝土。
 
 #Quest_698.4x steel
-gtnh.quest698.name=4x steel
-gtnh.quest698.desc=Not even two BBFs are fast enough...
+gtnh.quest698.name=4x鋼鐵(4x steel)
+gtnh.quest698.desc=兩個磚砌高爐(BBF)還是不夠快...
 
 #Quest_699.Why one coke oven when you can have ten
-gtnh.quest699.name=Why one coke oven when you can have ten
-gtnh.quest699.desc=Your bricked blast furnace uses coal like hell and your steam boiler too? Well it's time to make more coke ovens and automate them a bit. Wooden fluid pipes and tin item pipes will help you reach your goal.
+gtnh.quest699.name=為何只造一個焦炭爐當你能擁有十個(Why one coke oven when you can have ten)
+gtnh.quest699.desc=你的磚砌高爐(bricked blast furnace)的炭用量大得要命，而你的蒸汽鍋爐也是？好吧，是時候建造更多焦炭爐然後將它們自動化了。木製流體管道以及tin item pipes將幫助你完成目標。
 
 #Quest_700.How dark can you go?
 gtnh.quest700.name=How dark can you go?
