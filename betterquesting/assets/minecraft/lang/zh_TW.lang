@@ -2898,39 +2898,39 @@ gtnh.quest723.desc=你的種子有三種不同的數值－－生長、收穫、�
 
 #Quest_724.Weed
 gtnh.quest724.name=雜草(Weed)
-gtnh.quest724.desc=Weed will show up from time to time on your crop sticks. Be careful and harvest the weed with your weed trowel before the whole field becomes overgrown with them and they destroy all your plants. Later you can make some weed Ex to destroy it.
+gtnh.quest724.desc=雜草會不時地在你的作物架上生長。在整片田地被長滿雜草，並摧毀了你的作物前，仔細注意並用你的耙子清除雜草。以後你可以製作除草劑來除草。
 
 #Quest_725.Flower Power
-gtnh.quest725.name=Flower Power
-gtnh.quest725.desc=Growing dyes on crops sticks? Try to plant some flowers. If you cross breed Rose and Dandelion flowers you maybe get a new flower and new dyes with different colors.
+gtnh.quest725.name=花的力量(Flower Power)
+gtnh.quest725.desc=在作物架上種植染料？試著種一些花，如果你將玫瑰及蒲公英配種，可以得到一種新的花以及不同顏色的染料。
 
 #Quest_726.Chemical rubber production
-gtnh.quest726.name=Chemical rubber production
-gtnh.quest726.desc=A much more efficient way to make insulated cables is by making molten rubber in a chemical reactor which can be applied to a cable in the assembling machine. When you put both machines next to each other you can output the molten rubber directly to the assembling machine by clicking the fluid auto-output button on the chemical reactor. Make sure to set the correct side of the reactor as output side by wrenching it.
+gtnh.quest726.name=橡膠化學製程(Chemical rubber production)
+gtnh.quest726.desc=製作絕緣線纜的一個更高效率的方法，是在化學反應器中製作液態橡膠，然後可以在組裝機中將之裹上未絕緣線纜。當你將兩台機器放在一起，按下化學反應器的fluid auto-output按鈕，就可以直接將液態橡膠送進組裝機。記得用扳手將反應器的輸出口調到正確的方向。
 
 #Quest_727.Better than barrels
-gtnh.quest727.name=Better than barrels
-gtnh.quest727.desc=While barrels offer only a single slot for storage, drawers can go up to 4 slots each, 16 stacks in each slot. they can also be used to make a "ghetto ME storage system (Tec2k17)\nlater in the HV age with some help of ProjectRed Transportation.
+gtnh.quest727.name=比儲物桶更好(Better than barrels)
+gtnh.quest727.desc=儲物桶只能儲存一種物品。抽屜則最多能存四種，每一種各16組。之後在HV時代，透過ProjectRed Transportation的幫助，它們可以用於製造一個"如塗鴨牆班般的ME儲存系統"。
 
 #Quest_728.Compact Drawers
-gtnh.quest728.name=Compact Drawers
-gtnh.quest728.desc=They are very compact and add some fanciness to your glorious dirt base. 
+gtnh.quest728.name=小型抽屜(Compact Drawers)
+gtnh.quest728.desc=它們非常小巧，可以為你輝煌的泥巴屋增加一些花樣。
 
 #Quest_729.Framing Drawers
-gtnh.quest729.name=Framing Drawers
-gtnh.quest729.desc=Now you can really make some swaggy and even FANCIER drawers using this table, all you have to do is place some decorative blocks (works with almost ALL decorative blocks) and it will take their texture, the TOP left is the outer Square bottom left is for the front face and top right is for the borders.
+gtnh.quest729.name=塑造抽屜(Framing Drawers)
+gtnh.quest729.desc=現在用這張桌子，你可以做出一些酷炫又有更多花樣的抽屜。你需要做的就是放上一些裝飾用方塊(幾乎所有裝飾方塊都可以)，抽屜就會使用它們的材質。左上方的是對應正面方框，左下方是對應正面，而右上是對應邊框。
 
 #Quest_730.Bio Fuels
-gtnh.quest730.name=Bio Fuels
-gtnh.quest730.desc=You are using steam, creosote, and possibly oil plus their by-products to generate Power. It's time to start with bio diesel. You can use wheat, sugarcane, apples or saplings.\n\nBe sure you have a managed Forestry farm, Steve's Cart Farm or IC2 Crop Sticks with a harvester because you need plenty of biomaterials for constant biogas production.\n\nHint: Hazelnut is the ultimative source for biodiesel.
+gtnh.quest730.name=生質燃料(Bio Fuels)
+gtnh.quest730.desc=你現在使用蒸汽、雜酚油、以及可能有石油及其副產品來發電。是時候開始使用生物柴油了。你可以使用小麥、甘蔗、蘋果，或樹苗。確保你有一座自動化林業農場、Steve's Cart農場，或IC2作物架配合收割機。因為你需要大量的生質原料，用於持續的製造沼氣。提示：榛果是生物柴油的終極來源。
 
 #Quest_731.Plant balls
-gtnh.quest731.name=Plant balls
-gtnh.quest731.desc=The first step is to compress plantballs out of your wheat. Your LV compressor is too slow for it. I suggest crafting 4 MV compressors for the new bio diesel processing line.
+gtnh.quest731.name=植物球(Plant balls)
+gtnh.quest731.desc=第一步是將小麥壓縮成植物球。你的LV壓縮機太慢了。我建議你為新的生物柴油生產線製造四台MV壓縮機。
 
 #Quest_732.Plant Mass
-gtnh.quest732.name=Plant Mass
-gtnh.quest732.desc=Macerate the plantballs down to plant mass for better processing. In the LV and MV tiers you get only one plant mass per, in HV tier you recieve two. IV macerator gives up to four of them with a chance of 50% and 25%.
+gtnh.quest732.name=植物質量(Plant Mass)
+gtnh.quest732.desc=將植物球磨碎成為植物植量以便進一步的加工。在LV及MV階段你每次只能得到一個植物質量，在HV階段你可以得到兩個。IV研磨機則可以給你最多四個，額外兩個分別是50%及25%機率。
 
 #Quest_733.Bio Chaff
 gtnh.quest733.name=Bio Chaff
