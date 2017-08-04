@@ -2933,36 +2933,36 @@ gtnh.quest732.name=植物質量(Plant Mass)
 gtnh.quest732.desc=將植物球磨碎成為植物植量以便進一步的加工。在LV及MV階段你每次只能得到一個植物質量，在HV階段你可以得到兩個。IV研磨機則可以給你最多四個，額外兩個分別是50%及25%機率。
 
 #Quest_733.Bio Chaff
-gtnh.quest733.name=Bio Chaff
-gtnh.quest733.desc=Plant mass needs to be centrifuged into bio chaff, the base material to make biomass. You need 1 or 2 MV centrifuges to run the new production line.
+gtnh.quest733.name=糠(Bio Chaff)
+gtnh.quest733.desc=植物質量必須經過離心變成糠，生物質的基礎原料。你需要一至二台MV離心機來運作新的生產線。
 
 #Quest_734.Way One: IC 2 Fluid Canner
-gtnh.quest734.name=Way One: IC 2 Fluid Canner
-gtnh.quest734.desc=The first way you get biomass out of bio chaff is to use the IC2 Fluid Canner. One bucket of water and one bio chaff give one bucket of biomass. In HV Tier you can use the pyrolyze oven to do it in a more efficient way.
+gtnh.quest734.name=方法一：IC 2流體/固體裝罐機(Way One: IC 2 Fluid Canner)
+gtnh.quest734.desc=第一個製作生物質的方法是使用IC 2流體/固體裝罐機。一桶水以及一個糠可以製成一桶的生物質。在HV階段你可以用熱解爐更有效率的製作生物質。
 
 #Quest_735.Way Two: Brewery
-gtnh.quest735.name=Way Two: Brewery
-gtnh.quest735.desc=If you are lucky and find some brewing stands or familiar enough with Thaumcraft to make one you can craft a brewery. You get 750mb of biomass out of 750mb water and 1 bio chaff. In HV tier you can use the pyrolyze oven to do it in a more efficient way.
+gtnh.quest735.name=方法二：釀造(Way Two: Brewery)
+gtnh.quest735.desc=如果你幸運的找到一個釀造台，或者對神秘時代足夠熟悉而可以製作一個釀造台。你可以用750mb水加上一個糠得到750mb生物質。在HV階段你可以用熱解爐更有效率的製作生物質。
 
 #Quest_736.Fermented Biomass
-gtnh.quest736.name=Fermented Biomass
-gtnh.quest736.desc=With the MV fermenter you can produce fermented biomass. This is the base product to make methane, ethanol and methanol.\nWhen you reach HV tier there's a more efficient way to process it; the distillation tower multiblock.
+gtnh.quest736.name=發酵生物質(Fermented Biomass)
+gtnh.quest736.desc=使用MV發酵槽，你可以製造發酵生物質。這是製作甲烷(methane)、乙醇(ethanol)和甲醇(methanol)的基礎原料。當你達到HV階段，使用蒸餾塔可以更有效率的處理它。
 
 #Quest_737.Can u eat those? 
-gtnh.quest737.name=Can u eat those? 
-gtnh.quest737.desc=No you can't eat them but you can add them to your routed pipes. Without chips routed pipes can't do anything on their own, chips also have a GUI to configure them wich can be opened by right clicking. \nThere are 8 types of chips:\n\n-Item extractor chip can be used to send items from its inventory to responder, dynamic responder, terminator and overflow responder chips in a pipe network. \n\n-Item responder chip will request items from the extractor chips in your network wich match the filter configured to the inventory connected to the responder chip. Chips with higher priority value will receive items first until the inventory is full then will be sent to other inventories with valid filters and remaining space.\n\n-Dynamic item responder chip will request items from the extractor chips in your network that match items inside the dynamic item responder connected inventory. This chip has to be in the same interface pipe as the item responder chip in order to work. Priority rules apply here as well. \n\n-Item overflow responder works exactly the same as the item responder chip, however it only accepts items that cannot go to an item responder chip, dynamic item responder chip, or item terminator chip. \n\n-Item terminator chip works as a backup for responder chips.\n\n-Item broadcaster chip will show you the inventory connected to the routed request pipe on the pipe network and can be used to retrieve items from it. They can also extract for wich side you configure them. \n\n-Item stock keeper chip will constantly check the network for items and pull them to its pipe. If the chip is set to pull when empty, it will only pull if the inventory next to it is empty, otherwise it will pull when there are less items in the inventory than configured in the chip.\n\n-Item crafting chips craft things. \n\n-Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.
+gtnh.quest737.name=這能吃嗎？(Can u eat those?)
+gtnh.quest737.desc=不，這不能吃，但你可以將它們加入你的路由管道。沒有這些晶片，路由管道沒有任何用處。晶片有一個設定GUI可以使用右鍵開啟。共有八種晶片：物品抽取晶片，用於由容器中抽出物品，送往管道網路中的回應晶片、動態回應晶片、終端晶片，或超載回應晶片。物品回應晶片，會根據過濾條件向網路中的抽取晶片送出物品請求，並將物品送至與之連接的容器。有較高的優先權值的晶片的晶片，將優先獲得物品。直到其容器滿了，物品才會送至其他符合過濾條件及有空間的容器。動態物品回應晶片會根據容器中的物品，去對網路中的抽取晶片請求物品。這個晶片必須跟物品回應晶片放在同一個介面管道才能作用。優先權規則在此也適用。物品超載回應晶片的作用跟物品回應晶片完全一樣。但它只接收多餘的物品，也就是無法送往物品回應晶片、動態物品回應晶片，或物品終端晶片的物品。物品終端晶片是回應晶片的備援。物品廣播晶片會將其容器中的物品，顯示到網路中的路由請求管道，你可以在路由請求管道選擇要獲取的物品。它們也可以被設定由哪一個方向抽取物品。物品堆疊維護晶片將維持其容器中設定的物品數量，它會持續檢查網路以取得缺少的物品。如果晶片設定為用完補充，它將只會在物品用完時補充。物品合成晶片及物品合成擴展晶片用在物品合成管道中，記得要將ID亂數化。
 
 #Quest_738.Routed Pipes
-gtnh.quest738.name=Routed Pipes
-gtnh.quest738.desc=There are six types of routed pipes: \n\n-Junction pipe is used to form an intersection that will allow other routed pipes to communicate. \n\n-Interface pipe will connect to an inventory allowing you to extract or insert items, chips can be used to control the logic. \n\n-Request pipe will allow requesting only specific items to be send through pipes.\n\n-Firewall pipe can control wich items can pass through them.
+gtnh.quest738.name=路由管道(Routed Pipes)
+gtnh.quest738.desc=共有六種路由管道：交錯管道用於連接互相交叉的管道，使 其他的路由管道可以溝通。將介面管道接到容器上，使你可以抽取或送進物品，晶片可以控制其運作邏輯。需求管道使你可以只請求指定的物品，並由管道網路送來。防火牆管道可以控制哪些物品可以通過。
 
 #Quest_739.Ghetto Me System
-gtnh.quest739.name=Ghetto Me System
-gtnh.quest739.desc=Now that you are familiar with the mod it's time to organize items in your base a bit. These are the things you need in order to get a basic extract/insert system.\n\nFirst of all you will need a drawer controller. You can pick it from here or craft it yourself and place it down. Next to it add as much drawers as you want, and make sure they are touching each other or the controller.\n\nThe next step is to connect a routed interface pipe to your drawer controller. Take the item responder chip and configure it to filter mode: blacklist (this will allow you to get any items from your system) and add the chip to the routed interface pipe by right clicking on it. Don't forget the dynamic item responder.\n\nIn order to allow your system to be able to see items you need to add the item broadcast chip TO THE SAME ROUTED INTERFACE PIPE WICH IS CONNECTED TO THE DRAWER CONTROLLER.\n\nThe last step is to connect a routed request pipe IN THE SAME NETWORK AS THE ROUTED INTERFACE PIPE and right click it to acess the GUI. You can only extract items from it. In order to insert items simply right click them on the drawer controller. \n\nYou can find more complex tutorials on youtube for autocrafting.
+gtnh.quest739.name=塗鴉牆倉儲系統(Ghetto Me System)
+gtnh.quest739.desc=現在你對這個模組很熟悉了，是時候將你的基地中的物品整頓一番了。以下是建立基礎抽取/送入系統所需要的物品。首先你需要一個抽屜管理器，你可以從獎勵取得或者自己製作一個。將抽屜管理器擺放好，在其隔壁擺放任意數量的抽屜。確保它們都彼此相連。下一步是將路由介面管道連接到抽屜管理器上。取出物品回應晶片，將其過濾模式設為黑名單模式(這使你能從系統中取得所有物品)。持晶片對路由介面管道點擊右鍵，將之加入。也別忘了動態物品回應晶片。為了使你的系統能看到所有物品，你必須加入物品廣播晶片*到連接抽屜管理器的路由介面管道*。最後一步是將一個路由請求管道連接到*前述路由介面管道的網路*，右鍵點擊請求管道以存取GUI。你只能從此抽取物品。而存放物品只要單純的對抽屜管理器點擊右鍵。你可以在youtube上找到更複雜的自動合成教學。
 
 #Quest_740.Extrude all the things
-gtnh.quest740.name=Extrude all the things
-gtnh.quest740.desc=Now you hit the MV tier and it's time to get a better ratio when making sticks, pipes, wires, plates and many more parts. Most recipes use more than 32 EU/t so better make a MV extruder. After crafting the machine you need some extruder shapes for the different types of parts you want to make.\n\nMost of the Tinkers Gregworks tool parts are made in the extruder.
+gtnh.quest740.name=壓出所有東西(Extrude all the things)
+gtnh.quest740.desc=現在你達到了MV，是時候得到一些更好的製作比例了。如製作桿、管道、線纜，以及其它許多零件。大部份的配方都超過32EU/t，所以最好製作一台MV壓模器。作好了之後你需要你想製作的零件的範本。大部份Tinkers Gregworks的工具部件都由壓模器製作。
 
 #Quest_741.Tool Forge
 gtnh.quest741.name=Tool Forge
