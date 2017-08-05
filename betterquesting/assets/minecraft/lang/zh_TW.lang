@@ -2474,7 +2474,7 @@ gtnh.quest617.desc=液體灌裝機是基礎機器，可用於運送一些液體�
 
 #Quest_618.Sulfuric acid
 gtnh.quest618.name=硫酸(Sulfuric acid)
-gtnh.quest618.desc=用化學反應器混合硫化氫跟水，可以得到硫酸以用在一次性電池中。如果你有製做了一些輕質燃料或重質燃料，你也許有剩下些硫化氫。如果沒有，可以在化學反應器中使用硫粉跟水來製做硫酸。
+gtnh.quest618.desc=用化學反應器混合硫化氫跟水，可以得到硫酸以用在一次性電池中。如果你有製作了一些輕質燃料或重質燃料，你也許有剩下些硫化氫。如果沒有，可以在化學反應器中使用硫粉跟水來製作硫化氫。
 
 #Quest_619.Battery buffer
 gtnh.quest619.name=電池盒(Battery buffer)
@@ -2562,11 +2562,11 @@ gtnh.quest639.desc=另一樣你可以從石油中蒸餾出的東西是硫化石�
 
 #Quest_640.LPG
 gtnh.quest640.name=液化石油氣(LPG)
-gtnh.quest640.desc=離心煉油氣可以得到液化石油氣，其燃燒值為320,000EU，與石腦油相同。這也是另一個得到甲烷和環氧氯丙烷的方法。
+gtnh.quest640.desc=離心煉油氣可以得到液化石油氣，其燃燒值為320,000EU，與石腦油相同。這也是另一個得到甲烷並最終製成環氧氯丙烷的方法。(目前配方為離心丙烷(propane)與丁烷(butane))
 
 #Quest_641.Naphtha
 gtnh.quest641.name=甲烷(Naphtha)
-gtnh.quest641.desc=你可以將硫化石腦油處理成石腦油。石腦油在燃氣發電機中有320,000EU的燃燒值。石腦油也是polyethylene和polycaprolactam的基礎原料。
+gtnh.quest641.desc=你可以將含硫石腦油處理成石腦油。石腦油在燃氣發電機中有320,000EU的燃燒值。石腦油也是polyethylene和polycaprolactam的基礎原料。
 
 #Quest_642.Sulfuric gas
 gtnh.quest642.name=硫酸氣體(Sulfuric gas)
