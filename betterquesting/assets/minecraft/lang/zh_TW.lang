@@ -2962,115 +2962,115 @@ gtnh.quest739.desc=現在你對這個模組很熟悉了，是時候將你的基�
 
 #Quest_740.Extrude all the things
 gtnh.quest740.name=壓出所有東西(Extrude all the things)
-gtnh.quest740.desc=現在你達到了MV，是時候得到一些更好的製作比例了。如製作桿、管道、線纜，以及其它許多零件。大部份的配方都超過32EU/t，所以最好製作一台MV壓模器。作好了之後你需要你想製作的零件的範本。大部份Tinkers Gregworks的工具部件都由壓模器製作。
+gtnh.quest740.desc=現在你達到了MV階段，是時候得到一些更好的製作比例了。如製作桿、管道、線纜，以及其它許多零件。大部份的配方都超過32EU/t，所以最好製作一台MV壓模器。作好了之後你需要你想製作的零件的範本。大部份Tinkers Gregworks的工具部件都由壓模器製作。
 
 #Quest_741.Tool Forge
-gtnh.quest741.name=Tool Forge
-gtnh.quest741.desc=Finally you get your first aluminum. Now it's time to craft a tool forge for making bigger Tinkers tools. A advanced bending machine is also needed. 
+gtnh.quest741.name=工具裝配台(Tool Forge)
+gtnh.quest741.desc=終於，你得到了第一個鋁錠。現在該製作一個工具裝配台用來製造進階的匠魂工具了。你同時需要一台進階卷板機。 
 
 #Quest_742.One Block mining is so Old School
-gtnh.quest742.name=One Block mining is so Old School
-gtnh.quest742.desc=By making a steel hammer you are now able to mine a shaft of 3x3 blocks. Be careful in the Nether or you could be boiled in lava very quickly.
+gtnh.quest742.name=一格一格挖礦已經過氣了(One Block mining is so Old School)
+gtnh.quest742.desc=製作一把鋼捶子，你就可以一次挖3x3範圍的礦。在地獄小心點，因為一不小心你就會被岩漿煮熟。
 
 #Quest_743.Cutting a Tree log by log is so Old School
-gtnh.quest743.name=Cutting a Tree log by log is so Old School
-gtnh.quest743.desc=By making a steel lumber axe you are now able to cut down the entire tree in one hit. Don't forget your backpack when you are cutting a sacred oak tree down.
+gtnh.quest743.name=一次砍一個原木已經過氣了(Cutting a Tree log by log is so Old School)
+gtnh.quest743.desc=製作一把鋼伐木斧，你就可以一次砍掉一整棵樹。當你砍掉一棵神聖橡木時，別忘了你的背包。
 
 #Quest_744.Mining Dirt Block by Block is so Old School
-gtnh.quest744.name=Mining Dirt Block by Block is so Old School
-gtnh.quest744.desc=By making a steel excavator you are now able to mine dirt in a 3x3 area. Don't destroy your whole garden.
+gtnh.quest744.name=慢慢挖土已經過氣了(Mining Dirt Block by Block is so Old School)
+gtnh.quest744.desc=製作一把鋼鏟，你就可以一次挖3x3範圍的土。別不小心毀了你的整個花園。
 
 #Quest_745.Glue
-gtnh.quest745.name=Glue
-gtnh.quest745.desc=If you centrifuge sticky resin, you get some glue. Glue is very useful in the creation of good circuit boards.
+gtnh.quest745.name=膠水(Glue)
+gtnh.quest745.desc=如果你離心粘性樹脂，就會得到一些膠水(Refined glue)。在製作good circuit board時膠水非常有用。
 
 #Quest_746.Silicon
-gtnh.quest746.name=Silicon
-gtnh.quest746.desc=Due to the chip production silicon becomes a more important material. You can centrifuge it out of fullers earth, asbestos or redstone dust. The electric blast furnace is needed to make ingots. One ingot requires a temperature of 1687 K for 84 seconds at 120 EU/t.
+gtnh.quest746.name=矽(ilicon)
+gtnh.quest746.desc=因為晶片的生產，矽變成了更為重要的原料。你可以透過離心漂白土、石棉粉，或紅石來得到矽。而你也需要電力高爐來製作矽錠。一個錠需要溫度1687K，120EU/t燒製84秒。
 
 #Quest_747.Empty Circuit Board
-gtnh.quest747.name=Empty Circuit Board
-gtnh.quest747.desc=Good circuits need diodes. There are two ways to craft them. Using a silicon wafer together with some fine tin wire or gallium arsenide. Molten glass is also needed.
+gtnh.quest747.name=高級電路零件(Diode)
+gtnh.quest747.desc=Good circuits需要高級電路零件(diodes)。有兩種方法可以製造，用晶元或砷化鎵(gallium arsenide)加上精製錫線纜。同時需要熔融玻璃。
 
 #Quest_748.Empty Circuit Board
-gtnh.quest748.name=Empty Circuit Board
-gtnh.quest748.desc=Good circuit boards require wooden pulp and refined glue to make phenolic circuit boards. By adding gold wire you can craft a good circuit board.
+gtnh.quest748.name=空的電路板(Empty Circuit Board)
+gtnh.quest748.desc=Good circuit boards需要木頭紙漿跟膠水(refined glue)來製作酚醛樹脂電路板，再加上金線纜就可以製成。
 
 #Quest_749.Are you Prepared for HV?
-gtnh.quest749.name=Are you Prepared for HV?
-gtnh.quest749.desc=Stainless steel will be the material for the HV Tier. There are two ways to process it. Mixing it by hand outputs 8 stainless steel dust.\n\nManganese can be found in ore veins together with grossular ore, spessartine ore, pyrolusite ore and tantalite ore.\n\nChrome can be centrifuged out of manganese dust and ruby dust.
+gtnh.quest749.name=你準備好邁向HV了嗎?(Are you Prepared for HV?)
+gtnh.quest749.desc=不銹鋼會是HV階段的主要原料。有兩種製造方法，手工合成八個不銹鋼粉。你可以找到錳礦脈，與石榴石、錳鋁榴石、軟錳礦，與鉭鐵礦共生。鉻可以從錳礦或紅寶石粉中離心出來。
 
 #Quest_750.Molten Plastic
-gtnh.quest750.name=Molten Plastic
-gtnh.quest750.desc=Molten polyethylene can be made in a chemical reactor using ethylen, compressed air cells or oxygen. Use a mold for making plates in a fluid solidifier to make plastic sheets.
+gtnh.quest750.name=液態塑膠(Molten Plastic)
+gtnh.quest750.desc=液態聚乙烯可以在化學反應器中製造，使用乙醚(ethylene)跟壓縮空氣單元或氧單元反應。使用模頭(板)在液體固化器中製成塑膠板。
 
 #Quest_751.Mixing Stainless Steel
-gtnh.quest751.name=Mixing Stainless Steel
-gtnh.quest751.desc=Stainless steel will be the material for the HV Tier. There are two ways to process it. Mixing it in a mixer outputs 9 stainless steel dust each process.\n\nManganese can be found in ore veins together with grossular ore, spessartine ore, pyrolusite ore and tantalite ore.\n\nChrome can be centrifuged out of manganese dust and ruby dust.
+gtnh.quest751.name=攪拌不銹鋼粉(Mixing Stainless Steel)
+gtnh.quest751.desc=不銹鋼會是HV階段的主要原料，有兩種製造方法，用攪拌機混合一次可得到九個不銹鋼粉。你可以找到錳礦脈，與石榴石、錳鋁榴石、軟錳礦，與鉭鐵礦共生。鉻可以從錳礦或紅寶石粉中離心出來。
 
 #Quest_752.Silicon Plate
-gtnh.quest752.name=Silicon Plate
-gtnh.quest752.desc=Advanced circuits require transistors, which are made out of silicon plates, fine tin wire and molten polyethylene.
+gtnh.quest752.name=矽板(Silicon Plate)
+gtnh.quest752.desc=高級電路板需要蝕刻高壓電路(transistors)，由矽板、精製錫線纜，及液態塑膠製成。
 
 #Quest_753.Stainless Steel EBF processing
-gtnh.quest753.name=Stainless Steel EBF processing
-gtnh.quest753.desc=Stainless steel ingots are made in the electric blast furnace at a temperature of 1700K. \nIt takes 80 seconds at 480 EU/t or by adding oxygen gas 60 seconds at 480 EU/t.\n\nYou need a miniumum of two MV energy hatches to power the EBF.
+gtnh.quest753.name=不銹鋼與電力高爐(Stainless Steel EBF processing)
+gtnh.quest753.desc=不銹鋼錠是在電力高爐中製造，溫度1700K。需要480EU/t燒製80秒，如果加入氧氣則需要60秒。你至少需要兩個MV級能源輸入艙來為電力高爐供電。
 
 #Quest_754.MV Energy Hatch
-gtnh.quest754.name=MV Energy Hatch
-gtnh.quest754.desc=Some materials like stainless steel require 480 EU/t. Your LV hatches are not good enough. Craft a minimum of two MV hatches to upgrade your electric blast furnace to HV.
+gtnh.quest754.name=MV級能源輸入艙(MV Energy Hatch)
+gtnh.quest754.desc=有些原料如不銹鋼，需要480Eu/t。你的LV級能源輸入艙已經不敷使用。製造至少兩個MV級能源輸入艙來將你的電力高爐升級到HV。
 
 #Quest_755.Better than Duct Tape
-gtnh.quest755.name=Better than Duct Tape
-gtnh.quest755.desc=A soldering iron tool to remove the burned out circuits message is better than duct tape. \nThe soldering iron requires one soldering material item and 10,000 EU. Valid soldering materials are fine wires, rods, and ingots made from either tin, lead, or soldering alloy. The soldering iron will consume the first such material it finds in the player's inventory.\n\nFor the other problems other tools are necessary.\n\nPossible problems                  Tool to fix\n"Pipe is loose."                        Wrench\n"Screws are missing."             Screwdriver \n"Something is stuck."               Soft mallet \n"Platings are dented."            Hammer \n"Circuitry burned out."          Soldering Iron \n"That doesn't belong there." Crowbar
+gtnh.quest755.name=比膠帶更好(Better than Duct Tape)
+gtnh.quest755.desc=電烙鐵可以移除burned out circuits的故障訊息，比膠帶更好。修復時需要一個焊錫跟10,000EU的電力。有許多材料可以做為焊接材料，由錫、鉛，或焊錫製成的精製線纜、杆，或錠都可以。電烙鐵將會消耗玩家物品欄中找到的第一個這類材料。至於其他故障需要其他的工具。可能的故障有，Pipe is loose - 扳手，Screws are missing - 螺絲刀，Something is stuck - 軟錘，Platings are dented - 錘，Cicuitry burned out - 電烙鐵，That doesn't belong there - 鐵橇。
 
 #Quest_756.Less Power loss
-gtnh.quest756.name=Less Power loss
-gtnh.quest756.desc=When you reach MV tier you can make your own duct tape in case you have to move your multiblock machines around. Duct tape will fix all maintenance problems in any multiblock machine.
+gtnh.quest756.name=減少電力損失(Less Power loss)
+gtnh.quest756.desc=當你達到MV階段，你可以自己製造膠帶。以防你需要移動你的多方塊機器。膠代可以一次解決任何多方塊機器的所有維護問題。
 
 #Quest_757.Ruby Electrolyzing
-gtnh.quest757.name=Ruby Electrolyzing
-gtnh.quest757.desc=Ruby is a good source for electrolyzing to get chrome and aluminium.  Your new MV electrolyzer gives you access to a lot of new recipes.
+gtnh.quest757.name=電解紅寶石(Ruby Electrolyzing)
+gtnh.quest757.desc=電解紅寶石是很好的鉻及鋁的來源。你的新MV電解器讓你可以使用許多新配方。
 
 #Quest_758.MV Batteries
-gtnh.quest758.name=MV Batteries
-gtnh.quest758.desc=Better machines need some better batteries. Let's make some MV battery hulls for new batteries. Now it's up to you to make lithium, cadmium, sodium or acid batteries with these hulls.
+gtnh.quest758.name=MV級電池(MV Batteries)
+gtnh.quest758.desc=更好的機器需要更好的電池。讓我們為新電池做些MV級電池外殼。而你可以決定用這些電池外殼製成鋰電池、鎘電池、鈉電池，或酸性電池。
 
 #Quest_759.Molten Polyethylene
-gtnh.quest759.name=Molten Polyethylene
-gtnh.quest759.desc=Polyethylene is made out of ethylene in a chemical reactor.
+gtnh.quest759.name=液態聚乙烯(Molten Polyethylene)
+gtnh.quest759.desc=聚乙烯是由乙醚(ethylene)在化學反應器中製成。
 
 #Quest_760.Clay Electrolyzing
-gtnh.quest760.name=Clay Electrolyzing
-gtnh.quest760.desc=You found out that electrolyzing clay dust will give you silicon dust. There are plenty of stained clay blocks found in canyon biomes or on mountains that can be pulverized to clay dust.
+gtnh.quest760.name=電解粘土(Clay Electrolyzing)
+gtnh.quest760.desc=你發現電解粘土可以得到矽粉。有大量的有色粘土塊，可以在峽谷或山脈地形找到。你可以將之研磨成粘土粉。
 
 #Quest_761.Powderbarrels
-gtnh.quest761.name=Powderbarrels
-gtnh.quest761.desc=Powderbarrels are twice as good as dynamite in the implosion compressor. Craft one stack.
+gtnh.quest761.name=火藥箱(Powderbarrels)
+gtnh.quest761.desc=火藥箱(Powderbarrels)用於聚爆壓縮機的效果比炸藥好一倍。製作一疊。
 
 #Quest_762.TNT
 gtnh.quest762.name=TNT
-gtnh.quest762.desc=TNT is much more powerful than the powderbarrel but much harder to craft. There are a LV and a HV ways to craft. At LV you need heavy or light fuel to make some toluene wich can be solidified to gelled toluene. Alternatively you can use sugar and plastic dust in a chemical reactor to make toluene more efficient. Mix it with sulfuric acid to make TNT.\n\nThe HV way requires an oil cracking unit to make all kinds of cracked fuel or cracked naphta and a distillation tower to extract toluene from that.
+gtnh.quest762.desc=TNT比火藥箱(Powderbarrels)更有威力但難做得多。有LV跟HV兩種不同方法可以製造。在LV階段，你需要重質燃料或輕質燃料，來製作甲苯。甲苯可以固化成凝膠甲苯。另一種方法是在化學反應器中，用塑膠紙漿及糖，使甲苯更有效率。將凝膠甲苯與硫酸混合來製造TNT。HV的方法需要石油裂化機器來製作所有的裂化燃料或裂化石腦油，以及一個蒸餾塔來萃取出甲苯。
 
 #Quest_763.iTNT
-gtnh.quest763.name=iTNT
-gtnh.quest763.desc=Industrial TNT is the HV variant of TNT. It explodes with more power, yet does not destroy blocks when it explodes.
+gtnh.quest763.name=工業TNT(iTNT)
+gtnh.quest763.desc=工業TNT是HV版本的TNT。有更強的爆炸威力，但並不會破壞方塊。
 
 #Quest_764.Dynamite
-gtnh.quest764.name=Dynamite
-gtnh.quest764.desc=Dynamite is the most basic explosive you can use in the implosion compressor.\nMix some paper, string and glyceryl trinitrate in a chemical reactor to get dynamite.
+gtnh.quest764.name=炸藥(Dynamite)
+gtnh.quest764.desc=炸藥是聚爆壓縮機所使用的最基礎的爆炸物。在化學反應器中混合紙、線，跟硝化甘油來製造炸藥。
 
 #Quest_765.Time to drill! 
-gtnh.quest765.name=Time to drill! 
-gtnh.quest765.desc=Pumps are nice but you're going to reach a point where you will want MOOOOOOOOOOOOORE oil. This multiblock will help with that but you will need to search for oil using a seismic prospector. You can find raw, light and heavy oil. There's also a chance to find natural gas.\n\nHigher tiers of power will drill faster. You need to upgrade the energy hatch coresponding to the power tier. 
+gtnh.quest765.name=鑽油時刻！(Time to drill! )
+gtnh.quest765.desc=泵是很好，但你現在到了一個需要更多更多更多石油的時刻。這個多方塊構造能幫助你，但你需要使用地震探礦去搜尋石油。你可以找到原油、輕油，或重油。也有機會找到天然氣。使用越高階段的電力鑽得越快。使用相對應的能源輸入艙來提供電力。
 
 #Quest_766.Let's get it crackin!
-gtnh.quest766.name=Let's get it crackin!
-gtnh.quest766.desc=Cracking oil will result in better by-products in the distillation tower. It is a smart idea to get this multiblock since you are going to need TONS of industrial TNT for advanced tier rockets. \n\nIf you add steam the amout of EU/t will be reduced by 50% and if you add hydrogen the output will be increased by 30%
+gtnh.quest766.name=裂化石油(Let's get it crackin!)
+gtnh.quest766.desc=裂化石油可以在蒸餾塔中得到更好的副產品。製造這個多方塊構造是個聰明的主意，因為進階火箭將會需要非常大量的工業TNT。如果你加入蒸氣，EU/t的消耗將會減少50%，如果你加入氫氣，輸出產量將增加30%。
 
 #Quest_767.Analyzing the soil
-gtnh.quest767.name=Analyzing the soil
-gtnh.quest767.desc=To determine which kind of oil or gas there is in the chunk you need to scan the soil by right clicking a seismic prospector with 8 dynamite, 4 TNT, 2 industrial TNT or 1 glyceryl. Then use a data stick to extract the data by right clicking on it after the animation has finished.\nProTip: you can do it more efficiently by only scanning every 6 chunks. \n\nNow you need to add the analyzed data stick to a scanner. Then place it in the bottom right slot of the printer and add 3 paper in the top left slot and make sure you have atleast 144 mb squid ink in it. (Only gregtech machines will work)\n\nAfter the process is done take the printed page and combine it with a piece of leather in an assembling machine filled with at least 20 mb of refined glue. \n\nTADA now you have a book with info about the chunk you scanned.  \n \n\n
+gtnh.quest767.name=分析地層(Analyzing the soil)
+gtnh.quest767.desc=為了確定這個方塊區域中有何種油或瓦斯，你需要掃瞄地層。手持8炸藥、4TNT、2工業TNT，或1甘油(glyceryl)對地震探礦機點擊右鍵。然後在動畫結束後，對地震探礦機使用快閃記憶體盤。ProTip:你可以每6個方塊區掃瞄一次，這樣更有效率。現在你需要將快閃記憶體盤放進一台掃描機。之後將之放在印表機的右下角欄位，然後放三張紙在左上欄位，確定你至少有144mb的魷魚墨水在裡面(只有GT機器可以作用)。等運作結束，將列印頁面取出，將之及皮格放入至少有20mb膠水的組裝機中。登~登~現在你有一本記載你所掃瞄方塊區域的資料的書了。
 
 #Quest_768.You smell like a distillery!
 gtnh.quest768.name=You smell like a distillery!
