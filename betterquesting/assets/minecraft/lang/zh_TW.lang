@@ -2606,11 +2606,11 @@ gtnh.quest650.desc=copter jetpack是第一個有盤旋模式的噴氣背包。�
 
 #Quest_651.Electric jetpack
 gtnh.quest651.name=電動噴氣背包(Electric jetpack)
-gtnh.quest651.desc=你的第一個電動噴氣背包。你需要按IC2的切換模式鍵來切換飛行模式。唯一的限制是不能飛超過Y 185。
+gtnh.quest651.desc=你的第一個電動噴氣背包。你需要按IC2的切換模式鍵及空白鍵來切換飛行模式。唯一的限制是不能飛超過Y 185。
 
 #Quest_652.Fueled jetpack
 gtnh.quest652.name=燃氣噴氣背包(Fueled jetpack)未確認
-gtnh.quest652.desc=這個噴氣背包使用IC2的biogas，最高可飛到Y 245。你需要使用IC2的切換模式鍵來切換飛行模式。你的噴氣背包可以在IC2裝罐機中裝填燃料，共需30桶的biogas。
+gtnh.quest652.desc=這個噴氣背包使用IC2的biogas，最高可飛到Y 245。你需要使用IC2的切換模式鍵及空白鍵來切換飛行模式。你的噴氣背包可以在IC2裝罐機中裝填燃料，共需30桶的biogas。
 
 #Quest_653.Advanced electric jetpack
 gtnh.quest653.name=進階電力噴氣背包(Advanced electric jetpack)
@@ -2685,8 +2685,8 @@ gtnh.quest670.name=碳纖維輕艇(Carbon fiber boat)
 gtnh.quest670.desc=與其他小艇不同， 這驚人的碳纖維輕艇*完全不可破壞*！這表示你可以用他衝進沙灘、荷葉，甚至是鱷魚。碳纖維輕艇連一點括傷都不會有！警告:我們不負責任何衝進岩漿或虛無之中的相關後果。因此也不在保固範圍中。
 
 #Quest_671.Electric boat
-gtnh.quest671.name=Electric boat
-gtnh.quest671.desc=The alectric boat works mostly like a vanilla boat, chugging through the water at a decent pace. It will hopefully drop itself once you crash, which is slightly nicer than the usual sticks. That's all well and good, but what if we utilize the electric engine? Wearing an energy storage device in your chestplate slot, like a batpack or energypack, will cause the boat to drain energy from it and propel you forward at supersonic speed! Doing this will consume about 100 EU per block traveled, so even a decent batpack won't last long!
+gtnh.quest671.name=電動船(Electric boat)
+gtnh.quest671.desc=電動船的運作和原版的船相似，以相當快的速度穿過水面。當撞擊時將會掉出他的原型，而不是通常的木棒。這當然非常好，但如果我們利用電力引擎呢？在胸甲欄位穿上電力儲存裝置，例如電池背包或儲電背包。電動船將會吸取背包的電力，並推動你以超音速前進！每前進一格約消耗100EU，所以就算很好的電池背包也持續不了多久！
 
 #Quest_672.Boat shape?
 gtnh.quest672.name=船形？(Boat shape?)
@@ -3073,28 +3073,28 @@ gtnh.quest767.name=分析地層(Analyzing the soil)
 gtnh.quest767.desc=為了確定這個方塊區域中有何種油或瓦斯，你需要掃瞄地層。手持8炸藥、4TNT、2工業TNT，或1甘油(glyceryl)對地震探礦機點擊右鍵。然後在動畫結束後，對地震探礦機使用快閃記憶體盤。ProTip:你可以每6個方塊區掃瞄一次，這樣更有效率。現在你需要將快閃記憶體盤放進一台掃描機。之後將之放在印表機的右下角欄位，然後放三張紙在左上欄位，確定你至少有144mb的魷魚墨水在裡面(只有GT機器可以作用)。等運作結束，將列印頁面取出，將之及皮格放入至少有20mb膠水的組裝機中。登~登~現在你有一本記載你所掃瞄方塊區域的資料的書了。
 
 #Quest_768.You smell like a distillery!
-gtnh.quest768.name=You smell like a distillery!
-gtnh.quest768.desc=This bad boy will tremendously boost the by-products of your cracked fuel by multiplying them by 5. This way you can make industrial TNT, polyethylene, polytetrafluoroethylene and other plastics more efficiently. \n\nYou will also need this for your automated setups.
+gtnh.quest768.name=你聞起來像掉到酒桶裡!(You smell like a distillery!)
+gtnh.quest768.desc=這個狠角色會極大的增加你處理裂解燃料油時的副產品，數量達到原本的五倍。如此一來你就可以更有效率的製造工業TNT、塑膠、聚四氟乙烯，以及其他塑膠產品。你也需要這台機器來完成你的自動化產線。
 
 #Quest_769.Playing with dust
-gtnh.quest769.name=Playing with dust
-gtnh.quest769.desc=This machine will help you turn dust into crystals wich you will need for high tier recipes. 
+gtnh.quest769.name=一邊玩沙(Playing with dust)
+gtnh.quest769.desc=這台機器使你可以將粉末製作成水晶，在高階配方中你將需要水晶。
 
 #Quest_770.Avengers, Assemble! 2
-gtnh.quest770.name=Avengers, Assemble! 2
-gtnh.quest770.desc=You know what this does. :D
+gtnh.quest770.name=復仇者聯盟2(Avengers, Assemble! 2)
+gtnh.quest770.desc=你知道這是做什麼用的。:D
 
 #Quest_771.Dust to crystals
-gtnh.quest771.name=Dust to crystals
-gtnh.quest771.desc=Use the autoclave to crystallize your dust. You can make raw carbon mesh out of carbon dust.
+gtnh.quest771.name=化塵為晶(Dust to crystals)
+gtnh.quest771.desc=使用高壓釜將你的粉製作成水晶狀態。你可以由碳粉製作出生碳網。
 
 #Quest_772.Precision is required
-gtnh.quest772.name=Precision is required
-gtnh.quest772.desc=You will use this a lot to make high tier circuits, and for other recipes
+gtnh.quest772.name=精確度是必要的(Precision is required)
+gtnh.quest772.desc=製作高階的電路以及其它配方時你將會常使用到這台機器。
 
 #Quest_773.Way one: Raw carbon mesh
-gtnh.quest773.name=Way one: Raw carbon mesh
-gtnh.quest773.desc=This way of making carbon requires autoclaveing 4 carbon dust. You can use polyethylene wich gives you only 1 raw carbon fibre at LV tier, polytetrafluoroethylene gives you 2 at MV Tier or go for the best way: molten epoxid which yields 4 at HV Tier.  
+gtnh.quest773.name=方法一:生碳網(Way one: Raw carbon mesh)
+gtnh.quest773.desc=這個方法是在高壓釜中處理四個碳粉。LV時代，你可以使用液態塑膠會得到一個碳纖維。MV時代，使用聚四氟乙烯會得到二個。或者在HV時代使用最好的方法:使用液態環氧化物可以得到四個。
 
 #Quest_774.Way two: Bio Organic Mesh
 gtnh.quest774.name=Way two: Bio Organic Mesh
