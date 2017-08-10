@@ -3441,124 +3441,124 @@ gtnh.quest859.name=Hypochlorous Acid
 gtnh.quest859.desc=Hypochlorous acid requires water, chlorine and some mercury.
 
 #Quest_860.Titanium finaly
-gtnh.quest860.name=Titanium finaly
-gtnh.quest860.desc=The main goal when you reach the Moon is to find some bauxite ore to make titanium for the EV machine tier. Some meteoric iron will help to build your tier 2 rocket for reaching Mars.
+gtnh.quest860.name=總算，鈦。(Titanium finaly)
+gtnh.quest860.desc=到達月球的主要目標就是找到一些鋁土礦來做些EV機器階段需要的鈦。一些隕石礦可以幫助你製作第二階段的火箭來到達火星。
 
 #Quest_861.Tungstensteel
-gtnh.quest861.name=Tungstensteel
-gtnh.quest861.desc=Tungstensteel is needed for the next tier. Tungsten can be found on Mars or in Moon stone dust. Mix that with some steel dust. Smelt it at 3000K (requires nichrome coils) in an electric blast furnace.
+gtnh.quest861.name=鎢鋼(Tungstensteel)
+gtnh.quest861.desc=下一階段需要鎢鋼。在火星或者月球的石頭灰裡可以找到鎢，將其和些鋼粉混合，並將它融於3000K（需要鎳鉻合金線圈）的電力高爐。
 
 #Quest_862.Your first bone bow
 gtnh.quest862.name=Your first bone bow
 gtnh.quest862.desc=Since vanilla bows are only craftable in the assembling machine and mobs do not drop them very often you have to make a Tinkers bow. You could make it out of wood but bone would be much better. So craft the bow limbs out of bone and the bow string out of strings. The arrow that has the most durability is bone flint. It is much lighter but less durable than a regular arrow.\n\nYou can repair your bow the same way as all the other Tinkers tools. Arrows can be regained by repairing them or picking them up from the floor.
 
 #Quest_863.Bronze javelin
-gtnh.quest863.name=Bronze javelin
-gtnh.quest863.desc=The bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.
+gtnh.quest863.name=銅製標槍(Bronze javelin)
+gtnh.quest863.desc=銅製標槍的成本有些貴而且只有七次投擲機會，然而它是個不錯的中距離武器。只要花費一個銅錠，就可以把標槍添進你的儲備裡。
 
 #Quest_864.Your first flint throwing knife
-gtnh.quest864.name=Your first flint throwing knife
-gtnh.quest864.desc=Is the bone bow too expensive for your taste? Then make a flint throwing knife instead. You need flint and a stick to get 12 knives. The durability and the attack damage are very low but it still helps with killing mobs from a safe distance.
+gtnh.quest864.name=你的第一把燧石飛刀(Your first flint throwing knife)
+gtnh.quest864.desc=骨弓對你來說太貴了？那就做把燧石飛刀吧！你需要燧石和木棒來做成12把刀。雖然它的耐久和傷害都非常低，但它還是能幫你從安全的距離殺死雜魚。
 
 #Quest_865.Monster trap
-gtnh.quest865.name=Monster trap
-gtnh.quest865.desc=If you're lucky you spawn in a sand or rainforest biome and find some quicksand. Collect a stack of the stuff, dig a small ditch and fill it with the quicksand to protect your "dirt base" home.
+gtnh.quest865.name=怪物陷阱(Monster trap)
+gtnh.quest865.desc=如果你足夠幸運地在沙漠或雨林區重生，並且找到了些流沙，去蒐集一堆這玩意，然後挖個小洞後用流沙填滿它，來保護你的「泥沙」屋。
 
 #Quest_866.The transcontinental railroad
-gtnh.quest866.name=The transcontinental railroad
-gtnh.quest866.desc=All the different mining veins that have been found seem to be really far apart. One way to shorten the travel time is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.
+gtnh.quest866.name=橫貫鐵路(The transcontinental railroad)
+gtnh.quest866.desc=已發現的不同礦脈看來似乎相隔頗遠的。想縮短路程的其中一個方法就是製造一條從基地通往不同礦脈的鐵路，然而，讓人難過的是，這將耗費你大量的鐵和雜酚油……來，別忘了把最後一個象徵性的鉚釘放在你的其中一條新火車路線上！
 
 #Quest_867.Lapis, Lazurite, Sodalite, Calcite
-gtnh.quest867.name=Lapis, Lazurite, Sodalite, Calcite
-gtnh.quest867.desc=In order to make your bricked blast furnace you need to find a lapis vine containing calcite.\nYou can find the vein in the overworld or the Twilight Forest at Y 20-50.
+gtnh.quest867.name=青金岩、青金石、方納石、方解石(Lapis, Lazurite, Sodalite, Calcite)
+gtnh.quest867.desc=為了你的高爐(bricked blast furnace)你必須找到一條含有方解石的青金石礦脈。\n你可以在地表世界或者暮光森林高度20到50之間找到礦脈。
 
 #Quest_868.Gypsum
-gtnh.quest868.name=Gypsum
-gtnh.quest868.desc=To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.
+gtnh.quest868.name=石膏(Gypsum)
+gtnh.quest868.desc=你需要混凝土和石膏來為你的高爐做磚塊。石膏可以在高度50到60的地表世界，和玄武岩、花崗岩礦砂、漂白土一起被發現。
 
 #Quest_869.Sifting Machine
-gtnh.quest869.name=Sifting Machine
-gtnh.quest869.desc=You need flawless or exquisite diamonds, emeralds, rubies or other gems? Well then it's time for you to make a Sifting Machine.
+gtnh.quest869.name=篩粉機(Sifting Machine)
+gtnh.quest869.desc=你需要無瑕疵或精緻的鑽石、祖母綠、紅寶石或其他寶石？那該是時候做一台篩粉機了。
 
 #Quest_870.Smelt all the things...
-gtnh.quest870.name=Smelt all the things...
-gtnh.quest870.desc=Smelting up to nine items at once? With a bit of steel you can make a railcraft Steam Oven. 2x2x2\n\nHint: All furnace recipes work just fine, but you cannot use it to make charcoal from wood.
+gtnh.quest870.name=熔了所有東西……(Smelt all the things...)
+gtnh.quest870.desc=想一次熔煉多達九件物品？只要一點點鋼，你就可以做一台railcraft蒸氣烤爐。2x2x2\n\n提示：所有熔爐的配方運作得都不錯，但你沒辦法用它來燒木頭製作木炭。
 
 #Quest_871.Molds, molds, molds
-gtnh.quest871.name=Molds, molds, molds
-gtnh.quest871.desc=After you can make steel and have a tinkers smelter you have to make molds. Molds can be used in the alloy smelter and the fluid solidifier. You need them to make vacuum tubes, ingots, gears and more.
+gtnh.quest871.name=鑄模、模具、鑄模(Molds, molds, molds)
+gtnh.quest871.desc=在你可以製作鋼鐵和擁有一台匠魂(tinkers)冶煉廠之後，你必須做些模具，它們可以應用在合金爐和液體固化器。你需要這些模具來製作真空管、金屬錠、齒輪和其他更多東西。
 
 #Quest_872.Maple Syrup
-gtnh.quest872.name=Maple Syrup
-gtnh.quest872.desc=You spent hours and hours to find some maple trees? Why not use your forest ranger coins to buy some syrup? Add some spruce saplings and plant some maple trees.
+gtnh.quest872.name=楓糖漿(Maple Syrup)
+gtnh.quest872.desc=你花了大把的時間來尋找一些楓糖樹？何不用用你的守林幣來買些樹苗？增加些杉樹苗、種植些楓糖樹。
 
 #Quest_873.Seed Bags
-gtnh.quest873.name=Seed Bags
-gtnh.quest873.desc=Finding some special "pams harvest craft" seeds can be very difficult. With your farmer coins you can buy some seedbags.
+gtnh.quest873.name=種子袋(Seed Bags)
+gtnh.quest873.desc=要找到一些特別的「潘馬斯農藝(pams harvest craft)」種子挺困難的，但你可以用你的農民幣買些種子袋。
 
 #Quest_874.Jetpack v.0.1 Alpha
-gtnh.quest874.name=Jetpack v.0.1 Alpha
-gtnh.quest874.desc=Do you like flying? Ok then, make a slimy bouncepad and enjoy the good view.
+gtnh.quest874.name=噴氣背包v.0.1 內部測試(Jetpack v.0.1 Alpha)
+gtnh.quest874.desc=你喜歡飛行嗎？好，那做個滑溜溜的彈跳板，享受那美好的視野！
 
 #Quest_875.Creeper
-gtnh.quest875.name=Creeper
-gtnh.quest875.desc=You feel lonely. Do you want a friend to hug?
+gtnh.quest875.name=爬行者(Creeper)
+gtnh.quest875.desc=你空虛寂寞覺得冷。想要有個朋友可以抱抱嗎<3
 
 #Quest_876.Skeleton
-gtnh.quest876.name=Skeleton
-gtnh.quest876.desc=You feel lonely. Let me throw you a bone.
+gtnh.quest876.name=骷髏(Skeleton)
+gtnh.quest876.desc=你空虛寂寞覺得冷。讓我朝你丟根骨頭。
 
 #Quest_877.Spider
-gtnh.quest877.name=Spider
-gtnh.quest877.desc=You feel lonely. Want to stick around?
+gtnh.quest877.name=蜘蛛(Spider)
+gtnh.quest877.desc=你空虛寂寞覺得冷。想要附近黏黏的嗎？
 
 #Quest_878.Zombie
-gtnh.quest878.name=Zombie
-gtnh.quest878.desc=You feel lonely. And brains sound delicious.
+gtnh.quest878.name=殭屍(Zombie)
+gtnh.quest878.desc=你空虛寂寞覺得冷。然後大腦聽起來豪好吃。
 
 #Quest_879.Slime
-gtnh.quest879.name=Slime
-gtnh.quest879.desc=You feel lonely, and a bit slippery.
+gtnh.quest879.name=史萊姆(Slime)
+gtnh.quest879.desc=你空虛寂寞覺得冷，還覺得有一點滑滑der
 
 #Quest_880.Witch
-gtnh.quest880.name=Witch
-gtnh.quest880.desc=You feel lonely. What's cooking?
+gtnh.quest880.name=女巫(Witch)
+gtnh.quest880.desc=你空虛寂寞覺得冷。什麼叫煮東西？
 
 #Quest_881.Pigmen
-gtnh.quest881.name=Pigmen
-gtnh.quest881.desc=You feel lonely. Do you want some bacon?
+gtnh.quest881.name=豬人(Pigmen)
+gtnh.quest881.desc=你空虛寂寞覺得冷。想來點培根嗎？
 
 #Quest_882.Blaze
-gtnh.quest882.name=Blaze
-gtnh.quest882.desc=You feel lonely. Let me warm you up a bit.
+gtnh.quest882.name=烈焰使者(Blaze)
+gtnh.quest882.desc=你空虛寂寞覺得冷。讓我來溫暖你<3
 
 #Quest_883.Magma Cube
-gtnh.quest883.name=Magma Cube
-gtnh.quest883.desc=You feel lonely, and bouncy.
+gtnh.quest883.name=熔岩史萊姆(Magma Cube)
+gtnh.quest883.desc=你空虛寂寞覺得冷，還覺得彈力十足。
 
 #Quest_884.Enderman
-gtnh.quest884.name=Enderman
-gtnh.quest884.desc=You feel lonely. Don't look me in the eyes!
+gtnh.quest884.name=終界使者(Enderman)
+gtnh.quest884.desc=你空虛寂寞覺得冷。不准用那雙眼睛看著我！
 
 #Quest_885.Witch
-gtnh.quest885.name=Witch
-gtnh.quest885.desc=You feel lonely. Do you like my toad?
+gtnh.quest885.name=女巫(Witch)
+gtnh.quest885.desc=你空虛寂寞覺得冷。你喜歡我的蟾蜍嗎？
 
 #Quest_886.Ghast
-gtnh.quest886.name=Ghast
-gtnh.quest886.desc=You feel lonely. At least you're not a big cry-baby?
+gtnh.quest886.name=地獄幽靈(Ghast)
+gtnh.quest886.desc=你空虛寂寞覺得冷。至少你不是個大隻的愛哭鬼？
 
 #Quest_887.Bat
-gtnh.quest887.name=Bat
-gtnh.quest887.desc=You feel lonely. Na na na na batthing!
+gtnh.quest887.name=蝙蝠(Bat)
+gtnh.quest887.desc=你空虛寂寞覺得冷。 啦啦啦啦♪蝙蝠呀♪
 
 #Quest_888.Silverfish
-gtnh.quest888.name=Silverfish
-gtnh.quest888.desc=You feel lonely. Let me be as annoying as possible.
+gtnh.quest888.name=蠹魚(Silverfish)
+gtnh.quest888.desc=你空虛寂寞覺得冷。讓我來盡可能地惹人煩。
 
 #Quest_889.Magma Cube
-gtnh.quest889.name=Magma Cube
-gtnh.quest889.desc=You feel lonely. Wanna bounce?
+gtnh.quest889.name=熔岩史萊姆(Magma Cube)
+gtnh.quest889.desc=你空虛寂寞覺得冷。想來點彈力？
 
 #Quest_890.Better Tank... ULV Tank
 gtnh.quest890.name=Better Tank... ULV Tank
@@ -3593,12 +3593,12 @@ gtnh.quest897.name=You're gonna hate this #4 in mv too
 gtnh.quest897.desc=The fourth item you'll need a lot of in mv, which is also a pain to craft. Arguably the most painful item ever. \n\nHint: Works like a conveyor but can work with selected item slots. Adjust with a screwdriver.
 
 #Quest_898.Simple Ore Washer
-gtnh.quest898.name=Simple Ore Washer
-gtnh.quest898.desc=Too lazy to make an ore washer, yet bored with your non-automatable cauldron? Then the simple washer is the machine for you! It work reasonably fast and uses 8eu max. Ok, you do not get any byproducts, but who cares!
+gtnh.quest898.name=簡易洗礦機(Simple Ore Washer)
+gtnh.quest898.desc=實在懶得弄一台洗礦機，然而對無法自動作業的鍋子感到無聊了？那這裡有一台簡易的洗礦機正是你所需要的！它運作速度合理，而且最多耗能到8EU。好吧，你確實沒有得到任何副產品，但誰在乎啊！
 
 #Quest_899.Paying the highest price
-gtnh.quest899.name=Paying the highest price
-gtnh.quest899.desc=A tier 2 blood altar needs 8 runes placed around the altar. Your new altar can hold more blood.
+gtnh.quest899.name=付出最高的代價(Paying the highest price)
+gtnh.quest899.desc=二階的血祭壇需要放置8個符文在祭壇周圍，而你的新祭壇將可以容納更多的血液。
 
 #Quest_900.Don't look it in the eyes!
 gtnh.quest900.name=不要看他的眼睛！ (Don't look it in the eyes!)
