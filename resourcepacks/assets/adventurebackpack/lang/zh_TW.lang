@@ -1,4 +1,4 @@
-﻿# Items THIS IS ALL UPDATED ALL OF THE OTHER LANGUAGE IS NOT
+# Items THIS IS ALL UPDATED ALL OF THE OTHER LANGUAGE IS NOT
 
 ## Component Items For Crafting
 item.adventurebackpack:backpackComponent.name=背包組件
@@ -6,18 +6,18 @@ item.adventurebackpack:sleepingBag.name=睡袋
 item.adventurebackpack:backpackTank.name=儲水箱
 item.adventurebackpack:macheteHandle.name=彎刀手柄
 item.adventurebackpack:hoseHead.name=軟管噴嘴
-item.adventurebackpack:copterEngine.name=Two-Cylinder Diesel Engine
-item.adventurebackpack:copterBlades.name=Copter Blades
-item.adventurebackpack:hydroBlades.name=Hydro Blades
-item.adventurebackpack:inflatableBoat.name=Inflatable Boat
-item.adventurebackpack:inflatableBoatMotorized.name=Inflatable Boat (Motorized)
+item.adventurebackpack:copterEngine.name=雙缸柴油引擎
+item.adventurebackpack:copterBlades.name=直升機葉片
+item.adventurebackpack:hydroBlades.name=水刀
+item.adventurebackpack:inflatableBoat.name=充氣船
+item.adventurebackpack:inflatableBoatMotorized.name=動力充氣船
 
 ## Entity 
-entity.adventurebackpack.inflatableBoat.name=Inflatable Boat
+entity.adventurebackpack.inflatableBoat.name=充氣船
 
 ## Tools and consumables
-item.adventurebackpack:clockworkCrossbow.name=Clockwork Crossbow
-item.adventurebackpack:melonJuiceBottle.name=Melon Juice Bottle
+item.adventurebackpack:clockworkCrossbow.name=發條十字弓
+item.adventurebackpack:melonJuiceBottle.name=西瓜汁瓶
 item.adventurebackpack:machete.name=彎刀
 
 item.adventurebackpack:backpackHose.name=背包軟管
@@ -32,51 +32,52 @@ item.adventurebackpack:hoseUseless.name=軟管:無法使用 / 沒有儲水箱
 
 ## Wearables
 item.adventurebackpack:adventureBackpack.name=探險背包
-item.adventurebackpack:copterPack.name=Copter Pack
-item.adventurebackpack:coalJetpack.name=Coal Jetpack
+item.adventurebackpack:copterPack.name=直升機背包
+item.adventurebackpack:coalJetpack.name=煤炭噴氣背包
 
 ## Armor
-item.adventurebackpack:adventureHat.name=探險者軟呢帽item.adventurebackpack:adventureSuit.name=探險者外套
-item.adventurebackpack:adventurePants.name=Adventurer's Pants
+item.adventurebackpack:adventureHat.name=探險者軟呢帽
+item.adventurebackpack:adventureSuit.name=探險者外套
+item.adventurebackpack:adventurePants.name=探險者褲子
 item.adventurebackpack:pistonBoots.name=活塞靴子
 
 ## Blocks
-blockAdventureBackpack.name=Adventure Backpacks
-block.adventurebackpack:block.AdventureBackpack.name=Adventure Backpack
-block.adventurebackpack:AdventureBackpack.name=Adventure Backpack Block
-block.adventurebackpack:CampFire.name=Campfire
-block.adventurebackpack:SleepingBag.name=Sleeping Bag
-blockCampFire.name=CampFire
-blockSleepingBag.name=Sleeping Bag
+blockAdventureBackpack.name=探險背包
+block.adventurebackpack:block.AdventureBackpack.name=探險背包
+block.adventurebackpack:AdventureBackpack.name=探險背包
+block.adventurebackpack:CampFire.name=營火
+block.adventurebackpack:SleepingBag.name=睡袋
+blockCampFire.name=營火
+blockSleepingBag.name=睡袋
 
 ## CreativeTab
 itemGroup.adventurebackpack=探險背包
 
 ## Keybindings
 keys.adventureBackpack.category=探險背包
-keys.adventureBackpack.openInventory=Open Inventory
-keys.adventureBackpack.toggleActions=Toggle Actions
+keys.adventureBackpack.openInventory=開啟物品欄
+keys.adventureBackpack.toggleActions=切換功能
 
 ## Fluids
-fluid.melonJuice=Melon Juice
-fluid.milk=Milk
-fluid.mushrromstew=Mushroom Stew
+fluid.melonJuice=西瓜汁
+fluid.milk=牛奶
+fluid.mushrromstew=蘑菇湯
 
 ## Messages
-adventurebackpack:messages.already.equipped.backpack=You are already equipping an Adventure Backpack.
-adventurebackpack:messages.already.equipped.copterpack=You are already equipping a Copter Pack.
-adventurebackpack:messages.already.equipped.jetpack=You are already equipping a Coal Jetpack.
-adventurebackpack:messages.already.impossibru=You aren't wearing any backpacks.
-adventurebackpack:messages.copterpack.hover=CopterPack: Hover Mode.
-adventurebackpack:messages.copterpack.normal=CopterPack: Normal Mode.
-adventurebackpack:messages.copterpack.outoffuel=CopterPack: Out of fuel.
-adventurebackpack:messages.copterpack.cantwater=CopterPack: Can't function in water.
-adventurebackpack:messages.copterpack.off=CopterPack: Off.
-adventurebackpack:messages.jetpack.on=Coal Jetpack: On.
-adventurebackpack:messages.jetpack.off=Coal Jetpack: Off.
-adventurebackpack:messages.nightvision.on=Night Vision: On.
-adventurebackpack:messages.nightvision.off=Night Vision: Off.
-adventurebackpack:messages.cycling.on=Tool Cycling: On.
-adventurebackpack:messages.cycling.off=Tool Cycling: Off.
-adventurebackpack:messages.crossbow.outofammo=Clockwork Crossbow: Out of ammo.
+adventurebackpack:messages.already.equipped.backpack=你已經裝備了探險背包。
+adventurebackpack:messages.already.equipped.copterpack=你已經裝備了直升機背包。
+adventurebackpack:messages.already.equipped.jetpack=你已經裝備了煤炭噴氣背包。
+adventurebackpack:messages.already.impossibru=你沒有裝備任何背包。
+adventurebackpack:messages.copterpack.hover=直升機背包：懸停模式。
+adventurebackpack:messages.copterpack.normal=直升機背包：一般模式。
+adventurebackpack:messages.copterpack.outoffuel=直升機背包：缺乏燃料。
+adventurebackpack:messages.copterpack.cantwater=直升機背包：無法在水中運作。
+adventurebackpack:messages.copterpack.off=直升機背包：關閉。
+adventurebackpack:messages.jetpack.on=煤炭噴氣背包：開啟。
+adventurebackpack:messages.jetpack.off=煤炭噴氣背包：關閉。
+adventurebackpack:messages.nightvision.on=夜視功能：開啟。
+adventurebackpack:messages.nightvision.off=夜視功能：關閉。
+adventurebackpack:messages.cycling.on=工具循環切換功能：開啟。
+adventurebackpack:messages.cycling.off=工具循環切換功能：關閉。
+adventurebackpack:messages.crossbow.outofammo=發條十字弓：缺乏彈藥。
 
