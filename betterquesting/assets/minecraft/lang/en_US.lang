@@ -310,7 +310,7 @@ gtnh.quest76.desc=You need steel? Uhh... fine. Let's get busy...\n\nHint: The br
 
 #Quest_77.EBF-Time
 gtnh.quest77.name=EBF-Time
-gtnh.quest77.desc=In order to get alumin(i)um ingots, you need an electric blast furnace. It's another very important step towards victory, so let's get started.\n\nGetting the heating coils might be a little tricky...\n\n(You need 2 LV hatches with 4A of 32V total, or 3 LV hatches with MOOOORE power if the multiblock is not fully fixed)
+gtnh.quest77.desc=In order to get alumin(i)um ingots, you need an electric blast furnace. It's another very important step towards victory, so let's get started.\n\nGetting the heating coils might be a little tricky...\n\n(You need 2 LV hatches with 4A of 32V total, or 3 LV hatches with MOOOORE power if the multiblock is not fully repaired)\n\nA few recipes produce CO2/SO2 as fluid. You need to add an additional fluid hatch to the top layer of the EBF to collect it otherwise it gets auto voided.
 
 #Quest_78.Upgrade #1: More heat
 gtnh.quest78.name=Upgrade #1: More heat
@@ -2500,9 +2500,9 @@ gtnh.quest623.desc=The best way to get rare earth is to find an applied energist
 gtnh.quest624.name=Basic canner
 gtnh.quest624.desc=The canning machine is mainly used to fill tin cans with any kind of food, but it is useful for filling and emptying tin cells with other solid items than food, usually in the form of dust. It can also fill batteries with redstone, cadmium, lithium or sodium.
 
-#Quest_625.Packing your chests and barrels
-gtnh.quest625.name=Packing your chests and barrels
-gtnh.quest625.desc=Packing your chests and barrels without spilling all the things (buildcraft(tm))? \nNo problem! Make a dolly and you can carry your full chests, barrels or storage drawers anywhere you want. But be warned, you will get a slowness debuff so hopefully you don't have to travel very far.
+#Quest_625.Packing your tanks chests and barrels
+gtnh.quest625.name=Packing your tanks chests and barrels
+gtnh.quest625.desc=Packing your chests and barrels without spilling all the things (buildcraft(tm))? \nNo problem! Make a dolly and you can carry your full chests, barrels or storage drawers anywhere you want. But be warned, you will get a slowness debuff so hopefully you don't have to travel very far. Not portable buildcraft and iron tanks can moved so too without loosing fluids.
 
 #Quest_626.Portable mob spawners..? Cool!
 gtnh.quest626.name=Portable mob spawners..? Cool!
@@ -3138,7 +3138,7 @@ gtnh.quest783.desc=All your little turbines take up too much space? It is time t
 
 #Quest_784.It's time to get more steam
 gtnh.quest784.name=It's time to get more steam
-gtnh.quest784.desc=As soon as you have the ability to store energy in large quantities, it would be necessary to have a way to generate energy in large quantities. You need a large bronze boiler. But in order to make this boiler, you will need a mountain of bronze. This boiler produces 800 liters of steam per tick, and this is enough to run 10 basic steam turbines.
+gtnh.quest784.desc=As soon as you have the ability to store energy in large quantities, it would be necessary to have a way to generate energy in large quantities. You need a large bronze boiler. But in order to make this boiler, you will need a mountain of bronze. This boiler produces 800 liters of steam per tick. This is enough to run 10 basic steam turbines.
 
 #Quest_785.Transistor
 gtnh.quest785.name=Transistor
@@ -3346,7 +3346,7 @@ gtnh.quest835.desc=Every basic circuit needs two resistors to work
 
 #Quest_836.Gallium Arsenide
 gtnh.quest836.name=Gallium Arsenide
-gtnh.quest836.desc=The diode requires gallium arsenide and you may be wondering how to get gallium or arsenic this early in the game.\nYou can get gallium out of crushed zinc ore by using a thermal centrifuge. You can find the small ores in the Overworld or the full ores in the Nether at Y Level 80 - 210. To get cushed ore, you may need a Tinker's Construct tool with the Luck (Fortune) enchant on it.\nYou can get Arsenic from realgar small orea in the Nether at Y level 5 - 85. Centrifuge the dusts in a centrifuge.\nMix those two dusts in a mixer to get gallium arsenic dust.
+gtnh.quest836.desc=The diode requires gallium arsenide and you may be wondering how to get gallium or arsenic this early in the game.\nYou can get gallium out of crushed zinc ore by using a thermal centrifuge. You can find the small zinc ores in the Overworld or the in the Nether at Y Level 80 - 210. To get cushed ore, you may need a Tinker's Construct tool with the Luck (Fortune) enchant on it. Sphalerite is another source of gallium.\nYou can get arsenic from realgar small ores in the Nether at Y level 5 - 85. Centrifuge the dusts in a centrifuge. Another source is cobalt ore in the nether.\nMix those two dusts in a mixer to get gallium arsenic dust.
 
 #Quest_837.ILC and RAM
 gtnh.quest837.name=ILC and RAM
@@ -3767,6 +3767,34 @@ gtnh.quest940.desc=If you want to make more advanced circuits you need a cleanro
 #Quest_941.A very useful Scanner
 gtnh.quest941.name=A very useful Scanner
 gtnh.quest941.desc=The portable scanner is a tool capable of showing advanced information about almost every block in the game. \nIn order to function, the tool needs to be charged first. It can hold up to 400k EU and accept 128 EU/t or less. This is MV tier.\n\nIt can scan crops, which shows more information than the cropnalyzer does. The crop, which was scanned in the world, will drop a scanned seed bag.\nIt can scan machines from GregTech, giving information about current progress, the stored energy, efficiency, problems and CPU-load.\nFor any block in the game it scans, it gives information about its ID, Metadata, position in the world and hardness value.\nIt also gives information about pollution level in the chunk the scanned block belongs to.\nAdditional to that it shows when the clenroom has reached his 100% efficeny level.
+
+#Quest_942.The Plunger
+gtnh.quest942.name=The Plunger
+gtnh.quest942.desc=The Plunger can be used to clear liquids from pipes. It can also be used on a machine to remove up to 1000mb of fluid from its internal buffer. You don't have to wrench your machine and replace it. It can be crafted from a rod of the desired material and rubber sheets. \n\nHint: Plunger deals 2.75 - 7.75 damage depending on the materials used.
+
+#Quest_943.Performing chemical experiments at hv Level
+gtnh.quest943.name=Performing chemical experiments at hv Level
+gtnh.quest943.desc=High tier chemical recipes like ammonia need an HV chemical reactor.
+
+#Quest_944.Super Tank I
+gtnh.quest944.name=Super Tank I
+gtnh.quest944.desc=Next step is to store 40000 buckets in a tank. The super tank needs a hermetic casing made with aluminium plates and PTFE pipe. The tank need 4 circuits, a pulsatingiron  plates and a mv pump. Now you can store the exact amount of fluids a steel 5x5 steel tank contains.
+
+#Quest_945.Chad a better way to make Paper
+gtnh.quest945.name=Chad a better way to make Paper
+gtnh.quest945.desc=Making paper out of wood pulp and water can be tedious and difficult. Why not using some sugar cane macerate it down to chad and press it with two stone plates to paper? Later on you can use the chemical bath for a even better ratio.
+
+#Quest_946.Baboo fence
+gtnh.quest946.name=Baboo fence
+gtnh.quest946.desc=Maybe you are lucky and start in a bomboo wood. Bamboo is very usefull the trees growing realy fast and when you place bomboo sticks it will grow and protec your base behind a 3 bocks high wall. Alternative you can use berry bushe too. 
+
+#Quest_947.Punji Sticks
+gtnh.quest947.name=Punji Sticks
+gtnh.quest947.desc=A early game protection fence can mada out of punji sticks. It hurts all mobs/players and add give slowness II potion effect. Making a trench around your base and put the punji sticks inside.
+
+#Quest_948.Better than iron
+gtnh.quest948.name=Better than iron
+gtnh.quest948.desc=Wrought Iron will become very soon more important when you have a bit steel and able to build high pressure steam machines. The material is much harder then iron and you can make better tools with it too.\nTo make wrought Iron you need a furnace to smelt iron ingots down to wrough iron nuggets. With the compressor you can compress the nuggets to ingots.\n\nHint:\nCrushed or purified oredust can be smelt to iron nuggets directly.
 
 ##################################Line##################################
 
