@@ -30,3 +30,5 @@ computronics/lang(些微)
 computronics/doc(全部)
 
 gadomancy (部份)
+
+gregtech (一堆)
