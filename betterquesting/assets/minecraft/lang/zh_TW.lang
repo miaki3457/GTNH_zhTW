@@ -3097,148 +3097,148 @@ gtnh.quest773.name=方法一:生碳網(Way one: Raw carbon mesh)
 gtnh.quest773.desc=這個方法是在高壓釜中處理四個碳粉。LV時代，你可以使用液態塑膠會得到一個碳纖維。MV時代，使用聚四氟乙烯會得到二個。或者在HV時代使用最好的方法:使用液態環氧化物可以得到四個。
 
 #Quest_774.Way two: Bio Organic Mesh
-gtnh.quest774.name=Way two: Bio Organic Mesh
-gtnh.quest774.desc=If you like to save the ecosystem you can autoclave 16 plantballs to get raw bio fiber with the following liquids:\n\n-Biomass 33% chance\n-Methanol 50% chance\n-Fuel 90% chance\n-Nitro-diesel 100% chance\n\nHowever, making carbon plates this way will require an electric blast furnace.
+gtnh.quest774.name=方法二:生物有機網(Way two: Bio Organic Mesh)
+gtnh.quest774.desc=如果你想保護生態系統，可以用高壓釜將16個植物球製成未加工的生物纖維。可以使用下列液體:生物質:33%機率。甲醇:50%機率。柴油:90%機率。硝基柴油:100%機率。然而，使用這個方製造碳板需要電力高爐。
 
 #Quest_775.Carbon parts
-gtnh.quest775.name=Carbon parts
-gtnh.quest775.desc=Those are the first parts you will need for your beloved nano armor.
+gtnh.quest775.name=碳纖零件(Carbon parts)
+gtnh.quest775.desc=這些零件是你最愛的納米裝甲所需要的。
 
 #Quest_776.Seeing things brighter
-gtnh.quest776.name=Seeing things brighter
-gtnh.quest776.desc=The nano helmet is a bit special. It will provide you with night vision as long as you have energy! 
+gtnh.quest776.name=看得更清楚(Seeing things brighter)
+gtnh.quest776.desc=納米頭盔比較特殊。只要有能量，它可以提供你夜視能力。
 
 #Quest_777.Are those green diamonds? 
-gtnh.quest777.name=Are those green diamonds? 
-gtnh.quest777.desc=They may not be green diamonds but they are needed for your nano armor.
+gtnh.quest777.name=這是綠鑽石嗎?(Are those green diamonds? )
+gtnh.quest777.desc=它們可能不是綠鑽石，但你的納米裝甲需要它們。
 
 #Quest_778.Carbon Plates
-gtnh.quest778.name=Carbon Plates
-gtnh.quest778.desc=Carbon plates are needed for the nano armor. Go check out the armor chapter.
+gtnh.quest778.name=碳板(Carbon Plates)
+gtnh.quest778.desc=碳板是納米裝甲所需要的。檢視裝甲的章節。
 
 #Quest_779.Carbon skin
-gtnh.quest779.name=Carbon skin
-gtnh.quest779.desc=You can stop worrying about some mobs for now. This will help you survive a bit and will give you some of that SWAG. Your journey doesn't stop here traveller, as quantum armor awaits you!
+gtnh.quest779.name=碳皮膚(Carbon skin)
+gtnh.quest779.desc=現在你可以不用擔心大部份的怪物了。這將幫助你存活，並讓你很酷。你的旅程還沒結束，旅行者，量子護甲還在等著你！
 
 #Quest_780.Organic Way
-gtnh.quest780.name=Organic Way
-gtnh.quest780.desc=Bio carbon plates are made out of raw carbon mesh. Put it in the electric blast furnace to make carbon plates.
+gtnh.quest780.name=有機之道(Organic Way)
+gtnh.quest780.desc=生物碳板由生物有機網製成。將生碳板放入電力高爐來製造碳板。
 
 #Quest_781.Still not enough charcoal?
-gtnh.quest781.name=Still not enough charcoal?
-gtnh.quest781.desc=Now that you have a vacuum freezer and you have the possibility of manufacturing kanthal, it's time to build a pyrolyse oven. This oven is the best way to get charcoal and creosote (x50 faster than Railcraft's coke oven). You will need tons of bronze, iron and steel to build it, but it's worth it. Finally, it will be possible to dismantle the charcoal pit.
+gtnh.quest781.name=木炭還是不夠？(Still not enough charcoal?)
+gtnh.quest781.desc=現在你有一台真空冷卻機，有製造鐵鉻鋁耐熱材料的可能性。是時候蓋一座熱解爐了。這座爐是得到木炭及雜酚油的最佳途徑(Railcraft焦炭爐的五十倍快)。你將需要大量的青銅、鐵，及鋼來製造它。但這是值得的，現在你可能可以拆掉你的木炭坑了。
 
 #Quest_782.Monocrystalline Silicon
-gtnh.quest782.name=Monocrystalline Silicon
-gtnh.quest782.desc=To make wafers, you need to make monocrystalline silicon first. The process takes 450 seconds and requires silicon dust and gallium arsenide dust in the electric blast furnace. You can make 16 wafers out of every boule.
+gtnh.quest782.name=單晶矽(Monocrystalline Silicon)
+gtnh.quest782.desc=為了製造晶圓，你必須先製造單晶矽。這製程需在電力高爐加入矽粉以及砷化鎵粉，需時450秒。每個矽球可以製成16個晶圓。
 
 #Quest_783.We need big toys
-gtnh.quest783.name=We need big toys
-gtnh.quest783.desc=All your little turbines take up too much space? It is time to solve this problem. This large turbine can help you produce a tremendous amount of energy. Don't forget to make a rotor for the turbine. At the initial stage the most suitable materials for the rotor are: vanadium steel (it has a very high durability, but slowly produces energy), cobalt (good combination of durability and performance) and ultimet (has higher efficiency, durability and performance).
+gtnh.quest783.name=我們需要些大傢伙(We need big toys)
+gtnh.quest783.desc=你的基礎蒸汽輪機太佔空間？該解決這個問題了。這台大型蒸汽輪機可以幫助你生產大量的能源。別忘了為它製造一個渦輪。在起步階段，最適合的渦輪材料是:釩鋼(有極高的耐久度，但產能較慢)、鈷(在耐久跟性能間取得不錯的平衡)，及哈氏合金(有更高的效率、耐久，及性能)。
 
 #Quest_784.It's time to get more steam
-gtnh.quest784.name=It's time to get more steam
-gtnh.quest784.desc=As soon as you have the ability to store energy in large quantities, it would be necessary to have a way to generate energy in large quantities. You need a large bronze boiler. But in order to make this boiler, you will need a mountain of bronze. This boiler produces 800 liters of steam per tick, and this is enough to run 10 basic steam turbines.
+gtnh.quest784.name=該製造更多蒸氣了(It's time to get more steam)
+gtnh.quest784.desc=一旦你有能力儲存大量的能源，就需要有方法生產大量的能源。你需要一個大型青銅鍋爐。但為了製造這個鍋爐，你需要像山一樣多的青銅。這個鍋爐每tick能產生800L的蒸氣，這足供十台基礎蒸汽輪機運作了。
 
 #Quest_785.Transistor
-gtnh.quest785.name=Transistor
-gtnh.quest785.desc=For the next tier we need advanced circuits. To create some advanced circuits, you need some transistors.
+gtnh.quest785.name=電晶體(Transistor)
+gtnh.quest785.desc=為了下一個階段我們需要高級電路。為了製造高級電路板，你需要一些電晶體。
 
 #Quest_786.Steam is never enough
-gtnh.quest786.name=Steam is never enough
-gtnh.quest786.desc=Now you can make advanced circuits, which means it's time to build a large steel boiler. This boiler is one and a half times more efficient than a bronze one, and that means we need 5 more steam turbines. Don't forget to monitor the water level!
+gtnh.quest786.name=蒸氣永遠不夠(Steam is never enough)
+gtnh.quest786.desc=現在你可以製造高級電路了，表示這是蓋大型鋼鍋爐的時刻了。這台鍋爐的效率是青銅版的1.5倍，這表示我們需要再多5台蒸氣輪機。別忘了監控你的水量！
 
 #Quest_787.Moooooore steam
-gtnh.quest787.name=Moooooore steam
-gtnh.quest787.desc=Stock up on titanium, it will be fun. A large titanium boiler produces 1600 litres of steam per tick. For this amount you need to choose the right rotors for your turbines. For example, 2 normal cobalt rotors will be just right. Optimal flow for such rotor is 800 liters per tick. If you have more than one boiler, you will need to make calculations in order to select the appropriate rotors.
+gtnh.quest787.name=更多更多更多蒸氣(Moooooore steam)
+gtnh.quest787.desc=囤積鈦，這會很有趣。大型鈦鍋爐每tick生產1600L蒸氣。為應付這數量，你需要為你的大型蒸汽輪機選擇正確的渦輪。例如，兩個鈷渦輪就很適當。鈷渦輪的最佳流量是800L/tick。如果你有不止一個鍋爐，你就需要做更多計算來選擇適當的渦輪。
 
 #Quest_788.Even more steam? Are you sure?
-gtnh.quest788.name=Even more steam? Are you sure?
-gtnh.quest788.desc=This boiler is the most efficient source of steam. It allows you to produce as much as 2000 litres of steam per tick. If you need more, then build a dual or even quad boiler.
+gtnh.quest788.name=還要更多蒸氣？你確定嗎？(Even more steam? Are you sure?)
+gtnh.quest788.desc=這台鍋爐是最有效率產生蒸氣的途徑。其產能達到2000L/tick。如果你需要更多，蓋兩台甚至四台鍋爐。
 
 #Quest_789.Energy Crystals
-gtnh.quest789.name=Energy Crystals
-gtnh.quest789.desc=Make energy crystals out of ruby and redstone dusts in the MV mixer. Energy crystals can store 1 million EU.
+gtnh.quest789.name=能量水晶(Energy Crystals)
+gtnh.quest789.desc=製造能量水晶，在MV攪拌機中混合紅寶石及紅石。能量水晶可以儲存1百萬EU。
 
 #Quest_790.Nano Crystal
-gtnh.quest790.name=Nano Crystal
-gtnh.quest790.desc=Nano crystals are used for making the nano armor.
+gtnh.quest790.name=奈米水晶(Nano Crystal)
+gtnh.quest790.desc=奈米水晶用於製作納米裝甲。
 
 #Quest_791.MV Precision Laser
-gtnh.quest791.name=MV Precision Laser
-gtnh.quest791.desc=Advanced circuits need a MV precision laser. Let's craft one.
+gtnh.quest791.name=MV精密鐳射蝕刻機(MV Precision Laser)
+gtnh.quest791.desc=高級電路需要一台MV精密鐳射蝕刻機，製造一台吧。
 
 #Quest_792.Silicon Wafer
-gtnh.quest792.name=Silicon Wafer
-gtnh.quest792.desc=To create some silicon wafers, put the monocrystalline silicon boule in a cutting machine. It would be better to immediately make the MV version because you will need it later for RAM, IC's and other chips.
+gtnh.quest792.name=矽晶圓(Silicon Wafer)
+gtnh.quest792.desc=為製造矽晶圓，將單晶矽球放入板材切割機。最好立刻製作一台MV切割機，之後製作RAM、IC，及其它晶片時你會需要它。
 
 #Quest_793.Good Integrated Circuits
-gtnh.quest793.name=Good Integrated Circuits
-gtnh.quest793.desc=Good circuits have three variants. For the advanced circuits you need the good integrated circuits.
+gtnh.quest793.name=良質積體電路(Good Integrated Circuits)
+gtnh.quest793.desc=良質電路(Good circuits)有三種版本。為製作高級電路你需要良質積體電路(Good Integrated Circuits)。
 
 #Quest_794.Integrated Circuit
-gtnh.quest794.name=Integrated Circuit
-gtnh.quest794.desc=There are two variants of basic circuits. The basic circuit from IC2 or the integrated circuit which needs a circuit assembling machine to be made. The good integrated circuit needs two integrated circuits to be crafted.
+gtnh.quest794.name=積體電路(Integrated Circuit)
+gtnh.quest794.desc=基礎電路(basic circuits)有兩種版本。IC2的基礎電路或需要電路組裝機製造的積體電路。良質積體電路需要兩個積體電路來製作。
 
 #Quest_795.Basic Circuit Assembler
-gtnh.quest795.name=Basic Circuit Assembler
-gtnh.quest795.desc=Advanced circuits require a MV circuit assembling machine. Let's make one.
+gtnh.quest795.name=基礎電路組裝機(Basic Circuit Assembler)
+gtnh.quest795.desc=高級電路(Advanced circuits)需要一台MV級電路組裝機。製造一台吧。
 
 #Quest_796.Sensor lens
-gtnh.quest796.name=Sensor lens
-gtnh.quest796.desc=The nightvision goggles need special sensor lenses to work.
+gtnh.quest796.name=探測鏡片(Sensor lens)
+gtnh.quest796.desc=夜視鏡需要特殊的探測鏡片來運作。
 
 #Quest_797.Advanced Heat Exchanger
-gtnh.quest797.name=Advanced Heat Exchanger
-gtnh.quest797.desc=The nightvision goggles need advanced heat exchangers to work.
+gtnh.quest797.name=高級熱交換器(Advanced Heat Exchanger)
+gtnh.quest797.desc=夜視鏡需要高級熱交換器來運作。
 
 #Quest_798.Iron capped Greatwood Wand
-gtnh.quest798.name=Iron capped Greatwood Wand
-gtnh.quest798.desc=Making a gold capped greatwood wand requires 35 vis, but your old wand's limit is 25. So first create an iron capped greatwood wand and then create a gold capped greatwood wand.
+gtnh.quest798.name=鐵端宏偉之木短杖(Iron capped Greatwood Wand)
+gtnh.quest798.desc=製作金端宏偉之木短杖需要35vis，但你的舊短杖的極限是25。所以先做一把鐵端宏偉之木短杖，然後製作一把金端宏偉之木短杖。
 
 #Quest_799.Don't try to dive with it
-gtnh.quest799.name=Don't try to dive with it
-gtnh.quest799.desc=Combining a scuba helmet with a nano helmet in an assembling machine will give you a nano scuba helmet. You'd better not try to dive with it because you can't. It is a part of the new quantum suit helmet.
+gtnh.quest799.name=別試著用它潛水(Don't try to dive with it)
+gtnh.quest799.desc=用組裝機將防化頭盔及奈米頭盔結合，可以得到奈米水肺潛水頭盔。最好別試著用它潛水，因為你不行。這是新的量子頭盔的零件。
 
 #Quest_800.Plated Leggings better not try to wear it
-gtnh.quest800.name=Plated Leggings better not try to wear it
-gtnh.quest800.desc=Combining stainless steel platings with some nano leggings in the assembler gives you nano plated leggings. Better not try to wear them because you can't. They are part of the new quantum suit leggings.
+gtnh.quest800.name=電鍍護腿，別試著穿它(Plated Leggings better not try to wear it)
+gtnh.quest800.desc=用組裝機將不銹鋼物品外殼及奈米護腿結合，會得到奈米電鍍護腿。最好別試著穿上它們，因為你不行。它們是新的量子護腿的零件。
 
 #Quest_801.Don't try to walk with it
-gtnh.quest801.name=Don't try to walk with it
-gtnh.quest801.desc=Combining some rubber boots with nano boots in the Assembler gives you Nano Rubber Boots. Better not try to put them on because you can't. They are part of the new quantum suit boots.
+gtnh.quest801.name=別試著穿它走路(Don't try to walk with it)
+gtnh.quest801.desc=用組裝機將橡膠靴及奈米靴子結合，會得到奈米橡膠靴。最好別試著穿它走路，因為你不行。它們是新的量子靴子的零件。
 
 #Quest_802.Iridium Plated
-gtnh.quest802.name=Iridium Plated
-gtnh.quest802.desc=Plating all your armor parts with iridium alloy casings gives them a better durability. Before you can wear these quantum armor parts you need to activate them with some quantum crystals.
+gtnh.quest802.name=鍍銥(Iridium Plated)
+gtnh.quest802.desc=將你的護甲全部鍍上銥合金物品外殼，將付予它們更佳的耐久度。你必須先使用量子水晶來啟動這些量子裝甲零件，才能穿上它們。
 
 #Quest_803.Quantum Armor
-gtnh.quest803.name=Quantum Armor
-gtnh.quest803.desc=The quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.
+gtnh.quest803.name=量子裝甲(Quantum Armor)
+gtnh.quest803.desc=量子裝甲是高階且非常耐用的裝甲，並有許多特色，如夜視、墜落減傷，及快速跑步。
 
-#Quest_804.Quantum crystal 
-gtnh.quest804.name=Quantum crystal 
-gtnh.quest804.desc=The quantum crystal is needed to turn quantum armor parts into wearable quantum armor.
+#Quest_804.Quantum crystal
+gtnh.quest804.name=量子水晶(Quantum crystal)
+gtnh.quest804.desc=量子水晶是必需品，用於將量子護甲零件轉換成可穿戴的量子護甲。
 
 #Quest_805.Lapotron Dust
-gtnh.quest805.name=Lapotron Dust
-gtnh.quest805.desc=Lapotron crystals require you to mix your energium dust with some lapis dust.
+gtnh.quest805.name=蘭波頓粉末(Lapotron Dust)
+gtnh.quest805.desc=為製作蘭波頓水晶，你需要混合能量水晶粉及青金石粉。
 
 #Quest_806.Lapotron Crystal
-gtnh.quest806.name=Lapotron Crystal
-gtnh.quest806.desc=With your new HV mixer you can make lapotron dust. Place it in an autoclave to make some raw lapotron crystals. With an HV assembler and advanced circuits you can make some lapotron crystals wich store up to 10 million EU.
+gtnh.quest806.name=蘭波頓水晶(Lapotron Crystal)
+gtnh.quest806.desc=使用你的新HV攪拌機，你可以製作蘭波頓粉末。將之放入高壓釜來製作未加工的蘭波頓水晶。使用EV組裝機及高級電路，你可以製作能儲存1千萬的蘭波頓水晶。
 
 #Quest_807.Quantum Crystal
-gtnh.quest807.name=Quantum Crystal
-gtnh.quest807.desc=For you quantum armor you need some quantum crystals. Place a lapotron crystal in your precision laser to get a quantum crystal 
+gtnh.quest807.name=量子水晶(Quantum Crystal)
+gtnh.quest807.desc=為製作量子護甲，你需要一些量子水晶。將蘭波頓水晶放入精密鐳射蝕刻機來製作量子水晶。
 
 #Quest_808.Mixing at hv Level
-gtnh.quest808.name=Mixing at hv Level
-gtnh.quest808.desc=High Tier dusts need HV Mixer.
+gtnh.quest808.name=HV級攪拌(Mixing at hv Level)
+gtnh.quest808.desc=高階粉末需要HV級攪拌機。
 
 #Quest_809.NASA Workbench aka Dire Crafting Table
-gtnh.quest809.name=NASA Workbench aka Dire Crafting Table
-gtnh.quest809.desc=The Avaritia 9x9 dire crafting table replaces the NASA workbench. It is required to craft all rockets and high tier equipment. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need nether stars. Hint: Check out the nether star recipe which uses null catalyst and salis mundus. Null catalyst can be duplicated by adding magma cream, blaze powder and a tiny pile of nether star dust.
+gtnh.quest809.name=NASA工作台，又名終極工作台(NASA Workbench aka Dire Crafting Table)
+gtnh.quest809.desc=Avarita的9x9終極工作台取代了NASA工作台。這是製作所有火箭及高階裝備的必需品。首先，你需要81個工作台來製作一個雙重壓縮工作台，一些HV組件、晶圓，以及一個水晶矩陣。然後沒錯，你確實需要地獄之星。提示:檢視地獄之星的配方，可使用枯竭水晶及世界鹽合成。枯竭水晶可以複製，透過加入熔岩球、烈焰粉，以級小搓地獄之星粉。
 
 #Quest_810.Rocket Tier 1
 gtnh.quest810.name=Rocket Tier 1
