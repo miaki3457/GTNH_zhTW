@@ -1,0 +1,334 @@
+﻿item.ItemGolemPlacer.silverwood.name=銀木傀儡
+item.ItemGolemPlacer.obsidian.name=Obsidian Golem
+item.ItemTransformationFocus.name=[WIP]法杖核心：變形
+item.ItemFamiliar.name=天域使魔
+item.ItemEtherealFamiliar.name=Ethereal Familiar
+item.ItemAuraCore.name=Aura Core
+item.ItemArcanePackage.name=奧法包裹
+item.ItemElement.0.name=Element of Darkness
+item.ItemElement.1.name=[WIP] Element of Light
+item.ItemElement.2.name=[WIP] Element of Fire
+
+gadomancy.lore.deprecation.back=Put in a crafting grid to get your items back!
+
+itemGroup.gadomancy=Gadomancy
+tc.research_category.gadomancy=魔像密經
+
+tc.research_name.GADOMANCY.GOLEMSILVERWOOD=銀木傀儡
+tc.research_text.GADOMANCY.GOLEMSILVERWOOD=Just a dash of Chemical X
+gadomancy.research_page.GOLEMSILVERWOOD.1=這種傀儡由銀木雕刻而就，繼承了銀木對魔法親和的本性，由此可攜帶更多升級。<BR>§l§n銀木傀儡屬性：§r<BR>§l耐久：§r一般<BR>§l力量：§r低<BR>§l回復：§r一般<BR>§l運載量：§r8<BR>§l速度：§r快捷<BR>§l升級：§r3
+
+tc.research_name.GADOMANCY.GOLEMRUNICSHIELD=傀儡守護符文
+tc.research_text.GADOMANCY.GOLEMRUNICSHIELD=現已支持你的小朋友！
+gadomancy.research_page.GOLEMRUNICSHIELD.1=經過進一步對守護魔法的測驗，你已發現了為傀儡附加符文護盾的方法。<BR>和在你身上一樣，符文護盾會在傀儡身上形成一道魔法壁壘，可以免疫絕大多數類型的傷害。<BR>然而它並不能免疫溺水以及一些自然傷害。
+
+tc.research_name.GADOMANCY.STICKYJAR=粘性罐子
+tc.research_text.GADOMANCY.STICKYJAR=把它們粘起來！
+gadomancy.research_page.STICKYJAR.1=要素罐子之於神秘使，有如黃油之於麵包一樣重要，但如果還要考慮大量潛在的源質管道，情況就又不一樣了。你決定給罐子底部加一些黏合劑來緩解管道佈線壓力。底部塗過黏合劑的罐子被放下時會粘在表面上，即使是方塊的側面，甚至是底面。破壞罐子並不會影響這種粘性，這樣粘性罐子就可以回收使用了。另外，很多其它類型的源質罐子也可以加這種黏合劑。
+
+
+tc.research_name.GADOMANCY.ARCANEDROPPER=奧術投擲器
+tc.research_text.GADOMANCY.ARCANEDROPPER=When the pimps in the crib, ma
+gadomancy.research_page.ARCANEDROPPER.1=考量過投擲器的性質以及可能的拓展方式後，你對你的投擲器做出了一些修改。<LINE>利用奧術投擲器，你可以在3x3x3的範圍內吸收、置入並監視物品，就像它們在內置物品欄裡一樣。<BR>手持不帶核心的法杖可以看到其影響的範圍。<BR>奧術投擲器只有平整的那一面可以進行交互。
+
+tc.research_name.GADOMANCY.GOLEMCOREBREAK=傀儡核心：破壞
+tc.research_text.GADOMANCY.GOLEMCOREBREAK=大新聞！
+gadomancy.research_page.GOLEMCOREBREAK.1=掛載了這個核心的傀儡會監視並破壞標記過的方塊。<BR>你可以於其物品欄中指定其所用工具之種類。<BR>你還可以在其物品欄裡放置方塊，以指定它所允許破壞的方塊之種類。破壞的速度將取決於工具本身的強度和採掘速度。<BR>你可以為其安裝傀儡升級：秩序，以指定使用何種工具來採集被標記方塊。<BR>你還可以安裝傀儡升級：混沌，這樣可以忽略工具的附加值。
+
+tc.research_name.GADOMANCY.GOLEMCOREBODYGUARD=傀儡核心：護法
+tc.research_text.GADOMANCY.GOLEMCOREBODYGUARD=絕不攻擊主人
+gadomancy.research_page.GOLEMCOREBODYGUARD.1==守護傀儡本身是極好的，但即便是有升級，他們也不能完全懂得如何集中保護主人。給傀儡運轉核心：護衛做出一些修改後，這個問題得到了改善。掛載有傀儡運轉核心：護法的傀儡會時刻追隨其主人，就像被馴化的狼一樣忠誠。
+
+tc.research_name.GADOMANCY.INFUSIONCLAW=自動注魔
+tc.research_text.GADOMANCY.INFUSIONCLAW=懸浮的玩意！
+gadomancy.research_page.INFUSIONCLAW.1=很多時候你都在想，如何讓注魔的過程自動化，這樣就可以不用總是守在符文矩陣旁邊了，然後你發現你被法杖充能基座給涮了。你已經證明令基座移動法杖是相當困難的，但並非完全不可能。最終搞出來的設備有極微弱的感知能力，而且似乎和你的靈魂綁定在一起，但是它看起來工作正常就夠了！你的眼皮已經顫抖很久了...你確定這是好的...也許吧...
+gadomancy.research_page.INFUSIONCLAW.2=將此設備置於符文矩陣正上方，並通過正上面放置一柄法杖或手杖。若在其GUI內的選項中打勾，那麼只有空法杖才會被抽出。這個過程還會向任何由其啟動的注魔增加不穩定性，其具體程度將會由法杖或手杖的等級來決定。通常手杖會更穩定，但不穩定性很大程度上還是取決於杖的容量。<BR>你現在便可以通過給予四個側面的任意一個以紅石信號來觸發注魔過程。<BR>這個設備還可以用於自動化生產魔導手冊和魔法坩鍋，使得你魔導手冊和坩鍋工廠的夢想終於成為可能！
+
+
+
+tc.research_name.GADOMANCY.REMOTEJAR=鏡像罐子
+tc.research_text.GADOMANCY.REMOTEJAR=鏡像運輸
+gadomancy.research_page.REMOTEJAR.1=源質鏡子可謂是注魔時極好的源質移動方式，但你，卻不可思議地認為，它還有未發掘的潛力。兩面源質鏡子連接在一起時，源質會高效地在兩點之間流動。若是將源質鏡子置於特殊改裝過的源質罐子中，那麼罐子中的空間就可以與鏡子相連接。要連接兩個罐子，只需將一個鏡像罐子放下來，並手持魔鏡右擊即可。
+gadomancy.research_page.REMOTEJAR.2=若已有既存網路，罐子將會加入這個網路中。和源質魔鏡不同，鏡像罐子網路可以容納多個罐子。各個罐子彼此共用並平攤其空間，簡單來說就是一個有兩個罐子的網路會有兩個罐子共同持有源質，若有三個罐子那就是三個，以此類推。另外，若鏡像罐子滿了，它就會試圖將源質分攤到同網路中的別的罐子中去。
+
+tc.research_name.GADOMANCY.ETHEREAL_FAMILIAR=天域使魔
+tc.research_text.GADOMANCY.ETHEREAL_FAMILIAR=奧法追隨者
+gadomancy.research_page.ETHEREAL_FAMILIAR.1=那些飛舞的鬼火已經吸引你好久了。一般來說這樣的永恆魔力都應該是被動的，但這些小精靈受到攻擊時卻會以驚人的速度和效率發起反擊。不僅如此，甚至僅僅是快速接近小精靈都會惹怒她們。<LINE>然而這種行為卻給了你不一樣的啟發。通過開發小精靈的這種天性，你也許可以將其改造為一個隨身的護衛。不幸的是，野生的小精靈行蹤詭異，極難捕捉。
+gadomancy.research_page.ETHEREAL_FAMILIAR.3=向天域之華注以大量魔力以及少量綁定試劑，你成功造出了人造精靈。天域“使魔”將會自動跟隨佩帶者(主人)的氣場，並以類似浮游炮臺的方式向靠近佩帶者的敵對生物發起攻擊。很明顯，人造的小精靈相比于天然的小精靈來說還是很虛弱，並且移動速度也不快，但你確信有辦法可以增強她。
+gadomancy.research_page.ETHEREAL_FAMILIAR.4=Its attacks don't consume any vis until an elemental upgrade is applied. It should be noted that the familiar is also not strong enough to survive any power range or speed modifications until it has an elemental upgrade to bolster its strength.
+
+tc.research_name.GADOMANCY.AI_SHUTDOWN=NULL
+tc.research_text.GADOMANCY.AI_SHUTDOWN=NULL
+gadomancy.research_page.AI_SHUTDOWN.1=NULL
+
+tc.research_name.GADOMANCY.FAMILIAR_SHOCK=Lightning Impact
+tc.research_text.GADOMANCY.FAMILIAR_SHOCK=A shocking experience
+gadomancy.research_page.FAMILIAR_SHOCK.1=A Familiar with this upgrade will have a significantly more powerful arc when attacking, dealing more damage and a reasonable amount of knockback.<LINE>Consumes 0.03 Aer and 0.02 Perditio vis per attack and level.
+
+tc.research_name.GADOMANCY.FAMILIAR_FIRE=Flash Burn
+tc.research_text.GADOMANCY.FAMILIAR_FIRE=Light it up
+gadomancy.research_page.FAMILIAR_FIRE.1=When upgraded with Flash burn, a familiar's energy is repurposed to generate a ridiculous amount of heat on attacking rather than dealing damage, lighting its foes on fire and leaving them scorched and weak to the light of the sun.<LINE>Consumes 0.04 Ignis and 0.02 Ordo vis per attack and level.
+
+tc.research_name.GADOMANCY.FAMILIAR_POISON=Corrosive Venom
+tc.research_text.GADOMANCY.FAMILIAR_POISON=Somebody call the doctor
+gadomancy.research_page.FAMILIAR_POISON.1=A Familiar with this upgrade will inject a large dose of highly concentrated venom into its victims rather than doing damage, inflicting them with severe poisoning. Familiars with this upgrade seem to be able to detect which foes can be poisoned, and as such, it will only attack those that can be poisoned.<LINE>Consumes additionally 0.03 Aqua and 0.04 Perditio vis per attack and level.
+
+tc.research_name.GADOMANCY.FAMILIAR_WEAKNESS=Enervation
+tc.research_text.GADOMANCY.FAMILIAR_WEAKNESS=Where is your strength now?
+gadomancy.research_page.FAMILIAR_WEAKNESS.1=This upgrade removes the familiars damaging capabilities altogether and replaces them with the ability to suddenly drain large amounts energy from targets. Enemies that are struck by Enervation familiars will become weak, lethargic, and very, very managable with a plain old sword.<LINE>Consumes 0.03 Terra and 0.03 Perditio vis per attack and level.
+
+tc.research_name.GADOMANCY.FAMILIAR_DAMAGE=Arc Amplification
+tc.research_text.GADOMANCY.FAMILIAR_DAMAGE=What does the scouter say about its power level?
+gadomancy.research_page.FAMILIAR_DAMAGE.1=By concentrating more arcane energy into the wisp, its attack power is effectively doubled.<LINE>Consumes 0.03 Ignis vis per attack and level.
+
+tc.research_name.GADOMANCY.FAMILIAR_RANGE=使魔升級：範圍提升
+tc.research_text.GADOMANCY.FAMILIAR_RANGE=更深的進攻
+gadomancy.research_page.FAMILIAR_RANGE.1=輔以外部的改造，精靈的敏感度得到了提升，她的攻擊範圍也隨之有少許提升。
+
+
+tc.research_name.GADOMANCY.FAMILIAR_SPEED=Frequency Emission Overdrive
+tc.research_text.GADOMANCY.FAMILIAR_SPEED=A certain scientific Railgun
+gadomancy.research_page.FAMILIAR_SPEED.1=Some variants of familiars can have a considerable amount of difficulty dealing with large numbers of foes at once. This upgrade enhances an Ethereal Familiar so that it can attack twice as fast as before. The second stage both increases its attack speed and allows it to hit multiple enemies in a single strike.<LINE>Consumes 0.02 Ordo and 0.01 Ignis vis per attack and level.
+
+tc.research_name.GADOMANCY.KNOWLEDGE_BOOK=Book of Knowledge
+tc.research_text.GADOMANCY.KNOWLEDGE_BOOK=Knowledge is power
+gadomancy.research_page.KNOWLEDGE_BOOK.1=Research and discovery make up the very essence of Thaumaturgy, yet sometimes the sheer amount of paperwork is enough to make even the toughest thaumaturge want to jump off a giant cliff WITHOUT a Thaumostatic Harness. The solution to this problem seems relatively simple. Animating a book to do the writing for you will be easy, right?..............Well, no.<BR>Making a book able to store knowledge is relatively simple since that is what books do by default (obviously). Making it able to compile its knowledge into useable and comprehensible research is another ordeal entirely.
+gadomancy.research_page.KNOWLEDGE_BOOK.3=In order to make the book able to do anything, it must be animated so it can open, close, and turn its pages on its own. After the book of knowledge itself is assembled, it needs to be placed on a flat surface that conducts magic in order to activate, a role which an arcane pedestal serves perfectly.<BR>Once it is placed on a pedestal, the book of knowledge can be used for research. Simply dropping a research page on the ground near the book and supplying it with Cognitio essentia will start the research process. From that point on, the waiting game begins.
+gadomancy.research_page.KNOWLEDGE_BOOK.4=You have found that placing any form of booster that can affect an enchantment table nearby will speed up the process, albeit not in any significant way.<BR> The Book of Knowlege has one more use other than performing research. It can be opened and used like any other Thaumonomicon, removing the need to constantly lug around a Thaumonomicon wherever you go.
+
+tc.research_name.GADOMANCY.ESSENTIA_COMPRESSOR=Essentia Condenser
+tc.research_text.GADOMANCY.ESSENTIA_COMPRESSOR=NON-noisy Essentia Storage
+gadomancy.research_page.ESSENTIA_COMPRESSOR.1= While experimenting with void materials, you discovered an odd reaction between void seeds and liquid essentia.  When a void seed is left in close proximity with a warded jar for an extended period of time, the energy it releases has the odd tendency to make the essentia in the jar condense into a slightly more dense state, freeing up a small amount of space in the jar without actually destroying any essentia. After some further testing, you found that the seed alone was not powerful enough to make any major difference, but with enhancements to increase the potency of the energy released by the seed, a device that can compress essentia into a super dense state could be made.
+gadomancy.research_page.ESSENTIA_COMPRESSOR.2=By condensing large amounts of void materials,  infusing the resulting mass into void seed to create a small cross dimensional rift, and freezing the resulting anomaly inside a crystal shell, it is possible to increase the potency the void energy the seed can release by several thousand times. Despite the fact that this new “Element of Darkness” seems to be incredibly stable, its effects are far to potent for a normal warded jar to handle. It also has the unfortunate side effect of sucking all of the light out of any space it is dropped in, blinding anything that holds it or stands near it when it is dropped on the ground.
+gadomancy.research_page.ESSENTIA_COMPRESSOR.4=By assembling a reinforced shell around the Element of Darkness and stabilizing essentia flow with an aqua aura core, a device that is capable of storing massive amounts of essentia can be created. In order to assemble the machine, place all three blocks on top of each other, and right click with a wand. The Essentia Condenser can store all types of essentia inside one construct, with a base capacity of 200 essentia that can be stored. The device does have some mechanical limitations though.
+gadomancy.research_page.ESSENTIA_COMPRESSOR.6=Due to the incredible amount of energy in the core of the Essentia Condenser, it cannot safely interact with pipes, nor can essentia be directly placed into the device by hand. Golems have to be used to insert the first bit of essentia into the condenser for it to start accepting on its own. Once essentia is stored however, the Condenser will actively pull in essentia from every available jar, reservoir, and mirror within 5 blocks of he device, however it only seems to pull from containers that have less essentia inside them than the main condenser. Although direct physical interaction with the Essentia Condenser is limited to golems, infusion altars as well any device that can pull from an essentia mirror can supply themselves.
+gadomancy.research_page.ESSENTIA_COMPRESSOR.8=The Essentia Condenser, like most things that contain large amounts of liquid essentia, does not deal with large amounts of physical stress very well. If any of the blocks in the structure are broken while any essentia is contained inside, the entire device will violently explode, leaving a large amount of flux and taint behind. Unlike its slightly more tame counterpart, the essentia reservoir, if the Essentia Condenser has any essentia within, it will release enough destabilized flux to immediately taint the land.
+gadomancy.research_page.ESSENTIA_COMPRESSOR.9=If an element of darkness is placed on an ancient pedestal near the condenser, the core of the condenser will consume it, allowing the condenser to increase its internal capacity by a reasonable amount. The highest point the capacity of the condenser can be pushed to with this method is 3000 per aspect.<LINE>You noticed while standing near the structure, that the pull of the Element of Darkness in the Condensers core is enough to gradually pull you closer. Could it be getting bigger? You don’t think so...hopefully...
+
+tc.research_name.GADOMANCY.NODE_MANIPULATOR=節點操縱
+tc.research_text.GADOMANCY.NODE_MANIPULATOR=和輪盤賭差不多
+gadomancy.research_page.NODE_MANIPULATOR.1=靈氣節點自一開始就一直吸引著你的注意力。它們到底從何而來？為什麼會有這麼多變種？片刻後，你發現你問出了一個終極問題：有無可能，改變一個節點的運作方式？遊歷五湖四海，潛入邪術迷宮，在旅途中你找到不少能改變靈氣運作方式的材料。小心處理這些材料，並利用這些東西，對你手頭唯一能從節點中提取純淨魔力的設備進行增強，最終你終於解開了你的問題，而答案是：一台極端危險的機械。
+gadomancy.research_page.NODE_MANIPULATOR.3=節點操縱儀，是台和法杖充能基座工作方式完全相反的機械：從法杖中抽取vis，使得節點變得些許不穩定化。<LINE>操縱儀的基座本身穩定性並不好，不能夠獨立完成節點操縱的任務。通過追加特製核心來持有用於提取vis的法杖(或手杖)，以及一系列用於導流vis的魔法柱，最終這個機械終於可以開動了。只需在基座上放置法杖(或手杖)，然後操縱儀就會自動開始運轉。
+gadomancy.research_page.NODE_MANIPULATOR.6=節點操縱儀需要至少六種元始要素的vis70點方可開始工作，但若給予超過70點的vis，效果似乎會更加明顯。<BR>除了你對節點行為的研究，你對節點操縱儀究竟會造出什麼樣的怪物還是一無所知。現在，只有親自上陣這一條路了...
+
+tc.research_name.GADOMANCY.E_PORTAL_CREATOR=虛空漫步者之門
+tc.research_text.GADOMANCY.E_PORTAL_CREATOR=步入虛空...
+gadomancy.research_page.E_PORTAL_CREATOR.1=“與怪物戰鬥的人，應當小心自己不要成為怪物。當你遠遠凝視深淵時，深淵也在凝視你。”<BR>-弗雷德里希.尼采，《善惡的彼岸》，1886<LINE>一開始只有一個奇跡：元始珍珠的發現。珍珠的光芒，揭示了世界和創世的秘密，但片刻後你感到一個珍珠還不夠。珍珠的光芒確實很溫暖，但卻斷斷續續，似是暗淡無光，猶若一粒火星。
+gadomancy.research_page.E_PORTAL_CREATOR.3=古老而黑暗的低聲細語開始在你的思慮中彌漫開來。這聲音比以前的要更大，也更堅定，這聲音在揭示一條道路，一條不是用來走的道路，黑暗無邊，卻通向力量之上的最強之力，隱沒於純粹虛空之邊際。你認為你知道這聲音究竟在說什麼，因為，你作為你的存在，已經觸及了這力量的一角。現在你只需要知道，如何找到這不可見不可及的道路了。
+gadomancy.research_page.E_PORTAL_CREATOR.4=毫無意外的是，這道路的問題的解，就在那邪術方尖碑裡。這古代機械包括了一個節點，而這節點卻有足夠的靈氣，以維持一個小型的傳送門的開啟。通過修改複合要素換能器的工作方式，以模仿方尖碑的工作方式，你可以做到和方尖碑一樣的vis重定向。<BR>這歌新的核心和普通的隨機核心不同，因為它需要放置在節點操縱儀上才能工作。
+gadomancy.research_page.E_PORTAL_CREATOR.6=要搭建門的框架，仍需要一個普通的節點操縱儀結構，但外部還需要四個重定向核心，而且此前隨機核心的位置要換上重定向核心。虛空漫步者之門需要六種元始要素各150點方可完成建造。<BR>建造完成後，還需在門四周放置四個邪術之眼，並需要在中心基座放置一柄含六種元始要素各120點的法杖或手杖。<BR>一旦門吸收了足夠多的要素，最上方的節點將會變為傳送門。
+gadomancy.research_page.E_PORTAL_CREATOR.8=第一眼望去，你認為它和邪術傳送門很像，但靠近了看，你能感受到它強大的力量，而且很不穩定。你已經看到了結局：這個門絕不可能在一個實體通過後生還，所以你不可能再從這個門回來。步入虛空漫步者之門後，你感受到了一種奇怪的預感和啟示，同時你感覺有幾百雙上古時代的眼睛在注視著你緩緩走向深淵...
+
+tc.research_name.GADOMANCY.BLOCK_PROTECTOR=虛弱力場發射器
+tc.research_text.GADOMANCY.BLOCK_PROTECTOR=我！受！夠！那！幫！該！死！的！爬！行！者！了！
+gadomancy.research_page.BLOCK_PROTECTOR.1=所有人——痛恨——爬行者。毫無例外，在那些建築師們的生涯中，總有那麼幾次，這些難以名狀的滿懷怒火的詭異生物，從各種方向，甚至是正前方，瞬間爆炸，將他們的傑作瞬間毀於一旦。<LINE>幾乎是偶然的機遇，你找到了一種徹底解決這個問題的有趣方法：一種源質氣體。將火藥於少量秩序源質混合，你發現這種混合物點燃後可以令它們無法爆炸。
+gadomancy.research_page.BLOCK_PROTECTOR.3=將源質直接轉化為氣體，並避免它們溶解為咒波，這絕對是不可能的事情。但，若是對那些煉金機械元件進行謹慎修改，並輔以紅石的幫助，也可以另闢蹊徑，利用液體源質達成一樣的效果。<BR>奧法弱化力場發射器會在有限的範圍內散佈明亮的秩序靈氣場。任何爬行者，在這個靈氣場的影響下都無法爆炸。發射器啟動是個緩慢的過程。它會吸收秩序源質，在被紅石信號啟動的情況下，緩慢地擴大其靈氣場的覆蓋範圍，直到其極限。
+gadomancy.research_page.BLOCK_PROTECTOR.4=發射器覆蓋的範圍可由紅石信號強度控制，還可以由比較器檢測。<BR>使用過一段時間後，你注意到一些令你喜出望外的事情：發射器產生的靈氣場已經變強了，不僅阻止了爬行者的爆炸，還阻止了其它生物破壞方塊。當然，這靈氣場的強度還不足以阻止玩家...
+
+
+tc.research_name.GADOMANCY.ANCIENT_STONES=荒古之石
+tc.research_text.GADOMANCY.ANCIENT_STONES=邪術裝飾
+gadomancy.research_page.ANCIENT_STONES.1=進入邪術迷宮，對於和你一樣閱歷豐厚的神秘使來說，並非是唯一的目標；那些惡魔可能不是優秀的室內設計師，但他們用的石材卻已被證明有極強的魔法潛力。<BR>將你每天使用的奧術石材暴露於邪術能量之下，也許就會使其的魔法屬性發生改變，更趨近於邪術世界的那種石頭。
+
+tc.research_name.GADOMANCY.GROWING=生長中的節點
+tc.research_text.GADOMANCY.GROWING=Feed me Semour
+gadomancy.research_page.GROWING.1=這節點...與眾不同。<BR>你只是希望充能節點是我們唯一可靠的vis來源，但這靈氣節點看上去也十分穩定。對一個靈氣節點充能會直接從其源頭抽取Vis到這個世界中，然後破壞它的要素直至元始要素。<BR>但是...這節點的行為確實和別的不一樣。它看上去似乎在找什麼...它看上去...在躁動。這種奇怪行為使得你開始擔憂起來。
+gadomancy.research_page.GROWING.2=它究竟在找什麼？就我有限的學識來說，這很像是饕餮節點，但是就是有什麼事情令節點十分不安。
+
+tc.research_name.GADOMANCY.GROWING_AGGRESSION=侵略行為
+tc.research_text.GADOMANCY.GROWING_AGGRESSION=有人呼叫特斯拉
+gadomancy.research_page.GROWING_AGGRESSION.1=忽然，也不知從何而來，節點突然放出了巨大的能量球。<BR>這也許是因為靈氣節點不穩定導致的vis流洩漏，並形成的能量弧。這些能量球似乎會被各種類似鮮活實體的物體吸引。<BR>你或許應該倒回去研究一下如何解決這個問題...
+
+tc.research_name.GADOMANCY.GROWING_GROWTH=生長行為
+tc.research_text.GADOMANCY.GROWING_GROWTH=捉摸不定
+gadomancy.research_page.GROWING_GROWTH.1=節點開始展現出類似饕餮節點的行為，換句話說，它開始生長了。<BR>但，和普通饕餮節點的不同似乎在於，它似乎只會吸引含有純淨要素的物體，例如小精靈和天域之華。<LINE>隨著研究深入，你發現這些純淨的要素似乎會和節點融為一體。要素球和小精靈被吸收得最多，因為它們也最純淨。
+gadomancy.research_page.GROWING_GROWTH.2=以源質形式存在的物質化或固體化vis，比如魔豆、天域之華或者晶化源質也可以被吸收，但是你覺得你給節點扔這些東西時應當小心謹慎...<BR>不過這個節點仍然比饕餮節點好的多。和身為哥哥的饕餮節點相比，這節點似乎會保留所有的複合要素，而不是將其分解為元始要素。似乎有什麼東西在對抗元始要素...
+
+tc.research_name.GADOMANCY.GROWING_ATTACK=破壞行為
+tc.research_text.GADOMANCY.GROWING_ATTACK=停止欺淩！
+gadomancy.research_page.GROWING_ATTACK.1=似乎生長中的節點不會欺負其它節點，等等，是直接徹底摧毀其它節點！若是一個生長節點的攻擊範圍內有另一個節點，那麼後一個節點將會遭到無情的攻擊，並被撕成要素球。<BR>進一步研究顯示，節點穩定器並不能阻止生長節點摧毀別的節點的過程，但是它似乎很識相，不會攻擊比自己大的節點。
+
+tc.research_name.GADOMANCY.GROWING_GROWTHCLUE=生長的秘密
+tc.research_text.GADOMANCY.GROWING_GROWTHCLUE=解釋清楚的生長
+gadomancy.research_page.GROWING_GROWTHCLUE.1=最終你終於弄清楚了節點生長背後掩藏的秘密和它潛在的危險！<LINE>以多種要素餵養的節點會變得穩定。若是只以一種要素餵養節點，節點最終會停止生長，變得不穩定，因為它已經過於飽和。<BR>它確實只能吸收純淨的要素。天域之華、晶化源質和魔豆只是弱物質化的vis而已，節點和它們的反應並不明顯...
+gadomancy.research_page.GROWING_GROWTHCLUE.2=除了節點會吞噬天域之華外，它似乎還很喜歡小精靈和要素球。似乎最好的選擇是拿節點來喂節點...然而這開銷也太高了。<LINE>同時也伴隨著巨大風險。節點越是飽和，其攻擊也越頻繁，傷害也越大。你現在開始思考，當節點完全飽和的時候會發生什麼...
+
+tc.research_name.GADOMANCY.AURA_CORE=Aura Core
+tc.research_text.GADOMANCY.AURA_CORE=Your surroundings matter!
+gadomancy.research_page.AURA_CORE.1=Many times, the strange properties of the primal charm have always been puzzling. Constantly spitting out small sparks of primal energy and changing colors in a completely unstable fasion, the charm's behavior is unlike anything else, making the primal charm most difficult to use. By encasing the charm in a layer of crystalized thaumium it is possible to calm these bizzarre tendencies, resulting in a much more usable object known as an Aura Core.
+gadomancy.research_page.AURA_CORE.3=Unlike the charm that it was constructed from, an Aura core has had most of the primal energy removed in the crafting process. This leaves Aura cores heavily susceptible to the presence of auras in the environment. Tossing one on the ground near a primal crystal cluster and then energizing the crystal cluster with a wand will cause the core to coat itself in an extra layer of crystal, forcing the core to tune to one primal aspect. Six primal cores are possible to make.<BR> Finding a use for the individual primal cores requires making them, and them inspecting them directly.
+
+tc.research_name.GADOMANCY.CLEAN_AURA_CORE=Core Cleaning
+tc.research_text.GADOMANCY.CLEAN_AURA_CORE=Mistakes were made
+gadomancy.research_page.CLEAN_AURA_CORE.1=Returning an Aura Core to it's original state has proven very simple. Tossing an aspect core into a special bath of essentia will allow the extra primal crystal coat to be removed without damaging the aura core.
+
+tc.research_name.GADOMANCY.AURA_PYLON=Aura Pylon
+tc.research_text.GADOMANCY.AURA_PYLON=Diffusing essentia
+gadomancy.research_page.AURA_PYLON.1=The aura pylon is a device that exploits the properties of an Aura Core tuned to Ignis. This device is able to be able to destabilize and evaporate essentia into the local aura. This process is a bit slow, and the essentia needs time to reach full concentration. When it does, the aura concentration should be enough to physically influence the environment.
+gadomancy.research_page.AURA_PYLON.4=After assembling the aura pylon, dropping a piece of crystalized essentia of the desired aspect on the ground nearby will allow the pylon to tune itself. Once the pylon pulls in the crystal and the flame on top changes color, liquid essentia can be fed into the bottom. Removing the crystal is as simple as getting close enough to pick it up.<BR>As for discovering what each different type of essentia does, the only way you think you think you can find out is to test them.
+
+tc.research_name.GADOMANCY.AURA_EFFECTS=Aura Effects
+tc.research_text.GADOMANCY.AURA_EFFECTS=What diffusing essentia actually does
+gadomancy.research_page.AURA_EFFECTS.1=Most types of essentia have their own unique effects, however some do not. either way, keeping a log of what each aspect does seems like a good idea.
+
+tc.research_name.GADOMANCY.ARCANE_PACKAGER=Arcane Packager
+tc.research_text.GADOMANCY.ARCANE_PACKAGER=PACK IT UP!
+gadomancy.research_page.ARCANE_PACKAGER.1=Scattered in dungeons, temples, and ruins throughout the world are strange objects called loot bags. They seem small and relatively tough and light, but when opened, the fabric simply disintergrates, leaving a pile of valuable bits and things. Sometimes the among of things even seems to defy the size of the bag.<BR>A closer inspection revealed that the bag is not actually made of fabric at all, but rather a fine mesh of stable Pannus essentia.
+gadomancy.research_page.ARCANE_PACKAGER.3=Not only that, but the fibers of essentia seem to weave themselves together even tighter when they are brought into contact with the pressure created by an aer tuned aura core.<BR>The Arcane Packager is a device that replicates the conditions needed for Pannus essentia to form threads. The result is a small package that behaves much the same as any other loot bag. These small packages can even be disguised as normal loot bags. The process can also be replicated with leather and strings, but the result looks really cheap.
+gadomancy.research_page.ARCANE_PACKAGER.4=Up to nine stacks of items can fit in one package, and when opened the bag will disintergrate and drop its contents into the holder's inventory. Even other lootbags can fit into another lootbag. However, the aer tuned aura core can only stabilize those threads to some degree. If the package gets too big, it might cause overpressure inside the packager. To stop this from happening, you adjusted the Arcane Packager to drop the items into the world if the pressure inside rises above a certain level. The Arcane Packager can be started with a redstone signal.
+
+tc.research_name.GADOMANCY.REVEALER=Thaumic Sight
+tc.research_text.GADOMANCY.REVEALER=Seeing the Seen
+gadomancy.research_page.REVEALER.1=After extensively studying the Goggles of Revealing, you have devised an enchantment that can give ant helmet the same properties.<BR> This enchantment gives any helmet the ability to let the wearer see aura nodes and amounts of essentia in jars. It does not give the vis discount of the goggles though.
+
+tc.research_name.GADOMANCY.ARMORDISGUISE=Armor Disguise
+tc.research_text.GADOMANCY.ARMORDISGUISE=Let the games begin!
+gadomancy.research_page.ARMORDISGUISE.1=You have found a way to change the appearance of your armor. The effects of the original armor will remain, while the appearance of the armor when worn will be that of the disguise.<BR> The original armor is placed on the central pedestal of the infusion, and the armor that will disguise the original is placed on the outer ring of pedestals.<BR>However, the item that will be used as disguise will merge into the other armor and its appearance will be the only thing left of it.
+gadomancy.research_page.ARMORDISGUISE.4=After giving it a second thought, you think if you replace the armor you want to have as new appearance with an invisibility potion, the potion might just merge with the armor, causing it to be fully transparent when worn.<LINE>Throwing the disguised armor into Purifying Fluid causes a reaction that removes the disguise effect. The armor used as disguise will be ripped off the other armor and reappears miraculously near the previously disguised armor.
+
+gadomancy.golemblurb.default=??
+gadomancy.golemblurb.breakcore=吾主，吾應粉碎萬物，又或僅何種方塊？
+gadomancy.golem.breakcore=破壞
+gadomancy.golem.bodyguardcore護法
+
+gadomancy.upgrades.runicshield=符文護盾
+
+gadomancy.lore.hasAdditionalLore=<按下SHIFT以顯示更多資訊>
+
+gadomancy.lore.stickyjar=粘性
+gadomancy.lore.remotejar=§7網路：%s
+
+gadomancy.lore.disguise.item=Disguised as %s
+gadomancy.lore.disguise.none=Transparent
+
+gadomancy.eldritch.portalPlacerCreative=創造傳送門放置器
+gadomancy.eldritch.noflyCreative=(甚至是在創造模式)
+gadomancy.eldritch.nobreakPortalNothing=該傳送門不可破壞。
+gadomancy.eldritch.portalSpawned=你感覺應該在開門時保持一段距離。
+
+tile.BlockStickyJar.name=粘性罐子
+tile.BlockArcaneDropper.name=奧術投擲器
+tile.BlockInfusionClaw.name=注魔爪
+tile.BlockRemoteJar.name=鏡像罐子
+tile.BlockNode.name=靈氣節點
+tile.BlockExtendedNodeJar.name=缸中節點
+tile.BlockNodeManipulator.5.name=節點操縱儀
+tile.BlockStoneMachine.0.name=隨機化核心
+tile.BlockStoneMachine.1.name=荒古基座
+tile.BlockStoneMachine.2.name=奧法弱化力場發射器
+tile.BlockStoneMachine.3.name=重定向核心
+tile.BlockStoneMachine.4.name=Arcane Packager
+tile.BlockStoneMachine.5.name=Ai Shutdown (WIP)
+tile.BlockStoneMachine.11.name=魔法柱
+tile.BlockStoneMachine.15.name=魔法柱
+tile.BlockAuraPylon.0.name=Aura Pylon
+tile.BlockAuraPylon.1.name=Aura Pylon Peak
+tile.BlockKnowledgeBook.name=Book of Knowledge
+tile.BlockEssentiaCompressor.name=Essentia Condenser
+
+gadomancy.nodes.GROWING=微光
+gadomancy.nodes.STARVING=饑餓
+
+gadomancy.auracore.unused=(Unused at the moment)
+gadomancy.auracore.blank=Blank
+
+gadomancy.aura.research.unlock=You've discovered the effects of %s essentia.
+
+gadomancy.aura.effect.aer=Creates a speed aura
+gadomancy.aura.effect.alienis_0=Nearby monsters become
+gadomancy.aura.effect.alienis_1=more dangerous
+gadomancy.aura.effect.arbor_0=Increases growth speed
+gadomancy.aura.effect.arbor_1=of nearby plants
+gadomancy.aura.effect.auram_0=Diffuses some vis
+gadomancy.aura.effect.auram_1=into the aura
+gadomancy.aura.effect.bestia=Summons beasts
+gadomancy.aura.effect.cognitio_0=Grants more knowledge
+gadomancy.aura.effect.cognitio_1=about primal aspects
+gadomancy.aura.effect.exanimis=Supports undead monsters
+gadomancy.aura.effect.fabrico=Improves your golems
+gadomancy.aura.effect.gelum_0=Cools down the
+gadomancy.aura.effect.gelum_1=surrounding aura
+gadomancy.aura.effect.herba_0=Heavily
+gadomancy.aura.effect.herba_1=increases growth speed
+gadomancy.aura.effect.herba_2=of nearby plants
+gadomancy.aura.effect.humanus_0=Temporarily increases
+gadomancy.aura.effect.humanus_1=your health
+gadomancy.aura.effect.ignis=Spreads fire
+gadomancy.aura.effect.instrumentum_0=Increases your
+gadomancy.aura.effect.instrumentum_1=digging speed
+gadomancy.aura.effect.limus_0=The aura
+gadomancy.aura.effect.limus_1=becomes more slimy
+gadomancy.aura.effect.lucrum=Increases your luck
+gadomancy.aura.effect.lux_0=Stops monster spawning
+gadomancy.aura.effect.lux_1=in the area
+gadomancy.aura.effect.mortuus=The aura becomes deadly
+gadomancy.aura.effect.pannus=Spawns wool on sheep
+gadomancy.aura.effect.perfodio_0=Heavily increases
+gadomancy.aura.effect.perfodio_1=your dig speed
+gadomancy.aura.effect.praecantatio_0=Increases your
+gadomancy.aura.effect.praecantatio_1=magic skills
+gadomancy.aura.effect.spiritus_0=The aura seems
+gadomancy.aura.effect.spiritus_1=more ghostly
+gadomancy.aura.effect.tempestas=Summons lightnings
+gadomancy.aura.effect.tenebrae_0=Darkness spreads
+gadomancy.aura.effect.tenebrae_1=in the aura
+gadomancy.aura.effect.venenum=Poisons its surroundings
+gadomancy.aura.effect.victus_0=Helps baby animals
+gadomancy.aura.effect.victus_1=to grow up faster
+gadomancy.aura.effect.vinculum_0=Traps and slows down
+gadomancy.aura.effect.vinculum_1=living things
+gadomancy.aura.effect.vitium=Spreads taint
+gadomancy.aura.effect.aqua_0=Helps you to
+gadomancy.aura.effect.aqua_1=breath underwater
+gadomancy.aura.effect.terra_0=Increases your
+gadomancy.aura.effect.terra_1=resistances
+gadomancy.aura.effect.ordo_0=Provides a weak
+gadomancy.aura.effect.ordo_1=healing aura
+gadomancy.aura.effect.motus=Increases your speed
+gadomancy.aura.effect.iter_0=Supports a you for a
+gadomancy.aura.effect.iter_1=longer journey
+gadomancy.aura.effect.sano_0=Provides a strong
+gadomancy.aura.effect.sano_1=healing aura
+gadomancy.aura.effect.volatus=Increases jump height
+gadomancy.aura.effect.tutamen_0=Increases your
+gadomancy.aura.effect.tutamen_1=resistances a lot
+gadomancy.aura.effect.fames=Makes you feel hungry
+gadomancy.aura.effect.sensus=Lightens up the night
+gadomancy.aura.effect.perditio_0=Creates an
+gadomancy.aura.effect.perditio_1=aura of weakness
+gadomancy.aura.effect.potentia=Increases your strength
+gadomancy.aura.effect.telum_0=Increases your
+gadomancy.aura.effect.telum_1=strength a lot
+gadomancy.aura.effect.vitreus_0=You can feel the
+gadomancy.aura.effect.vitreus_1=air blowing through
+gadomancy.aura.effect.vitreus_2=your stomach
+
+gadomancy.info.InfusionClaw.owner=You are now the owner.
+gadomancy.info.InfusionClaw.waila=§7Owner:
+gadomancy.info.InfusionClaw.lock=Keep useable wand
+
+gadomancy.info.ArcanePackage=點擊以打開，或放置于拆包器中
+gadomancy.info.InfusionClaw.owner=你現在是所有者。
+gadomancy.info.InfusionClaw.waila=§7所有者：
+gadomancy.info.InfusionClaw.lock=鎖定可用法杖
+
+gadomancy.info.RemoteJar.new=創建新源質網路
+gadomancy.info.RemoteJar.clear=從當前網路中斷開
+gadomancy.info.RemoteJar.connected=接入既有網路
+
+familiar.augment.shock.name=Lightning Impact
+familiar.augment.poison.name=Corrosive Venom
+familiar.augment.fire.name=Flash Burn
+familiar.augment.weakness.name=Enervation Impulse
+familiar.augment.damage.name=Arc Amplification
+familiar.augment.speed.name=Frequency Emission Overdrive
+familiar.augment.range.name=Sensitivity Boost
+
+potion.luck=Increased Luck
+potion.buffGolem=Golem Buff
+potion.achromatic=Achromatic
+potion.eldritch=Eldritch
+potion.visdiscount=Vis Affinity
+
+gadomancy.enchantment.revealer=Thaumic Sight
+

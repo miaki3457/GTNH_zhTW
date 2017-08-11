@@ -28,3 +28,5 @@ chisel(部份)
 computronics/lang(些微)
 
 computronics/doc(全部)
+
+gadomancy (部份)

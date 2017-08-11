@@ -1,0 +1,36 @@
+﻿#Items
+item.floodlights:rawFilament.name=生燈絲
+item.floodlights:glowingFilament.name=發光燈絲
+item.floodlights:electricIncandescentLightBulb.name=白熾燈
+item.floodlights:carbonDissolver.name=燃油溶解劑
+item.floodlights:carbonLantern.name=非電動手提燈
+item.floodlights:mantle.name=披風
+item.floodlights:lightDebugTool.name=光方塊偵錯工具
+
+#TileEntities
+tile.floodlights:carbonFloodlight.name=非電動泛光燈
+tile.floodlights:electricFloodlight.name=電動泛光燈
+tile.floodlights:smallElectricFloodlight.name=小型非電動泛光燈
+tile.floodlights:uvFloodlight.name=紫外線泛光燈
+tile.floodlights:smallElectricFloodlightMetaBlock_smallFluorescent.name=小型日光燈
+tile.floodlights:smallElectricFloodlightMetaBlock_squareFluorescent.name=方型日光燈
+tile.floodlights:growLight.name=植物生長燈
+
+#GUI
+gui.floodlights:nonElectricFloodlightTimeRemaining=剩餘時間
+gui.floodlights:RFStorage= RF儲存
+gui.floodlights:invert=反轉
+gui.floodlights:mode=模式
+gui.floodlights:true=真
+gui.floodlights:false=假
+gui.floodlights:straight=直接
+gui.floodlights:narrowCone=窄錐
+gui.floodlights:wideCone=寬錐
+gui.floodlights:minutesShort=分
+gui.floodlights:secondsShort=秒
+gui.floodlights:growLightLighting=正常照明
+gui.floodlights:growLightDarkLight=黑光燈
+
+# Creative Tabs
+itemGroup.floodlights=泛光燈
+
