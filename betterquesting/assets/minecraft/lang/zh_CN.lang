@@ -1,649 +1,649 @@
 ﻿#################################Quests#################################
 
 #Quest_0.Your first night
-gtnh.quest0.name=第一個夜晚 (Your first night)
-gtnh.quest0.desc=你的首要任務是尋找食物，並為夜晚提供避難所。夜晚將是殘酷的，因為這個模組包擁有困難版的黑暗環境。現在收集一些食物可能是一個好主意...​ 
+gtnh.quest0.name=第一个夜晚 (Your first night)
+gtnh.quest0.desc=你的首要任务是寻找食物，并为夜晚提供避难所。夜晚将是残酷的，因为这个模块包拥有困难版的黑暗环境。现在收集一些食物可能是一个好主意...​ 
 
 #Quest_1.Where is the flint?
-gtnh.quest1.name=燧石在哪兒？ (Where is the flint?)
-gtnh.quest1.desc=你可能已經注意到了，當你收集礫石的時候，沒有一塊燧石掉落......好吧，這裡有一個......配方。查閱NEI中燧石的配方，並且做一些出來！ 
+gtnh.quest1.name=燧石在哪儿？ (Where is the flint?)
+gtnh.quest1.desc=你可能已经注意到了，当你收集砾石的时候，没有一块燧石掉落......好吧，这里有一个......配方。查阅NEI中燧石的配方，并且做一些出来！ 
 
 #Quest_2.Sticks 'n Stones
-gtnh.quest2.name=棍與石頭 (Sticks 'n Stones)
-gtnh.quest2.desc=你真幸運！這本書有內建閱讀燈光。你可能會在等待夜晚結束時閱讀這篇文章。一旦你離開了你的避難所，去收集一些礫石和木材。記住，你需要食物。去尋找潘馬斯的菜園（並保存一些種子！）。 
+gtnh.quest2.name=棍与石头 (Sticks 'n Stones)
+gtnh.quest2.desc=你真幸运！这本书有内建阅读灯光。你可能会在等待夜晚结束时阅读这篇文章。一旦你离开了你的避难所，去收集一些砾石和木材。记住，你需要食物。去寻找潘马斯的菜园（并保存一些种子！）。 
 
 #Quest_3.Storage for days
-gtnh.quest3.name=儲存之日	(Storage for days)
-gtnh.quest3.desc=現在你有了3×3的工作台，該為你的物品準備一些存儲空間了！用你的一些木頭來做一個箱子，你將需要4個原木，4塊木材和一個燧石。
+gtnh.quest3.name=储存之日	(Storage for days)
+gtnh.quest3.desc=现在你有了3×3的工作台，该为你的物品准备一些存储空间了！用你的一些木头来做一个箱子，你将需要4个原木，4块木材和一个燧石。
 
 #Quest_4.Crafting time
-gtnh.quest4.name=製作時間 (Crafting time)
-gtnh.quest4.desc=是時候解鎖3x3的工作台了。拿一些燧石和原木，製造一個!
+gtnh.quest4.name=制作时间 (Crafting time)
+gtnh.quest4.desc=是时候解锁3x3的工作台了。拿一些燧石和原木，制造一个!
  
 #Quest_5.Tools
 gtnh.quest5.name=基本工具 (Tools)
-gtnh.quest5.desc=現在你有一個避難所、工作台和一個儲存你物品的地方。你應該開始做一些基本工具了。(除非你想繼續空手撸樹...)
+gtnh.quest5.desc=现在你有一个避难所、工作台和一个储存你物品的地方。你应该开始做一些基本工具了。(除非你想继续空手撸树...)
 
 #Quest_6.You reap...
-gtnh.quest6.name=要怎麼收穫... (You reap...)
-gtnh.quest6.desc=你不會總是從這本書獲得食物獎勵，想辦法處理這個問題。當你製作了一個鋤頭，去附近找點水源建造一塊農田吧！讓我們用木棍換一些胡蘿蔔，這樣你就可以建造你的農場了。
+gtnh.quest6.name=要怎么收获... (You reap...)
+gtnh.quest6.desc=你不会总是从这本书获得食物奖励，想办法处理这个问题。当你制作了一个锄头，去附近找点水源建造一块农田吧！让我们用木棍换一些胡萝卜，这样你就可以建造你的农场了。
 
 #Quest_7....what you sow
-gtnh.quest7.name=...先怎麼栽 (...what you sow)
-gtnh.quest7.desc=如果你讀了以前的任務並種下了胡蘿蔔，那你好棒棒。同時，你應該把更多的水果和蔬菜做成種子種植到你的農田，直到你有穩定的食物來源。
+gtnh.quest7.name=...先怎么栽 (...what you sow)
+gtnh.quest7.desc=如果你读了以前的任务并种下了胡萝卜，那你好棒棒。同时，你应该把更多的水果和蔬菜做成种子种植到你的农田，直到你有稳定的食物来源。
 
 #Quest_8.Get that stone
-gtnh.quest8.name=得到石頭 (Get that stone)
-gtnh.quest8.desc=看看你和你閃亮的燧石鎬！是時候挖出一些鵝卵石了，耶！(也許你還可以改善這個泥土小屋...)
+gtnh.quest8.name=得到石头 (Get that stone)
+gtnh.quest8.desc=看看你和你闪亮的燧石镐！是时候挖出一些鹅卵石了，耶！(也许你还可以改善这个泥土小屋...)
 
 #Quest_9.Fire, fire, Grandpa!
 gtnh.quest9.name=火、火、阿公！ (Fire, fire, Grandpa!)
-gtnh.quest9.desc=該燒一些木料了不是嗎？雖然你不能在熔爐中燒製木炭，但你肯定很快就會找到它的方法。
+gtnh.quest9.desc=该烧一些木料了不是吗？虽然你不能在熔炉中烧制木炭，但你肯定很快就会找到它的方法。
 
 #Quest_10.Rest in pieces
 gtnh.quest10.name=息止安所 (Rest in pieces)
-gtnh.quest10.desc=狩獵時間！去殺一些豬來取得肉。(牠們會掉下熟豬肉，現在不是那麼的有用...)
+gtnh.quest10.desc=狩猎时间！去杀一些猪来取得肉。(牠们会掉下熟猪肉，现在不是那么的有用...)
 
 #Quest_11.Sharpness: Over... 5...
-gtnh.quest11.name=銳度:超過...5... (Sharpness: Over... 5...)
-gtnh.quest11.desc=該做些有用的東西了︰一把劍！
+gtnh.quest11.name=锐度:超过...5... (Sharpness: Over... 5...)
+gtnh.quest11.desc=该做些有用的东西了︰一把剑！
 
 #Quest_12.Fluffy and red
-gtnh.quest12.name=毛茸茸紅通通 (Fluffy and red)
-gtnh.quest12.desc=史詩任務︰屠殺綿羊！(順便試著撿些羊毛，不用我說你也知道那可以用來做成床吧。)
+gtnh.quest12.name=毛茸茸红通通 (Fluffy and red)
+gtnh.quest12.desc=史诗任务︰屠杀绵羊！(顺便试着捡些羊毛，不用我说你也知道那可以用来做成床吧。)
 
 #Quest_13.SO...TIRED...MUST...SLEEP...
-gtnh.quest13.name=好累...必須...睡覺... (SO...TIRED...MUST...SLEEP...)
-gtnh.quest13.desc=睡覺時間到了︰恭喜從0階畢業！你已經獨自建造了你的第一個窩，你現在應該有一個穩定的食物來源了。期待在第1階見到你！
+gtnh.quest13.name=好累...必须...睡觉... (SO...TIRED...MUST...SLEEP...)
+gtnh.quest13.desc=睡觉时间到了︰恭喜从0阶毕业！你已经独自建造了你的第一个窝，你现在应该有一个稳定的食物来源了。期待在第1阶见到你！
 
 #Quest_14.What is that...?
-gtnh.quest14.name=這是什麼玩意兒？ (What is that...?)
-gtnh.quest14.desc=你已經看過很多樹了，而有幾棵看起來很特殊的，你很確信它們的功用絕對不只是拿來蓋房子或是燒成木炭。
+gtnh.quest14.name=这是什么玩意儿？ (What is that...?)
+gtnh.quest14.desc=你已经看过很多树了，而有几棵看起来很特殊的，你很确信它们的功用绝对不只是拿来盖房子或是烧成木炭。
 
 #Quest_15.Ready, set, go!
-gtnh.quest15.name=準備好了？GO！ (Ready, set, go!)
-gtnh.quest15.desc=你差不多該有一個家了。不論何時，最基本的都是要有一個穩定的食物來源。在旅途中，拿著日誌來持續追蹤那些你吃過的東西。在這個階段，你將會有一個路途遙遠的旅程，最好做足準備囉！
+gtnh.quest15.name=准备好了？GO！ (Ready, set, go!)
+gtnh.quest15.desc=你差不多该有一个家了。不论何时，最基本的都是要有一个稳定的食物来源。在旅途中，拿着日志来持续追踪那些你吃过的东西。在这个阶段，你将会有一个路途遥远的旅程，最好做足准备啰！
 
 #Quest_16.Better Tank... Iron Tank
-gtnh.quest16.name=更好的水箱...鐵製水箱 (Better Tank... Iron Tank)
-gtnh.quest16.desc=想要在一個水箱中儲存超過16桶液體？那就做一個鐵製水箱或升級你的小水箱，鑽石水箱可以儲存64桶，而黑曜石水箱則可以防爆。
+gtnh.quest16.name=更好的水箱...铁制水箱 (Better Tank... Iron Tank)
+gtnh.quest16.desc=想要在一个水箱中储存超过16桶液体？那就做一个铁制水箱或升级你的小水箱，钻石水箱可以储存64桶，而黑曜石水箱则可以防爆。
 
 #Quest_17.Sand: The Gathering
-gtnh.quest17.name=積沙成塔 (Sand: The Gathering)
-gtnh.quest17.desc=你發現一個很大的構造可以讓你燒製木炭並做成一些火炬！根據你的計算，你需要很多的沙子。
+gtnh.quest17.name=积沙成塔 (Sand: The Gathering)
+gtnh.quest17.desc=你发现一个很大的构造可以让你烧制木炭并做成一些火炬！根据你的计算，你需要很多的沙子。
 
 #Quest_18.Basic processing
 gtnh.quest18.name=基本加工 (Basic processing)
-gtnh.quest18.desc=目前大多數的東西都無法使用，所以我們先從簡單的東西開始吧。拿一些鵝卵石，並將他們燒成普通的石頭。因為這MOD很機歪，所以你需要使用木材來當燃料，是不是很棒啊？
+gtnh.quest18.desc=目前大多数的东西都无法使用，所以我们先从简单的东西开始吧。拿一些鹅卵石，并将他们烧成普通的石头。因为这MOD很机歪，所以你需要使用木材来当燃料，是不是很棒啊？
 
 #Quest_19.Maceration v0.1 Alpha
-gtnh.quest19.name=粉碎機 v0.1 Alpha (Maceration v0.1 Alpha)
-gtnh.quest19.desc=這個花俏的小東西用起來(幾乎..)和粉碎機一樣，有些人說他更好用，因為他不需要任何能量，耶！在這個任務中你只需要製作一次，但可以的話，你應該做更多...
+gtnh.quest19.name=粉碎机 v0.1 Alpha (Maceration v0.1 Alpha)
+gtnh.quest19.desc=这个花俏的小东西用起来(几乎..)和粉碎机一样，有些人说他更好用，因为他不需要任何能量，耶！在这个任务中你只需要制作一次，但可以的话，你应该做更多...
 
 #Quest_20.Gravel: The Gathering
 gtnh.quest20.name=聚石成塔 (Gravel: The Gathering)
-gtnh.quest20.desc=你的工具最終將會失去所有的耐久度。你認為收集更多的礫石是個好主意，以便為日後製造工具提供燧石。
+gtnh.quest20.desc=你的工具最终将会失去所有的耐久度。你认为收集更多的砾石是个好主意，以便为日后制造工具提供燧石。
 
 #Quest_21.Clay: The Gathering
-gtnh.quest21.name=黏土聚會 (Clay: The Gathering)
-gtnh.quest21.desc=有點無聊，你覺得做陶器消磨時間是個好主意。你應該去河岸找一些黏土。
+gtnh.quest21.name=黏土聚会 (Clay: The Gathering)
+gtnh.quest21.desc=有点无聊，你觉得做陶器消磨时间是个好主意。你应该去河岸找一些黏土。
 
 #Quest_22.Finite water!?
 gtnh.quest22.name=有限的水！？ (Finite water!?)
-gtnh.quest22.desc=有限的水肯定是個問題。你昨晚想到：既然可以喝仙人掌內的水，應該也可以將仙人掌用在需要用水的配方中。酷吧！所以要不要用十個原木跟我換三個仙人掌，你就可以建造一個仙人掌田。
+gtnh.quest22.desc=有限的水肯定是个问题。你昨晚想到：既然可以喝仙人掌内的水，应该也可以将仙人掌用在需要用水的配方中。酷吧！所以要不要用十个原木跟我换三个仙人掌，你就可以建造一个仙人掌田。
 
 #Quest_23.Something to carry liquids
-gtnh.quest23.name=裝液體的東西 (Something to carry liquids)
-gtnh.quest23.desc=你試圖用你的雙手裝點水，但沒啥鳥用。幸運的是，你還記得怎麼用黏土做一個桶子。
+gtnh.quest23.name=装液体的东西 (Something to carry liquids)
+gtnh.quest23.desc=你试图用你的双手装点水，但没啥鸟用。幸运的是，你还记得怎么用黏土做一个桶子。
 
 #Quest_24.Getting (char)coal
-gtnh.quest24.name=獲得木炭 (Getting (char)coal)
-gtnh.quest24.desc=該幫自己弄點木炭了。為此，我們要建造一個焦炭爐。幹得好，你剛剛收集了很多資源！(好巧啊...)
+gtnh.quest24.name=获得木炭 (Getting (char)coal)
+gtnh.quest24.desc=该帮自己弄点木炭了。为此，我们要建造一个焦炭炉。干得好，你刚刚收集了很多资源！(好巧啊...)
 
 #Quest_25.Another brick in the wall
-gtnh.quest25.name=牆上的另一塊磚 (Another brick in the wall)
-gtnh.quest25.desc=你的目標變得更明確，你將需要磚塊來完成你的第一個多方塊構造。你認為104個磚塊應該足夠了。但是，你需要的方塊有點特別，請確定你的製作方式是否正確！
+gtnh.quest25.name=墙上的另一块砖 (Another brick in the wall)
+gtnh.quest25.desc=你的目标变得更明确，你将需要砖块来完成你的第一个多方块构造。你认为104个砖块应该足够了。但是，你需要的方块有点特别，请确定你的制作方式是否正确！
 
 #Quest_26.Forming press v0.1
-gtnh.quest26.name=沖壓機v0.1 (Forming press v0.1)
-gtnh.quest26.desc=就像你注意到的，你沒辦法直接讓黏土變成磚塊－－好啦，客觀來說，不管從哪點來看他也不是什麼好配方，反正你大概要做好成品是某種長方形玩意的準備了。所以呢，為了做些磚塊，你得要有一把刀和一個空的模具，然後切下一塊磚塊大小的東西。你看，很簡單吧？
+gtnh.quest26.name=冲压机v0.1 (Forming press v0.1)
+gtnh.quest26.desc=就像你注意到的，你没办法直接让黏土变成砖块－－好啦，客观来说，不管从哪点来看他也不是什么好配方，反正你大概要做好成品是某种长方形玩意的准备了。所以呢，为了做些砖块，你得要有一把刀和一个空的模具，然后切下一块砖块大小的东西。你看，很简单吧？
 
 #Quest_27.Finally, some power
-gtnh.quest27.name=總算有些動力了 (Finally, some power)
-gtnh.quest27.desc=現在你有一個焦炭爐了，你該開始生產些木炭了！越多越好！不用擔心雜酚油的問題，我可以跟你做筆交易...
+gtnh.quest27.name=总算有些动力了 (Finally, some power)
+gtnh.quest27.desc=现在你有一个焦炭炉了，你该开始生产些木炭了！越多越好！不用担心杂酚油的问题，我可以跟你做笔交易...
 
 #Quest_28.Copper sky, Iron curtain
-gtnh.quest28.name=天銅地鐵 (Copper sky, Iron curtain)
-gtnh.quest28.desc=在你取得了新的燃料後，你可以處理一些比石頭或黏土更高階的原料了，例如--鐵，或者銅。以防萬一提醒一下，你大概不清楚鐵和銅藏在相當大的礦脈裡頭，可以跟著任務指示找出最重要的那條礦脈。
+gtnh.quest28.name=天铜地铁 (Copper sky, Iron curtain)
+gtnh.quest28.desc=在你取得了新的燃料后，你可以处理一些比石头或黏土更高阶的原料了，例如--铁，或者铜。以防万一提醒一下，你大概不清楚铁和铜藏在相当大的矿脉里头，可以跟着任务指示找出最重要的那条矿脉。
 
 #Quest_29.Another fuel source
-gtnh.quest29.name=另一個燃料來源 (Another fuel source)
-gtnh.quest29.desc=你絕對需要褐炭和一般的煤炭。後者製作成的焦炭是一種絕佳燃料，可以用來冶煉你第一批數量可觀的礦石！
+gtnh.quest29.name=另一个燃料来源 (Another fuel source)
+gtnh.quest29.desc=你绝对需要褐炭和一般的煤炭。后者制作成的焦炭是一种绝佳燃料，可以用来冶炼你第一批数量可观的矿石！
 
 #Quest_30.Copper
-gtnh.quest30.name=銅 (Copper)
-gtnh.quest30.desc=黃銅礦、孔雀石礦，或者直接熔煉銅礦都可以獲得銅錠。
+gtnh.quest30.name=铜 (Copper)
+gtnh.quest30.desc=黄铜矿、孔雀石矿，或者直接熔炼铜矿都可以获得铜锭。
 
 #Quest_31.Tin
-gtnh.quest31.name=錫 (Tin)
-gtnh.quest31.desc=錫錠可以藉由冶煉錫礦或錫石礦獲得。
+gtnh.quest31.name=锡 (Tin)
+gtnh.quest31.desc=锡锭可以藉由冶炼锡矿或锡石矿获得。
 
 #Quest_32.Book parts
-gtnh.quest32.name=書籍部分 (Book parts)
-gtnh.quest32.desc=在你找到方法運水後，你又有了另外一個超棒的點子--紙！別再用甘蔗做紙了，你現在需要的是木漿。你需要一大堆的木頭來做木漿，你最好趕緊拿起你的斧頭去砍些樹吧。
+gtnh.quest32.name=书籍部分 (Book parts)
+gtnh.quest32.desc=在你找到方法运水后，你又有了另外一个超棒的点子--纸！别再用甘蔗做纸了，你现在需要的是木浆。你需要一大堆的木头来做木浆，你最好赶紧拿起你的斧头去砍些树吧。
 
 #Quest_33.Tinker-time
-gtnh.quest33.name=匠魂時間 (Tinker-time)
-gtnh.quest33.desc=用燧石玩意去燒豬豬或牛群是很有趣，但它終究不是很好的工具，何況還不能被維修。然而，你發現了一種新的工具不僅可以被修復還可以升級！但你絕對需要更進階的製作技術。
+gtnh.quest33.name=匠魂时间 (Tinker-time)
+gtnh.quest33.desc=用燧石玩意去烧猪猪或牛群是很有趣，但它终究不是很好的工具，何况还不能被维修。然而，你发现了一种新的工具不仅可以被修复还可以升级！但你绝对需要更进阶的制作技术。
 
 #Quest_34.Aluminini...um...?
-gtnh.quest34.name=阿嚕咪妮妮...唔咪---？ (Aluminini...um...?)
-gtnh.quest34.desc=不管怎樣你成功唸出它了，你會需要它的。試著在河裡找一下吧，你能在地表的礫石塊裡找到鋁的。（此為支線任務，但建議完成。）
+gtnh.quest34.name=阿噜咪妮妮...唔咪---？ (Aluminini...um...?)
+gtnh.quest34.desc=不管怎样你成功念出它了，你会需要它的。试着在河里找一下吧，你能在地表的砾石块里找到铝的。（此为支线任务，但建议完成。）
 
 #Quest_35.Making bronze
-gtnh.quest35.name=製作青銅 (Making bronze)
-gtnh.quest35.desc=你現在已經找到銅和錫了，你應該為你自己做些青銅。試著用你的榔頭錘…我是說研缽，搗碎些銅錠和錫錠，然後再混合它們！
+gtnh.quest35.name=制作青铜 (Making bronze)
+gtnh.quest35.desc=你现在已经找到铜和锡了，你应该为你自己做些青铜。试着用你的榔头锤…我是说研钵，捣碎些铜锭和锡锭，然后再混合它们！
 
 #Quest_36.Important tools
 gtnh.quest36.name=重要的工具 (Important tools)
-gtnh.quest36.desc=為了做些最基本的機器，你需要一些新的工具，這些工具在之後都可以被機器替代。而現在呢，鑒於你將需要大量的工具，從今天起。你應該熟悉每個工具的製作方法。這些新工具可以用來製作Railcraft水箱，基於水源十分有限的狀態下，這傢伙可是非常實用的多方塊結構。
+gtnh.quest36.desc=为了做些最基本的机器，你需要一些新的工具，这些工具在之后都可以被机器替代。而现在呢，鉴于你将需要大量的工具，从今天起。你应该熟悉每个工具的制作方法。这些新工具可以用来制作Railcraft水箱，基于水源十分有限的状态下，这家伙可是非常实用的多方块结构。
 
 #Quest_37.Getting iron
-gtnh.quest37.name=取得鐵 (Getting iron)
-gtnh.quest37.desc=在各種礦脈裡都可以找到鐵，磁鐵礦脈（30-180層）、黃銅礦脈（5-60層）和褐鐵礦脈（10-40層）等，都能挖掘到鐵礦。
+gtnh.quest37.name=取得铁 (Getting iron)
+gtnh.quest37.desc=在各种矿脉里都可以找到铁，磁铁矿脉（30-180层）、黄铜矿脉（5-60层）和褐铁矿脉（10-40层）等，都能挖掘到铁矿。
 
 #Quest_38.Making better tools
 gtnh.quest38.name=做些更好的工具 (Making better tools)
-gtnh.quest38.desc=有了鋁和銅後，你可以做些更漂亮耐用的金屬－－鋁黃銅！它還可以拿來製作更好的工具、用來開採更好的礦石！但你先要有一個冶煉爐。你可以在附近村莊裡找找看，或者看看書上標「多方塊結構」的章節。
+gtnh.quest38.desc=有了铝和铜后，你可以做些更漂亮耐用的金属－－铝黄铜！它还可以拿来制作更好的工具、用来开采更好的矿石！但你先要有一个冶炼炉。你可以在附近村庄里找找看，或者看看书上标「多方块结构」的章节。
 
 #Quest_39.Better storage
-gtnh.quest39.name=更好的倉庫 (Better storage)
-gtnh.quest39.desc=這些標準的箱子拿來存放你的一般道具或者產品是很好啦，但對於儲藏大量的礦石就不是那麼理想了。你應該給你自己建造一些桶子，好讓你的倉庫更有秩序些。
+gtnh.quest39.name=更好的仓库 (Better storage)
+gtnh.quest39.desc=这些标准的箱子拿来存放你的一般道具或者产品是很好啦，但对于储藏大量的矿石就不是那么理想了。你应该给你自己建造一些桶子，好让你的仓库更有秩序些。
 
 #Quest_40.You shall proceed
-gtnh.quest40.name=該繼續向前了 (You shall proceed)
-gtnh.quest40.desc=當你為你的基礎蒸汽機蒐集好所有材料、製作出所有工具後，你該準備前往下一階段了。請記得，為了製作那些最簡單的東西，你將需要山上的資源，所以在這個階段你也許該準備好所有的礦石，但要不要這麼做就看你自己決定了。
+gtnh.quest40.name=该继续向前了 (You shall proceed)
+gtnh.quest40.desc=当你为你的基础蒸汽机搜集好所有材料、制作出所有工具后，你该准备前往下一阶段了。请记得，为了制作那些最简单的东西，你将需要山上的资源，所以在这个阶段你也许该准备好所有的矿石，但要不要这么做就看你自己决定了。
 
 #Quest_41.Don't burn your fingers!
-gtnh.quest41.name=別燒了你的手指！ (Don't burn your fingers!)
-gtnh.quest41.desc=你先前決定該是時候做些美味比薩了，結果卻是燒掉了自己的手指頭。讀了本古老的食譜後，你發現有一副魔法道具讓你可以拿起任何高溫的東西，包括一桶岩漿！PS:手套要裝備在飾品欄內。
+gtnh.quest41.name=别烧了你的手指！ (Don't burn your fingers!)
+gtnh.quest41.desc=你先前决定该是时候做些美味比萨了，结果却是烧掉了自己的手指头。读了本古老的食谱后，你发现有一副魔法道具让你可以拿起任何高温的东西，包括一桶岩浆！PS:手套要装备在饰品栏内。
 
 #Quest_42.Cow Tipper
 gtnh.quest42.name=牛牛推倒者 (Cow Tipper)
-gtnh.quest42.desc=在你殺了些豬與羊來完成任務之前，現在，是時候邊祈禱能得到些皮革、邊來宰些牛了。如果你很幸運，而且得到了乳牛戰利品，未來你就不需要再殺其他的牛了。
+gtnh.quest42.desc=在你杀了些猪与羊来完成任务之前，现在，是时候边祈祷能得到些皮革、边来宰些牛了。如果你很幸运，而且得到了乳牛战利品，未来你就不需要再杀其他的牛了。
 
 #Quest_43.Cotton, cotton and more cotton
-gtnh.quest43.name=棉花，棉花，還有更多的棉花！ (Cotton, cotton and more cotton)
-gtnh.quest43.desc=你發現棉花的用處了，它可以用來做些繩子、織品，或者其他有用的道具。來弄個小棉花田，收穫數以噸計的棉花！
+gtnh.quest43.name=棉花，棉花，还有更多的棉花！ (Cotton, cotton and more cotton)
+gtnh.quest43.desc=你发现棉花的用处了，它可以用来做些绳子、织品，或者其他有用的道具。来弄个小棉花田，收获数以吨计的棉花！
 
 #Quest_44.Welcome to Tier 1
-gtnh.quest44.name=歡迎來到第一階段
-gtnh.quest44.desc=歡迎，到目前為止做得好！在這個階段你將擁有你的第一部機器、獲得更多礦物產品，並且更有效率的製作銅錠。
+gtnh.quest44.name=欢迎来到第一阶段
+gtnh.quest44.desc=欢迎，到目前为止做得好！在这个阶段你将拥有你的第一部机器、获得更多矿物产品，并且更有效率的制作铜锭。
 
 #Quest_45.Multiblock tanks... Railcraft tanks
-gtnh.quest45.name=多方塊結構水塔...Railcraft蓄水槽 (Multiblock tanks... Railcraft tanks)
-gtnh.quest45.desc=576桶的容量，這應該夠你儲存你截至目前為止所獲得的雜酚油了吧！如果不夠的話，你可以讓這個蓄水槽更大！最小的蓄水槽大小是 3 x 3 x 4 ，而最大的則是 9 x 9 x 8。（提示：如果你把閥門放在水槽底部的話，裡頭的東西即使沒有任何幫浦也會自動流出。）
+gtnh.quest45.name=多方块结构水塔...Railcraft蓄水槽 (Multiblock tanks... Railcraft tanks)
+gtnh.quest45.desc=576桶的容量，这应该够你储存你截至目前为止所获得的杂酚油了吧！如果不够的话，你可以让这个蓄水槽更大！最小的蓄水槽大小是 3 x 3 x 4 ，而最大的则是 9 x 9 x 8。（提示：如果你把阀门放在水槽底部的话，里头的东西即使没有任何帮浦也会自动流出。）
 
 #Quest_46.More advanced alloys
-gtnh.quest46.name=更多高級合金 (More advanced alloys)
-gtnh.quest46.desc=你的冶煉爐很好的將金屬混合、熔煉成了合金，但並不是很有效率，而且還十分受限於它的複雜性。你需要換台新的，那何不把你的蒸氣拿來用用？在加工生橡膠的時候，它可能可以派上用場。
+gtnh.quest46.name=更多高级合金 (More advanced alloys)
+gtnh.quest46.desc=你的冶炼炉很好的将金属混合、熔炼成了合金，但并不是很有效率，而且还十分受限于它的复杂性。你需要换台新的，那何不把你的蒸气拿来用用？在加工生橡胶的时候，它可能可以派上用场。
 
 #Quest_47.Upgrade: High speed alloys
-gtnh.quest47.name=升級：高速合金 (Upgrade: High speed alloys)
-gtnh.quest47.desc=就像大多數的機器一樣，這裡有個更高階的合金冶煉爐。請記得，這台機器需要大量的蒸氣，所以你最好先準備更多的鍋爐。（此為支線任務）
+gtnh.quest47.name=升级：高速合金 (Upgrade: High speed alloys)
+gtnh.quest47.desc=就像大多数的机器一样，这里有个更高阶的合金冶炼炉。请记得，这台机器需要大量的蒸气，所以你最好先准备更多的锅炉。（此为支线任务）
 
 #Quest_48.A very important alloy
-gtnh.quest48.name=一個非常重要的合金 (A very important alloy)
-gtnh.quest48.desc=最重要的合金當然是紅色合金（直到你到達更高的階段之前啦）！幸運的是，你有一台合金冶煉爐，所以，抓起些紅石來和銅結合，送你自己一撮這玩意吧！
+gtnh.quest48.name=一个非常重要的合金 (A very important alloy)
+gtnh.quest48.desc=最重要的合金当然是红色合金（直到你到达更高的阶段之前啦）！幸运的是，你有一台合金冶炼炉，所以，抓起些红石来和铜结合，送你自己一撮这玩意吧！
 
 #Quest_49.The hell is that?
-gtnh.quest49.name=什麼鬼東西？ (The hell is that?)
-gtnh.quest49.desc=為了得到更多的機器，你需要活塞。可不是要那些業餘的東西，你缺的是特別的那種，而我將指導你該如何做出他們。
+gtnh.quest49.name=什么鬼东西？ (The hell is that?)
+gtnh.quest49.desc=为了得到更多的机器，你需要活塞。可不是要那些业余的东西，你缺的是特别的那种，而我将指导你该如何做出他们。
 
 #Quest_50.Macerator v1.0!
-gtnh.quest50.name=粉碎機 v1.0！ (Macerator v1.0!)
-gtnh.quest50.desc=你總算可以做出一個取代研缽的裝置了。無論如何，想要一個不會被消耗掉的裝置是需要付出代價的--你需要兩顆鑽石來做研磨錘。
+gtnh.quest50.name=粉碎机 v1.0！ (Macerator v1.0!)
+gtnh.quest50.desc=你总算可以做出一个取代研钵的装置了。无论如何，想要一个不会被消耗掉的装置是需要付出代价的--你需要两颗钻石来做研磨锤。
 
 #Quest_51.Extracting stuff
 gtnh.quest51.name=提取些玩意(Extracting stuff)
-gtnh.quest51.desc=為了之後需要橡膠來包裹電線、做些電纜，你該弄台蒸氣提取機了。你也可以用這台機器來從花朵裡得到更多的染料，或者將各種水果做成果汁。
+gtnh.quest51.desc=为了之后需要橡胶来包裹电线、做些电缆，你该弄台蒸气提取机了。你也可以用这台机器来从花朵里得到更多的染料，或者将各种水果做成果汁。
 
 #Quest_52.A clear view
-gtnh.quest52.name=一個清晰的景觀(A clear view)
-gtnh.quest52.desc=你還住在你那用泥土或鵝卵石做的碉堡裡嗎？何不讓陽光照進來呢？磨碎一些沙子和燧石，做些玻璃粉放進你的冶煉爐裡， 通透玻璃接著把它們倒到澆鑄台上，做些通透玻璃。\n\n提示：你必須透過雕刻它來使用這個配方。
+gtnh.quest52.name=一个清晰的景观(A clear view)
+gtnh.quest52.desc=你还住在你那用泥土或鹅卵石做的碉堡里吗？何不让阳光照进来呢？磨碎一些沙子和燧石，做些玻璃粉放进你的冶炼炉里， 通透玻璃接着把它们倒到浇铸台上，做些通透玻璃。\n\n提示：你必须透过雕刻它来使用这个配方。
 
 #Quest_53.Hammer time v2
-gtnh.quest53.name=槌子時刻2.0(Hammer time v2)
-gtnh.quest53.desc=畢竟槌子是有耐久度的，花費6個錠來做支鎚子似乎頗浪費。如果有台機器可以做出同樣的一支鎚子但沒有耐久消耗、而且只要3錠就可以做出兩塊板子－－那該有多好？那你知道嗎－－那裡就有一台！而你真該拿到一個！
+gtnh.quest53.name=槌子时刻2.0(Hammer time v2)
+gtnh.quest53.desc=毕竟槌子是有耐久度的，花费6个锭来做支锤子似乎颇浪费。如果有台机器可以做出同样的一支锤子但没有耐久消耗、而且只要3锭就可以做出两块板子－－那该有多好？那你知道吗－－那里就有一台！而你真该拿到一个！
 
 #Quest_54.Compressing stuff
-gtnh.quest54.name=壓縮玩意(Compressing stuff)
-gtnh.quest54.desc=這簡單的設備真的做了非常重要的工作－－壓縮。 把9個錠壓縮成一塊是它的主要功能，但它在各種食譜中也派得上用場，舉例來說，可以利用它來做些硬豆腐。
+gtnh.quest54.name=压缩玩意(Compressing stuff)
+gtnh.quest54.desc=这简单的设备真的做了非常重要的工作－－压缩。 把9个锭压缩成一块是它的主要功能，但它在各种食谱中也派得上用场，举例来说，可以利用它来做些硬豆腐。
 
 #Quest_55.Upgrade: A better compressor
-gtnh.quest55.name=升級☆壓縮機(Upgrade: A better compressor)
-gtnh.quest55.desc=一台新版的蒸汽壓縮機！它消耗更多的蒸汽，但幾乎是舊有的兩倍速！（此為支線任務）
+gtnh.quest55.name=升级☆压缩机(Upgrade: A better compressor)
+gtnh.quest55.desc=一台新版的蒸汽压缩机！它消耗更多的蒸汽，但几乎是旧有的两倍速！（此为支线任务）
 
 #Quest_56.Upgrade: Forge hammer
-gtnh.quest56.name=升級☆鍛造錘(Upgrade: Forge hammer)
-gtnh.quest56.desc=一台新版的蒸汽鍛造錘！它消耗更多的蒸汽，但幾乎是舊有的兩倍速！（此為支線任務）
+gtnh.quest56.name=升级☆锻造锤(Upgrade: Forge hammer)
+gtnh.quest56.desc=一台新版的蒸汽锻造锤！它消耗更多的蒸汽，但几乎是旧有的两倍速！（此为支线任务）
 
 #Quest_57.Upgrade: Extractor
-gtnh.quest57.name=升級☆提取機(Upgrade: Extractor)
-gtnh.quest57.desc=一台新版的蒸汽提取機！它消耗更多的蒸汽，但幾乎是舊有的兩倍速！你最有可能想要得到這個傢伙，因為這台提取機也確實地在提取走你的煩躁……（此為支線任務）
+gtnh.quest57.name=升级☆提取机(Upgrade: Extractor)
+gtnh.quest57.desc=一台新版的蒸汽提取机！它消耗更多的蒸汽，但几乎是旧有的两倍速！你最有可能想要得到这个家伙，因为这台提取机也确实地在提取走你的烦躁……（此为支线任务）
 
 #Quest_58.Upgrade: Better macerator
-gtnh.quest58.name=升級☆浸漬機(Upgrade: Better macerator)
-gtnh.quest58.desc=一台新版的蒸汽浸漬機。它消耗更多的蒸汽，但幾乎是舊有的兩倍速！（此為支線任務）
+gtnh.quest58.name=升级☆浸渍机(Upgrade: Better macerator)
+gtnh.quest58.desc=一台新版的蒸汽浸渍机。它消耗更多的蒸汽，但几乎是旧有的两倍速！（此为支线任务）
 
 #Quest_59.Steam alternatives
 gtnh.quest59.name=蒸汽替代品(Steam alternatives)
-gtnh.quest59.desc=不只一種方法可以讓你的機器得到蒸汽，而這個支線任務向你展示了一些產生蒸汽的替代方案。
+gtnh.quest59.desc=不只一种方法可以让你的机器得到蒸汽，而这个支线任务向你展示了一些产生蒸汽的替代方案。
 
 #Quest_60.Upgrade: Coal boiler
-gtnh.quest60.name=升級☆煤炭鍋爐(Upgrade: Coal boiler)
-gtnh.quest60.desc=這基本上只是對你現有的煤炭鍋爐升級，但不管怎樣，它產生了幾乎是兩倍多的蒸汽。如果你預計要做些更高階的機器，那你最好考慮建造這台進階的煤炭鍋爐。
+gtnh.quest60.name=升级☆煤炭锅炉(Upgrade: Coal boiler)
+gtnh.quest60.desc=这基本上只是对你现有的煤炭锅炉升级，但不管怎样，它产生了几乎是两倍多的蒸汽。如果你预计要做些更高阶的机器，那你最好考虑建造这台进阶的煤炭锅炉。
 
 #Quest_61.Another use for Java, I mean Lava
-gtnh.quest61.name= Java的另一個用途，我是說Lava (Another use for Java, I mean Lava)
-gtnh.quest61.desc=有了更耐用的鋼外殼，你可以用岩漿來製造些蒸汽。
+gtnh.quest61.name= Java的另一个用途，我是说Lava (Another use for Java, I mean Lava)
+gtnh.quest61.desc=有了更耐用的钢外壳，你可以用岩浆来制造些蒸汽。
 
 #Quest_62.The power of the sun
-gtnh.quest62.name=太陽之力 (The power of the sun)
-gtnh.quest62.desc=太陽肯定有很多能量，那何不利用它來產生些蒸汽？\n\n提示：請記住太陽能鍋爐會鈣化，並隨著時間推移降低效能。
+gtnh.quest62.name=太阳之力 (The power of the sun)
+gtnh.quest62.desc=太阳肯定有很多能量，那何不利用它来产生些蒸汽？\n\n提示：请记住太阳能锅炉会钙化，并随着时间推移降低效能。
 
 #Quest_63.Using steam to cook things
-gtnh.quest63.name=用蒸汽煮些東西(Using steam to cook things)
-gtnh.quest63.desc=相較來說，它的製程相當慢，但它比一般鍋爐更加有效。
+gtnh.quest63.name=用蒸汽煮些东西(Using steam to cook things)
+gtnh.quest63.desc=相较来说，它的制程相当慢，但它比一般锅炉更加有效。
 
 #Quest_64.Upgrade: Better furnace
-gtnh.quest64.name=升級☆鍋爐(Upgrade: Better furnace)
-gtnh.quest64.desc=一台新版的蒸汽鍋爐！它消耗更多的蒸汽，但幾乎是舊有的兩倍速！（此為支線任務）
+gtnh.quest64.name=升级☆锅炉(Upgrade: Better furnace)
+gtnh.quest64.desc=一台新版的蒸汽锅炉！它消耗更多的蒸汽，但几乎是旧有的两倍速！（此为支线任务）
 
 #Quest_65.Blastoff!
-gtnh.quest65.name=發射！(Blastoff!)
-gtnh.quest65.desc=該是時候搞些鋼了！查看多重目標任務，建造個磚製高爐(bricked blast furnace)。當你製作了至少8塊鐵錠時，回到這頁提交任務。
+gtnh.quest65.name=发射！(Blastoff!)
+gtnh.quest65.desc=该是时候搞些钢了！查看多重目标任务，建造个砖制高炉(bricked blast furnace)。当你制作了至少8块铁锭时，回到这页提交任务。
 
 #Quest_66.Time for some logic
-gtnh.quest66.name=是時候搞定些邏輯電路(Time for some logic)
-gtnh.quest66.desc=好消息！你現在可以進階到下一階段！壞消息！在開始之前，你依然必須做一大堆東西！凡人啊，毋須恐懼，吾將會指引你！
+gtnh.quest66.name=是时候搞定些逻辑电路(Time for some logic)
+gtnh.quest66.desc=好消息！你现在可以进阶到下一阶段！坏消息！在开始之前，你依然必须做一大堆东西！凡人啊，毋须恐惧，吾将会指引你！
 
 #Quest_67.Wired, weird?!
-gtnh.quest67.name=連線,奇怪? (Wired, weird?!)
-gtnh.quest67.desc=你應該記住如何製作導線和線纜，它們是最基礎的材料之一。一般來說，你只需用剪線鉗將金屬板剪成導線就行了。這種方法效率不高，但以後會有更好的辦法。
+gtnh.quest67.name=联机,奇怪? (Wired, weird?!)
+gtnh.quest67.desc=你应该记住如何制作导线和线缆，它们是最基础的材料之一。一般来说，你只需用剪线钳将金属板剪成导线就行了。这种方法效率不高，但以后会有更好的办法。
 
 #Quest_68.Your first logic circuit
-gtnh.quest68.name=你的第一個邏輯電路(Your first logic circuit)
-gtnh.quest68.desc=蒸汽機有夠蠢的，它們只是不斷重複地做一件事情。當你進入到電器時代，你便決定了你要一台更多功能的機器，像自動輸出來製造些自動化流程。為此，你需要更多的邏輯電路。
+gtnh.quest68.name=你的第一个逻辑电路(Your first logic circuit)
+gtnh.quest68.desc=蒸汽机有够蠢的，它们只是不断重复地做一件事情。当你进入到电器时代，你便决定了你要一台更多功能的机器，像自动输出来制造些自动化流程。为此，你需要更多的逻辑电路。
 
 #Quest_69.Wire-Wrap
-gtnh.quest69.name=絕緣線纜 (Wire-Wrap)
-gtnh.quest69.desc=使用沒有絕緣的導線似乎是一個壞主意。現在你有一個提取機，可以從粘性樹脂提取生橡膠，還有一個合金爐，可以用硫磺對其進行深加工。你應該從事于生成橡膠板的工作。
+gtnh.quest69.name=绝缘线缆 (Wire-Wrap)
+gtnh.quest69.desc=使用没有绝缘的导线似乎是一个坏主意。现在你有一个提取机，可以从粘性树脂提取生橡胶，还有一个合金炉，可以用硫磺对其进行深加工。你应该从事于生成橡胶板的工作。
 
 #Quest_70.Steam-a-licious!
 gtnh.quest70.name=可口蒸汽！(Steam-a-licious!)
-gtnh.quest70.desc=你幾乎完成它了！只需要最後一個製作步驟就可以到達第二階段的需求！繼續前進！
+gtnh.quest70.desc=你几乎完成它了！只需要最后一个制作步骤就可以到达第二阶段的需求！继续前进！
 
 #Quest_71.Basic crafting: Motors
-gtnh.quest71.name=基礎製作：馬達(Basic crafting: Motors)
-gtnh.quest71.desc=電動馬達是能夠將電力轉化為旋轉能的小器件。對於所有類型的機器都非常有用，而且它不是那麼難以製作。不同等級的電動馬達的合成方法是相似的，只有材料隨著等級的變化而變化。
+gtnh.quest71.name=基础制作：马达(Basic crafting: Motors)
+gtnh.quest71.desc=电动马达是能够将电力转化为旋转能的小器件。对于所有类型的机器都非常有用，而且它不是那么难以制作。不同等级的电动马达的合成方法是相似的，只有材料随着等级的变化而变化。
 
 #Quest_72.Basic crafting: Rotors
-gtnh.quest72.name=基礎製作：轉子(Basic crafting: Rotors)
-gtnh.quest72.desc=不同等級的轉子的製作方法也是相似的，只是材料不同。現在合成起來有些煩人，不過你也不是需要很多的轉子。
+gtnh.quest72.name=基础制作：转子(Basic crafting: Rotors)
+gtnh.quest72.desc=不同等级的转子的制作方法也是相似的，只是材料不同。现在合成起来有些烦人，不过你也不是需要很多的转子。
 
 #Quest_73.Basic crafting: Casings
-gtnh.quest73.name=基礎製作：外殼(Basic crafting: Casings)
-gtnh.quest73.desc=所有機器都需要一個主機殼來保護它們的敏感部件。好消息是：它們每一等級都以相同的方式製作，只有材料發生變化。
+gtnh.quest73.name=基础制作：外壳(Basic crafting: Casings)
+gtnh.quest73.desc=所有机器都需要一个机箱来保护它们的敏感部件。好消息是：它们每一等级都以相同的方式制作，只有材料发生变化。
 
 #Quest_74.You are not prepared!!!
-gtnh.quest74.name=你還沒準備好！！！(You are not prepared!!!)
-gtnh.quest74.desc=迎接一個大傢伙的時間到了－－冶煉爐！那還有許多工作要做，所以最好蒐集些資源……
+gtnh.quest74.name=你还没准备好！！！(You are not prepared!!!)
+gtnh.quest74.desc=迎接一个大家伙的时间到了－－冶炼炉！那还有许多工作要做，所以最好搜集些资源……
 
 #Quest_75.The water dilemma
-gtnh.quest75.name=缺水危機 (The water dilemma)
-gtnh.quest75.desc=有限的水源是一個問題，但不要害怕。我會引導你如何擁有穩定的水源。
+gtnh.quest75.name=缺水危机 (The water dilemma)
+gtnh.quest75.desc=有限的水源是一个问题，但不要害怕。我会引导你如何拥有稳定的水源。
 
 #Quest_76.Time to get some steel
-gtnh.quest76.name=獲得鋼材 (Time to get some steel)
-gtnh.quest76.desc=你需要鋼？呃...好的。我們有得忙的...(提示：青銅高爐和大多數GT多方塊機器一樣，它們之間可以共用牆壁。儘管這樣做會影響到空氣品質...)
+gtnh.quest76.name=获得钢材 (Time to get some steel)
+gtnh.quest76.desc=你需要钢？呃...好的。我们有得忙的...(提示：青铜高炉和大多数GT多方块机器一样，它们之间可以共享墙壁。尽管这样做会影响到空气质量...)
 
 #Quest_77.EBF-Time
-gtnh.quest77.name=電力高爐時間 (EBF-Time)
-gtnh.quest77.desc=為了得到鋁，你需要一個電力高爐。這是通向勝利的另一重要的一步。讓我們開始吧。\n\n加熱線圈可能會很棘手...\n\n(你需要兩個LV級能源輸入倉並提供總共4A的LV電流，或者如果你沒有修復全部的故障，你就需要三個LV級能源輸入倉和更多的電流)
+gtnh.quest77.name=电力高炉时间 (EBF-Time)
+gtnh.quest77.desc=为了得到铝，你需要一个电力高炉。这是通向胜利的另一重要的一步。让我们开始吧。\n\n加热线圈可能会很棘手...\n\n(你需要两个LV级能源输入仓并提供总共4A的LV电流，或者如果你没有修复全部的故障，你就需要三个LV级能源输入仓和更多的电流)
 
 #Quest_78.Upgrade #1: More heat
-gtnh.quest78.name=升級#1: 更多的熱量(Upgrade #1: More heat)
-gtnh.quest78.desc=更好的材料需要更高的溫度。你可以用新的線圈來替換舊的線圈。你甚至可以回收舊的線圈，真棒！
+gtnh.quest78.name=升级#1: 更多的热量(Upgrade #1: More heat)
+gtnh.quest78.desc=更好的材料需要更高的温度。你可以用新的线圈来替换旧的线圈。你甚至可以回收旧的线圈，真棒！
 
 #Quest_79.Upgrade #2: Higher tier
-gtnh.quest79.name=升級#2:更高的階級 (Upgrade #2: Higher tier)
-gtnh.quest79.desc=為了使你的電力高爐達到3600k，以便處理鎢等高級材料，你需要鎳鉻合金加熱線圈。
+gtnh.quest79.name=升级#2:更高的阶级 (Upgrade #2: Higher tier)
+gtnh.quest79.desc=为了使你的电力高炉达到3600k，以便处理钨等高级材料，你需要镍铬合金加热线圈。
 
 #Quest_80.Compress all the things
-gtnh.quest80.name=壓縮萬物(Compress all the things)
-gtnh.quest80.desc=馬丁(DreamMasterXXL，GTNH整合包作者)最喜歡的機器。壓縮所有的東西！當然，用炸藥。
+gtnh.quest80.name=压缩万物(Compress all the things)
+gtnh.quest80.desc=马丁(DreamMasterXXL，GTNH整合包作者)最喜欢的机器。压缩所有的东西！当然，用炸药。
 
 #Quest_81.At the end of...
-gtnh.quest81.name=終結...(At the end of...)
-gtnh.quest81.desc=..宇宙的一切終將凍結。但要等待宇宙的死亡未免需要太長的時間了。因此，我們向您推薦真空冷凍機。它應該足以冷卻您的熱材料。\n\n你需要至少16個隔熱機器外殼，剩下的部分取決於你的配置。
+gtnh.quest81.name=终结...(At the end of...)
+gtnh.quest81.desc=..宇宙的一切终将冻结。但要等待宇宙的死亡未免需要太长的时间了。因此，我们向您推荐真空冷冻机。它应该足以冷却您的热材料。\n\n你需要至少16个隔热机器外壳，剩下的部分取决于你的配置。
 
 #Quest_82.An unexpected Bonus
 gtnh.quest82.name=意想不到的福利 (An unexpected Bonus)
-gtnh.quest82.desc=因為我們是友善的開發者，所以我們決定加入一點小小的福利，在你碰巧把木炭拿去壓縮成木炭塊的時候。它不僅允許讓你一次加工超過16個鋼錠(不是在bricked blast furnace裡)，還得受益於每塊木炭塊10倍於木炭的燃燒時間，而不是9倍。所以有一塊木炭是免費的。這個加成隻在第一次壓縮的時候才會出現。(但哪怕是為了好玩，你也一定要製作一個五重壓縮的木炭塊)
+gtnh.quest82.desc=因为我们是友善的开发者，所以我们决定加入一点小小的福利，在你碰巧把木炭拿去压缩成木炭块的时候。它不仅允许让你一次加工超过16个钢锭(不是在bricked blast furnace里)，还得受益于每块木炭块10倍于木炭的燃烧时间，而不是9倍。所以有一块木炭是免费的。这个加成只在第一次压缩的时候才会出现。(但哪怕是为了好玩，你也一定要制作一个五重压缩的木炭块)
 
 #Quest_83.High speed charcoal
 gtnh.quest83.name=高速木炭 (High speed charcoal)
-gtnh.quest83.desc=當然，那些焦爐是極好的，但是它們遠不能跟上大型蒸汽鍋爐的速度。幸運的是，你現在可以獲取一個升級版的！雜酚油不再產出，但加工速度會大大地提升。誰還會需要那些淺黃色的噁心東西...
+gtnh.quest83.desc=当然，那些焦炉是极好的，但是它们远不能跟上大型蒸汽锅炉的速度。幸运的是，你现在可以获取一个升级版的！杂酚油不再产出，但加工速度会大大地提升。谁还会需要那些浅黄色的恶心东西...
 
 #Quest_84.Where I can put all the liquids?
-gtnh.quest84.name=我可以把所有的液體都放進去 (Where I can put all the liquids?)
-gtnh.quest84.desc=使用全新的合金爐，你可以把兩種材料結合起來。如果把黑曜石粉和玻璃混合起來會發生什麼？黑曜石玻璃，很棒。你可以做的第一個儲罐是BC儲罐。這種儲罐可以容納16桶的單一液體。這些儲罐可以升級，這樣就能容納最多64桶液體了。
+gtnh.quest84.name=我可以把所有的液体都放进去 (Where I can put all the liquids?)
+gtnh.quest84.desc=使用全新的合金炉，你可以把两种材料结合起来。如果把黑曜石粉和玻璃混合起来会发生什么？黑曜石玻璃，很棒。你可以做的第一个储罐是BC储罐。这种储罐可以容纳16桶的单一液体。这些储罐可以升级，这样就能容纳最多64桶液体了。
 
 #Quest_85.Smelt all the things stack wise...
-gtnh.quest85.name=熔化所有的東西...(Smelt all the things stack wise...)
-gtnh.quest85.desc=...有了這項偉大的發明！用電力可以一次熔煉最多兩組物品！不能再快了！(每次熔煉的物品數量取決於線圈，使用前請諮詢你的醫生)
+gtnh.quest85.name=熔化所有的东西...(Smelt all the things stack wise...)
+gtnh.quest85.desc=...有了这项伟大的发明！用电力可以一次熔炼最多两组物品！不能再快了！(每次熔炼的物品数量取决于线圈，使用前请咨询你的医生)
 
 #Quest_86.Upgrade #3: Upgrade tier 4
-gtnh.quest86.name=升級#3:升級到第4階 (Upgrade #3: Upgrade tier 4)
-gtnh.quest86.desc=要處理更高級的材料，如：末影錠，富集矽岩或鈮鈦合金，你需要超過3600K的溫度。再次升級你的高爐...
+gtnh.quest86.name=升级#3:升级到第4阶 (Upgrade #3: Upgrade tier 4)
+gtnh.quest86.desc=要处理更高级的材料，如：末影锭，富集硅岩或铌钛合金，你需要超过3600K的温度。再次升级你的高炉...
 
 #Quest_87.Steel multiblock tanks
-gtnh.quest87.name=鋼質多方塊水槽 (Steel multiblock tanks)
-gtnh.quest87.desc=想要雙倍容量的蓄水槽？去做一個鋼質蓄水槽。尺寸可以從3x3x4到9x9x8。\n\n提示：如果你在底部放了閥門，流體能夠自動輸出(不需要任何的泵)。
+gtnh.quest87.name=钢质多方块水槽 (Steel multiblock tanks)
+gtnh.quest87.desc=想要双倍容量的蓄水槽？去做一个钢质蓄水槽。尺寸可以从3x3x4到9x9x8。\n\n提示：如果你在底部放了阀门，流体能够自动输出(不需要任何的泵)。
 
 #Quest_88.Welcome to Tier 2
-gtnh.quest88.name=歡迎來到第2階 (Welcome to Tier 2)
-gtnh.quest88.desc=哎呀，你好呢！看來你已經進入了電氣時代。但是，請不要扔了你的蒸汽機器。在達到第3階之前，你可能還需要使用它們。
+gtnh.quest88.name=欢迎来到第2阶 (Welcome to Tier 2)
+gtnh.quest88.desc=哎呀，你好呢！看来你已经进入了电气时代。但是，请不要扔了你的蒸汽机器。在达到第3阶之前，你可能还需要使用它们。
 
 #Quest_89.Tier 3
-gtnh.quest89.name=第3階 (Tier 3)
-gtnh.quest89.desc=在第3階，你將能夠製作出第一台真正“有用”的機器。雖然低壓機器也能用，但中壓機器解鎖了一大批合成。你的目標是建立穩定的礦物處理系統，為你以後需要的大量材料做準備。如果你還沒專注於發電的話，也請關注一下。
+gtnh.quest89.name=第3阶 (Tier 3)
+gtnh.quest89.desc=在第3阶，你将能够制作出第一台真正“有用”的机器。虽然低压机器也能用，但中压机器解锁了一大批合成。你的目标是建立稳定的矿物处理系统，为你以后需要的大量材料做准备。如果你还没专注于发电的话，也请关注一下。
 
 #Quest_90.Damn you, wire cutter!
-gtnh.quest90.name=去死吧，剪線鉗！ (Damn you, wire cutter!)
-gtnh.quest90.desc=夠了，再也不用為幾根導線去浪費巨量的礦錠了。現在有了電，你應該做一台線材軋機！
+gtnh.quest90.name=去死吧，剪线钳！ (Damn you, wire cutter!)
+gtnh.quest90.desc=够了，再也不用为几根导线去浪费巨量的矿锭了。现在有了电，你应该做一台线材轧机！
 
 #Quest_91.You're gonna hate this #1
-gtnh.quest91.name=你會討厭這個#1 (You're gonna hate this #1)
-gtnh.quest91.desc=第一種你非常需要的東西。如果你想將物品從箱子或桶中抽出，你就會需要一個。(跟物品管道或GT機器配合起來非常好，用螺絲刀調整模式)。
+gtnh.quest91.name=你会讨厌这个#1 (You're gonna hate this #1)
+gtnh.quest91.desc=第一种你非常需要的东西。如果你想将物品从箱子或桶中抽出，你就会需要一个。(跟物品管道或GT机器配合起来非常好，用螺丝刀调整模式)。
 
 #Quest_92.You're gonna hate this #4
-gtnh.quest92.name=你會討厭這個#4 (You're gonna hate this #4)
-gtnh.quest92.desc=第三種你非常需要的東西，而且它合成起來非常令人痛苦。可能是目前為止最蛋疼的東西了。(工作起來像輸送機，但可以指定物品槽，用螺絲刀調整)
+gtnh.quest92.name=你会讨厌这个#4 (You're gonna hate this #4)
+gtnh.quest92.desc=第三种你非常需要的东西，而且它合成起来非常令人痛苦。可能是目前为止最蛋疼的东西了。(工作起来像输送机，但可以指定物品槽，用螺丝刀调整)
 
 #Quest_93.You're gonna hate this #2
-gtnh.quest93.name=你會討厭這個#2 (You're gonna hate this #2)
-gtnh.quest93.desc=第二種你非常需要的東西。當你想要將液體從儲罐中抽出時，你需要它。\n\n提示：跟液體管道或GT機器配合的非常好，使用螺絲刀進行調整。它還可以進一步升級為可以精確控制流體傳送速率的流體調節器。
+gtnh.quest93.name=你会讨厌这个#2 (You're gonna hate this #2)
+gtnh.quest93.desc=第二种你非常需要的东西。当你想要将液体从储罐中抽出时，你需要它。\n\n提示：跟液体管道或GT机器配合的非常好，使用螺丝刀进行调整。它还可以进一步升级为可以精确控制流体传输速度的流体调节器。
 
 #Quest_94.Electric macerator
-gtnh.quest94.name=電力研磨機 (Electric macerator)
-gtnh.quest94.desc=強烈推薦做一個，因為在消耗煤/蒸汽方面，使用EU時研磨東西的效率要高的多。
+gtnh.quest94.name=电力研磨机 (Electric macerator)
+gtnh.quest94.desc=强烈推荐做一个，因为在消耗煤/蒸汽方面，使用EU时研磨东西的效率要高的多。
 
 #Quest_95.You're gonna hate this #3
-gtnh.quest95.name=你會討厭這個#3 (You're gonna hate this #3)
-gtnh.quest95.desc=活塞，但是它是“電動的”。第四件你將來要合成很多很多的東西。
+gtnh.quest95.name=你会讨厌这个#3 (You're gonna hate this #3)
+gtnh.quest95.desc=活塞，但是它是“电动的”。第四件你将来要合成很多很多的东西。
 
 #Quest_96.Saving redstone
-gtnh.quest96.name=節省紅石 (Saving redstone)
-gtnh.quest96.desc=厭倦使用四個紅石製做含磁電桿了嗎？好消息！使用磁化機不需要紅石，只需要通電，你不一定要接上電線，這台機器使用電池也能運作得很好。
+gtnh.quest96.name=节省红石 (Saving redstone)
+gtnh.quest96.desc=厌倦使用四个红石制做含磁电杆了吗？好消息！使用磁化机不需要红石，只需要通电，你不一定要接上电线，这台机器使用电池也能运作得很好。
 
 #Quest_97.Avengers, assemble!
-gtnh.quest97.name=復仇者，組裝！ (Avengers, assemble!)
-gtnh.quest97.desc=電影粉絲絕對必須要擁有它。哦，當然要用來做所有的東西。
+gtnh.quest97.name=复仇者，组装！ (Avengers, assemble!)
+gtnh.quest97.desc=电影粉丝绝对必须要拥有它。哦，当然要用来做所有的东西。
 
 #Quest_98.No more filing
-gtnh.quest98.name=不要再銼 (No more filing)
-gtnh.quest98.desc=為什麼要耗費一個完整的錠來製作杆？而且還需要使用一種消耗耐久的工具，導致花費了更多的金屬錠。有了這個小裝置，你所需要的所有的杆都會被完整地加工出來(對於現在).
+gtnh.quest98.name=不要再锉 (No more filing)
+gtnh.quest98.desc=为什么要耗费一个完整的锭来制作杆？而且还需要使用一种消耗耐久的工具，导致花费了更多的金属锭。有了这个小装置，你所需要的所有的杆都会被完整地加工出来(对于现在).
 
 #Quest_99.Bzzz... Whoom...
 gtnh.quest99.name=噗呲~~~ (Bzzz... Whoom...)
-gtnh.quest99.desc=為了給不錯的電路板製作蝕刻電路，你需要一台精密鐳射蝕刻機。
+gtnh.quest99.desc=为了给不错的电路板制作蚀刻电路，你需要一台精密激光蚀刻机。
 
 #Quest_100.Press all the things
-gtnh.quest100.name=衝壓萬物 (Press all the things)
-gtnh.quest100.desc=如果你想要更高效地生產基礎電路板，你可以使用衝壓機床。但為了不錯的電路板，你確實需要它。
+gtnh.quest100.name=冲压万物 (Press all the things)
+gtnh.quest100.desc=如果你想要更高效地生产基础电路板，你可以使用冲压机床。但为了不错的电路板，你确实需要它。
 
 #Quest_101.Mjolnir!!! (electric forge hammer)
-gtnh.quest101.name=雷神之鎚！Mjolnir!!! (電力鍛造錘 electric forge hammer)
-gtnh.quest101.desc=非必須品，但這比蒸氣鍛造錘快得多，並可以自動化。如果你覺得洗礦太慢、使用這鍛造錘吧。蒸氣等級的鍛造錘就可以完成所有需要的加工。
+gtnh.quest101.name=雷神之锤！Mjolnir!!! (电力锻造锤 electric forge hammer)
+gtnh.quest101.desc=非必须品，但这比蒸气锻造锤快得多，并可以自动化。如果你觉得洗矿太慢、使用这锻造锤吧。蒸气等级的锻造锤就可以完成所有需要的加工。
 
 #Quest_102.Cutting things apart
 gtnh.quest102.name=切割 (Cutting things apart)
-gtnh.quest102.desc=絕對必要的機器。能將桿切成螺栓、板切成外殼、原木切成木材、並且是最高效率。完全值回票價！提示：加點水吧！
+gtnh.quest102.desc=绝对必要的机器。能将杆切成螺栓、板切成外壳、原木切成木材、并且是最高效率。完全值回票价！提示：加点水吧！
 
 #Quest_103.Get ready for Tier 3
-gtnh.quest103.name=準備第3階 (Get ready for Tier 3)
-gtnh.quest103.desc=為了進一步發展，你需要鋁。非常多的鋁。但現在只需要一個鋁粉來完成這任務。黏土可能是最好的鋁來源。但那需要MV級機器，現在你需要找替代方案，直到你有足夠的鋁粉來完成準備工作。
+gtnh.quest103.name=准备第3阶 (Get ready for Tier 3)
+gtnh.quest103.desc=为了进一步发展，你需要铝。非常多的铝。但现在只需要一个铝粉来完成这任务。黏土可能是最好的铝来源。但那需要MV级机器，现在你需要找替代方案，直到你有足够的铝粉来完成准备工作。
 
 #Quest_104.Your magic progression
-gtnh.quest104.name=學習魔法 (our magic progression)
-gtnh.quest104.desc=現在你可以煉鋁，可以開始研究魔法。如果你還沒解鎖神秘任務。找到銀樹樹苗跟宏偉巨樹。
+gtnh.quest104.name=学习魔法 (our magic progression)
+gtnh.quest104.desc=现在你可以炼铝，可以开始研究魔法。如果你还没解锁神秘任务。找到银树树苗跟宏伟巨树。
 
 #Quest_105.The missing one
-gtnh.quest105.name=缺少的一環 (The missing one)
-gtnh.quest105.desc=曾有人說...<basdxz> 管他的！把卷板機加進LV級任務...然後他就在那了。
+gtnh.quest105.name=缺少的一环 (The missing one)
+gtnh.quest105.desc=曾有人说...<basdxz> 管他的！把卷板机加进LV级任务...然后他就在那了。
 
 #Quest_106.Your first automation
-gtnh.quest106.name=第一個自動化 (Your first automation)
-gtnh.quest106.desc=好吧，也許不是第一次。但一定很重要！首先，你需要一台礦車組裝機。
+gtnh.quest106.name=第一个自动化 (Your first automation)
+gtnh.quest106.desc=好吧，也许不是第一次。但一定很重要！首先，你需要一台矿车组装机。
 
 #Quest_107.Cart modules: Power
-gtnh.quest107.name=礦車模組:能源 (Cart modules: Power)
-gtnh.quest107.desc=你的礦車顯然需要能量。礦車可以通過太陽能或岩漿供能。但現在你只能用簡單的煤炭引擎。
+gtnh.quest107.name=矿车模块:能源 (Cart modules: Power)
+gtnh.quest107.desc=你的矿车显然需要能量。矿车可以通过太阳能或岩浆供能。但现在你只能用简单的煤炭引擎。
 
 #Quest_108.Automated (un-)loading
-gtnh.quest108.name=自動裝(卸)載 (Automated (un-)loading)
-gtnh.quest108.desc=你可以手動填充和清空你的礦車，但自動化轉移物品更方便，不是嗎？
+gtnh.quest108.name=自动装(卸)载 (Automated (un-)loading)
+gtnh.quest108.desc=你可以手动填充和清空你的矿车，但自动化转移物品更方便，不是吗？
 
 #Quest_109.Cart modules: Farming
-gtnh.quest109.name=礦車模組:農業 (Cart modules: Farming)
-gtnh.quest109.desc=不幸的是，基礎農業除了小麥以外什麼都不能種。它並不貴，也許是最便宜的自動化食物生產方法。
+gtnh.quest109.name=矿车模块:农业 (Cart modules: Farming)
+gtnh.quest109.desc=不幸的是，基础农业除了小麦以外什么都不能种。它并不贵，也许是最便宜的自动化食物生产方法。
 
 #Quest_110.Cart modules: Storage
-gtnh.quest110.name=礦車模組:儲存 (Cart modules: Storage)
-gtnh.quest110.desc=一個基礎的礦車不能容納任何物品，所以你需要附上特殊的箱子。
+gtnh.quest110.name=矿车模块:储存 (Cart modules: Storage)
+gtnh.quest110.desc=一个基础的矿车不能容纳任何物品，所以你需要附上特殊的箱子。
 
 #Quest_111.A simple cart
-gtnh.quest111.name=簡單的礦車 (A simple cart)
-gtnh.quest111.desc=為了組裝或定制你的礦車，你需要一個車殼來附加所需的升級。木制的可以用於非常簡單的應用，但要種植小麥或樹木，你至少需要一個鐵的。
+gtnh.quest111.name=简单的矿车 (A simple cart)
+gtnh.quest111.desc=为了组装或定制你的矿车，你需要一个车壳来附加所需的升级。木制的可以用于非常简单的应用，但要种植小麦或树木，你至少需要一个铁的。
 
 #Quest_112.Cart modules: Wood cutter
-gtnh.quest112.name=礦車模組:伐木 (Cart modules: Wood cutter)
-gtnh.quest112.desc=基礎伐木機用一段時間之後就會壞，但是你永遠都不需要更換它。它可以很容易地用鑽石修復。
+gtnh.quest112.name=矿车模块:伐木 (Cart modules: Wood cutter)
+gtnh.quest112.desc=基础伐木机用一段时间之后就会坏，但是你永远都不需要更换它。它可以很容易地用钻石修复。
 
 #Quest_113.Basic transport pipe
-gtnh.quest113.name=基礎運輸管道 (Basic transport pipe)
-gtnh.quest113.desc=這些管道非常簡單，它們本身不會做任何事情。但是結合傳輸節點，你很快會發現它們有多棒。此外，給予節點恰當的升級，它們甚至能超越其它大多數的物流系統。
+gtnh.quest113.name=基础运输管道 (Basic transport pipe)
+gtnh.quest113.desc=这些管道非常简单，它们本身不会做任何事情。但是结合传输节点，你很快会发现它们有多棒。此外，给予节点恰当的升级，它们甚至能超越其它大多数的物流系统。
 
 #Quest_114.Basic transport: Items
-gtnh.quest114.name=基礎運輸:物品 (Basic transport: Items)
-gtnh.quest114.desc=為了傳輸物品，你需要所謂的“節點”。一些用於將物品推入管道系統。之後你將可以接觸到能夠從連接到的容器中抽取物品的節點。
+gtnh.quest114.name=基础运输:物品 (Basic transport: Items)
+gtnh.quest114.desc=为了传输物品，你需要所谓的“节点”。一些用于将物品推入管道系统。之后你将可以接触到能够从连接到的容器中抽取物品的节点。
 
 #Quest_115.Basic transport: Fluids
-gtnh.quest115.name=基礎運輸:液體 (Basic transport: Fluids)
-gtnh.quest115.desc=就像物品節點一樣，液體節點轉移液體。最棒的一點可能是：它們可以使用同一根傳輸管道！
+gtnh.quest115.name=基础运输:液体 (Basic transport: Fluids)
+gtnh.quest115.desc=就像物品节点一样，液体节点转移液体。最棒的一点可能是：它们可以使用同一根传输管道！
 
 #Quest_116.Alloy smelter
-gtnh.quest116.name=合金爐 (Alloy smelter)
-gtnh.quest116.desc=將你的蒸汽合金爐升級到LV。
+gtnh.quest116.name=合金炉 (Alloy smelter)
+gtnh.quest116.desc=将你的蒸汽合金炉升级到LV。
 
 #Quest_117.Gotta catch 'em all
-gtnh.quest117.name=抓住它們 (Gotta catch 'em all)
-gtnh.quest117.desc=當然，你可以用小麥/土豆/胡蘿蔔使動物跟隨你回到你的基地，但那樣太無聊了。金色套索才是轉移動物的正確姿勢。
+gtnh.quest117.name=抓住它们 (Gotta catch 'em all)
+gtnh.quest117.desc=当然，你可以用小麦/土豆/胡萝卜使动物跟随你回到你的基地，但那样太无聊了。金色套索才是转移动物的正确姿势。
 
 #Quest_118.Basic monster protection
-gtnh.quest118.name=基礎怪物防護 (Basic monster protection)
-gtnh.quest118.desc=在你基地附近生成的怪物太煩人了，特別是當你碰到火焰爬行者的時候。幸運的是，有一種方法可以阻止它們生成。
+gtnh.quest118.name=基础怪物防护 (Basic monster protection)
+gtnh.quest118.desc=在你基地附近生成的怪物太烦人了，特别是当你碰到火焰爬行者的时候。幸运的是，有一种方法可以阻止它们生成。
 
 #Quest_119.A quite different storage
-gtnh.quest119.name=完全不同的存儲 (A quite different storage)
-gtnh.quest119.desc=如果你收集了怪物掉落的劍或者護甲，那麼普通的箱子很快就會被填滿。使用文檔櫃，可以存儲最多270個相同類型的東西。
+gtnh.quest119.name=完全不同的存储 (A quite different storage)
+gtnh.quest119.desc=如果你收集了怪物掉落的剑或者护甲，那么普通的箱子很快就会被填满。使用文档柜，可以存储最多270个相同类型的东西。
 
 #Quest_120.Protect your base; Tier 1
-gtnh.quest120.name=保護你的基地:第1級(Protect your base; Tier 1)
-gtnh.quest120.desc=一個人要用適當的方式來保衛他的家。那麼為什麼不用炮塔來保衛安全呢？目前有2種炮塔可供選擇：“土豆”和“一次性物品”。我想你能猜到它們是用來幹什麼的，以及它們是如何工作的。
+gtnh.quest120.name=保护你的基地:第1级(Protect your base; Tier 1)
+gtnh.quest120.desc=一个人要用适当的方式来保卫他的家。那么为什么不用炮塔来保卫安全呢？目前有2种炮塔可供选择：“土豆”和“一次性物品”。我想你能猜到它们是用来干什么的，以及它们是如何工作的。
 
 #Quest_121.Passive defence
-gtnh.quest121.name=被動防禦 (Passive defence)
-gtnh.quest121.desc=圍牆和柵欄是更加被動的基地防禦。但說真的，這東西有什麼意思？
+gtnh.quest121.name=被动防御 (Passive defence)
+gtnh.quest121.desc=围墙和栅栏是更加被动的基地防御。但说真的，这东西有什么意思？
 
 #Quest_122.Turret base
 gtnh.quest122.name=炮塔基座 (Turret base)
-gtnh.quest122.desc=炮塔必須放在炮塔基座的頂部。只有最初放置基座的玩家可以訪問和配置炮塔。所以別擔心別人拿走了你的彈藥。
+gtnh.quest122.desc=炮塔必须放在炮塔基座的顶部。只有最初放置基座的玩家可以访问和配置炮塔。所以别担心别人拿走了你的弹药。
 
 #Quest_123.Who needs that dirt anyway
-gtnh.quest123.name=誰還需要那些泥土 (Who needs that dirt anyway)
-gtnh.quest123.desc=你可能丟了很多東西在你的基地周圍的地上。那麼為什麼不用它來殺死敵人呢？
+gtnh.quest123.name=谁还需要那些泥土 (Who needs that dirt anyway)
+gtnh.quest123.desc=你可能丢了很多东西在你的基地周围的地上。那么为什么不用它来杀死敌人呢？
 
 #Quest_124.Don't play with your food!
 gtnh.quest124.name=不要玩食物！(Don't play with your food!)
-gtnh.quest124.desc=利用它來殺些殭屍。噢，只造成了一咪咪傷害……但，呵呵，誰在乎啊？
+gtnh.quest124.desc=利用它来杀些殭尸。噢，只造成了一咪咪伤害……但，呵呵，谁在乎啊？
 
 #Quest_125.Upgrading intensifies
-gtnh.quest125.name=強化升級 (Upgrading intensifies)
-gtnh.quest125.desc=你的炮塔可能需要更多的空間來容納更多的彈藥，那為什麼不做一個升級呢？
+gtnh.quest125.name=强化升级 (Upgrading intensifies)
+gtnh.quest125.desc=你的炮塔可能需要更多的空间来容纳更多的弹药，那为什么不做一个升级呢？
 
 #Quest_126.Electrolysing all the things
-gtnh.quest126.name=電解所有的東西 (Electrolysing all the things)
-gtnh.quest126.desc=自從你開始磨粉，洗礦和離心礦石，你收集了很多粉末。到目前為止，你還不能分解它們。現在是時候從它們中獲取純淨的組分和有用的材料了。
+gtnh.quest126.name=电解所有的东西 (Electrolysing all the things)
+gtnh.quest126.desc=自从你开始磨粉，洗矿和离心矿石，你收集了很多粉末。到目前为止，你还不能分解它们。现在是时候从它们中获取纯净的组分和有用的材料了。
 
 #Quest_127.Project red begging
-gtnh.quest127.name=紅石計畫請求 (Project red begging)
-gtnh.quest127.desc=首先，總共有三種類型的管道：空邏輯，加壓和路由。\n空邏輯管道是最基礎的一種，它們沒有任何的邏輯行為。物品運輸管道屬於這種類型，它們用於製造或連接路由管道和加壓管道。多準備一些物品運輸管道是一個明智的選擇\n\n路由管道是最高級的。它們可以相互通信，以便創建管道網路，並可用於非常複雜的任務。\n\n加壓管道解釋和使用起來太複雜了，你不會需要它們的，因為你可以用路由管道完成任何你想要做的任何事情。\n\n然而，為了控制路由管道的邏輯，你還會需要晶片。
+gtnh.quest127.name=红石计划请求 (Project red begging)
+gtnh.quest127.desc=首先，总共有三种类型的管道：空逻辑，加压和路由。\n空逻辑管道是最基础的一种，它们没有任何的逻辑行为。物品运输管道属于这种类型，它们用于制造或连接路由管道和加压管道。多准备一些物品运输管道是一个明智的选择\n\n路由管道是最高级的。它们可以相互通信，以便创建管道网络，并可用于非常复杂的任务。\n\n加压管道解释和使用起来太复杂了，你不会需要它们的，因为你可以用路由管道完成任何你想要做的任何事情。\n\n然而，为了控制路由管道的逻辑，你还会需要芯片。
 
 #Quest_128.Ender not-so-IO
-gtnh.quest128.name=末影不是這種介面 (Ender not-so-IO)
-gtnh.quest128.desc=你以前可能用過末影介面。對很多事情來說，它都是非常有用的。但在這裡，很多東西都變了，所以讓我們從頭開始吧。
+gtnh.quest128.name=末影不是这种界面 (Ender not-so-IO)
+gtnh.quest128.desc=你以前可能用过末影接口。对很多事情来说，它都是非常有用的。但在这里，很多东西都变了，所以让我们从头开始吧。
 
 #Quest_129.Machine chassis
-gtnh.quest129.name=機器框架 (Machine chassis)
-gtnh.quest129.desc=所有末影介面的機器都需要機器框架，它的合成配方跟以前幾乎是一樣的，除了你需要的是板而不是錠。但這應該不成問題...
+gtnh.quest129.name=机器框架 (Machine chassis)
+gtnh.quest129.desc=所有末影接口的机器都需要机器框架，它的合成配方跟以前几乎是一样的，除了你需要的是板而不是锭。但这应该不成问题...
 
 #Quest_130.Portable tanks
-gtnh.quest130.name=可擕式儲罐(Portable tanks)
-gtnh.quest130.desc=在此之前，你還要用BC儲罐來帶液體到處跑，這事幹起來真叫一個痛苦。這些小儲罐能夠自己輸出和抽進液體，因為它們內置了一些由魔法能源驅動的泵，真方便。
+gtnh.quest130.name=便携式储罐(Portable tanks)
+gtnh.quest130.desc=在此之前，你还要用BC储罐来带液体到处跑，这事干起来真叫一个痛苦。这些小储罐能够自己输出和抽进液体，因为它们内置了一些由魔法能源驱动的泵，真方便。
 
 
 #Quest_131.Simple RF power: Solid
-gtnh.quest131.name= RF能量:固體 (Simple RF power: Solid)
-gtnh.quest131.desc=這台機器能通過燃燒煤炭作為燃料產生RF能量，足夠供給你的基礎機器。(GT導線和變壓器仍然可以將EU轉換為RF)
+gtnh.quest131.name= RF能量:固体 (Simple RF power: Solid)
+gtnh.quest131.desc=这台机器能通过燃烧煤炭作为燃料产生RF能量，足够供给你的基础机器。(GT导线和变压器仍然可以将EU转换为RF)
 
 #Quest_132.Simple RF power: Liquids
-gtnh.quest132.name= RF能量:液體 (Simple RF power: Liquids)
-gtnh.quest132.desc=這台發電機需要作為冷卻劑的水和作為燃料的可燃液體，它發電的功率取決於使用的液體。
+gtnh.quest132.name= RF能量:液体 (Simple RF power: Liquids)
+gtnh.quest132.desc=这台发电机需要作为冷却剂的水和作为燃料的可燃液体，它发电的功率取决于使用的液体。
 
 #Quest_133.The power of enderman
-gtnh.quest133.name=終界使者的力量 (The power of enderman)
-gtnh.quest133.desc=電梯是好的，但它們僅限於垂直傳送，作用範圍也有限。旅行錨沒有這個限制。你可以從一個錨傳送到一定範圍內的任何其他錨。你可以命名它們，甚至把它們設為私人的。
+gtnh.quest133.name=终界使者的力量 (The power of enderman)
+gtnh.quest133.desc=电梯是好的，但它们仅限于垂直传送，作用范围也有限。旅行锚没有这个限制。你可以从一个锚传送到一定范围内的任何其他锚。你可以命名它们，甚至把它们设为私人的。
 
 #Quest_134.Conduits
-gtnh.quest134.name=導管 (Conduits)
-gtnh.quest134.desc=這可能是多種傳輸方式中最棒的一種，每一種都做一些吧。
+gtnh.quest134.name=导管 (Conduits)
+gtnh.quest134.desc=这可能是多种传输方式中最棒的一种，每一种都做一些吧。
 
 #Quest_135.Yet another wrench
-gtnh.quest135.name=又一個扳手 (Yet another wrench)
-gtnh.quest135.desc=乙太扳手不僅僅是一個普通的扳手。在握住它的同時，你可以在管道類型之間切換，允許你從許多管道中移除一個特定類型的管道，按住Ctrl+滾動滑鼠滾輪可以切換模式。即使你無法接觸到管道的另一側，Shift+左鍵也可以打開配置介面。
+gtnh.quest135.name=又一个扳手 (Yet another wrench)
+gtnh.quest135.desc=以太扳手不仅仅是一个普通的扳手。在握住它的同时，你可以在管道类型之间切换，允许你从许多渠道中移除一个特定类型的管道，按住Ctrl+滚动鼠标滚轮可以切换模式。即使你无法接触到管道的另一侧，Shift+左键也可以打开配置接口。
 
 #Quest_136.Improving conduits
-gtnh.quest136.name=升級導管 (Improving conduits)
-gtnh.quest136.desc=導管本身是非常棒的，但你可以做得更好。通過使用篩檢程式和速度升級，你可以更好地控制它們的工作和工作速度。
+gtnh.quest136.name=升级导管 (Improving conduits)
+gtnh.quest136.desc=导管本身是非常棒的，但你可以做得更好。通过使用过滤器和速度升级，你可以更好地控制它们的工作和工作速度。
 
 #Quest_137.Making things pretty
-gtnh.quest137.name=變得漂亮(Making things pretty)
-gtnh.quest137.desc=雖然管道本身已經很棒了，如果你想要的話，你也可以隱藏它們。有兩種類型的導管框架，基礎的和硬化的。雖然基礎的簡單易用，但是硬化的能夠抵禦爆炸和工具的挖掘。你必須使用你的乙太扳手來移除它。
+gtnh.quest137.name=变得漂亮(Making things pretty)
+gtnh.quest137.desc=虽然管道本身已经很棒了，如果你想要的话，你也可以隐藏它们。有两种类型的导管框架，基础的和硬化的。虽然基础的简单易用，但是硬化的能够抵御爆炸和工具的挖掘。你必须使用你的以太扳手来移除它。
 
 #Quest_138.Come to the dark side...
-gtnh.quest138.name=來到黑暗面... (Come to the dark side...)
-gtnh.quest138.desc=...我們有餅乾。
+gtnh.quest138.name=来到黑暗面... (Come to the dark side...)
+gtnh.quest138.desc=...我们有饼干。
 
 #Quest_139.Luke, I'm your father
-gtnh.quest139.name=路克，我是你的父親 (Luke, I'm your father)
-gtnh.quest139.desc=有了玄鋼，你現在可以製作一套新的護甲了。它在開始的時候非常基礎，但它以後可以升級以解鎖強大的功能。
+gtnh.quest139.name=路克，我是你的父亲 (Luke, I'm your father)
+gtnh.quest139.desc=有了玄钢，你现在可以制作一套新的护甲了。它在开始的时候非常基础，但它以后可以升级以解锁强大的功能。
 
 #Quest_140.Dark steel tools
-gtnh.quest140.name=玄鋼工具 (Dark steel tools)
-gtnh.quest140.desc=還有玄鋼製成的工具。它們都可以接受升級。按住shift以獲得工具提示，它會解釋你需要用什麼材料來給工具升級。
+gtnh.quest140.name=玄钢工具 (Dark steel tools)
+gtnh.quest140.desc=还有玄钢制成的工具。它们都可以接受升级。按住shift以获得工具提示，它会解释你需要用什么材料来给工具升级。
 
 #Quest_141.Basic upgrades
-gtnh.quest141.name=基礎升級 (Basic upgrades)
-gtnh.quest141.desc=為了升級你的護甲和工具，你需要10級經驗，還有8個充能晶體。
+gtnh.quest141.name=基础升级 (Basic upgrades)
+gtnh.quest141.desc=为了升级你的护甲和工具，你需要10级经验，还有8个充能晶体。
 
 #Quest_142.Brewing liquids
-gtnh.quest142.name=釀造液體 (Brewing liquids)
-gtnh.quest142.desc=這種機器不僅能夠釀造更強大的可燃液體，還可用于釀造營養精華液，可能很快(tm)就有用了。
+gtnh.quest142.name=酿造液体 (Brewing liquids)
+gtnh.quest142.desc=这种机器不仅能够酿造更强大的可燃液体，还可用于酿造营养精华液，可能很快(tm)就有用了。
 
 #Quest_143.Smelting all-joy
-gtnh.quest143.name=熔煉樂趣 (Smelting all-joy)
-gtnh.quest143.desc=這種合金爐允許你生產各種石英玻璃和純淨玻璃。
+gtnh.quest143.name=熔炼乐趣 (Smelting all-joy)
+gtnh.quest143.desc=这种合金炉允许你生产各种石英玻璃和纯净玻璃。
 
 #Quest_144.Automated crafting
-gtnh.quest144.name=自動合成 (Automated crafting)
-gtnh.quest144.desc=你瞭解的另一個自動合成方法...
+gtnh.quest144.name=自动合成 (Automated crafting)
+gtnh.quest144.desc=你了解的另一个自动合成方法...
 
 #Quest_145.Ore processing kind of...
-gtnh.quest145.name=一種礦物處理... (Ore processing kind of...)
-gtnh.quest145.desc=研磨機與SAG研磨，戰爭仍在繼續。
+gtnh.quest145.name=一种矿物处理... (Ore processing kind of...)
+gtnh.quest145.desc=研磨机与SAG研磨，战争仍在继续。
 
 #Quest_146.Torture device
-gtnh.quest146.name=酷刑裝置 (Torture device)
-gtnh.quest146.desc=當臣民們不願合作時...
+gtnh.quest146.name=酷刑装置 (Torture device)
+gtnh.quest146.desc=当臣民们不愿合作时...
 
 #Quest_147.Rocket fuel
-gtnh.quest147.name=不適用於火箭... (Rocket fuel)
-gtnh.quest147.desc=它聲稱是火箭燃料，但它不是。然而，它確實能產出相當多的能量。用你的化學反應器來做一些。在燃燒發電機中使用時，它能產出160RF/t。
+gtnh.quest147.name=不适用于火箭... (Rocket fuel)
+gtnh.quest147.desc=它声称是火箭燃料，但它不是。然而，它确实能产出相当多的能量。用你的化学反应器来做一些。在燃烧发电机中使用时，它能产出160RF/t。
 
 #Quest_148.Tasty...
 gtnh.quest148.name=美味的... (Tasty...)
-gtnh.quest148.desc=嗯，是的...好吧，你確信它在...某一天...最終...會有一些用途的，大概。
+gtnh.quest148.desc=嗯，是的...好吧，你确信它在...某一天...最终...会有一些用途的，大概。
 
 #Quest_149.Firewater
 gtnh.quest149.name=消防用水 (Firewater)
-gtnh.quest149.desc=不完全是你所認為的那樣。最好不要消耗這種液體。在燃燒發電機中使用時，它能產出80RF/t。
+gtnh.quest149.desc=不完全是你所认为的那样。最好不要消耗这种液体。在燃烧发电机中使用时，它能产出80RF/t。
 
 #Quest_150.Hootch
 gtnh.quest150.name=烈酒 (Hootch)
-gtnh.quest150.desc=最低級的，可再生的可燃液體。產出60RF/t，但可以實現自動化的“綠色”能源。
+gtnh.quest150.desc=最低级的，可再生的可燃液体。产出60RF/t，但可以实现自动化的“绿色”能源。
 
 #Quest_151.Automated mob-farming
-gtnh.quest151.name=自動化怪物農場 (Automated mob-farming)
-gtnh.quest151.desc=當然，僵屍喜歡那種噁心的液體。它會攻擊處於它範圍內的一切，每次攻擊時消耗少量的液體。它也會攻擊玩家，所以要小心。謠言說，有一種武器在這個“機器”中使用時永遠不會損壞...
+gtnh.quest151.name=自动化怪物农场 (Automated mob-farming)
+gtnh.quest151.desc=当然，僵尸喜欢那种恶心的液体。它会攻击处于它范围内的一切，每次攻击时消耗少量的液体。它也会攻击玩家，所以要小心。谣言说，有一种武器在这个“机器”中使用时永远不会损坏...
 
 #Quest_152.And it will never break
-gtnh.quest152.name=它永遠不會損壞 (And it will never break)
-gtnh.quest152.desc=用天域之劍，你的殺手喬將永遠運作下去。適當的附魔能讓其更有效率，但這應該不成問題。
+gtnh.quest152.name=它永远不会损坏 (And it will never break)
+gtnh.quest152.desc=用天域之剑，你的杀手乔将永远运作下去。适当的附魔能让其更有效率，但这应该不成问题。
 
 #Quest_153.Simple item transfer
-gtnh.quest153.name=簡單的物品轉移 (Simple item transfer)
-gtnh.quest153.desc=轉運器只能在1格的距離內轉移物品。但它們相當便宜，是構建緊湊型機組的好幫手。
+gtnh.quest153.name=简单的物品转移 (Simple item transfer)
+gtnh.quest153.desc=转运器只能在1格的距离内转移物品。但它们相当便宜，是构建紧凑型机组的好帮手。
 
 #Quest_154.Simple fluid transfer
-gtnh.quest154.name=簡單的流體轉移 (Simple fluid transfer)
-gtnh.quest154.desc=就像物品轉運器一樣，液體轉運器轉移液體。相同的使用限制，1格距離。
+gtnh.quest154.name=简单的流体转移 (Simple fluid transfer)
+gtnh.quest154.desc=就像物品转运器一样，液体转运器转移液体。相同的使用限制，1格距离。
 
 #Quest_155.Harder, stronger, faster
-gtnh.quest155.name=更硬，更強，更快 (Harder, stronger, faster)
-gtnh.quest155.desc=不，實際上並不會更快。但它比1級的更耐用。
+gtnh.quest155.name=更硬，更强，更快 (Harder, stronger, faster)
+gtnh.quest155.desc=不，实际上并不会更快。但它比1级的更耐用。
 
 #Quest_156.Protect your base: Tier 2
-gtnh.quest156.name=保護你的基地:第2級 (Protect your base: Tier 2)
-gtnh.quest156.desc=稍微好一點的防護措施。現在有了真槍實彈，不用再浪費食物啦。
+gtnh.quest156.name=保护你的基地:第2级 (Protect your base: Tier 2)
+gtnh.quest156.desc=稍微好一点的防护措施。现在有了真枪实弹，不用再浪费食物啦。
 
 #Quest_157.Tier 2 turret base
-gtnh.quest157.name=二級炮塔基座 (Tier 2 turret base)
-gtnh.quest157.desc=沒什麼好看的。繼續...
+gtnh.quest157.name=二级炮塔基座 (Tier 2 turret base)
+gtnh.quest157.desc=没什么好看的。继续...
 
 #Quest_158.Sometimes, a bullet will do
-gtnh.quest158.name=讓子彈飛一會兒 (Sometimes, a bullet will do)
-gtnh.quest158.desc=它們打的真疼。已經警告過你了。
+gtnh.quest158.name=让子弹飞一会儿 (Sometimes, a bullet will do)
+gtnh.quest158.desc=它们打的真疼。已经警告过你了。
 
 #Quest_159.Burn them. Burn them all!
-gtnh.quest159.name=燒死他們，全都燒死！ (Burn them. Burn them all!)
-gtnh.quest159.desc=嗯…酥脆的培根。如果你將中立的生物作為目標，會發生什麼？
+gtnh.quest159.name=烧死他们，全都烧死！ (Burn them. Burn them all!)
+gtnh.quest159.desc=嗯…酥脆的培根。如果你将中立的生物作为目标，会发生什么？
 
 #Quest_160.Tier 4
-gtnh.quest160.name=第4階 (Tier 4)
-gtnh.quest160.desc=照例是第一個機器外殼...
+gtnh.quest160.name=第4阶 (Tier 4)
+gtnh.quest160.desc=照例是第一个机器外壳...
 
 #Quest_161.Paying the highest price
 gtnh.quest161.name=Paying the highest price
@@ -1207,7 +1207,7 @@ gtnh.quest300.desc=As you do more and more infusions, you're getting tired of re
 
 #Quest_301.One does not simply...
 gtnh.quest301.name=One does not simply...
-gtnh.quest301.desc=...play with magic. Be warned, these fires are very dangerous! But who doesn't want a patch of snow in the nether?\n\n嚙箱Fire spread is disabled in the configs of servers to prevent massive lag and world destruction.
+gtnh.quest301.desc=...play with magic. Be warned, these fires are very dangerous! But who doesn't want a patch of snow in the nether?\n\n啮箱Fire spread is disabled in the configs of servers to prevent massive lag and world destruction.
 
 #Quest_302.Useful plant life
 gtnh.quest302.name=Useful plant life
@@ -2186,8 +2186,8 @@ gtnh.quest545.name=Suction device... nice
 gtnh.quest545.desc=I hope you are not thinking about what I am thinking you are thinking about... \n\nHint:\nIt is highly recommended to get one of these, as the efficiency in terms of coal/steam used to extracting something is a lot better when using EU.
 
 #Quest_546.Hello Baron, how is your black gold today?
-gtnh.quest546.name=嗨男爵，你的石油黑金現況如何？(Hello Baron, how is your black gold today?)
-gtnh.quest546.desc=在你的旅程中看過些龐大的石油井。現在做台泵將這些黑金裝進容器吧！石油可以用於柴油發電機、或者提煉其他原料。\n\n帶一台柴油發電機為泵供電。(感謝科技進步，現在泵可以自動由上方輸出。)\n\nDuring your travels you may have seen some of these huge oil wells. Now it's time to go make a pump and put this black gold into tanks. Oil can be burned in a diesel generator or be refined. \n\nBring a diesel generator with you to power the pump. (Thanks to the advancement of technology the pumping machine can auto output on top.)
+gtnh.quest546.name=嗨男爵，你的石油黑金现况如何？(Hello Baron, how is your black gold today?)
+gtnh.quest546.desc=在你的旅程中看过些庞大的石油井。现在做台泵将这些黑金装进容器吧！石油可以用于柴油发电机、或者提炼其他原料。\n\n带一台柴油发电机为泵供电。(感谢科技进步，现在泵可以自动由上方输出。)\n\nDuring your travels you may have seen some of these huge oil wells. Now it's time to go make a pump and put this black gold into tanks. Oil can be burned in a diesel generator or be refined. \n\nBring a diesel generator with you to power the pump. (Thanks to the advancement of technology the pumping machine can auto output on top.)
 
 #Quest_547.Your oil is too Crude? Refine it!
 gtnh.quest547.name=Your oil is too Crude? Refine it!
@@ -2390,856 +2390,856 @@ gtnh.quest596.name=Upgrade of the upgrade of the...
 gtnh.quest596.desc=It's upgrade time. Unlock redstone and obsidian level for your different tools.
 
 #Quest_597.Tetrahedrite, stibnite and copper
-gtnh.quest597.name=黝銅礦 、輝銻礦、及銅礦(Tetrahedrite, stibnite and copper)
-gtnh.quest597.desc=你可能會疑惑為何需要黝銅礦，或輝銻礦。主要是可以離心出銻，在LV時代用於製做電池。可以在Y 80-120找到礦脈。
+gtnh.quest597.name=黝铜矿 、辉锑矿、及铜矿(Tetrahedrite, stibnite and copper)
+gtnh.quest597.desc=你可能会疑惑为何需要黝铜矿，或辉锑矿。主要是可以离心出锑，在LV时代用于制做电池。可以在Y 80-120找到矿脉。
 
 #Quest_598.Antimony
-gtnh.quest598.name=銻(Antimony)
-gtnh.quest598.desc=要得到電池所需的銻，最有效率的方法是離心輝銻粉，其次是使用黝銅礦粉。
+gtnh.quest598.name=锑(Antimony)
+gtnh.quest598.desc=要得到电池所需的锑，最有效率的方法是离心辉锑粉，其次是使用黝铜矿粉。
 
 #Quest_599.Thermal centrifuge
-gtnh.quest599.name=熱能離心機(Thermal centrifuge)
-gtnh.quest599.desc=想從破碎礦石或者純淨礦石粉末中取得不同的副產品，熱能離心機是個選擇。當你有反應爐並想回收用盡的燃料棒時，十分有用。
+gtnh.quest599.name=热能离心机(Thermal centrifuge)
+gtnh.quest599.desc=想从破碎矿石或者纯净矿石粉末中取得不同的副产品，热能离心机是个选择。当你有反应炉并想回收用尽的燃料棒时，十分有用。
 
 #Quest_600.Hunger, no more
-gtnh.quest600.name=不再饑餓(Hunger, no more)
-gtnh.quest600.desc=饑餓問題一直跟隨著你，消耗你的精力，從不讓你休息。這世界充滿各種營養的水果、蔬菜、各種餐點。靠這些解決你永不滿足的饑渴吧。
+gtnh.quest600.name=不再饥饿(Hunger, no more)
+gtnh.quest600.desc=饥饿问题一直跟随着你，消耗你的精力，从不让你休息。这世界充满各种营养的水果、蔬菜、各种餐点。靠这些解决你永不满足的饥渴吧。
 
 #Quest_601.Building made easy
-gtnh.quest601.name=輕鬆建築(Building made easy)
-gtnh.quest601.desc=手動放置方塊有時非常單調乏味。如果能一次放九個不是很好嗎？好消息，準備好下列各種建築方塊，然後我會給你些好東西。
+gtnh.quest601.name=轻松建筑(Building made easy)
+gtnh.quest601.desc=手动放置方块有时非常单调乏味。如果能一次放九个不是很好吗？好消息，准备好下列各种建筑方块，然后我会给你些好东西。
 
 #Quest_602.Spatial distortions
-gtnh.quest602.name=空間扭曲(Spatial distortions)
-gtnh.quest602.desc=在終界使者附近，你感到空氣有種奇怪的擾動。建議你偷些他們的終界珍珠來研究。
+gtnh.quest602.name=空间扭曲(Spatial distortions)
+gtnh.quest602.desc=在终界使者附近，你感到空气有种奇怪的扰动。建议你偷些他们的终界珍珠来研究。
 
 #Quest_603.Dimensional chest
 gtnh.quest603.name=次元箱(Dimensional chest)
-gtnh.quest603.desc=謠言說，終界使者在終界蓋了研究室。在那他們開發武器跟機器，準備進攻主世界。其中一項發明是一種箱子，不知為何，終界箱的所有實體都相連。試著找出一個終界箱。
+gtnh.quest603.desc=谣言说，终界使者在终界盖了研究室。在那他们开发武器跟机器，准备进攻主世界。其中一项发明是一种箱子，不知为何，终界箱的所有实体都相连。试着找出一个终界箱。
 
 #Quest_604.A new dimension
 gtnh.quest604.name=新次元(A new dimension)
-gtnh.quest604.desc=通過研究終界珍珠，你發現擾動的源頭似乎是要塞中閃爍的傳送門。你從那神秘的深淵中感到奇怪的拉力。
+gtnh.quest604.desc=通过研究终界珍珠，你发现扰动的源头似乎是要塞中闪烁的传送门。你从那神秘的深渊中感到奇怪的拉力。
 
 #Quest_605.Slay the Eyes!
-gtnh.quest605.name=消滅眼睛(Slay the Eyes!)
-gtnh.quest605.desc=找到並殺死終界之眼，保護防禦塔。
+gtnh.quest605.name=消灭眼睛(Slay the Eyes!)
+gtnh.quest605.desc=找到并杀死终界之眼，保护防御塔。
 
 #Quest_606.Ender Guardians
-gtnh.quest606.name=終界守護者(Ender Guardians)
-gtnh.quest606.desc=如果你打算要農的話...獵殺一些終界守護者。
+gtnh.quest606.name=终界守护者(Ender Guardians)
+gtnh.quest606.desc=如果你打算要农的话...猎杀一些终界守护者。
 
 #Quest_607.Slay the Dragon. (Again)
-gtnh.quest607.name=消滅終界龍(再一次)(Slay the Dragon. (Again))
-gtnh.quest607.desc=如果你感到無聊，可以復活終界龍。或者你敢的話，可以找到一隻混沌龍。不管怎樣，殺了其中一隻，你會得到豐厚的獎賞。
+gtnh.quest607.name=消灭终界龙(再一次)(Slay the Dragon. (Again))
+gtnh.quest607.desc=如果你感到无聊，可以复活终界龙。或者你敢的话，可以找到一只混沌龙。不管怎样，杀了其中一只，你会得到丰厚的奖赏。
 
 #Quest_608.A lead about lead that leads to lead dust
-gtnh.quest608.name=鉛新萬苦找到鉛(A lead about lead that leads to lead dust)
-gtnh.quest608.desc=做電池的下意步是收集鉛。鉛跟方鉛礦可以在暮光森林找到。 
+gtnh.quest608.name=铅新万苦找到铅(A lead about lead that leads to lead dust)
+gtnh.quest608.desc=做电池的下意步是收集铅。铅跟方铅矿可以在暮光森林找到。 
 
 #Quest_609.Battery alloy
-gtnh.quest609.name=電池合金(Battery alloy)
-gtnh.quest609.desc=使用合金爐混合銻跟鉛，可以得到電池合金。與一些錫線纜組合就可以得到小型電池外殼。
+gtnh.quest609.name=电池合金(Battery alloy)
+gtnh.quest609.desc=使用合金炉混合锑跟铅，可以得到电池合金。与一些锡线缆组合就可以得到小型电池外壳。
 
 #Quest_610.Lead, galena and silver
-gtnh.quest610.name=鉛、方鉛礦，以及銀(Lead, galena and silver)
-gtnh.quest610.desc=你無法在主世界或地獄找到鉛、方鉛礦跟銀。該探索神秘的暮光森林了。在Y 5-40尋找這種礦脈。
+gtnh.quest610.name=铅、方铅矿，以及银(Lead, galena and silver)
+gtnh.quest610.desc=你无法在主世界或地狱找到铅、方铅矿跟银。该探索神秘的暮光森林了。在Y 5-40寻找这种矿脉。
 
 #Quest_611.Single use battery: Mercury
-gtnh.quest611.name=一次性電池:汞(Single use battery: Mercury)
-gtnh.quest611.desc=汞及酸性電池是一次性電池，新成品電力是滿的，但不能充電。一電電力用完了，可以使用抽取機轉換回小型電池外殼。這些電池可以放在LV級GT機器的電池槽中，機器將優先使用電池電力。也可以使用在LV電池箱中。
+gtnh.quest611.name=一次性电池:汞(Single use battery: Mercury)
+gtnh.quest611.desc=汞及酸性电池是一次性电池，新成品电力是满的，但不能充电。一电电力用完了，可以使用抽取机转换回小型电池外壳。这些电池可以放在LV级GT机器的电池槽中，机器将优先使用电池电力。也可以使用在LV电池箱中。
 
 #Quest_612.Single use battery: Acid
-gtnh.quest612.name=一次性電池:酸(Single use battery: Acid)
-gtnh.quest612.desc=汞及酸性電池是一次性電池，新成品電力是滿的，但不能充電。一電電力用完了，可以使用抽取機轉換回小型電池外殼。這些電池可以放在LV級GT機器的電池槽中，機器將優先使用電池的EU電力，然後才是內部的EU儲存。電池也可以使用在LV電池箱中做為buffer。
+gtnh.quest612.name=一次性电池:酸(Single use battery: Acid)
+gtnh.quest612.desc=汞及酸性电池是一次性电池，新成品电力是满的，但不能充电。一电电力用完了，可以使用抽取机转换回小型电池外壳。这些电池可以放在LV级GT机器的电池槽中，机器将优先使用电池的EU电力，然后才是内部的EU储存。电池也可以使用在LV电池箱中做为buffer。
 
 #Quest_613.Reusable battery: Sodium
-gtnh.quest613.name=可重覆使用電池:鈉(Reusable battery: Sodium)
-gtnh.quest613.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。
+gtnh.quest613.name=可重复使用电池:钠(Reusable battery: Sodium)
+gtnh.quest613.desc=钠、镉、锂电池都是可充电电池。新成品没有电力，但可以在任何GT机器中充电。如果不需要了，可以用抽取机转换回小型电池外壳，但会失去内容物。
 
 #Quest_614.Reusable battery: Cadmium
-gtnh.quest614.name=可重覆使用電池:鎘Reusable battery: Cadmium
-gtnh.quest614.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。
+gtnh.quest614.name=可重复使用电池:镉Reusable battery: Cadmium
+gtnh.quest614.desc=钠、镉、锂电池都是可充电电池。新成品没有电力，但可以在任何GT机器中充电。如果不需要了，可以用抽取机转换回小型电池外壳，但会失去内容物。
 
 #Quest_615.Reusable battery: Lithium
-gtnh.quest615.name=可重覆使用電池:鋰Reusable battery: Lithium
-gtnh.quest615.desc=鈉、鎘、鋰電池都是可充電電池。新成品沒有電力，但可以在任何GT機器中充電。如果不需要了，可以用抽取機轉換回小型電池外殼，但會失去內容物。
+gtnh.quest615.name=可重复使用电池:锂Reusable battery: Lithium
+gtnh.quest615.desc=钠、镉、锂电池都是可充电电池。新成品没有电力，但可以在任何GT机器中充电。如果不需要了，可以用抽取机转换回小型电池外壳，但会失去内容物。
 
 #Quest_616.Mercury
 gtnh.quest616.name=汞Mercury
-gtnh.quest616.desc=要得到汞，可以離心紅石。如果你在紅石礦脈中找到辰砂礦，也可以使用辰砂礦。
+gtnh.quest616.desc=要得到汞，可以离心红石。如果你在红石矿脉中找到辰砂矿，也可以使用辰砂矿。
 
 #Quest_617.Fluid canner
-gtnh.quest617.name=液體灌裝機(Fluid canner)
-gtnh.quest617.desc=液體灌裝機是基礎機器，可用於運送一些液體，並可用來裝填空單元、玻璃罐、水桶，甚至是電池。另一件趣事是，液體灌裝機可以當水塔用，只要在上面覆蓋吸取板(所有的機器其實都可以...)。
+gtnh.quest617.name=液体灌装机(Fluid canner)
+gtnh.quest617.desc=液体灌装机是基础机器，可用于运送一些液体，并可用来装填空单元、玻璃罐、水桶，甚至是电池。另一件趣事是，液体灌装机可以当水塔用，只要在上面覆盖吸取板(所有的机器其实都可以...)。
 
 #Quest_618.Sulfuric acid
 gtnh.quest618.name=硫酸(Sulfuric acid)
-gtnh.quest618.desc=用化學反應器混合硫化氫跟水，可以得到硫酸以用在一次性電池中。如果你有製作了一些輕質燃料或重質燃料，你也許有剩下些硫化氫。如果沒有，可以在化學反應器中使用硫粉跟水來製作硫化氫。
+gtnh.quest618.desc=用化学反应器混合硫化氢跟水，可以得到硫酸以用在一次性电池中。如果你有制作了一些轻质燃料或重质燃料，你也许有剩下些硫化氢。如果没有，可以在化学反应器中使用硫粉跟水来制作硫化氢。
 
 #Quest_619.Battery buffer
-gtnh.quest619.name=電池盒(Battery buffer)
-gtnh.quest619.desc=電池可以直接裝在機器中。而你需要電池盒來為電池充電，有1、4、9、16槽可以選擇。
+gtnh.quest619.name=电池盒(Battery buffer)
+gtnh.quest619.desc=电池可以直接装在机器中。而你需要电池盒来为电池充电，有1、4、9、16槽可以选择。
 
 #Quest_620.IC2 Battery
-gtnh.quest620.name=IC2電池(IC2 Battery)
-gtnh.quest620.desc=有些配方會用到IC2電池，將你的小型電池外殻充填液態紅石，可以得到充電電池。
+gtnh.quest620.name=IC2电池(IC2 Battery)
+gtnh.quest620.desc=有些配方会用到IC2电池，将你的小型电池外殻充填液态红石，可以得到充电电池。
 
 #Quest_621.How to get sodium
-gtnh.quest621.name=取得鈉(How to get sodium)
-gtnh.quest621.desc=另一個鈉的來源是海綠石礦石跟海綠石沙，你可以在Y 20-50找到這種礦脈。
+gtnh.quest621.name=取得钠(How to get sodium)
+gtnh.quest621.desc=另一个钠的来源是海绿石矿石跟海绿石沙，你可以在Y 20-50找到这种矿脉。
 
 #Quest_622.How to get sodium/lithium
-gtnh.quest622.name=取得鈉及鋰(How to get sodium/lithium)
-gtnh.quest622.desc=鹽礦脈能在主世界的Y 50-70找到。鹽不只可以用來提煉鈉。在許多pam's harvestcraft的食譜中，鹽更是一樣重要的食材。提示: 鋰雲母礦石及鋰輝石礦石是很好的鋰來源，可用於你的電池。
+gtnh.quest622.name=取得钠及锂(How to get sodium/lithium)
+gtnh.quest622.desc=盐矿脉能在主世界的Y 50-70找到。盐不只可以用来提炼钠。在许多pam's harvestcraft的食谱中，盐更是一样重要的食材。提示: 锂云母矿石及锂辉石矿石是很好的锂来源，可用于你的电池。
 
 #Quest_623.A big meteorite
-gtnh.quest623.name=巨大的隕石(A big meteorite)
-gtnh.quest623.desc=最好的方式是找到隕石，電解兩個隕石並將之研磨成粉。也許在蒸汽時代完成了隕石任務，並留下了一些破碎的隕石？現在你可以離心那些粉末得到多種副產品如鎘、釹、鑭、銫，和釔。
+gtnh.quest623.name=巨大的陨石(A big meteorite)
+gtnh.quest623.desc=最好的方式是找到陨石，电解两个陨石并将之研磨成粉。也许在蒸汽时代完成了陨石任务，并留下了一些破碎的陨石？现在你可以离心那些粉末得到多种副产品如镉、钕、镧、铯，和钇。
 
 #Quest_624.Basic canner
-gtnh.quest624.name=基礎裝罐機(Basic canner)
-gtnh.quest624.desc=裝罐機主要用來裝填任何食物到錫罐中。但也可用來裝填食物以外的東西到錫容器中，通常是粉狀物。也可以裝填紅石、鎘、鋰或鈉到電池中。 
+gtnh.quest624.name=基础装罐机(Basic canner)
+gtnh.quest624.desc=装罐机主要用来装填任何食物到锡罐中。但也可用来装填食物以外的东西到锡容器中，通常是粉状物。也可以装填红石、镉、锂或钠到电池中。 
 
 #Quest_625.Packing your chests and barrels
 gtnh.quest625.name=打包你的箱子(Packing your chests and barrels)
-gtnh.quest625.desc=打包箱子而不使物品散落滿地(buildcraft(tm))?沒問題!做台手推車你就可以帶著裝滿的箱子、桶子或儲存抽屜到任何地方去。但注意，你會得到緩速負面效果，希望你不是要去太遠的地方。
+gtnh.quest625.desc=打包箱子而不使物品散落满地(buildcraft(tm))?没问题!做台手推车你就可以带着装满的箱子、桶子或储存抽屉到任何地方去。但注意，你会得到缓速负面效果，希望你不是要去太远的地方。
 
 #Quest_626.Portable mob spawners..? Cool!
-gtnh.quest626.name=可攜式生怪磚..?酷!(Portable mob spawners..? Cool!)
-gtnh.quest626.desc=你想移動生怪磚，並建造一個怪物農場嗎？只要有鑽石手推車就辦得到。
+gtnh.quest626.name=可携式生怪砖..?酷!(Portable mob spawners..? Cool!)
+gtnh.quest626.desc=你想移动生怪砖，并建造一个怪物农场吗？只要有钻石手推车就办得到。
 
 #Quest_627.Grain bait
-gtnh.quest627.name=穀物誘餌(Grain bait)
-gtnh.quest627.desc=為你的動物陷阱製作一些良好的穀物誘餌。
+gtnh.quest627.name=谷物诱饵(Grain bait)
+gtnh.quest627.desc=为你的动物陷阱制作一些良好的谷物诱饵。
 
 #Quest_628.Fruit bait
-gtnh.quest628.name=水果誘餌(Fruit bait)
-gtnh.quest628.desc=為你的動物陷阱製作一些美味的水果誘餌。
+gtnh.quest628.name=水果诱饵(Fruit bait)
+gtnh.quest628.desc=为你的动物陷阱制作一些美味的水果诱饵。
 
 #Quest_629.Veggie bait
-gtnh.quest629.name=蔬菜誘餌(Veggie bait)
-gtnh.quest629.desc=為你的動物陷阱製作一些蔬菜誘餌。
+gtnh.quest629.name=蔬菜诱饵(Veggie bait)
+gtnh.quest629.desc=为你的动物陷阱制作一些蔬菜诱饵。
 
 #Quest_630.Fish bait
-gtnh.quest630.name=魚類誘餌(Fish bait)
-gtnh.quest630.desc=為你的動物陷阱製作一些魚類誘餌。
+gtnh.quest630.name=鱼类诱饵(Fish bait)
+gtnh.quest630.desc=为你的动物陷阱制作一些鱼类诱饵。
 
 #Quest_631.Animal trapping
-gtnh.quest631.name=動物陷阱(Animal trapping)
-gtnh.quest631.desc=厭倦獵殺牛、殭屍和羊了嗎？你可以建造陷阱並期望動物或怪物會被內部的網子抓到。
+gtnh.quest631.name=动物陷阱(Animal trapping)
+gtnh.quest631.desc=厌倦猎杀牛、殭尸和羊了吗？你可以建造陷阱并期望动物或怪物会被内部的网子抓到。
 
 #Quest_632.A fisherman's friend
-gtnh.quest632.name=釣魚伙伴(A fisherman's friend)
-gtnh.quest632.desc=你有試過空手抓魚嗎？是時候做根釣魚竿輕鬆釣魚了。在水面使用你的釣竿並等到浮標降到水下，然後收線並希望你抓到些好東西。
+gtnh.quest632.name=钓鱼伙伴(A fisherman's friend)
+gtnh.quest632.desc=你有试过空手抓鱼吗？是时候做根钓鱼竿轻松钓鱼了。在水面使用你的钓竿并等到浮标降到水下，然后收线并希望你抓到些好东西。
 
 #Quest_633.Fish trapping
-gtnh.quest633.name=捕魚陷阱(Fish trapping)
-gtnh.quest633.desc=釣魚可能很無聊，何不用陷阱自動捕魚？
+gtnh.quest633.name=捕鱼陷阱(Fish trapping)
+gtnh.quest633.desc=钓鱼可能很无聊，何不用陷阱自动捕鱼？
 
 #Quest_634.Wheat time
-gtnh.quest634.name=小麥時刻(Wheat time)
-gtnh.quest634.desc=是時候種些小麥，用於動物陷阱中所需要的穀物誘餌。
+gtnh.quest634.name=小麦时刻(Wheat time)
+gtnh.quest634.desc=是时候种些小麦，用于动物陷阱中所需要的谷物诱饵。
 
 #Quest_635.Floury flurry
-gtnh.quest635.name=麵粉(Floury flurry)
-gtnh.quest635.desc=做麵包的第一步是使用研缽或磨粉機磨碎小麥以取得麵粉。麵可以用於許多pam's harvestcraft foods的食譜中。
+gtnh.quest635.name=面粉(Floury flurry)
+gtnh.quest635.desc=做面包的第一步是使用研钵或磨粉机磨碎小麦以取得面粉。面可以用于许多pam's harvestcraft foods的食谱中。
 
 #Quest_636.First handmade bread
-gtnh.quest636.name=第一個手作麵包(First handmade bread)
-gtnh.quest636.desc=在熔爐烘焙你的生麵團，做些好吃的麵包吧。你的第一個麵包！
+gtnh.quest636.name=第一个手作面包(First handmade bread)
+gtnh.quest636.desc=在熔炉烘焙你的生面团，做些好吃的面包吧。你的第一个面包！
 
 #Quest_637.Do'h!
-gtnh.quest637.name=生麵團(Do'h!)
-gtnh.quest637.desc=水跟麵粉可以製成生麵團。生麵團可以用於許多pam's harvestcraft foods的食譜中。
+gtnh.quest637.name=生面团(Do'h!)
+gtnh.quest637.desc=水跟面粉可以制成生面团。生面团可以用于许多pam's harvestcraft foods的食谱中。
 
 #Quest_638.Tasty toast
 gtnh.quest638.name=美味土司(Tasty toast)
-gtnh.quest638.desc=在次烘焙你的麵包做成土司！？更加營養而且有更多烹飪的潛力！
+gtnh.quest638.desc=在次烘焙你的面包做成土司！？更加营养而且有更多烹饪的潜力！
 
 #Quest_639.Sulfuric naphtha
-gtnh.quest639.name=硫化石腦油(Sulfuric naphtha)
-gtnh.quest639.desc=另一樣你可以從石油中蒸餾出的東西是硫化石腦油。在燃氣發電機中每單元有400,000EU的燃燒值。
+gtnh.quest639.name=硫化石脑油(Sulfuric naphtha)
+gtnh.quest639.desc=另一样你可以从石油中蒸馏出的东西是硫化石脑油。在燃气发电机中每单元有400,000EU的燃烧值。
 
 #Quest_640.LPG
-gtnh.quest640.name=液化石油氣(LPG)
-gtnh.quest640.desc=離心煉油氣可以得到液化石油氣，其燃燒值為320,000EU，與石腦油相同。這也是另一個得到甲烷並最終製成環氧氯丙烷的方法。(目前配方為離心丙烷(propane)與丁烷(butane))
+gtnh.quest640.name=液化石油气(LPG)
+gtnh.quest640.desc=离心炼油气可以得到液化石油气，其燃烧值为320,000EU，与石脑油相同。这也是另一个得到甲烷并最终制成环氧氯丙烷的方法。(目前配方为离心丙烷(propane)与丁烷(butane))
 
 #Quest_641.Naphtha
 gtnh.quest641.name=甲烷(Naphtha)
-gtnh.quest641.desc=你可以將含硫石腦油處理成石腦油。石腦油在燃氣發電機中有320,000EU的燃燒值。石腦油也是polyethylene和polycaprolactam的基礎原料。
+gtnh.quest641.desc=你可以将含硫石脑油处理成石脑油。石脑油在燃气发电机中有320,000EU的燃烧值。石脑油也是polyethylene和polycaprolactam的基础原料。
 
 #Quest_642.Sulfuric gas
-gtnh.quest642.name=硫酸氣體(Sulfuric gas)
-gtnh.quest642.desc=另一樣你可以從石油中蒸餾出來的燃氣是硫酸氣體，每單元燃燒值為25,000EU。
+gtnh.quest642.name=硫酸气体(Sulfuric gas)
+gtnh.quest642.desc=另一样你可以从石油中蒸馏出来的燃气是硫酸气体，每单元燃烧值为25,000EU。
 
 #Quest_643.Refinery gas
-gtnh.quest643.name=煉油氣(Refinery gas)
-gtnh.quest643.desc=在化學反應器中使用氫氣提煉你的硫酸氣體，可得到煉油氣。其有較佳的燃燒值160,000EU，也可以用來製作甲烷。
+gtnh.quest643.name=炼油气(Refinery gas)
+gtnh.quest643.desc=在化学反应器中使用氢气提炼你的硫酸气体，可得到炼油气。其有较佳的燃烧值160,000EU，也可以用来制作甲烷。
 
 #Quest_644.Methane
 gtnh.quest644.name=甲烷(Methane)
-gtnh.quest644.desc=蒸餾某些精煉氣體，可以得到甲烷，有許多方法可以得到甲烷。
+gtnh.quest644.desc=蒸馏某些精炼气体，可以得到甲烷，有许多方法可以得到甲烷。
 
 #Quest_645.Glider wings
 gtnh.quest645.name=滑翔翼(Glider wings)
-gtnh.quest645.desc=如果你想跳下懸崖，而不出現某某玩家從高處跌落的訊息，找個辦法緩和你的降落是個好主意。滑翔翼可以做到這點。
+gtnh.quest645.desc=如果你想跳下悬崖，而不出现某某玩家从高处跌落的讯息，找个办法缓和你的降落是个好主意。滑翔翼可以做到这点。
 
 #Quest_646.Electrotine battery
-gtnh.quest646.name=空電池(藍石)(Electrotine battery)
-gtnh.quest646.desc=空電池這種藍石電池專門用於project red的機器跟噴氣背包中。藍石粉由紅石跟琥珀金粉混合而成。
+gtnh.quest646.name=空电池(蓝石)(Electrotine battery)
+gtnh.quest646.desc=空电池这种蓝石电池专门用于project red的机器跟喷气背包中。蓝石粉由红石跟琥珀金粉混合而成。
 
 #Quest_647.Electrotine jetpack
-gtnh.quest647.name=噴氣背包(Electrotine jetpack)
-gtnh.quest647.desc=滑翔翼讓你可以安全降落，但沒辦法讓你往上飛。研究藍石後，你發現他的能量足夠讓你做出第一個噴氣背包。一個鑽石胸甲加上四個空電池，就足夠讓你飛上天。但它並沒有盤旋模式，所以最好帶著你的滑翔翼。提示:這個噴氣背包無法飛超過Y 128。
+gtnh.quest647.name=喷气背包(Electrotine jetpack)
+gtnh.quest647.desc=滑翔翼让你可以安全降落，但没办法让你往上飞。研究蓝石后，你发现他的能量足够让你做出第一个喷气背包。一个钻石胸甲加上四个空电池，就足够让你飞上天。但它并没有盘旋模式，所以最好带着你的滑翔翼。提示:这个喷气背包无法飞超过Y 128。
 
 #Quest_648.Refill your jetpack
-gtnh.quest648.name=裝填噴氣背包(Refill your jetpack)
-gtnh.quest648.desc=好極了...你現在有一個空的噴氣背包。你需要25個藍石粉來完全裝滿它。製作藍石發電機跟充電台以便使用藍石的能量。你馬上就會發現，雖然充電又快又便宜，但是在眨眼間就用盡了。儘管如此，配合滑翔翼可以讓你飛上空中，逃離一些困境。
+gtnh.quest648.name=装填喷气背包(Refill your jetpack)
+gtnh.quest648.desc=好极了...你现在有一个空的喷气背包。你需要25个蓝石粉来完全装满它。制作蓝石发电机跟充电台以便使用蓝石的能量。你马上就会发现，虽然充电又快又便宜，但是在眨眼间就用尽了。尽管如此，配合滑翔翼可以让你飞上空中，逃离一些困境。
 
 #Quest_649.Coal steam jetpack
-gtnh.quest649.name=燃煤蒸氣噴氣背包(Coal steam jetpack)未確認
-gtnh.quest649.desc=你的coal jetpack需要水跟炭來製造蒸氣。在短暫的暖機之後，就可以起飛了。記住你需要滑翔翼來安全的降落。將蒸氣背包裝在你的背上，並按shift以及探險背包動作鍵來啟動它。這種噴氣背包的最大飛行高度是Y 185。垂直速度在超過理想高度後，會線性降低。噴氣背包的理想高度是135，直升機的理想高度是100。
+gtnh.quest649.name=燃煤蒸气喷气背包(Coal steam jetpack)未确认
+gtnh.quest649.desc=你的coal jetpack需要水跟炭来制造蒸气。在短暂的暖机之后，就可以起飞了。记住你需要滑翔翼来安全的降落。将蒸气背包装在你的背上，并按shift以及探险背包动作键来启动它。这种喷气背包的最大飞行高度是Y 185。垂直速度在超过理想高度后，会线性降低。喷气背包的理想高度是135，直升机的理想高度是100。
 
 #Quest_650.Copter jetpack
-gtnh.quest650.name=直升機噴氣背包(Copter jetpack)未確認
-gtnh.quest650.desc=copter jetpack是第一個有盤旋模式的噴氣背包。它可以使用所有桶裝的燃料。桶裝雜酚油、岩漿、石油，或燃料都可以。裝備你的噴氣背包，按shift以及探險背包動作鍵來啟動它。你可以在正常模式跟盤旋模式間切換。最大飛行高度是Y 200。垂直速度在超過理想高度後，會線性降低。噴氣背包的理想高度是135，直升機的理想高度是100。
+gtnh.quest650.name=直升机喷气背包(Copter jetpack)未确认
+gtnh.quest650.desc=copter jetpack是第一个有盘旋模式的喷气背包。它可以使用所有桶装的燃料。桶装杂酚油、岩浆、石油，或燃料都可以。装备你的喷气背包，按shift以及探险背包动作键来启动它。你可以在正常模式跟盘旋模式间切换。最大飞行高度是Y 200。垂直速度在超过理想高度后，会线性降低。喷气背包的理想高度是135，直升机的理想高度是100。
 
 #Quest_651.Electric jetpack
-gtnh.quest651.name=電動噴氣背包(Electric jetpack)
-gtnh.quest651.desc=你的第一個電動噴氣背包。你需要按IC2的切換模式鍵及空白鍵來切換飛行模式。唯一的限制是不能飛超過Y 185。
+gtnh.quest651.name=电动喷气背包(Electric jetpack)
+gtnh.quest651.desc=你的第一个电动喷气背包。你需要按IC2的切换模式键及空格键来切换飞行模式。唯一的限制是不能飞超过Y 185。
 
 #Quest_652.Fueled jetpack
-gtnh.quest652.name=燃氣噴氣背包(Fueled jetpack)未確認
-gtnh.quest652.desc=這個噴氣背包使用IC2的biogas，最高可飛到Y 245。你需要使用IC2的切換模式鍵及空白鍵來切換飛行模式。你的噴氣背包可以在IC2裝罐機中裝填燃料，共需30桶的biogas。
+gtnh.quest652.name=燃气喷气背包(Fueled jetpack)未确认
+gtnh.quest652.desc=这个喷气背包使用IC2的biogas，最高可飞到Y 245。你需要使用IC2的切换模式键及空格键来切换飞行模式。你的喷气背包可以在IC2装罐机中装填燃料，共需30桶的biogas。
 
 #Quest_653.Advanced electric jetpack
-gtnh.quest653.name=進階電力噴氣背包(Advanced electric jetpack)
-gtnh.quest653.desc=進階電力噴氣背包是電動噴氣背包的升級版。可以裝備在胸甲部位，當充滿EU電力時，可以飛行。它並沒有任何保護功能，但其內部儲存的3,000,000 EU電力可以為你的工具充電，如同進階電池背包一樣運作。進階噴氣背包的最大飛行高度是Y 256。
+gtnh.quest653.name=进阶电力喷气背包(Advanced electric jetpack)
+gtnh.quest653.desc=进阶电力喷气背包是电动喷气背包的升级版。可以装备在胸甲部位，当充满EU电力时，可以飞行。它并没有任何保护功能，但其内部储存的3,000,000 EU电力可以为你的工具充电，如同进阶电池背包一样运作。进阶喷气背包的最大飞行高度是Y 256。
 
 #Quest_654.Advanced nano chestplate
-gtnh.quest654.name=進階納米重力胸甲(Advanced nano chestplate)
-gtnh.quest654.desc=將進階電力噴氣背包及納米護甲組合，會得到進階納米重力胸甲。就可以擁有胸甲的防護能力，並可使用噴氣背包自由的移動。
+gtnh.quest654.name=进阶纳米重力胸甲(Advanced nano chestplate)
+gtnh.quest654.desc=将进阶电力喷气背包及纳米护甲组合，会得到进阶纳米重力胸甲。就可以拥有胸甲的防护能力，并可使用喷气背包自由的移动。
 
 #Quest_655.Gravi suit
-gtnh.quest655.name=重力胸甲(Gravi suit)未確認 任務要求與配方對不上
-gtnh.quest655.desc=重力胸甲是由量子護甲與high powered jetpack組合而成。穿著全套的量子裝備有隱藏的效果，需要你自己去發掘。
+gtnh.quest655.name=重力胸甲(Gravi suit)未确认 任务要求与配方对不上
+gtnh.quest655.desc=重力胸甲是由量子护甲与high powered jetpack组合而成。穿着全套的量子装备有隐藏的效果，需要你自己去发掘。
 
 #Quest_656.Iron shields
-gtnh.quest656.name=鐵盾(Iron shields)
-gtnh.quest656.desc=你的皮盾已經用夠久了。完成第一個工具後，取得一些鐵礦，製作一個良好的鐵盾吧。
+gtnh.quest656.name=铁盾(Iron shields)
+gtnh.quest656.desc=你的皮盾已经用够久了。完成第一个工具后，取得一些铁矿，制作一个良好的铁盾吧。
 
 #Quest_657.Stone spear
-gtnh.quest657.name=石頭標槍(Stone spear)
-gtnh.quest657.desc=升級你的木標槍，使用鐵螺絲釘為它加上石箭頭就變成石頭標槍。這標槍比木製的有更好的耐久度。
+gtnh.quest657.name=石头标枪(Stone spear)
+gtnh.quest657.desc=升级你的木标枪，使用铁螺丝钉为它加上石箭头就变成石头标枪。这标枪比木制的有更好的耐久度。
 
 #Quest_658.Iron spear
-gtnh.quest658.name=鐵標槍(Iron spear)
-gtnh.quest658.desc=升級你的木標槍，使用兩個鋼螺絲釘為它加上鐵箭頭就變成鐵標槍。鐵標槍的耐久度比石標槍更好。
+gtnh.quest658.name=铁标枪(Iron spear)
+gtnh.quest658.desc=升级你的木标枪，使用两个钢螺丝钉为它加上铁箭头就变成铁标枪。铁标枪的耐久度比石标枪更好。
 
 #Quest_659.Diamond spear
-gtnh.quest659.name=鑽石標槍(Diamond spear)
-gtnh.quest659.desc=在MV階段你可以升級你的鐵標槍成鑽石標槍。做一個diamond arrowhead，兩個不銹鋼螺絲釘，跟一個木標槍。這標槍有優秀的耐久度。
+gtnh.quest659.name=钻石标枪(Diamond spear)
+gtnh.quest659.desc=在MV阶段你可以升级你的铁标枪成钻石标枪。做一个diamond arrowhead，两个不锈钢螺丝钉，跟一个木标枪。这标枪有优秀的耐久度。
 
 #Quest_660.Diamond shield
-gtnh.quest660.name=鑽石盾(Diamond shield)
-gtnh.quest660.desc=你的鐵盾已經很老舊了。使用diamand plates製成的盾牌，你將可以持續格擋5秒。
+gtnh.quest660.name=钻石盾(Diamond shield)
+gtnh.quest660.desc=你的铁盾已经很老旧了。使用diamand plates制成的盾牌，你将可以持续格挡5秒。
 
 #Quest_661.Bow, arrows and quiver
-gtnh.quest661.name=弓，箭，與箭袋(Bow, arrows and quiver)
-gtnh.quest661.desc=哇，你的第一台手作機器做出了弓。你發現可以將弓放在武器欄位。現在是時候做些箭和一個箭袋了。你最多可以放四組箭在你的箭袋中。開始狩獵吧。
+gtnh.quest661.name=弓，箭，与箭袋(Bow, arrows and quiver)
+gtnh.quest661.desc=哇，你的第一台手作机器做出了弓。你发现可以将弓放在武器字段。现在是时候做些箭和一个箭袋了。你最多可以放四组箭在你的箭袋中。开始狩猎吧。
 
 #Quest_662.Basic arc furnace
-gtnh.quest662.name=基礎電弧爐(Basic arc furnace)
-gtnh.quest662.desc=電弧爐是將物品熔煉，得到原料跟製造熟鐵的一個替代方案。配方需要氧氣跟3安培的電流。
+gtnh.quest662.name=基础电弧炉(Basic arc furnace)
+gtnh.quest662.desc=电弧炉是将物品熔炼，得到原料跟制造熟铁的一个替代方案。配方需要氧气跟3安培的电流。
 
 #Quest_663.Faster steel production
-gtnh.quest663.name=更快的製造鋼(Faster steel production)
-gtnh.quest663.desc=生產鋼的一個更快的方法是，使用電弧爐將鐵錠製作成熟鐵錠。然後將之粉碎成熟鐵粉。最後在電力高爐(EBF)中快速煉成鋼。(Some might even dare arc furnacing the dust itself...)
+gtnh.quest663.name=更快的制造钢(Faster steel production)
+gtnh.quest663.desc=生产钢的一个更快的方法是，使用电弧炉将铁锭制作成熟铁锭。然后将之粉碎成熟铁粉。最后在电力高炉(EBF)中快速炼成钢。(Some might even dare arc furnacing the dust itself...)
 
 #Quest_664.LV battery buffer 4 slots
-gtnh.quest664.name=LV級電池箱(4槽)(LV battery buffer 4 slots)
-gtnh.quest664.desc=升級你的電池箱成4槽，最大可輸出4安培電流。用於電力高爐(EBF)或電弧爐非常實用。
+gtnh.quest664.name=LV级电池箱(4槽)(LV battery buffer 4 slots)
+gtnh.quest664.desc=升级你的电池箱成4槽，最大可输出4安培电流。用于电力高炉(EBF)或电弧炉非常实用。
 
 #Quest_665.Kitchenware
-gtnh.quest665.name=廚具(Kitchenware)
-gtnh.quest665.desc=為了烹調健康的食物，你需要先製做一些工具。燉鍋，罐，撖麵杖，研缽，攪拌缽，軟錘，平底鍋，刀。
+gtnh.quest665.name=厨具(Kitchenware)
+gtnh.quest665.desc=为了烹调健康的食物，你需要先制做一些工具。炖锅，罐，撖面杖，研钵，搅拌钵，软锤，平底锅，刀。
 
 #Quest_666.Row, row, row your boat
-gtnh.quest666.name=划呀划呀划著你的船(Row, row, row your boat)
-gtnh.quest666.desc=你住在水邊卻沒有船？你需要木板、台階、跟刀來製作一艘。 (這是任務編號666，小心點，有什麼事要發生了。)
+gtnh.quest666.name=划呀划呀划着你的船(Row, row, row your boat)
+gtnh.quest666.desc=你住在水边却没有船？你需要木板、台阶、跟刀来制作一艘。 (这是任务编号666，小心点，有什么事要发生了。)
 
 #Quest_667.Trainspotting
-gtnh.quest667.name=猜火車(Trainspotting)
-gtnh.quest667.desc=木製鐵軌不需要機器就可以做出來。跟正常鐵軌功能一樣，但是最大速度比較低。(為了安全的原因)
+gtnh.quest667.name=猜火车(Trainspotting)
+gtnh.quest667.desc=木制铁轨不需要机器就可以做出来。跟正常铁轨功能一样，但是最大速度比较低。(为了安全的原因)
 
 #Quest_668.Rubber boat
 gtnh.quest668.name=橡皮艇(Rubber boat)
-gtnh.quest668.desc=橡皮艇只需要一些橡膠片。像原版的木船一樣，撞到地表會損壞並散開。但並不會返還木棍跟木板，而是返還損壞的橡皮艇。可以使用兩個橡膠片來修復這艄橡皮艇！
+gtnh.quest668.desc=橡皮艇只需要一些橡胶片。像原版的木船一样，撞到地表会损坏并散开。但并不会返还木棍跟木板，而是返还损坏的橡皮艇。可以使用两个橡胶片来修复这艄橡皮艇！
 
 #Quest_669.Inflatable boot
-gtnh.quest669.name=充氣靴(Inflatable boot)
-gtnh.quest669.desc=我是指小艇...充氣小艇是第一艘不會撞壞的船。
+gtnh.quest669.name=充气靴(Inflatable boot)
+gtnh.quest669.desc=我是指小艇...充气小艇是第一艘不会撞坏的船。
 
 #Quest_670.Carbon fiber boat
-gtnh.quest670.name=碳纖維輕艇(Carbon fiber boat)
-gtnh.quest670.desc=與其他小艇不同， 這驚人的碳纖維輕艇*完全不可破壞*！這表示你可以用他衝進沙灘、荷葉，甚至是鱷魚。碳纖維輕艇連一點括傷都不會有！警告:我們不負責任何衝進岩漿或虛無之中的相關後果。因此也不在保固範圍中。
+gtnh.quest670.name=碳纤维轻艇(Carbon fiber boat)
+gtnh.quest670.desc=与其他小艇不同， 这惊人的碳纤维轻艇*完全不可破坏*！这表示你可以用他冲进沙滩、荷叶，甚至是鳄鱼。碳纤维轻艇连一点括伤都不会有！警告:我们不负责任何冲进岩浆或虚无之中的相关后果。因此也不在保固范围中。
 
 #Quest_671.Electric boat
-gtnh.quest671.name=電動船(Electric boat)
-gtnh.quest671.desc=電動船的運作和原版的船相似，以相當快的速度穿過水面。當撞擊時將會掉出他的原型，而不是通常的木棒。這當然非常好，但如果我們利用電力引擎呢？在胸甲欄位穿上電力儲存裝置，例如電池背包或儲電背包。電動船將會吸取背包的電力，並推動你以超音速前進！每前進一格約消耗100EU，所以就算很好的電池背包也持續不了多久！
+gtnh.quest671.name=电动船(Electric boat)
+gtnh.quest671.desc=电动船的运作和原版的船相似，以相当快的速度穿过水面。当撞击时将会掉出他的原型，而不是通常的木棒。这当然非常好，但如果我们利用电力引擎呢？在胸甲字段穿上电力储存装置，例如电池背包或储电背包。电动船将会吸取背包的电力，并推动你以超音速前进！每前进一格约消耗100EU，所以就算很好的电池背包也持续不了多久！
 
 #Quest_672.Boat shape?
 gtnh.quest672.name=船形？(Boat shape?)
-gtnh.quest672.desc=別懷疑，為了做更高階的船，你需要一個新的範本。
+gtnh.quest672.desc=别怀疑，为了做更高阶的船，你需要一个新的范本。
 
 #Quest_673.LV extruder
-gtnh.quest673.name=基礎壓模器(LV extruder)
-gtnh.quest673.desc=LV時代的壓模器並不是很有用。但你可以使用他來製作下一階段的船。
+gtnh.quest673.name=基础压模器(LV extruder)
+gtnh.quest673.desc=LV时代的压模器并不是很有用。但你可以使用他来制作下一阶段的船。
 
 #Quest_674.Wooden rail variants
-gtnh.quest674.name=更多不同的木軌(Wooden rail variants) 未確認
-gtnh.quest674.desc=需要一台組裝機來組裝木製十字軌、木製Y型軌、木製跟轉轍軌。它們使你可以結合或切換通往不同地點的軌道。
+gtnh.quest674.name=更多不同的木轨(Wooden rail variants) 未确认
+gtnh.quest674.desc=需要一台组装机来组装木制十字轨、木制Y型轨、木制跟转辙轨。它们使你可以结合或切换通往不同地点的轨道。
 
 #Quest_675.Switch lever
-gtnh.quest675.name=手動轉轍器(Switch lever)
-gtnh.quest675.desc=手動轉轍器是手動版本的電動轉轍器，需要玩家來操作而非使用紅石信號。在許多不同的信號系統中被使用，主要是用來切換轉轍軌及Y型軌的運作方式。
+gtnh.quest675.name=手动转辙器(Switch lever)
+gtnh.quest675.desc=手动转辙器是手动版本的电动转辙器，需要玩家来操作而非使用红石信号。在许多不同的信号系统中被使用，主要是用来切换转辙轨及Y型轨的运作方式。
 
 #Quest_676.Crowbar
-gtnh.quest676.name=鐵橇(Crowbar)
-gtnh.quest676.desc=鐵橇有Railcraft版本跟GT版本。可以用來操作Railcraft的機器，或用來移除在GT管道和機器上的覆蓋板(電動泵，輸送機模組等等)。並可以更快的拆除一些物件，像是軌道。這樣工具也可用來存取Railcraft的物品庫存。鐵橇也可以當武器使用，雖然攻擊會消耗雙倍耐久(就像其他的非武器工具一樣...)。
+gtnh.quest676.name=铁橇(Crowbar)
+gtnh.quest676.desc=铁橇有Railcraft版本跟GT版本。可以用来操作Railcraft的机器，或用来移除在GT管道和机器上的覆盖板(电动泵，输送机模块等等)。并可以更快的拆除一些对象，像是轨道。这样工具也可用来存取Railcraft的物品库存。铁橇也可以当武器使用，虽然攻击会消耗双倍耐久(就像其他的非武器工具一样...)。
 
 #Quest_677.Minecart
-gtnh.quest677.name=礦車(Minecart)
-gtnh.quest677.desc=當你做好第一台車，旅程就可以開始了。好吧，還不行，你還需要先準備一些軌道。
+gtnh.quest677.name=矿车(Minecart)
+gtnh.quest677.desc=当你做好第一台车，旅程就可以开始了。好吧，还不行，你还需要先准备一些轨道。
 
 #Quest_678.Fast Food > Slow Food
-gtnh.quest678.name=速食 > 慢食(Fast Food > Slow Food)
-gtnh.quest678.desc=三個速食獎勵包可以換一個更好的慢食獎勵包。(從何時開始慢食被認為是比較好的？)
+gtnh.quest678.name=快餐 > 慢食(Fast Food > Slow Food)
+gtnh.quest678.desc=三个快餐奖励包可以换一个更好的慢食奖励包。(从何时开始慢食被认为是比较好的？)
 
 #Quest_679.Slow Food > Haute Cuisine
 gtnh.quest679.name=慢食 > 美食(Slow Food > Haute Cuisine)
-gtnh.quest679.desc=三個慢食獎勵包可以換一個更好的美食獎勵包。
+gtnh.quest679.desc=三个慢食奖励包可以换一个更好的美食奖励包。
 
 #Quest_680.Haute Cuisine > Dessert
-gtnh.quest680.name=美食 > 甜點(Haute Cuisine > Dessert)
-gtnh.quest680.desc=六個美食獎勵包可以換一個更好的甜點獎勵包。
+gtnh.quest680.name=美食 > 甜点(Haute Cuisine > Dessert)
+gtnh.quest680.desc=六个美食奖励包可以换一个更好的甜点奖励包。
 
 #Quest_681.Transportation Class 3 > Transportation Class 2
 gtnh.quest681.name=Transportation Class 3 > Transportation Class 2
-gtnh.quest681.desc=三個transportation class 3獎勵包可以換一個更好的Transportation Class 2獎勵包。
+gtnh.quest681.desc=三个transportation class 3奖励包可以换一个更好的Transportation Class 2奖励包。
 
 #Quest_682.Transportation Class 2 > Transportation Class 1
 gtnh.quest682.name=Transportation Class 2 > Transportation Class 1
-gtnh.quest682.desc=三個transportation class 2獎勵包可以換一個更好的Transportation Class 1獎勵包。
+gtnh.quest682.desc=三个transportation class 2奖励包可以换一个更好的Transportation Class 1奖励包。
 
 #Quest_683.Wet dirt armor?
-gtnh.quest683.name=泥巴護甲？(Wet dirt armor?)
-gtnh.quest683.desc=如果你沒有任何護甲，泥巴護甲至少比什麼都沒有好。泥巴可以在某些濕地找到。
+gtnh.quest683.name=泥巴护甲？(Wet dirt armor?)
+gtnh.quest683.desc=如果你没有任何护甲，泥巴护甲至少比什么都没有好。泥巴可以在某些湿地找到。
 
 #Quest_684.Wooden armor
-gtnh.quest684.name=木製護甲(Wooden armor)
-gtnh.quest684.desc=如果你沒辦法找到泥巴，你可以用木頭製作非常克難的護甲。砍一些樹來做一套。同時你也會需要一個軟錘，為此存一些木頭吧。
+gtnh.quest684.name=木制护甲(Wooden armor)
+gtnh.quest684.desc=如果你没办法找到泥巴，你可以用木头制作非常克难的护甲。砍一些树来做一套。同时你也会需要一个软锤，为此存一些木头吧。
 
 #Quest_685.Armor 2.0
-gtnh.quest685.name=護甲2.0(Armor 2.0)
-gtnh.quest685.desc=鐵製護甲比皮革護甲好得多。特別是當你在夜晚出外探險的時候。
+gtnh.quest685.name=护甲2.0(Armor 2.0)
+gtnh.quest685.desc=铁制护甲比皮革护甲好得多。特别是当你在夜晚出外探险的时候。
 
 #Quest_686.Leather armor
-gtnh.quest686.name=皮革護甲(Leather armor)
-gtnh.quest686.desc=殺一些牛來取得足夠的皮革，以便製作一套完整的皮革護甲。提示：你可以染色這套護甲。
+gtnh.quest686.name=皮革护甲(Leather armor)
+gtnh.quest686.desc=杀一些牛来取得足够的皮革，以便制作一套完整的皮革护甲。提示：你可以染色这套护甲。
 
 #Quest_687.Bronze armor
-gtnh.quest687.name=青銅護甲(Bronze armor)
-gtnh.quest687.desc=青銅護甲跟鐵製護甲有相同的性能。同樣的耐久，同樣的護甲，以及同樣的附魔潛力。
+gtnh.quest687.name=青铜护甲(Bronze armor)
+gtnh.quest687.desc=青铜护甲跟铁制护甲有相同的性能。同样的耐久，同样的护甲，以及同样的附魔潜力。
 
 #Quest_688."Nice to have" armor
-gtnh.quest688.name=「有錢真好」護甲("Nice to have" armor)
-gtnh.quest688.desc=擁有黃金護甲也不錯。它的耐久不非常低，不過穿著黃金護甲使你看起來很高貴。
+gtnh.quest688.name=「有钱真好」护甲("Nice to have" armor)
+gtnh.quest688.desc=拥有黄金护甲也不错。它的耐久不非常低，不过穿着黄金护甲使你看起来很高贵。
 
 #Quest_689."Oh shiny" armor
-gtnh.quest689.name=閃亮亮護甲("Oh shiny" armor)
-gtnh.quest689.desc=在原版麥塊中，鑽石護甲是最好的護甲。但在這有很多更好的護甲。
+gtnh.quest689.name=闪亮亮护甲("Oh shiny" armor)
+gtnh.quest689.desc=在原版麦块中，钻石护甲是最好的护甲。但在这有很多更好的护甲。
 
 #Quest_690.Fancy armor
-gtnh.quest690.name=花俏護甲(Fancy armor)
-gtnh.quest690.desc=並非真的比較好，但很花俏。鎖鍊護甲是使用鋼環製作的。
+gtnh.quest690.name=花俏护甲(Fancy armor)
+gtnh.quest690.desc=并非真的比较好，但很花俏。锁炼护甲是使用钢环制作的。
 
 #Quest_691.Armor 2.5
-gtnh.quest691.name=護甲 2.5(Armor 2.5)
-gtnh.quest691.desc=鋼鐵護甲的耐久度比鐵、青銅，及鎖鍊護甲都高非常多。
+gtnh.quest691.name=护甲 2.5(Armor 2.5)
+gtnh.quest691.desc=钢铁护甲的耐久度比铁、青铜，及锁炼护甲都高非常多。
 
 #Quest_692.Composite vest
-gtnh.quest692.name=複合背心(Composite vest)
-gtnh.quest692.desc=將高級合金的強度與鋼鐵胸甲結合，將使你非常非常硬。現在你有雙倍的耐久度，以及額外的1.5護甲。
+gtnh.quest692.name=复合背心(Composite vest)
+gtnh.quest692.desc=将高级合金的强度与钢铁胸甲结合，将使你非常非常硬。现在你有双倍的耐久度，以及额外的1.5护甲。
 
 #Quest_693.Fallen from the sky
-gtnh.quest693.name=從天而降(Fallen from the sky)
-gtnh.quest693.desc=你可以在許多地方找到巨大的殞石。而你可能會疑惑為何需要現在去挖掘它們？?在LV時代，隕石是地球上稀有金屬的一個好來源。在隕石中你可以找到一個隕石箱，其中裝了一些處理器印壓範本。將它們保存起來，它們非常重要。
+gtnh.quest693.name=从天而降(Fallen from the sky)
+gtnh.quest693.desc=你可以在许多地方找到巨大的殒石。而你可能会疑惑为何需要现在去挖掘它们？?在LV时代，陨石是地球上稀有金属的一个好来源。在陨石中你可以找到一个陨石箱，其中装了一些处理器印压模板。将它们保存起来，它们非常重要。
 
 #Quest_694.One Anvil... Better make that two!
-gtnh.quest694.name=一個鐵砧...最好做兩個！(One Anvil... Better make that two!)
-gtnh.quest694.desc=使用你全新的壓縮機，可以製作一些金屬磚以製作鐵砧。最好做兩個鐵砧，一個用於製作鍛造錘。有了鐵砧你就可以修理、更名，以及附魔你的護甲及工具。
+gtnh.quest694.name=一个铁砧...最好做两个！(One Anvil... Better make that two!)
+gtnh.quest694.desc=使用你全新的压缩机，可以制作一些金属砖以制作铁砧。最好做两个铁砧，一个用于制作锻造锤。有了铁砧你就可以修理、更名，以及附魔你的护甲及工具。
 
 #Quest_695.Automation tier 1
-gtnh.quest695.name=自動化 T1(Automation tier 1)
-gtnh.quest695.desc=因為你計畫製作許多通透玻璃，你希望將冶煉爐自動化嗎？沒問題，製作一個大型青銅流體管道，將之放在澆注口下。現在那些熔融液體將在管道中流動。在管道下你必須放置鑄造盆或澆鑄台。在下方放置漏斗及箱子，將有助於自動輸出成品。
+gtnh.quest695.name=自动化 T1(Automation tier 1)
+gtnh.quest695.desc=因为你计划制作许多通透玻璃，你希望将冶炼炉自动化吗？没问题，制作一个大型青铜流体管道，将之放在浇注口下。现在那些熔融液体将在管道中流动。在管道下你必须放置铸造盆或浇铸台。在下方放置漏斗及箱子，将有助于自动输出成品。
 
 #Quest_696.Automation tier 2
-gtnh.quest696.name=自動化 T2(Automation tier 2)
-gtnh.quest696.desc=你想要比管道更好的自動化嗎？肯定是，製作一個紅石比較器，並將紅石鋪設在地面與之連結。紅石必須連接澆注口來啟動製造程序。
+gtnh.quest696.name=自动化 T2(Automation tier 2)
+gtnh.quest696.desc=你想要比管道更好的自动化吗？肯定是，制作一个红石比较器，并将红石铺设在地面与之连结。红石必须连接浇注口来启动制造程序。
 
 #Quest_697.2x steel
-gtnh.quest697.name=2x鋼鐵(2x steel)
-gtnh.quest697.desc=鋼鐵的製作過程實在太慢了。如果你有足夠的紅磚和粘土，建造第二個磚砌高爐(BBF)。將它蓋在第一個爐的旁邊，所以他們可以共用一道牆，體就可以省下一些紅磚、粘土，以及混凝土。
+gtnh.quest697.name=2x钢铁(2x steel)
+gtnh.quest697.desc=钢铁的制作过程实在太慢了。如果你有足够的红砖和粘土，建造第二个砖砌高炉(BBF)。将它盖在第一个炉的旁边，所以他们可以共享一道墙，体就可以省下一些红砖、粘土，以及混凝土。
 
 #Quest_698.4x steel
-gtnh.quest698.name=4x鋼鐵(4x steel)
-gtnh.quest698.desc=兩個磚砌高爐(BBF)還是不夠快...
+gtnh.quest698.name=4x钢铁(4x steel)
+gtnh.quest698.desc=两个砖砌高炉(BBF)还是不够快...
 
 #Quest_699.Why one coke oven when you can have ten
-gtnh.quest699.name=為何只造一個焦炭爐當你能擁有十個(Why one coke oven when you can have ten)
-gtnh.quest699.desc=你的磚砌高爐(bricked blast furnace)的炭用量大得要命，而你的蒸汽鍋爐也是？好吧，是時候建造更多焦炭爐然後將它們自動化了。木製流體管道以及tin item pipes將幫助你完成目標。
+gtnh.quest699.name=为何只造一个焦炭炉当你能拥有十个(Why one coke oven when you can have ten)
+gtnh.quest699.desc=你的砖砌高炉(bricked blast furnace)的炭用量大得要命，而你的蒸汽锅炉也是？好吧，是时候建造更多焦炭炉然后将它们自动化了。木制流体管道以及tin item pipes将帮助你完成目标。
 
 #Quest_700.How dark can you go?
-gtnh.quest700.name=你能夠有多黑暗？(How dark can you go?) 待確認
-gtnh.quest700.desc=認真地，一個人能有多黑暗？你確信水晶中的那張臉只不過是你的想像。
+gtnh.quest700.name=你能够有多黑暗？(How dark can you go?) 待确认
+gtnh.quest700.desc=认真地，一个人能有多黑暗？你确信水晶中的那张脸只不过是你的想象。
 
 #Quest_701.Ascended
-gtnh.quest701.name=昇華(Ascended)
-gtnh.quest701.desc=你感到被賦予了力量、光明，幾乎就像幽靈一樣。
+gtnh.quest701.name=升华(Ascended)
+gtnh.quest701.desc=你感到被赋予了力量、光明，几乎就像幽灵一样。
 
 #Quest_702.Tier 5 slates
 gtnh.quest702.name=T5石板(Tier 5 slates)
-gtnh.quest702.desc=1023桶血在一塊石板中！我還能再裝多少，我希望我知道。然後我再加了一桶來確認是否足夠。1024桶血在一塊石板中！... ...
+gtnh.quest702.desc=1023桶血在一块石板中！我还能再装多少，我希望我知道。然后我再加了一桶来确认是否足够。1024桶血在一块石板中！... ...
 
 #Quest_703.Powerful shards
-gtnh.quest703.name=強大的碎片(Powerful shards)
-gtnh.quest703.desc=召喚來的惡魔相當強大，但他們的靈魂含有巨大的力量。
+gtnh.quest703.name=强大的碎片(Powerful shards)
+gtnh.quest703.desc=召唤来的恶魔相当强大，但他们的灵魂含有巨大的力量。
 
 #Quest_704.Tier 4 slates
 gtnh.quest704.name=T4石板(Tier 4 slates)
 gtnh.quest704.desc=T4石板：接近了。(Tier 4 slates: Getting close.)
 
 #Quest_705.Accelerated plant growth
-gtnh.quest705.name=加速植物生長速度(Accelerated plant growth)
-gtnh.quest705.desc=植物生長得很緩慢，你現在應該發現這點了。所以何不改善這點？灑水壺馬上就可以派上用場。
+gtnh.quest705.name=加速植物生长速度(Accelerated plant growth)
+gtnh.quest705.desc=植物生长得很缓慢，你现在应该发现这点了。所以何不改善这点？洒水壶马上就可以派上用场。
 
 #Quest_706.Ethereal chalk
-gtnh.quest706.name=靈氣粉筆(Ethereal chalk)
-gtnh.quest706.desc=頂級的粉筆，用來畫花俏的壁畫？
+gtnh.quest706.name=灵气粉笔(Ethereal chalk)
+gtnh.quest706.desc=顶级的粉笔，用来画花俏的壁画？
 
 #Quest_707.Archmage orb. Let them come!
-gtnh.quest707.name=賢者氣血寶珠。讓他們來吧！(Archmage orb. Let them come!)
-gtnh.quest707.desc=你的T5寶珠。
+gtnh.quest707.name=贤者气血宝珠。让他们来吧！(Archmage orb. Let them come!)
+gtnh.quest707.desc=你的T5宝珠。
 
 #Quest_708.Master orb: Getting close
-gtnh.quest708.name=導師氣血寶珠:接近了(Master orb: Getting close)
-gtnh.quest708.desc=你的T4寶珠。
+gtnh.quest708.name=导师气血宝珠:接近了(Master orb: Getting close)
+gtnh.quest708.desc=你的T4宝珠。
 
 #Quest_709.Elemental chalk II
-gtnh.quest709.name=元素粉筆II(Elemental chalk II)
-gtnh.quest709.desc=強化過的元素粉筆，可以用來書寫一些比你習慣的符文更"黑"的符文...
+gtnh.quest709.name=元素粉笔II(Elemental chalk II)
+gtnh.quest709.desc=强化过的元素粉笔，可以用来书写一些比你习惯的符文更"黑"的符文...
 
 #Quest_710.Tier 4 runes
 gtnh.quest710.name=T4符文(Tier 4 runes)
-gtnh.quest710.desc=這兩種符文你都會想要。超容符文可以增加你的血之祭壇的容量。而之後你會需要寶珠符文才能進階到更高的階段。
+gtnh.quest710.desc=这两种符文你都会想要。超容符文可以增加你的血之祭坛的容量。而之后你会需要宝珠符文才能进阶到更高的阶段。
 
 #Quest_711.Tier 5 runes
 gtnh.quest711.name=T5符文(Tier 5 runes)
-gtnh.quest711.desc=最後邊境：並沒有太多可得到的符文。促進符文使你可以加速與外部容器的互動。
+gtnh.quest711.desc=最后边境：并没有太多可得到的符文。促进符文使你可以加速与外部容器的互动。
 
 #Quest_712.Advanced rituals
-gtnh.quest712.name=進階儀式(Advanced rituals)
-gtnh.quest712.desc=更強力的儀式需要幽暗銘文。使用你的新幽暗粉筆，可以強化你的儀式推測杖來放置這些。讓你可以進行更多的儀式。
+gtnh.quest712.name=进阶仪式(Advanced rituals)
+gtnh.quest712.desc=更强力的仪式需要幽暗铭文。使用你的新幽暗粉笔，可以强化你的仪式推测杖来放置这些。让你可以进行更多的仪式。
 
 #Quest_713.Highend rituals
-gtnh.quest713.name=高端儀式(Highend rituals)
-gtnh.quest713.desc=最後的符文，用於最強大的儀式。
+gtnh.quest713.name=高端仪式(Highend rituals)
+gtnh.quest713.desc=最后的符文，用于最强大的仪式。
 
 #Quest_714.Convocation of the damned
-gtnh.quest714.name=被詛咒之物的集會(Convocation of the damned)
-gtnh.quest714.desc=是時候開啟一個傳送門，通往我們以往召喚的惡魔所在之地。能出什麼差錯呢？(建議在一個行星上進行這個儀式，惡魔的城市會延伸蠻大的範圍...)
+gtnh.quest714.name=被诅咒之物的集会(Convocation of the damned)
+gtnh.quest714.desc=是时候开启一个传送门，通往我们以往召唤的恶魔所在之地。能出什么差错呢？(建议在一个行星上进行这个仪式，恶魔的城市会延伸蛮大的范围...)
 
 #Quest_715.Imbued spell upgrades
-gtnh.quest715.name=灌輸法術附屬(Imbued spell upgrades)
-gtnh.quest715.desc=有了這些新的碎片，你可以製作最強力的法術元件。也許是時候升級你的挖礦法術了？
+gtnh.quest715.name=灌输法术附属(Imbued spell upgrades)
+gtnh.quest715.desc=有了这些新的碎片，你可以制作最强力的法术组件。也许是时候升级你的挖矿法术了？
 
 #Quest_716.Find some Quartz
-gtnh.quest716.name=尋找石英(Find some Quartz)
-gtnh.quest716.desc=地獄充滿各種不同的石英。找到一個石英岩及賽特斯石英礦脈。其分佈高度為Y 40-80。
+gtnh.quest716.name=寻找石英(Find some Quartz)
+gtnh.quest716.desc=地狱充满各种不同的石英。找到一个石英岩及赛特斯石英矿脉。其分布高度为Y 40-80。
 
 #Quest_717.Good Circuits.
-gtnh.quest717.name=進階電子電路(Good Circuits.)
-gtnh.quest717.desc=進階電子電路是基礎電子電路的改良版。它是所有MV機器的元件。確認你先蓋了電力高爐(EBF)，以便將鋁粉煉成鋁錠。
+gtnh.quest717.name=进阶电子电路(Good Circuits.)
+gtnh.quest717.desc=进阶电子电路是基础电子电路的改良版。它是所有MV机器的组件。确认你先盖了电力高炉(EBF)，以便将铝粉炼成铝锭。
 
 #Quest_718.Crop Breeding
-gtnh.quest718.name=作物配種(Crop Breeding)
-gtnh.quest718.desc=如果你想知道如何種植作物，你看這頁就對了！拿起鋤頭和鶴嘴鋤取得一些作物（或作物架）和種子。\n接著使用你的工具耕塊田，確保這塊田面積夠大並且光線充足，並在田中央放上水源。\n放置作物架在每塊田的角落，接著放些種子到作物架上，然後等個一會。\n等作物架上的作物完全成熟後，你可以試試利用雙重作物架（配種架）－－在成熟作物旁的空作物架，再插上一次作物架。\n如果你運氣夠好，你可以獲得一些將來可以被掃瞄的新型未知種子。\n記得，使用你的鏟子把作物架上的雜草處理掉，否則它們會四處長滿你的田地。
+gtnh.quest718.name=作物配种(Crop Breeding)
+gtnh.quest718.desc=如果你想知道如何种植作物，你看这页就对了！拿起锄头和鹤嘴锄取得一些作物（或作物架）和种子。\n接着使用你的工具耕块田，确保这块田面积够大并且光线充足，并在田中央放上水源。\n放置作物架在每块田的角落，接着放些种子到作物架上，然后等个一会。\n等作物架上的作物完全成熟后，你可以试试利用双重作物架（配种架）－－在成熟作物旁的空作物架，再插上一次作物架。\n如果你运气够好，你可以获得一些将来可以被扫瞄的新型未知种子。\n记得，使用你的铲子把作物架上的杂草处理掉，否则它们会四处长满你的田地。
 
 #Quest_719.First Breeding
-gtnh.quest719.name=初次配種(First Breeding)
-gtnh.quest719.desc=你的作物架上已經種好了新的植物。對著作物架點擊右鍵來收穫作物，或者點擊左鍵來取得一個種子包，這些動作都會破壞植物。收集好八種不限種類的種子。
+gtnh.quest719.name=初次配种(First Breeding)
+gtnh.quest719.desc=你的作物架上已经种好了新的植物。对著作物架点击右键来收获作物，或者点击左键来取得一个种子包，这些动作都会破坏植物。收集好八种不限种类的种子。
 
 #Quest_720.Weed II
-gtnh.quest720.name=雜草2.0(Weed II)
-gtnh.quest720.desc=雜草，雜草，更多的雜草。當你在做作物交叉繁殖的時候，你收到了大量的雜草。\n你的發電設備需要些生質電源來換些電力？或許該拿些發光的東西照亮你的田地了。
+gtnh.quest720.name=杂草2.0(Weed II)
+gtnh.quest720.desc=杂草，杂草，更多的杂草。当你在做作物交叉繁殖的时候，你收到了大量的杂草。\n你的发电设备需要些生质电源来换些电力？或许该拿些发光的东西照亮你的田地了。
 
 #Quest_721.Unknown seeds no more
-gtnh.quest721.name=種子不再未知(Unknown seeds no more)
-gtnh.quest721.desc=利用你的掃描器來掃描你已擁有的所有未知種子。\n種子可以再次被栽種而成長為更好、適應性更佳的作物。
+gtnh.quest721.name=种子不再未知(Unknown seeds no more)
+gtnh.quest721.desc=利用你的扫描仪来扫描你已拥有的所有未知种子。\n种子可以再次被栽种而成长为更好、适应性更佳的作物。
 
 #Quest_722.Speed up your plant growth
-gtnh.quest722.name=加快你的植物生長進度(Speed up your plant growth)
-gtnh.quest722.desc=為了加快生長過程，你可以使用些肥料。你會注意到，無論如何，骨粉不再起作用了。在化學反應器中，用蒸餾水混合些木灰、磷灰石或方解石，你就會獲得你需要的肥料。
+gtnh.quest722.name=加快你的植物生长进度(Speed up your plant growth)
+gtnh.quest722.desc=为了加快生长过程，你可以使用些肥料。你会注意到，无论如何，骨粉不再起作用了。在化学反应器中，用蒸馏水混合些木灰、磷灰石或方解石，你就会获得你需要的肥料。
 
 #Quest_723.Potatos, Carrots, Pumkins and Melons
-gtnh.quest723.name=馬玲薯、胡蘿蔔、南瓜和西瓜。(Potatos, Carrots, Pumkins and Melons)
-gtnh.quest723.desc=你的種子有三種不同的數值－－生長、收穫、抗性 (GGR)。\n\n在沒有第三方工具的情況下，只能透過交叉繁殖配種來改變作物的GGR。兩株植物交叉繁殖產生的作物的GGR值，會介在兩株親代GGR的中間。有時，它的值可能會高一點點或低一點點。因此，想要取得更高的GGR值，你必須歷經數代的繁殖配種。\n\nGGR的最高數值是31。
+gtnh.quest723.name=马玲薯、胡萝卜、南瓜和西瓜。(Potatos, Carrots, Pumkins and Melons)
+gtnh.quest723.desc=你的种子有三种不同的数值－－生长、收获、抗性 (GGR)。\n\n在没有第三方工具的情况下，只能透过交叉繁殖配种来改变作物的GGR。两株植物交叉繁殖产生的作物的GGR值，会介在两株亲代GGR的中间。有时，它的值可能会高一点点或低一点点。因此，想要取得更高的GGR值，你必须历经数代的繁殖配种。\n\nGGR的最高数值是31。
 
 #Quest_724.Weed
-gtnh.quest724.name=雜草(Weed)
-gtnh.quest724.desc=雜草會不時地在你的作物架上生長。在整片田地被長滿雜草，並摧毀了你的作物前，仔細注意並用你的耙子清除雜草。以後你可以製作除草劑來除草。
+gtnh.quest724.name=杂草(Weed)
+gtnh.quest724.desc=杂草会不时地在你的作物架上生长。在整片田地被长满杂草，并摧毁了你的作物前，仔细注意并用你的耙子清除杂草。以后你可以制作除草剂来除草。
 
 #Quest_725.Flower Power
 gtnh.quest725.name=花的力量(Flower Power)
-gtnh.quest725.desc=在作物架上種植染料？試著種一些花，如果你將玫瑰及蒲公英配種，可以得到一種新的花以及不同顏色的染料。
+gtnh.quest725.desc=在作物架上种植染料？试着种一些花，如果你将玫瑰及蒲公英配种，可以得到一种新的花以及不同颜色的染料。
 
 #Quest_726.Chemical rubber production
-gtnh.quest726.name=橡膠化學製程(Chemical rubber production)
-gtnh.quest726.desc=製作絕緣線纜的一個更高效率的方法，是在化學反應器中製作液態橡膠，然後可以在組裝機中將之裹上未絕緣線纜。當你將兩台機器放在一起，按下化學反應器的fluid auto-output按鈕，就可以直接將液態橡膠送進組裝機。記得用扳手將反應器的輸出口調到正確的方向。
+gtnh.quest726.name=橡胶化学制程(Chemical rubber production)
+gtnh.quest726.desc=制作绝缘线缆的一个更高效率的方法，是在化学反应器中制作液态橡胶，然后可以在组装机中将之裹上未绝缘线缆。当你将两台机器放在一起，按下化学反应器的fluid auto-output按钮，就可以直接将液态橡胶送进组装机。记得用扳手将反应器的输出口调到正确的方向。
 
 #Quest_727.Better than barrels
-gtnh.quest727.name=比儲物桶更好(Better than barrels)
-gtnh.quest727.desc=儲物桶只能儲存一種物品。抽屜則最多能存四種，每一種各16組。之後在HV時代，透過ProjectRed Transportation的幫助，它們可以用於製造一個"如塗鴨牆班般的ME儲存系統"。
+gtnh.quest727.name=比储物桶更好(Better than barrels)
+gtnh.quest727.desc=储物桶只能储存一种物品。抽屉则最多能存四种，每一种各16组。之后在HV时代，透过ProjectRed Transportation的帮助，它们可以用于制造一个"如涂鸭墙班般的ME储存系统"。
 
 #Quest_728.Compact Drawers
-gtnh.quest728.name=小型抽屜(Compact Drawers)
-gtnh.quest728.desc=它們非常小巧，可以為你輝煌的泥巴屋增加一些花樣。
+gtnh.quest728.name=小型抽屉(Compact Drawers)
+gtnh.quest728.desc=它们非常小巧，可以为你辉煌的泥巴屋增加一些花样。
 
 #Quest_729.Framing Drawers
-gtnh.quest729.name=塑造抽屜(Framing Drawers)
-gtnh.quest729.desc=現在用這張桌子，你可以做出一些酷炫又有更多花樣的抽屜。你需要做的就是放上一些裝飾用方塊(幾乎所有裝飾方塊都可以)，抽屜就會使用它們的材質。左上方的是對應正面方框，左下方是對應正面，而右上是對應邊框。
+gtnh.quest729.name=塑造抽屉(Framing Drawers)
+gtnh.quest729.desc=现在用这张桌子，你可以做出一些酷炫又有更多花样的抽屉。你需要做的就是放上一些装饰用方块(几乎所有装饰方块都可以)，抽屉就会使用它们的材质。左上方的是对应正面方框，左下方是对应正面，而右上是对应边框。
 
 #Quest_730.Bio Fuels
-gtnh.quest730.name=生質燃料(Bio Fuels)
-gtnh.quest730.desc=你現在使用蒸汽、雜酚油、以及可能有石油及其副產品來發電。是時候開始使用生物柴油了。你可以使用小麥、甘蔗、蘋果，或樹苗。確保你有一座自動化林業農場、Steve's Cart農場，或IC2作物架配合收割機。因為你需要大量的生質原料，用於持續的製造沼氣。提示：榛果是生物柴油的終極來源。
+gtnh.quest730.name=生质燃料(Bio Fuels)
+gtnh.quest730.desc=你现在使用蒸汽、杂酚油、以及可能有石油及其副产品来发电。是时候开始使用生物柴油了。你可以使用小麦、甘蔗、苹果，或树苗。确保你有一座自动化林业农场、Steve's Cart农场，或IC2作物架配合收割机。因为你需要大量的生质原料，用于持续的制造沼气。提示：榛果是生物柴油的终极来源。
 
 #Quest_731.Plant balls
 gtnh.quest731.name=植物球(Plant balls)
-gtnh.quest731.desc=第一步是將小麥壓縮成植物球。你的LV壓縮機太慢了。我建議你為新的生物柴油生產線製造四台MV壓縮機。
+gtnh.quest731.desc=第一步是将小麦压缩成植物球。你的LV压缩机太慢了。我建议你为新的生物柴油生产线制造四台MV压缩机。
 
 #Quest_732.Plant Mass
-gtnh.quest732.name=植物質量(Plant Mass)
-gtnh.quest732.desc=將植物球磨碎成為植物植量以便進一步的加工。在LV及MV階段你每次只能得到一個植物質量，在HV階段你可以得到兩個。IV研磨機則可以給你最多四個，額外兩個分別是50%及25%機率。
+gtnh.quest732.name=植物质量(Plant Mass)
+gtnh.quest732.desc=将植物球磨碎成为植物植量以便进一步的加工。在LV及MV阶段你每次只能得到一个植物质量，在HV阶段你可以得到两个。IV研磨机则可以给你最多四个，额外两个分别是50%及25%机率。
 
 #Quest_733.Bio Chaff
 gtnh.quest733.name=糠(Bio Chaff)
-gtnh.quest733.desc=植物質量必須經過離心變成糠，生物質的基礎原料。你需要一至二台MV離心機來運作新的生產線。
+gtnh.quest733.desc=植物质量必须经过离心变成糠，生物质的基础原料。你需要一至二台MV离心机来运作新的生产线。
 
 #Quest_734.Way One: IC 2 Fluid Canner
-gtnh.quest734.name=方法一：IC 2流體/固體裝罐機(Way One: IC 2 Fluid Canner)
-gtnh.quest734.desc=第一個製作生物質的方法是使用IC 2流體/固體裝罐機。一桶水以及一個糠可以製成一桶的生物質。在HV階段你可以用熱解爐更有效率的製作生物質。
+gtnh.quest734.name=方法一：IC 2流体/固体装罐机(Way One: IC 2 Fluid Canner)
+gtnh.quest734.desc=第一个制作生物质的方法是使用IC 2流体/固体装罐机。一桶水以及一个糠可以制成一桶的生物质。在HV阶段你可以用热解炉更有效率的制作生物质。
 
 #Quest_735.Way Two: Brewery
-gtnh.quest735.name=方法二：釀造(Way Two: Brewery)
-gtnh.quest735.desc=如果你幸運的找到一個釀造台，或者對神秘時代足夠熟悉而可以製作一個釀造台。你可以用750mb水加上一個糠得到750mb生物質。在HV階段你可以用熱解爐更有效率的製作生物質。
+gtnh.quest735.name=方法二：酿造(Way Two: Brewery)
+gtnh.quest735.desc=如果你幸运的找到一个酿造台，或者对神秘时代足够熟悉而可以制作一个酿造台。你可以用750mb水加上一个糠得到750mb生物质。在HV阶段你可以用热解炉更有效率的制作生物质。
 
 #Quest_736.Fermented Biomass
-gtnh.quest736.name=發酵生物質(Fermented Biomass)
-gtnh.quest736.desc=使用MV發酵槽，你可以製造發酵生物質。這是製作甲烷(methane)、乙醇(ethanol)和甲醇(methanol)的基礎原料。當你達到HV階段，使用蒸餾塔可以更有效率的處理它。
+gtnh.quest736.name=发酵生物质(Fermented Biomass)
+gtnh.quest736.desc=使用MV发酵槽，你可以制造发酵生物质。这是制作甲烷(methane)、乙醇(ethanol)和甲醇(methanol)的基础原料。当你达到HV阶段，使用蒸馏塔可以更有效率的处理它。
 
 #Quest_737.Can u eat those? 
-gtnh.quest737.name=這能吃嗎？(Can u eat those?)
-gtnh.quest737.desc=不，這不能吃，但你可以將它們加入你的路由管道。沒有這些晶片，路由管道沒有任何用處。晶片有一個設定GUI可以使用右鍵開啟。共有八種晶片：物品抽取晶片，用於由容器中抽出物品，送往管道網路中的回應晶片、動態回應晶片、終端晶片，或超載回應晶片。物品回應晶片，會根據過濾條件向網路中的抽取晶片送出物品請求，並將物品送至與之連接的容器。有較高的優先權值的晶片的晶片，將優先獲得物品。直到其容器滿了，物品才會送至其他符合過濾條件及有空間的容器。動態物品回應晶片會根據容器中的物品，去對網路中的抽取晶片請求物品。這個晶片必須跟物品回應晶片放在同一個介面管道才能作用。優先權規則在此也適用。物品超載回應晶片的作用跟物品回應晶片完全一樣。但它只接收多餘的物品，也就是無法送往物品回應晶片、動態物品回應晶片，或物品終端晶片的物品。物品終端晶片是回應晶片的備援。物品廣播晶片會將其容器中的物品，顯示到網路中的路由請求管道，你可以在路由請求管道選擇要獲取的物品。它們也可以被設定由哪一個方向抽取物品。物品堆疊維護晶片將維持其容器中設定的物品數量，它會持續檢查網路以取得缺少的物品。如果晶片設定為用完補充，它將只會在物品用完時補充。物品合成晶片及物品合成擴展晶片用在物品合成管道中，記得要將ID亂數化。
+gtnh.quest737.name=这能吃吗？(Can u eat those?)
+gtnh.quest737.desc=不，这不能吃，但你可以将它们加入你的路由管道。没有这些芯片，路由管道没有任何用处。芯片有一个设定GUI可以使用右键开启。共有八种芯片：物品抽取芯片，用于由容器中抽出物品，送往管道网络中的响应芯片、动态响应芯片、终端芯片，或超载响应芯片。物品响应芯片，会根据过滤条件向网络中的抽取芯片送出物品请求，并将物品送至与之连接的容器。有较高的优先权值的芯片的芯片，将优先获得物品。直到其容器满了，物品才会送至其他符合过滤条件及有空间的容器。动态物品响应芯片会根据容器中的物品，去对网络中的抽取芯片请求物品。这个芯片必须跟物品响应芯片放在同一个接口管道才能作用。优先权规则在此也适用。物品超载响应芯片的作用跟物品响应芯片完全一样。但它只接收多余的物品，也就是无法送往物品响应芯片、动态物品响应芯片，或物品终端芯片的物品。物品终端芯片是响应芯片的备援。物品广播芯片会将其容器中的物品，显示到网络中的路由请求管道，你可以在路由请求管道选择要获取的物品。它们也可以被设定由哪一个方向抽取物品。物品堆栈维护芯片将维持其容器中设定的物品数量，它会持续检查网络以取得缺少的物品。如果芯片设定为用完补充，它将只会在物品用完时补充。物品合成芯片及物品合成扩展芯片用在物品合成管道中，记得要将ID随机数化。
 
 #Quest_738.Routed Pipes
 gtnh.quest738.name=路由管道(Routed Pipes)
-gtnh.quest738.desc=共有六種路由管道：交錯管道用於連接互相交叉的管道，使 其他的路由管道可以溝通。將介面管道接到容器上，使你可以抽取或送進物品，晶片可以控制其運作邏輯。需求管道使你可以只請求指定的物品，並由管道網路送來。防火牆管道可以控制哪些物品可以通過。
+gtnh.quest738.desc=共有六种路由管道：交错管道用于连接互相交叉的管道，使 其他的路由管道可以沟通。将接口管道接到容器上，使你可以抽取或送进物品，芯片可以控制其运作逻辑。需求管道使你可以只请求指定的物品，并由管道网络送来。防火墙管道可以控制哪些物品可以通过。
 
 #Quest_739.Ghetto Me System
-gtnh.quest739.name=塗鴉牆倉儲系統(Ghetto Me System)
-gtnh.quest739.desc=現在你對這個模組很熟悉了，是時候將你的基地中的物品整頓一番了。以下是建立基礎抽取/送入系統所需要的物品。首先你需要一個抽屜管理器，你可以從獎勵取得或者自己製作一個。將抽屜管理器擺放好，在其隔壁擺放任意數量的抽屜。確保它們都彼此相連。下一步是將路由介面管道連接到抽屜管理器上。取出物品回應晶片，將其過濾模式設為黑名單模式(這使你能從系統中取得所有物品)。持晶片對路由介面管道點擊右鍵，將之加入。也別忘了動態物品回應晶片。為了使你的系統能看到所有物品，你必須加入物品廣播晶片*到連接抽屜管理器的路由介面管道*。最後一步是將一個路由請求管道連接到*前述路由介面管道的網路*，右鍵點擊請求管道以存取GUI。你只能從此抽取物品。而存放物品只要單純的對抽屜管理器點擊右鍵。你可以在youtube上找到更複雜的自動合成教學。
+gtnh.quest739.name=涂鸦墙仓储系统(Ghetto Me System)
+gtnh.quest739.desc=现在你对这个模块很熟悉了，是时候将你的基地中的物品整顿一番了。以下是建立基础抽取/送入系统所需要的物品。首先你需要一个抽屉管理器，你可以从奖励取得或者自己制作一个。将抽屉管理器摆放好，在其隔壁摆放任意数量的抽屉。确保它们都彼此相连。下一步是将路由接口管道连接到抽屉管理器上。取出物品响应芯片，将其过滤模式设为黑名单模式(这使你能从系统中取得所有物品)。持芯片对路由接口管道点击右键，将之加入。也别忘了动态物品响应芯片。为了使你的系统能看到所有物品，你必须加入物品广播芯片*到连接抽屉管理器的路由接口管道*。最后一步是将一个路由请求管道连接到*前述路由接口管道的网络*，右键点击请求管道以存取GUI。你只能从此抽取物品。而存放物品只要单纯的对抽屉管理器点击右键。你可以在youtube上找到更复杂的自动合成教学。
 
 #Quest_740.Extrude all the things
-gtnh.quest740.name=壓出所有東西(Extrude all the things)
-gtnh.quest740.desc=現在你達到了MV階段，是時候得到一些更好的製作比例了。如製作桿、管道、線纜，以及其它許多零件。大部份的配方都超過32EU/t，所以最好製作一台MV壓模器。作好了之後你需要你想製作的零件的範本。大部份Tinkers Gregworks的工具部件都由壓模器製作。
+gtnh.quest740.name=压出所有东西(Extrude all the things)
+gtnh.quest740.desc=现在你达到了MV阶段，是时候得到一些更好的制作比例了。如制作杆、管道、线缆，以及其它许多零件。大部份的配方都超过32EU/t，所以最好制作一台MV压模器。作好了之后你需要你想制作的零件的模板。大部份Tinkers Gregworks的工具部件都由压模器制作。
 
 #Quest_741.Tool Forge
-gtnh.quest741.name=工具裝配台(Tool Forge)
-gtnh.quest741.desc=終於，你得到了第一個鋁錠。現在該製作一個工具裝配台用來製造進階的匠魂工具了。你同時需要一台進階卷板機。 
+gtnh.quest741.name=工具装配台(Tool Forge)
+gtnh.quest741.desc=终于，你得到了第一个铝锭。现在该制作一个工具装配台用来制造进阶的匠魂工具了。你同时需要一台进阶卷板机。 
 
 #Quest_742.One Block mining is so Old School
-gtnh.quest742.name=一格一格挖礦已經過氣了(One Block mining is so Old School)
-gtnh.quest742.desc=製作一把鋼捶子，你就可以一次挖3x3範圍的礦。在地獄小心點，因為一不小心你就會被岩漿煮熟。
+gtnh.quest742.name=一格一格挖矿已经过气了(One Block mining is so Old School)
+gtnh.quest742.desc=制作一把钢捶子，你就可以一次挖3x3范围的矿。在地狱小心点，因为一不小心你就会被岩浆煮熟。
 
 #Quest_743.Cutting a Tree log by log is so Old School
-gtnh.quest743.name=一次砍一個原木已經過氣了(Cutting a Tree log by log is so Old School)
-gtnh.quest743.desc=製作一把鋼伐木斧，你就可以一次砍掉一整棵樹。當你砍掉一棵神聖橡木時，別忘了你的背包。
+gtnh.quest743.name=一次砍一个原木已经过气了(Cutting a Tree log by log is so Old School)
+gtnh.quest743.desc=制作一把钢伐木斧，你就可以一次砍掉一整棵树。当你砍掉一棵神圣橡木时，别忘了你的背包。
 
 #Quest_744.Mining Dirt Block by Block is so Old School
-gtnh.quest744.name=慢慢挖土已經過氣了(Mining Dirt Block by Block is so Old School)
-gtnh.quest744.desc=製作一把鋼鏟，你就可以一次挖3x3範圍的土。別不小心毀了你的整個花園。
+gtnh.quest744.name=慢慢挖土已经过气了(Mining Dirt Block by Block is so Old School)
+gtnh.quest744.desc=制作一把钢铲，你就可以一次挖3x3范围的土。别不小心毁了你的整个花园。
 
 #Quest_745.Glue
-gtnh.quest745.name=膠水(Glue)
-gtnh.quest745.desc=如果你離心粘性樹脂，就會得到一些膠水(Refined glue)。在製作good circuit board時膠水非常有用。
+gtnh.quest745.name=胶水(Glue)
+gtnh.quest745.desc=如果你离心粘性树脂，就会得到一些胶水(Refined glue)。在制作good circuit board时胶水非常有用。
 
 #Quest_746.Silicon
-gtnh.quest746.name=矽(ilicon)
-gtnh.quest746.desc=因為晶片的生產，矽變成了更為重要的原料。你可以透過離心漂白土、石棉粉，或紅石來得到矽。而你也需要電力高爐來製作矽錠。一個錠需要溫度1687K，120EU/t燒製84秒。
+gtnh.quest746.name=硅(ilicon)
+gtnh.quest746.desc=因为芯片的生产，硅变成了更为重要的原料。你可以透过离心漂白土、石棉粉，或红石来得到硅。而你也需要电力高炉来制作硅锭。一个锭需要温度1687K，120EU/t烧制84秒。
 
 #Quest_747.Empty Circuit Board
-gtnh.quest747.name=高級電路零件(Diode)
-gtnh.quest747.desc=Good circuits需要高級電路零件(diodes)。有兩種方法可以製造，用晶元或砷化鎵(gallium arsenide)加上精製錫線纜。同時需要熔融玻璃。
+gtnh.quest747.name=高级电路零件(Diode)
+gtnh.quest747.desc=Good circuits需要高级电路零件(diodes)。有两种方法可以制造，用晶元或砷化镓(gallium arsenide)加上精制锡线缆。同时需要熔融玻璃。
 
 #Quest_748.Empty Circuit Board
-gtnh.quest748.name=空的電路板(Empty Circuit Board)
-gtnh.quest748.desc=Good circuit boards需要木頭紙漿跟膠水(refined glue)來製作酚醛樹脂電路板，再加上金線纜就可以製成。
+gtnh.quest748.name=空的电路板(Empty Circuit Board)
+gtnh.quest748.desc=Good circuit boards需要木头纸浆跟胶水(refined glue)来制作酚醛树脂电路板，再加上金线缆就可以制成。
 
 #Quest_749.Are you Prepared for HV?
-gtnh.quest749.name=你準備好邁向HV了嗎?(Are you Prepared for HV?)
-gtnh.quest749.desc=不銹鋼會是HV階段的主要原料。有兩種製造方法，手工合成八個不銹鋼粉。你可以找到錳礦脈，與石榴石、錳鋁榴石、軟錳礦，與鉭鐵礦共生。鉻可以從錳礦或紅寶石粉中離心出來。
+gtnh.quest749.name=你准备好迈向HV了吗?(Are you Prepared for HV?)
+gtnh.quest749.desc=不锈钢会是HV阶段的主要原料。有两种制造方法，手工合成八个不锈钢粉。你可以找到锰矿脉，与石榴石、锰铝榴石、软锰矿，与钽铁矿共生。铬可以从锰矿或红宝石粉中离心出来。
 
 #Quest_750.Molten Plastic
-gtnh.quest750.name=液態塑膠(Molten Plastic)
-gtnh.quest750.desc=液態聚乙烯可以在化學反應器中製造，使用乙醚(ethylene)跟壓縮空氣單元或氧單元反應。使用模頭(板)在液體固化器中製成塑膠板。
+gtnh.quest750.name=液态塑料(Molten Plastic)
+gtnh.quest750.desc=液态聚乙烯可以在化学反应器中制造，使用乙醚(ethylene)跟压缩空气单元或氧单元反应。使用模头(板)在液体固化器中制成塑料板。
 
 #Quest_751.Mixing Stainless Steel
-gtnh.quest751.name=攪拌不銹鋼粉(Mixing Stainless Steel)
-gtnh.quest751.desc=不銹鋼會是HV階段的主要原料，有兩種製造方法，用攪拌機混合一次可得到九個不銹鋼粉。你可以找到錳礦脈，與石榴石、錳鋁榴石、軟錳礦，與鉭鐵礦共生。鉻可以從錳礦或紅寶石粉中離心出來。
+gtnh.quest751.name=搅拌不锈钢粉(Mixing Stainless Steel)
+gtnh.quest751.desc=不锈钢会是HV阶段的主要原料，有两种制造方法，用搅拌机混合一次可得到九个不锈钢粉。你可以找到锰矿脉，与石榴石、锰铝榴石、软锰矿，与钽铁矿共生。铬可以从锰矿或红宝石粉中离心出来。
 
 #Quest_752.Silicon Plate
-gtnh.quest752.name=矽板(Silicon Plate)
-gtnh.quest752.desc=高級電路板需要蝕刻高壓電路(transistors)，由矽板、精製錫線纜，及液態塑膠製成。
+gtnh.quest752.name=硅板(Silicon Plate)
+gtnh.quest752.desc=高级电路板需要蚀刻高压电路(transistors)，由硅板、精制锡线缆，及液态塑料制成。
 
 #Quest_753.Stainless Steel EBF processing
-gtnh.quest753.name=不銹鋼與電力高爐(Stainless Steel EBF processing)
-gtnh.quest753.desc=不銹鋼錠是在電力高爐中製造，溫度1700K。需要480EU/t燒製80秒，如果加入氧氣則需要60秒。你至少需要兩個MV級能源輸入艙來為電力高爐供電。
+gtnh.quest753.name=不锈钢与电力高炉(Stainless Steel EBF processing)
+gtnh.quest753.desc=不锈钢锭是在电力高炉中制造，温度1700K。需要480EU/t烧制80秒，如果加入氧气则需要60秒。你至少需要两个MV级能源输入舱来为电力高炉供电。
 
 #Quest_754.MV Energy Hatch
-gtnh.quest754.name=MV級能源輸入艙(MV Energy Hatch)
-gtnh.quest754.desc=有些原料如不銹鋼，需要480Eu/t。你的LV級能源輸入艙已經不敷使用。製造至少兩個MV級能源輸入艙來將你的電力高爐升級到HV。
+gtnh.quest754.name=MV级能源输入舱(MV Energy Hatch)
+gtnh.quest754.desc=有些原料如不锈钢，需要480Eu/t。你的LV级能源输入舱已经不敷使用。制造至少两个MV级能源输入舱来将你的电力高炉升级到HV。
 
 #Quest_755.Better than Duct Tape
-gtnh.quest755.name=比膠帶更好(Better than Duct Tape)
-gtnh.quest755.desc=電烙鐵可以移除burned out circuits的故障訊息，比膠帶更好。修復時需要一個焊錫跟10,000EU的電力。有許多材料可以做為焊接材料，由錫、鉛，或焊錫製成的精製線纜、杆，或錠都可以。電烙鐵將會消耗玩家物品欄中找到的第一個這類材料。至於其他故障需要其他的工具。可能的故障有，Pipe is loose - 扳手，Screws are missing - 螺絲刀，Something is stuck - 軟錘，Platings are dented - 錘，Cicuitry burned out - 電烙鐵，That doesn't belong there - 鐵橇。
+gtnh.quest755.name=比胶带更好(Better than Duct Tape)
+gtnh.quest755.desc=电烙铁可以移除burned out circuits的故障讯息，比胶带更好。修复时需要一个焊锡跟10,000EU的电力。有许多材料可以做为焊接材料，由锡、铅，或焊锡制成的精制线缆、杆，或锭都可以。电烙铁将会消耗玩家物品栏中找到的第一个这类材料。至于其他故障需要其他的工具。可能的故障有，Pipe is loose - 扳手，Screws are missing - 螺丝刀，Something is stuck - 软锤，Platings are dented - 锤，Cicuitry burned out - 电烙铁，That doesn't belong there - 铁橇。
 
 #Quest_756.Less Power loss
-gtnh.quest756.name=減少電力損失(Less Power loss)
-gtnh.quest756.desc=當你達到MV階段，你可以自己製造膠帶。以防你需要移動你的多方塊機器。膠代可以一次解決任何多方塊機器的所有維護問題。
+gtnh.quest756.name=减少电力损失(Less Power loss)
+gtnh.quest756.desc=当你达到MV阶段，你可以自己制造胶带。以防你需要移动你的多方块机器。胶代可以一次解决任何多方块机器的所有维护问题。
 
 #Quest_757.Ruby Electrolyzing
-gtnh.quest757.name=電解紅寶石(Ruby Electrolyzing)
-gtnh.quest757.desc=電解紅寶石是很好的鉻及鋁的來源。你的新MV電解器讓你可以使用許多新配方。
+gtnh.quest757.name=电解红宝石(Ruby Electrolyzing)
+gtnh.quest757.desc=电解红宝石是很好的铬及铝的来源。你的新MV电解器让你可以使用许多新配方。
 
 #Quest_758.MV Batteries
-gtnh.quest758.name=MV級電池(MV Batteries)
-gtnh.quest758.desc=更好的機器需要更好的電池。讓我們為新電池做些MV級電池外殼。而你可以決定用這些電池外殼製成鋰電池、鎘電池、鈉電池，或酸性電池。
+gtnh.quest758.name=MV级电池(MV Batteries)
+gtnh.quest758.desc=更好的机器需要更好的电池。让我们为新电池做些MV级电池外壳。而你可以决定用这些电池外壳制成锂电池、镉电池、钠电池，或酸性电池。
 
 #Quest_759.Molten Polyethylene
-gtnh.quest759.name=液態聚乙烯(Molten Polyethylene)
-gtnh.quest759.desc=聚乙烯是由乙醚(ethylene)在化學反應器中製成。
+gtnh.quest759.name=液态聚乙烯(Molten Polyethylene)
+gtnh.quest759.desc=聚乙烯是由乙醚(ethylene)在化学反应器中制成。
 
 #Quest_760.Clay Electrolyzing
-gtnh.quest760.name=電解粘土(Clay Electrolyzing)
-gtnh.quest760.desc=你發現電解粘土可以得到矽粉。有大量的有色粘土塊，可以在峽谷或山脈地形找到。你可以將之研磨成粘土粉。
+gtnh.quest760.name=电解粘土(Clay Electrolyzing)
+gtnh.quest760.desc=你发现电解粘土可以得到硅粉。有大量的有色粘土块，可以在峡谷或山脉地形找到。你可以将之研磨成粘土粉。
 
 #Quest_761.Powderbarrels
-gtnh.quest761.name=火藥箱(Powderbarrels)
-gtnh.quest761.desc=火藥箱(Powderbarrels)用於聚爆壓縮機的效果比炸藥好一倍。製作一疊。
+gtnh.quest761.name=火药箱(Powderbarrels)
+gtnh.quest761.desc=火药箱(Powderbarrels)用于聚爆压缩机的效果比炸药好一倍。制作一迭。
 
 #Quest_762.TNT
 gtnh.quest762.name=TNT
-gtnh.quest762.desc=TNT比火藥箱(Powderbarrels)更有威力但難做得多。有LV跟HV兩種不同方法可以製造。在LV階段，你需要重質燃料或輕質燃料，來製作甲苯。甲苯可以固化成凝膠甲苯。另一種方法是在化學反應器中，用塑膠紙漿及糖，使甲苯更有效率。將凝膠甲苯與硫酸混合來製造TNT。HV的方法需要石油裂化機器來製作所有的裂化燃料或裂化石腦油，以及一個蒸餾塔來萃取出甲苯。
+gtnh.quest762.desc=TNT比火药箱(Powderbarrels)更有威力但难做得多。有LV跟HV两种不同方法可以制造。在LV阶段，你需要重质燃料或轻质燃料，来制作甲苯。甲苯可以固化成凝胶甲苯。另一种方法是在化学反应器中，用塑料纸浆及糖，使甲苯更有效率。将凝胶甲苯与硫酸混合来制造TNT。HV的方法需要石油裂化机器来制作所有的裂化燃料或裂化石脑油，以及一个蒸馏塔来萃取出甲苯。
 
 #Quest_763.iTNT
-gtnh.quest763.name=工業TNT(iTNT)
-gtnh.quest763.desc=工業TNT是HV版本的TNT。有更強的爆炸威力，但並不會破壞方塊。
+gtnh.quest763.name=工业TNT(iTNT)
+gtnh.quest763.desc=工业TNT是HV版本的TNT。有更强的爆炸威力，但并不会破坏方块。
 
 #Quest_764.Dynamite
-gtnh.quest764.name=炸藥(Dynamite)
-gtnh.quest764.desc=炸藥是聚爆壓縮機所使用的最基礎的爆炸物。在化學反應器中混合紙、線，跟硝化甘油來製造炸藥。
+gtnh.quest764.name=炸药(Dynamite)
+gtnh.quest764.desc=炸药是聚爆压缩机所使用的最基础的爆炸物。在化学反应器中混合纸、线，跟硝化甘油来制造炸药。
 
 #Quest_765.Time to drill! 
-gtnh.quest765.name=鑽油時刻！(Time to drill! )
-gtnh.quest765.desc=泵是很好，但你現在到了一個需要更多更多更多石油的時刻。這個多方塊構造能幫助你，但你需要使用地震探礦去搜尋石油。你可以找到原油、輕油，或重油。也有機會找到天然氣。使用越高階段的電力鑽得越快。使用相對應的能源輸入艙來提供電力。
+gtnh.quest765.name=钻油时刻！(Time to drill! )
+gtnh.quest765.desc=泵是很好，但你现在到了一个需要更多更多更多石油的时刻。这个多方块构造能帮助你，但你需要使用地震探矿去搜寻石油。你可以找到原油、轻油，或重油。也有机会找到天然气。使用越高阶段的电力钻得越快。使用相对应的能源输入舱来提供电力。
 
 #Quest_766.Let's get it crackin!
 gtnh.quest766.name=裂化石油(Let's get it crackin!)
-gtnh.quest766.desc=裂化石油可以在蒸餾塔中得到更好的副產品。製造這個多方塊構造是個聰明的主意，因為進階火箭將會需要非常大量的工業TNT。如果你加入蒸氣，EU/t的消耗將會減少50%，如果你加入氫氣，輸出產量將增加30%。
+gtnh.quest766.desc=裂化石油可以在蒸馏塔中得到更好的副产品。制造这个多方块构造是个聪明的主意，因为进阶火箭将会需要非常大量的工业TNT。如果你加入蒸气，EU/t的消耗将会减少50%，如果你加入氢气，输出产量将增加30%。
 
 #Quest_767.Analyzing the soil
-gtnh.quest767.name=分析地層(Analyzing the soil)
-gtnh.quest767.desc=為了確定這個方塊區域中有何種油或瓦斯，你需要掃瞄地層。手持8炸藥、4TNT、2工業TNT，或1甘油(glyceryl)對地震探礦機點擊右鍵。然後在動畫結束後，對地震探礦機使用快閃記憶體盤。ProTip:你可以每6個方塊區掃瞄一次，這樣更有效率。現在你需要將快閃記憶體盤放進一台掃描機。之後將之放在印表機的右下角欄位，然後放三張紙在左上欄位，確定你至少有144mb的魷魚墨水在裡面(只有GT機器可以作用)。等運作結束，將列印頁面取出，將之及皮格放入至少有20mb膠水的組裝機中。登~登~現在你有一本記載你所掃瞄方塊區域的資料的書了。
+gtnh.quest767.name=分析地层(Analyzing the soil)
+gtnh.quest767.desc=为了确定这个方块区域中有何种油或瓦斯，你需要扫瞄地层。手持8炸药、4TNT、2工业TNT，或1甘油(glyceryl)对地震探矿机点击右键。然后在动画结束后，对地震探矿机使用闪存盘。ProTip:你可以每6个方块区扫瞄一次，这样更有效率。现在你需要将闪存盘放进一台扫描机。之后将之放在打印机的右下角字段，然后放三张纸在左上字段，确定你至少有144mb的鱿鱼墨水在里面(只有GT机器可以作用)。等运作结束，将打印页面取出，将之及皮格放入至少有20mb胶水的组装机中。登~登~现在你有一本记载你所扫瞄方块区域的数据的书了。
 
 #Quest_768.You smell like a distillery!
-gtnh.quest768.name=你聞起來像掉到酒桶裡!(You smell like a distillery!)
-gtnh.quest768.desc=這個狠角色會極大的增加你處理裂解燃料油時的副產品，數量達到原本的五倍。如此一來你就可以更有效率的製造工業TNT、塑膠、聚四氟乙烯，以及其他塑膠產品。你也需要這台機器來完成你的自動化產線。
+gtnh.quest768.name=你闻起来像掉到酒桶里!(You smell like a distillery!)
+gtnh.quest768.desc=这个狠角色会极大的增加你处理裂解燃料油时的副产品，数量达到原本的五倍。如此一来你就可以更有效率的制造工业TNT、塑料、聚四氟乙烯，以及其他塑料产品。你也需要这台机器来完成你的自动化产线。
 
 #Quest_769.Playing with dust
-gtnh.quest769.name=一邊玩沙(Playing with dust)
-gtnh.quest769.desc=這台機器使你可以將粉末製作成水晶，在高階配方中你將需要水晶。
+gtnh.quest769.name=一边玩沙(Playing with dust)
+gtnh.quest769.desc=这台机器使你可以将粉末制作成水晶，在高阶配方中你将需要水晶。
 
 #Quest_770.Avengers, Assemble! 2
-gtnh.quest770.name=復仇者聯盟2(Avengers, Assemble! 2)
-gtnh.quest770.desc=你知道這是做什麼用的。:D
+gtnh.quest770.name=复仇者联盟2(Avengers, Assemble! 2)
+gtnh.quest770.desc=你知道这是做什么用的。:D
 
 #Quest_771.Dust to crystals
-gtnh.quest771.name=化塵為晶(Dust to crystals)
-gtnh.quest771.desc=使用高壓釜將你的粉製作成水晶狀態。你可以由碳粉製作出生碳網。
+gtnh.quest771.name=化尘为晶(Dust to crystals)
+gtnh.quest771.desc=使用高压釜将你的粉制作成水晶状态。你可以由碳粉制作出生碳网。
 
 #Quest_772.Precision is required
-gtnh.quest772.name=精確度是必要的(Precision is required)
-gtnh.quest772.desc=製作高階的電路以及其它配方時你將會常使用到這台機器。
+gtnh.quest772.name=精确度是必要的(Precision is required)
+gtnh.quest772.desc=制作高阶的电路以及其它配方时你将会常使用到这台机器。
 
 #Quest_773.Way one: Raw carbon mesh
-gtnh.quest773.name=方法一:生碳網(Way one: Raw carbon mesh)
-gtnh.quest773.desc=這個方法是在高壓釜中處理四個碳粉。LV時代，你可以使用液態塑膠會得到一個碳纖維。MV時代，使用聚四氟乙烯會得到二個。或者在HV時代使用最好的方法:使用液態環氧化物可以得到四個。
+gtnh.quest773.name=方法一:生碳网(Way one: Raw carbon mesh)
+gtnh.quest773.desc=这个方法是在高压釜中处理四个碳粉。LV时代，你可以使用液态塑料会得到一个碳纤维。MV时代，使用聚四氟乙烯会得到二个。或者在HV时代使用最好的方法:使用液态环氧化物可以得到四个。
 
 #Quest_774.Way two: Bio Organic Mesh
-gtnh.quest774.name=方法二:生物有機網(Way two: Bio Organic Mesh)
-gtnh.quest774.desc=如果你想保護生態系統，可以用高壓釜將16個植物球製成未加工的生物纖維。可以使用下列液體:生物質:33%機率。甲醇:50%機率。柴油:90%機率。硝基柴油:100%機率。然而，使用這個方製造碳板需要電力高爐。
+gtnh.quest774.name=方法二:生物有机网(Way two: Bio Organic Mesh)
+gtnh.quest774.desc=如果你想保护生态系统，可以用高压釜将16个植物球制成未加工的生物纤维。可以使用下列液体:生物质:33%机率。甲醇:50%机率。柴油:90%机率。硝基柴油:100%机率。然而，使用这个方制造碳板需要电力高炉。
 
 #Quest_775.Carbon parts
-gtnh.quest775.name=碳纖零件(Carbon parts)
-gtnh.quest775.desc=這些零件是你最愛的納米裝甲所需要的。
+gtnh.quest775.name=碳纤零件(Carbon parts)
+gtnh.quest775.desc=这些零件是你最爱的纳米装甲所需要的。
 
 #Quest_776.Seeing things brighter
 gtnh.quest776.name=看得更清楚(Seeing things brighter)
-gtnh.quest776.desc=納米頭盔比較特殊。只要有能量，它可以提供你夜視能力。
+gtnh.quest776.desc=纳米头盔比较特殊。只要有能量，它可以提供你夜视能力。
 
 #Quest_777.Are those green diamonds? 
-gtnh.quest777.name=這是綠鑽石嗎?(Are those green diamonds? )
-gtnh.quest777.desc=它們可能不是綠鑽石，但你的納米裝甲需要它們。
+gtnh.quest777.name=这是绿钻石吗?(Are those green diamonds? )
+gtnh.quest777.desc=它们可能不是绿钻石，但你的纳米装甲需要它们。
 
 #Quest_778.Carbon Plates
 gtnh.quest778.name=碳板(Carbon Plates)
-gtnh.quest778.desc=碳板是納米裝甲所需要的。檢視裝甲的章節。
+gtnh.quest778.desc=碳板是纳米装甲所需要的。检视装甲的章节。
 
 #Quest_779.Carbon skin
-gtnh.quest779.name=碳皮膚(Carbon skin)
-gtnh.quest779.desc=現在你可以不用擔心大部份的怪物了。這將幫助你存活，並讓你很酷。你的旅程還沒結束，旅行者，量子護甲還在等著你！
+gtnh.quest779.name=碳皮肤(Carbon skin)
+gtnh.quest779.desc=现在你可以不用担心大部份的怪物了。这将帮助你存活，并让你很酷。你的旅程还没结束，旅行者，量子护甲还在等着你！
 
 #Quest_780.Organic Way
-gtnh.quest780.name=有機之道(Organic Way)
-gtnh.quest780.desc=生物碳板由生物有機網製成。將生碳板放入電力高爐來製造碳板。
+gtnh.quest780.name=有机之道(Organic Way)
+gtnh.quest780.desc=生物碳板由生物有机网制成。将生碳板放入电力高炉来制造碳板。
 
 #Quest_781.Still not enough charcoal?
-gtnh.quest781.name=木炭還是不夠？(Still not enough charcoal?)
-gtnh.quest781.desc=現在你有一台真空冷卻機，有製造鐵鉻鋁耐熱材料的可能性。是時候蓋一座熱解爐了。這座爐是得到木炭及雜酚油的最佳途徑(Railcraft焦炭爐的五十倍快)。你將需要大量的青銅、鐵，及鋼來製造它。但這是值得的，現在你可能可以拆掉你的木炭坑了。
+gtnh.quest781.name=木炭还是不够？(Still not enough charcoal?)
+gtnh.quest781.desc=现在你有一台真空冷却机，有制造铁铬铝耐热材料的可能性。是时候盖一座热解炉了。这座炉是得到木炭及杂酚油的最佳途径(Railcraft焦炭炉的五十倍快)。你将需要大量的青铜、铁，及钢来制造它。但这是值得的，现在你可能可以拆掉你的木炭坑了。
 
 #Quest_782.Monocrystalline Silicon
-gtnh.quest782.name=單晶矽(Monocrystalline Silicon)
-gtnh.quest782.desc=為了製造晶圓，你必須先製造單晶矽。這製程需在電力高爐加入矽粉以及砷化鎵粉，需時450秒。每個矽球可以製成16個晶圓。
+gtnh.quest782.name=单晶硅(Monocrystalline Silicon)
+gtnh.quest782.desc=为了制造晶圆，你必须先制造单晶硅。这制程需在电力高炉加入硅粉以及砷化镓粉，需时450秒。每个硅球可以制成16个晶圆。
 
 #Quest_783.We need big toys
-gtnh.quest783.name=我們需要些大傢伙(We need big toys)
-gtnh.quest783.desc=你的基礎蒸汽輪機太佔空間？該解決這個問題了。這台大型蒸汽輪機可以幫助你生產大量的能源。別忘了為它製造一個渦輪。在起步階段，最適合的渦輪材料是:釩鋼(有極高的耐久度，但產能較慢)、鈷(在耐久跟性能間取得不錯的平衡)，及哈氏合金(有更高的效率、耐久，及性能)。
+gtnh.quest783.name=我们需要些大家伙(We need big toys)
+gtnh.quest783.desc=你的基础蒸汽轮机太占空间？该解决这个问题了。这台大型蒸汽轮机可以帮助你生产大量的能源。别忘了为它制造一个涡轮。在起步阶段，最适合的涡轮材料是:钒钢(有极高的耐久度，但产能较慢)、钴(在耐久跟性能间取得不错的平衡)，及哈氏合金(有更高的效率、耐久，及性能)。
 
 #Quest_784.It's time to get more steam
-gtnh.quest784.name=該製造更多蒸氣了(It's time to get more steam)
-gtnh.quest784.desc=一旦你有能力儲存大量的能源，就需要有方法生產大量的能源。你需要一個大型青銅鍋爐。但為了製造這個鍋爐，你需要像山一樣多的青銅。這個鍋爐每tick能產生800L的蒸氣，這足供十台基礎蒸汽輪機運作了。
+gtnh.quest784.name=该制造更多蒸气了(It's time to get more steam)
+gtnh.quest784.desc=一旦你有能力储存大量的能源，就需要有方法生产大量的能源。你需要一个大型青铜锅炉。但为了制造这个锅炉，你需要像山一样多的青铜。这个锅炉每tick能产生800L的蒸气，这足供十台基础蒸汽轮机运作了。
 
 #Quest_785.Transistor
-gtnh.quest785.name=電晶體(Transistor)
-gtnh.quest785.desc=為了下一個階段我們需要高級電路。為了製造高級電路板，你需要一些電晶體。
+gtnh.quest785.name=晶体管(Transistor)
+gtnh.quest785.desc=为了下一个阶段我们需要高级电路。为了制造高级电路板，你需要一些晶体管。
 
 #Quest_786.Steam is never enough
-gtnh.quest786.name=蒸氣永遠不夠(Steam is never enough)
-gtnh.quest786.desc=現在你可以製造高級電路了，表示這是蓋大型鋼鍋爐的時刻了。這台鍋爐的效率是青銅版的1.5倍，這表示我們需要再多5台蒸氣輪機。別忘了監控你的水量！
+gtnh.quest786.name=蒸气永远不够(Steam is never enough)
+gtnh.quest786.desc=现在你可以制造高级电路了，表示这是盖大型钢锅炉的时刻了。这台锅炉的效率是青铜版的1.5倍，这表示我们需要再多5台蒸气轮机。别忘了监控你的水量！
 
 #Quest_787.Moooooore steam
-gtnh.quest787.name=更多更多更多蒸氣(Moooooore steam)
-gtnh.quest787.desc=囤積鈦，這會很有趣。大型鈦鍋爐每tick生產1600L蒸氣。為應付這數量，你需要為你的大型蒸汽輪機選擇正確的渦輪。例如，兩個鈷渦輪就很適當。鈷渦輪的最佳流量是800L/tick。如果你有不止一個鍋爐，你就需要做更多計算來選擇適當的渦輪。
+gtnh.quest787.name=更多更多更多蒸气(Moooooore steam)
+gtnh.quest787.desc=囤积钛，这会很有趣。大型钛锅炉每tick生产1600L蒸气。为应付这数量，你需要为你的大型蒸汽轮机选择正确的涡轮。例如，两个钴涡轮就很适当。钴涡轮的最佳流量是800L/tick。如果你有不止一个锅炉，你就需要做更多计算来选择适当的涡轮。
 
 #Quest_788.Even more steam? Are you sure?
-gtnh.quest788.name=還要更多蒸氣？你確定嗎？(Even more steam? Are you sure?)
-gtnh.quest788.desc=這台鍋爐是最有效率產生蒸氣的途徑。其產能達到2000L/tick。如果你需要更多，蓋兩台甚至四台鍋爐。
+gtnh.quest788.name=还要更多蒸气？你确定吗？(Even more steam? Are you sure?)
+gtnh.quest788.desc=这台锅炉是最有效率产生蒸气的途径。其产能达到2000L/tick。如果你需要更多，盖两台甚至四台锅炉。
 
 #Quest_789.Energy Crystals
 gtnh.quest789.name=能量水晶(Energy Crystals)
-gtnh.quest789.desc=製造能量水晶，在MV攪拌機中混合紅寶石及紅石。能量水晶可以儲存1百萬EU。
+gtnh.quest789.desc=制造能量水晶，在MV搅拌机中混合红宝石及红石。能量水晶可以储存1百万EU。
 
 #Quest_790.Nano Crystal
 gtnh.quest790.name=奈米水晶(Nano Crystal)
-gtnh.quest790.desc=奈米水晶用於製作納米裝甲。
+gtnh.quest790.desc=奈米水晶用于制作纳米装甲。
 
 #Quest_791.MV Precision Laser
-gtnh.quest791.name=MV精密鐳射蝕刻機(MV Precision Laser)
-gtnh.quest791.desc=高級電路需要一台MV精密鐳射蝕刻機，製造一台吧。
+gtnh.quest791.name=MV精密激光蚀刻机(MV Precision Laser)
+gtnh.quest791.desc=高级电路需要一台MV精密激光蚀刻机，制造一台吧。
 
 #Quest_792.Silicon Wafer
-gtnh.quest792.name=矽晶圓(Silicon Wafer)
-gtnh.quest792.desc=為製造矽晶圓，將單晶矽球放入板材切割機。最好立刻製作一台MV切割機，之後製作RAM、IC，及其它晶片時你會需要它。
+gtnh.quest792.name=硅晶圆(Silicon Wafer)
+gtnh.quest792.desc=为制造硅晶圆，将单晶硅球放入板材切割机。最好立刻制作一台MV切割机，之后制作RAM、IC，及其它芯片时你会需要它。
 
 #Quest_793.Good Integrated Circuits
-gtnh.quest793.name=良質積體電路(Good Integrated Circuits)
-gtnh.quest793.desc=良質電路(Good circuits)有三種版本。為製作高級電路你需要良質積體電路(Good Integrated Circuits)。
+gtnh.quest793.name=良质集成电路(Good Integrated Circuits)
+gtnh.quest793.desc=良质电路(Good circuits)有三种版本。为制作高级电路你需要良质集成电路(Good Integrated Circuits)。
 
 #Quest_794.Integrated Circuit
-gtnh.quest794.name=積體電路(Integrated Circuit)
-gtnh.quest794.desc=基礎電路(basic circuits)有兩種版本。IC2的基礎電路或需要電路組裝機製造的積體電路。良質積體電路需要兩個積體電路來製作。
+gtnh.quest794.name=集成电路(Integrated Circuit)
+gtnh.quest794.desc=基础电路(basic circuits)有两种版本。IC2的基础电路或需要电路组装机制造的集成电路。良质集成电路需要两个集成电路来制作。
 
 #Quest_795.Basic Circuit Assembler
-gtnh.quest795.name=基礎電路組裝機(Basic Circuit Assembler)
-gtnh.quest795.desc=高級電路(Advanced circuits)需要一台MV級電路組裝機。製造一台吧。
+gtnh.quest795.name=基础电路组装机(Basic Circuit Assembler)
+gtnh.quest795.desc=高级电路(Advanced circuits)需要一台MV级电路组装机。制造一台吧。
 
 #Quest_796.Sensor lens
-gtnh.quest796.name=探測鏡片(Sensor lens)
-gtnh.quest796.desc=夜視鏡需要特殊的探測鏡片來運作。
+gtnh.quest796.name=探测镜片(Sensor lens)
+gtnh.quest796.desc=夜视镜需要特殊的探测镜片来运作。
 
 #Quest_797.Advanced Heat Exchanger
-gtnh.quest797.name=高級熱交換器(Advanced Heat Exchanger)
-gtnh.quest797.desc=夜視鏡需要高級熱交換器來運作。
+gtnh.quest797.name=高级热交换器(Advanced Heat Exchanger)
+gtnh.quest797.desc=夜视镜需要高级热交换器来运作。
 
 #Quest_798.Iron capped Greatwood Wand
-gtnh.quest798.name=鐵端宏偉之木短杖(Iron capped Greatwood Wand)
-gtnh.quest798.desc=製作金端宏偉之木短杖需要35vis，但你的舊短杖的極限是25。所以先做一把鐵端宏偉之木短杖，然後製作一把金端宏偉之木短杖。
+gtnh.quest798.name=铁端宏伟之木短杖(Iron capped Greatwood Wand)
+gtnh.quest798.desc=制作金端宏伟之木短杖需要35vis，但你的旧短杖的极限是25。所以先做一把铁端宏伟之木短杖，然后制作一把金端宏伟之木短杖。
 
 #Quest_799.Don't try to dive with it
-gtnh.quest799.name=別試著用它潛水(Don't try to dive with it)
-gtnh.quest799.desc=用組裝機將防化頭盔及奈米頭盔結合，可以得到奈米水肺潛水頭盔。最好別試著用它潛水，因為你不行。這是新的量子頭盔的零件。
+gtnh.quest799.name=别试着用它潜水(Don't try to dive with it)
+gtnh.quest799.desc=用组装机将防化头盔及奈米头盔结合，可以得到奈米水肺潜水头盔。最好别试着用它潜水，因为你不行。这是新的量子头盔的零件。
 
 #Quest_800.Plated Leggings better not try to wear it
-gtnh.quest800.name=電鍍護腿，別試著穿它(Plated Leggings better not try to wear it)
-gtnh.quest800.desc=用組裝機將不銹鋼物品外殼及奈米護腿結合，會得到奈米電鍍護腿。最好別試著穿上它們，因為你不行。它們是新的量子護腿的零件。
+gtnh.quest800.name=电镀护腿，别试着穿它(Plated Leggings better not try to wear it)
+gtnh.quest800.desc=用组装机将不锈钢物品外壳及奈米护腿结合，会得到奈米电镀护腿。最好别试着穿上它们，因为你不行。它们是新的量子护腿的零件。
 
 #Quest_801.Don't try to walk with it
-gtnh.quest801.name=別試著穿它走路(Don't try to walk with it)
-gtnh.quest801.desc=用組裝機將橡膠靴及奈米靴子結合，會得到奈米橡膠靴。最好別試著穿它走路，因為你不行。它們是新的量子靴子的零件。
+gtnh.quest801.name=别试着穿它走路(Don't try to walk with it)
+gtnh.quest801.desc=用组装机将橡胶靴及奈米靴子结合，会得到奈米橡胶靴。最好别试着穿它走路，因为你不行。它们是新的量子靴子的零件。
 
 #Quest_802.Iridium Plated
-gtnh.quest802.name=鍍銥(Iridium Plated)
-gtnh.quest802.desc=將你的護甲全部鍍上銥合金物品外殼，將付予它們更佳的耐久度。你必須先使用量子水晶來啟動這些量子裝甲零件，才能穿上它們。
+gtnh.quest802.name=镀铱(Iridium Plated)
+gtnh.quest802.desc=将你的护甲全部镀上铱合金物品外壳，将付予它们更佳的耐久度。你必须先使用量子水晶来启动这些量子装甲零件，才能穿上它们。
 
 #Quest_803.Quantum Armor
-gtnh.quest803.name=量子裝甲(Quantum Armor)
-gtnh.quest803.desc=量子裝甲是高階且非常耐用的裝甲，並有許多特色，如夜視、墜落減傷，及快速跑步。
+gtnh.quest803.name=量子装甲(Quantum Armor)
+gtnh.quest803.desc=量子装甲是高阶且非常耐用的装甲，并有许多特色，如夜视、坠落减伤，及快速跑步。
 
 #Quest_804.Quantum crystal
 gtnh.quest804.name=量子水晶(Quantum crystal)
-gtnh.quest804.desc=量子水晶是必需品，用於將量子護甲零件轉換成可穿戴的量子護甲。
+gtnh.quest804.desc=量子水晶是必需品，用于将量子护甲零件转换成可穿戴的量子护甲。
 
 #Quest_805.Lapotron Dust
-gtnh.quest805.name=蘭波頓粉末(Lapotron Dust)
-gtnh.quest805.desc=為製作蘭波頓水晶，你需要混合能量水晶粉及青金石粉。
+gtnh.quest805.name=兰波顿粉末(Lapotron Dust)
+gtnh.quest805.desc=为制作兰波顿水晶，你需要混合能量水晶粉及青金石粉。
 
 #Quest_806.Lapotron Crystal
-gtnh.quest806.name=蘭波頓水晶(Lapotron Crystal)
-gtnh.quest806.desc=使用你的新HV攪拌機，你可以製作蘭波頓粉末。將之放入高壓釜來製作未加工的蘭波頓水晶。使用EV組裝機及高級電路，你可以製作能儲存1千萬的蘭波頓水晶。
+gtnh.quest806.name=兰波顿水晶(Lapotron Crystal)
+gtnh.quest806.desc=使用你的新HV搅拌机，你可以制作兰波顿粉末。将之放入高压釜来制作未加工的兰波顿水晶。使用EV组装机及高级电路，你可以制作能储存1千万的兰波顿水晶。
 
 #Quest_807.Quantum Crystal
 gtnh.quest807.name=量子水晶(Quantum Crystal)
-gtnh.quest807.desc=為製作量子護甲，你需要一些量子水晶。將蘭波頓水晶放入精密鐳射蝕刻機來製作量子水晶。
+gtnh.quest807.desc=为制作量子护甲，你需要一些量子水晶。将兰波顿水晶放入精密激光蚀刻机来制作量子水晶。
 
 #Quest_808.Mixing at hv Level
-gtnh.quest808.name=HV級攪拌(Mixing at hv Level)
-gtnh.quest808.desc=高階粉末需要HV級攪拌機。
+gtnh.quest808.name=HV级搅拌(Mixing at hv Level)
+gtnh.quest808.desc=高阶粉末需要HV级搅拌机。
 
 #Quest_809.NASA Workbench aka Dire Crafting Table
-gtnh.quest809.name=NASA工作台，又名終極工作台(NASA Workbench aka Dire Crafting Table)
-gtnh.quest809.desc=Avarita的9x9終極工作台取代了NASA工作台。這是製作所有火箭及高階裝備的必需品。首先，你需要81個工作台來製作一個雙重壓縮工作台，一些HV組件、晶圓，以及一個水晶矩陣。然後沒錯，你確實需要地獄之星。提示:檢視地獄之星的配方，可使用枯竭水晶及世界鹽合成。枯竭水晶可以複製，透過加入熔岩球、烈焰粉，以級小搓地獄之星粉。
+gtnh.quest809.name=NASA工作台，又名终极工作台(NASA Workbench aka Dire Crafting Table)
+gtnh.quest809.desc=Avarita的9x9终极工作台取代了NASA工作台。这是制作所有火箭及高阶装备的必需品。首先，你需要81个工作台来制作一个双重压缩工作台，一些HV组件、晶圆，以及一个水晶矩阵。然后没错，你确实需要地狱之星。提示:检视地狱之星的配方，可使用枯竭水晶及世界盐合成。枯竭水晶可以复制，透过加入熔岩球、烈焰粉，以级小搓地狱之星粉。
 
 #Quest_810.Rocket Tier 1
 gtnh.quest810.name=Rocket Tier 1
@@ -3442,124 +3442,124 @@ gtnh.quest859.name=Hypochlorous Acid
 gtnh.quest859.desc=Hypochlorous acid requires water, chlorine and some mercury.
 
 #Quest_860.Titanium finaly
-gtnh.quest860.name=總算，鈦。(Titanium finaly)
-gtnh.quest860.desc=到達月球的主要目標就是找到一些鋁土礦來做些EV機器階段需要的鈦。一些隕石礦可以幫助你製作第二階段的火箭來到達火星。
+gtnh.quest860.name=总算，钛。(Titanium finaly)
+gtnh.quest860.desc=到达月球的主要目标就是找到一些铝土矿来做些EV机器阶段需要的钛。一些陨石矿可以帮助你制作第二阶段的火箭来到达火星。
 
 #Quest_861.Tungstensteel
-gtnh.quest861.name=鎢鋼(Tungstensteel)
-gtnh.quest861.desc=下一階段需要鎢鋼。在火星或者月球的石頭灰裡可以找到鎢，將其和些鋼粉混合，並將它融於3000K（需要鎳鉻合金線圈）的電力高爐。
+gtnh.quest861.name=钨钢(Tungstensteel)
+gtnh.quest861.desc=下一阶段需要钨钢。在火星或者月球的石头灰里可以找到钨，将其和些钢粉混合，并将它融于3000K（需要镍铬合金线圈）的电力高炉。
 
 #Quest_862.Your first bone bow
 gtnh.quest862.name=Your first bone bow
 gtnh.quest862.desc=Since vanilla bows are only craftable in the assembling machine and mobs do not drop them very often you have to make a Tinkers bow. You could make it out of wood but bone would be much better. So craft the bow limbs out of bone and the bow string out of strings. The arrow that has the most durability is bone flint. It is much lighter but less durable than a regular arrow.\n\nYou can repair your bow the same way as all the other Tinkers tools. Arrows can be regained by repairing them or picking them up from the floor.
 
 #Quest_863.Bronze javelin
-gtnh.quest863.name=銅製標槍(Bronze javelin)
-gtnh.quest863.desc=銅製標槍的成本有些貴而且只有七次投擲機會，然而它是個不錯的中距離武器。只要花費一個銅錠，就可以把標槍添進你的儲備裡。
+gtnh.quest863.name=铜制标枪(Bronze javelin)
+gtnh.quest863.desc=铜制标枪的成本有些贵而且只有七次投掷机会，然而它是个不错的中距离武器。只要花费一个铜锭，就可以把标枪添进你的储备里。
 
 #Quest_864.Your first flint throwing knife
-gtnh.quest864.name=你的第一把燧石飛刀(Your first flint throwing knife)
-gtnh.quest864.desc=骨弓對你來說太貴了？那就做把燧石飛刀吧！你需要燧石和木棒來做成12把刀。雖然它的耐久和傷害都非常低，但它還是能幫你從安全的距離殺死雜魚。
+gtnh.quest864.name=你的第一把燧石飞刀(Your first flint throwing knife)
+gtnh.quest864.desc=骨弓对你来说太贵了？那就做把燧石飞刀吧！你需要燧石和木棒来做成12把刀。虽然它的耐久和伤害都非常低，但它还是能帮你从安全的距离杀死杂鱼。
 
 #Quest_865.Monster trap
 gtnh.quest865.name=怪物陷阱(Monster trap)
-gtnh.quest865.desc=如果你足夠幸運地在沙漠或雨林區重生，並且找到了些流沙，去蒐集一堆這玩意，然後挖個小洞後用流沙填滿它，來保護你的「泥沙」屋。
+gtnh.quest865.desc=如果你足够幸运地在沙漠或雨林区重生，并且找到了些流沙，去搜集一堆这玩意，然后挖个小洞后用流沙填满它，来保护你的「泥沙」屋。
 
 #Quest_866.The transcontinental railroad
-gtnh.quest866.name=橫貫鐵路(The transcontinental railroad)
-gtnh.quest866.desc=已發現的不同礦脈看來似乎相隔頗遠的。想縮短路程的其中一個方法就是製造一條從基地通往不同礦脈的鐵路，然而，讓人難過的是，這將耗費你大量的鐵和雜酚油……來，別忘了把最後一個象徵性的鉚釘放在你的其中一條新火車路線上！
+gtnh.quest866.name=横贯铁路(The transcontinental railroad)
+gtnh.quest866.desc=已发现的不同矿脉看来似乎相隔颇远的。想缩短路程的其中一个方法就是制造一条从基地通往不同矿脉的铁路，然而，让人难过的是，这将耗费你大量的铁和杂酚油……来，别忘了把最后一个象征性的铆钉放在你的其中一条新火车路线上！
 
 #Quest_867.Lapis, Lazurite, Sodalite, Calcite
-gtnh.quest867.name=青金岩、青金石、方納石、方解石(Lapis, Lazurite, Sodalite, Calcite)
-gtnh.quest867.desc=為了你的高爐(bricked blast furnace)你必須找到一條含有方解石的青金石礦脈。\n你可以在地表世界或者暮光森林高度20到50之間找到礦脈。
+gtnh.quest867.name=青金岩、青金石、方纳石、方解石(Lapis, Lazurite, Sodalite, Calcite)
+gtnh.quest867.desc=为了你的高炉(bricked blast furnace)你必须找到一条含有方解石的青金石矿脉。\n你可以在地表世界或者暮光森林高度20到50之间找到矿脉。
 
 #Quest_868.Gypsum
 gtnh.quest868.name=石膏(Gypsum)
-gtnh.quest868.desc=你需要混凝土和石膏來為你的高爐做磚塊。石膏可以在高度50到60的地表世界，和玄武岩、花崗岩礦砂、漂白土一起被發現。
+gtnh.quest868.desc=你需要混凝土和石膏来为你的高炉做砖块。石膏可以在高度50到60的地表世界，和玄武岩、花岗岩矿砂、漂白土一起被发现。
 
 #Quest_869.Sifting Machine
-gtnh.quest869.name=篩粉機(Sifting Machine)
-gtnh.quest869.desc=你需要無瑕疵或精緻的鑽石、祖母綠、紅寶石或其他寶石？那該是時候做一台篩粉機了。
+gtnh.quest869.name=筛粉机(Sifting Machine)
+gtnh.quest869.desc=你需要无瑕疵或精致的钻石、祖母绿、红宝石或其他宝石？那该是时候做一台筛粉机了。
 
 #Quest_870.Smelt all the things...
-gtnh.quest870.name=熔了所有東西……(Smelt all the things...)
-gtnh.quest870.desc=想一次熔煉多達九件物品？只要一點點鋼，你就可以做一台railcraft蒸氣烤爐。2x2x2\n\n提示：所有熔爐的配方運作得都不錯，但你沒辦法用它來燒木頭製作木炭。
+gtnh.quest870.name=熔了所有东西……(Smelt all the things...)
+gtnh.quest870.desc=想一次熔炼多达九件物品？只要一点点钢，你就可以做一台railcraft蒸气烤炉。2x2x2\n\n提示：所有熔炉的配方运作得都不错，但你没办法用它来烧木头制作木炭。
 
 #Quest_871.Molds, molds, molds
-gtnh.quest871.name=鑄模、模具、鑄模(Molds, molds, molds)
-gtnh.quest871.desc=在你可以製作鋼鐵和擁有一台匠魂(tinkers)冶煉廠之後，你必須做些模具，它們可以應用在合金爐和液體固化器。你需要這些模具來製作真空管、金屬錠、齒輪和其他更多東西。
+gtnh.quest871.name=铸模、模具、铸模(Molds, molds, molds)
+gtnh.quest871.desc=在你可以制作钢铁和拥有一台匠魂(tinkers)冶炼厂之后，你必须做些模具，它们可以应用在合金炉和液体固化器。你需要这些模具来制作真空管、金属锭、齿轮和其他更多东西。
 
 #Quest_872.Maple Syrup
-gtnh.quest872.name=楓糖漿(Maple Syrup)
-gtnh.quest872.desc=你花了大把的時間來尋找一些楓糖樹？何不用用你的守林幣來買些樹苗？增加些杉樹苗、種植些楓糖樹。
+gtnh.quest872.name=枫糖浆(Maple Syrup)
+gtnh.quest872.desc=你花了大把的时间来寻找一些枫糖树？何不用用你的守林币来买些树苗？增加些杉树苗、种植些枫糖树。
 
 #Quest_873.Seed Bags
-gtnh.quest873.name=種子袋(Seed Bags)
-gtnh.quest873.desc=要找到一些特別的「潘馬斯農藝(pams harvest craft)」種子挺困難的，但你可以用你的農民幣買些種子袋。
+gtnh.quest873.name=种子袋(Seed Bags)
+gtnh.quest873.desc=要找到一些特别的「潘马斯农艺(pams harvest craft)」种子挺困难的，但你可以用你的农民币买些种子袋。
 
 #Quest_874.Jetpack v.0.1 Alpha
-gtnh.quest874.name=噴氣背包v.0.1 內部測試(Jetpack v.0.1 Alpha)
-gtnh.quest874.desc=你喜歡飛行嗎？好，那做個滑溜溜的彈跳板，享受那美好的視野！
+gtnh.quest874.name=喷气背包v.0.1 内部测试(Jetpack v.0.1 Alpha)
+gtnh.quest874.desc=你喜欢飞行吗？好，那做个滑溜溜的弹跳板，享受那美好的视野！
 
 #Quest_875.Creeper
 gtnh.quest875.name=爬行者(Creeper)
-gtnh.quest875.desc=你空虛寂寞覺得冷。想要有個朋友可以抱抱嗎<3
+gtnh.quest875.desc=你空虚寂寞觉得冷。想要有个朋友可以抱抱吗<3
 
 #Quest_876.Skeleton
-gtnh.quest876.name=骷髏(Skeleton)
-gtnh.quest876.desc=你空虛寂寞覺得冷。讓我朝你丟根骨頭。
+gtnh.quest876.name=骷髅(Skeleton)
+gtnh.quest876.desc=你空虚寂寞觉得冷。让我朝你丢根骨头。
 
 #Quest_877.Spider
 gtnh.quest877.name=蜘蛛(Spider)
-gtnh.quest877.desc=你空虛寂寞覺得冷。想要附近黏黏的嗎？
+gtnh.quest877.desc=你空虚寂寞觉得冷。想要附近黏黏的吗？
 
 #Quest_878.Zombie
-gtnh.quest878.name=殭屍(Zombie)
-gtnh.quest878.desc=你空虛寂寞覺得冷。然後大腦聽起來豪好吃。
+gtnh.quest878.name=殭尸(Zombie)
+gtnh.quest878.desc=你空虚寂寞觉得冷。然后大脑听起来豪好吃。
 
 #Quest_879.Slime
-gtnh.quest879.name=史萊姆(Slime)
-gtnh.quest879.desc=你空虛寂寞覺得冷，還覺得有一點滑滑der
+gtnh.quest879.name=史莱姆(Slime)
+gtnh.quest879.desc=你空虚寂寞觉得冷，还觉得有一点滑滑der
 
 #Quest_880.Witch
 gtnh.quest880.name=女巫(Witch)
-gtnh.quest880.desc=你空虛寂寞覺得冷。什麼叫煮東西？
+gtnh.quest880.desc=你空虚寂寞觉得冷。什么叫煮东西？
 
 #Quest_881.Pigmen
-gtnh.quest881.name=豬人(Pigmen)
-gtnh.quest881.desc=你空虛寂寞覺得冷。想來點培根嗎？
+gtnh.quest881.name=猪人(Pigmen)
+gtnh.quest881.desc=你空虚寂寞觉得冷。想来点培根吗？
 
 #Quest_882.Blaze
 gtnh.quest882.name=烈焰使者(Blaze)
-gtnh.quest882.desc=你空虛寂寞覺得冷。讓我來溫暖你<3
+gtnh.quest882.desc=你空虚寂寞觉得冷。让我来温暖你<3
 
 #Quest_883.Magma Cube
-gtnh.quest883.name=熔岩史萊姆(Magma Cube)
-gtnh.quest883.desc=你空虛寂寞覺得冷，還覺得彈力十足。
+gtnh.quest883.name=熔岩史莱姆(Magma Cube)
+gtnh.quest883.desc=你空虚寂寞觉得冷，还觉得弹力十足。
 
 #Quest_884.Enderman
-gtnh.quest884.name=終界使者(Enderman)
-gtnh.quest884.desc=你空虛寂寞覺得冷。不准用那雙眼睛看著我！
+gtnh.quest884.name=终界使者(Enderman)
+gtnh.quest884.desc=你空虚寂寞觉得冷。不准用那双眼睛看着我！
 
 #Quest_885.Witch
 gtnh.quest885.name=女巫(Witch)
-gtnh.quest885.desc=你空虛寂寞覺得冷。你喜歡我的蟾蜍嗎？
+gtnh.quest885.desc=你空虚寂寞觉得冷。你喜欢我的蟾蜍吗？
 
 #Quest_886.Ghast
-gtnh.quest886.name=地獄幽靈(Ghast)
-gtnh.quest886.desc=你空虛寂寞覺得冷。至少你不是個大隻的愛哭鬼？
+gtnh.quest886.name=地狱幽灵(Ghast)
+gtnh.quest886.desc=你空虚寂寞觉得冷。至少你不是个大只的爱哭鬼？
 
 #Quest_887.Bat
 gtnh.quest887.name=蝙蝠(Bat)
-gtnh.quest887.desc=你空虛寂寞覺得冷。 啦啦啦啦♪蝙蝠呀♪
+gtnh.quest887.desc=你空虚寂寞觉得冷。 啦啦啦啦♪蝙蝠呀♪
 
 #Quest_888.Silverfish
-gtnh.quest888.name=蠹魚(Silverfish)
-gtnh.quest888.desc=你空虛寂寞覺得冷。讓我來盡可能地惹人煩。
+gtnh.quest888.name=蠹鱼(Silverfish)
+gtnh.quest888.desc=你空虚寂寞觉得冷。让我来尽可能地惹人烦。
 
 #Quest_889.Magma Cube
-gtnh.quest889.name=熔岩史萊姆(Magma Cube)
-gtnh.quest889.desc=你空虛寂寞覺得冷。想來點彈力？
+gtnh.quest889.name=熔岩史莱姆(Magma Cube)
+gtnh.quest889.desc=你空虚寂寞觉得冷。想来点弹力？
 
 #Quest_890.Better Tank... ULV Tank
 gtnh.quest890.name=Better Tank... ULV Tank
@@ -3594,116 +3594,116 @@ gtnh.quest897.name=You're gonna hate this #4 in mv too
 gtnh.quest897.desc=The fourth item you'll need a lot of in mv, which is also a pain to craft. Arguably the most painful item ever. \n\nHint: Works like a conveyor but can work with selected item slots. Adjust with a screwdriver.
 
 #Quest_898.Simple Ore Washer
-gtnh.quest898.name=簡易洗礦機(Simple Ore Washer)
-gtnh.quest898.desc=實在懶得弄一台洗礦機，然而對無法自動作業的鍋子感到無聊了？那這裡有一台簡易的洗礦機正是你所需要的！它運作速度合理，而且最多耗能到8EU。好吧，你確實沒有得到任何副產品，但誰在乎啊！
+gtnh.quest898.name=简易洗矿机(Simple Ore Washer)
+gtnh.quest898.desc=实在懒得弄一台洗矿机，然而对无法自动作业的锅子感到无聊了？那这里有一台简易的洗矿机正是你所需要的！它运作速度合理，而且最多耗能到8EU。好吧，你确实没有得到任何副产品，但谁在乎啊！
 
 #Quest_899.Paying the highest price
-gtnh.quest899.name=付出最高的代價(Paying the highest price)
-gtnh.quest899.desc=二階的血祭壇需要放置8個符文在祭壇周圍，而你的新祭壇將可以容納更多的血液。
+gtnh.quest899.name=付出最高的代价(Paying the highest price)
+gtnh.quest899.desc=二阶的血祭坛需要放置8个符文在祭坛周围，而你的新祭坛将可以容纳更多的血液。
 
 #Quest_900.Don't look it in the eyes!
 gtnh.quest900.name=不要看他的眼睛！ (Don't look it in the eyes!)
-gtnh.quest900.desc=如果讓這生物活著可能會壞事。然而洞穴中的礦石也是有價值的。
+gtnh.quest900.desc=如果让这生物活着可能会坏事。然而洞穴中的矿石也是有价值的。
 
 #Quest_901.I don't even...
 gtnh.quest901.name=我甚至不... (I don't even...)
-gtnh.quest901.desc=OK，這是個迷宮。還有，那是...牛頭人戰士。但彌諾陶洛斯到底是啥！？
+gtnh.quest901.desc=OK，这是个迷宫。还有，那是...牛头人战士。但弥诺陶洛斯到底是啥！？
 
 #Quest_902.A big ugly snake
-gtnh.quest902.name=大醜蛇 (A big ugly snake)
-gtnh.quest902.desc=一般來說，製作你第一根魔杖需要一個醜陋的生物。
+gtnh.quest902.name=大丑蛇 (A big ugly snake)
+gtnh.quest902.desc=一般来说，制作你第一根魔杖需要一个丑陋的生物。
 
 #Quest_903.Adventure time!
-gtnh.quest903.name=冒險時間！ (Adventure time!)
-gtnh.quest903.desc=在他在剩蛋節許願之前阻止他！
+gtnh.quest903.name=冒险时间！ (Adventure time!)
+gtnh.quest903.desc=在他在剩蛋节许愿之前阻止他！
 
 #Quest_904.Who you're gonna call?
-gtnh.quest904.name=你會打電話給誰？ (Who you're gonna call?)
-gtnh.quest904.desc=幻影剋星！噢，等等…哎，管他的。啊，他們還掉了些好盔甲。
+gtnh.quest904.name=你会打电话给谁？ (Who you're gonna call?)
+gtnh.quest904.desc=幻影克星！噢，等等…哎，管他的。啊，他们还掉了些好盔甲。
 
 #Quest_905.The big fluffy crybaby
-gtnh.quest905.name=巨大又毛絨絨的愛哭鬼 (The big fluffy crybaby)
-gtnh.quest905.desc=它會飛，也會製造一些很好笑的聲音，還有--他毛絨絨的！好吧，宰了他。
+gtnh.quest905.name=巨大又毛绒绒的爱哭鬼 (The big fluffy crybaby)
+gtnh.quest905.desc=它会飞，也会制造一些很好笑的声音，还有--他毛绒绒的！好吧，宰了他。
 
 #Quest_906.Let her go
-gtnh.quest906.name=冰雪奇緣 (Let her go)
-gtnh.quest906.desc=寒冷未曾困擾她。犯罪事實：無。但你知道的，劇情總要走下去嘛…
+gtnh.quest906.name=冰雪奇缘 (Let her go)
+gtnh.quest906.desc=寒冷未曾困扰她。犯罪事实：无。但你知道的，剧情总要走下去嘛…
 
 #Quest_907.Yeti. Alpha, Yeti.
-gtnh.quest907.name=雪怪。阿爾法，雪怪。 (Yeti. Alpha, Yeti.)
-gtnh.quest907.desc=通緝：殺死阿爾法雪怪。犯罪行為：毫無理由暴力的向人們投擲冰塊。
+gtnh.quest907.name=雪怪。阿尔法，雪怪。 (Yeti. Alpha, Yeti.)
+gtnh.quest907.desc=通缉：杀死阿尔法雪怪。犯罪行为：毫无理由暴力的向人们投掷冰块。
 
 #Quest_908.Secret: A nice....
-gtnh.quest908.name=秘密：一個很好的... (Secret: A nice...)
-gtnh.quest908.desc=嘿，你！ 我想要那盞燈。我有一些東西給你作為回報。 反正你不需要它，是吧？
+gtnh.quest908.name=秘密：一个很好的... (Secret: A nice...)
+gtnh.quest908.desc=嘿，你！ 我想要那盏灯。我有一些东西给你作为回报。 反正你不需要它，是吧？
 
 #Quest_909.Time to kill (Creeper)
-gtnh.quest909.name=殺戮時刻(爬行者) Time to kill (Creeper)
-gtnh.quest909.desc=那些沒有經歷過的人...你無法想像那是怎樣的邪惡，挖了幾個鑽石，你就突然在床上醒來，所有物品都沒了，是時候反擊了！
+gtnh.quest909.name=杀戮时刻(爬行者) Time to kill (Creeper)
+gtnh.quest909.desc=那些没有经历过的人...你无法想象那是怎样的邪恶，挖了几个钻石，你就突然在床上醒来，所有物品都没了，是时候反击了！
 
 #Quest_910.Time to kill (Pigman)
-gtnh.quest910.name=殺戮時刻！(豬人) Time to kill (Pigman)
-gtnh.quest910.desc="殭屍豬人"？那些殭屍在搞什麼鬼？！也許晚上你必須把你的動物關好...
+gtnh.quest910.name=杀戮时刻！(猪人) Time to kill (Pigman)
+gtnh.quest910.desc="殭尸猪人"？那些殭尸在搞什么鬼？！也许晚上你必须把你的动物关好...
 
 #Quest_911.Time to kill (Spiders)
-gtnh.quest911.name=殺戮時刻！(蜘蛛) Time to kill (Spiders)
-gtnh.quest911.desc=咿咿咿！會爬牆的怪物，還毛茸茸的！殺了他們！快一點！
+gtnh.quest911.name=杀戮时刻！(蜘蛛) Time to kill (Spiders)
+gtnh.quest911.desc=咿咿咿！会爬墙的怪物，还毛茸茸的！杀了他们！快一点！
 
 #Quest_912.Time to kill (Skeleton)
-gtnh.quest912.name=殺戮時刻！(骷髏弓箭手) Time to kill (Skeleton)
-gtnh.quest912.desc=當你拿來射人的時候，箭矢棒棒的，但當你是被射的那個的時候，就不是什麼好東西了。（提示：箭矢！一個絕佳的武器來源！）
+gtnh.quest912.name=杀戮时刻！(骷髅弓箭手) Time to kill (Skeleton)
+gtnh.quest912.desc=当你拿来射人的时候，箭矢棒棒的，但当你是被射的那个的时候，就不是什么好东西了。（提示：箭矢！一个绝佳的武器来源！）
 
 #Quest_913.Time to kill (Blaze)
-gtnh.quest913.name=殺戮時刻！(烈焰使者) Time to kill (Blaze)
-gtnh.quest913.desc=你應該小心這個任務，強烈推薦火焰防護。
+gtnh.quest913.name=杀戮时刻！(烈焰使者) Time to kill (Blaze)
+gtnh.quest913.desc=你应该小心这个任务，强烈推荐火焰防护。
 
 #Quest_914.Time to kill (Zombie)
-gtnh.quest914.name=殺戮時刻！(殭屍) Time to kill (Zombie)
-gtnh.quest914.desc=沒人知道他們是誰，或是來自哪裡。他們就是晚上很吵，而且蠢到連工作台都做不出來。
+gtnh.quest914.name=杀戮时刻！(殭尸) Time to kill (Zombie)
+gtnh.quest914.desc=没人知道他们是谁，或是来自哪里。他们就是晚上很吵，而且蠢到连工作台都做不出来。
 
 #Quest_915.Time to kill (Enderman)
-gtnh.quest915.name=殺戮時刻！(終界使者) Time to kill (Enderman)
-gtnh.quest915.desc=呃，花俏的傳送珍珠。你需要他們。全部！現在！
+gtnh.quest915.name=杀戮时刻！(终界使者) Time to kill (Enderman)
+gtnh.quest915.desc=呃，花俏的传送珍珠。你需要他们。全部！现在！
 
 #Quest_916.Time to kill (Wither)
-gtnh.quest916.name=殺戮時刻！(凋零怪) Time to kill (Wither)
-gtnh.quest916.desc=收集了幾個凋零骷髏頭之後，你覺得你應該需要再多做點事--那為什麼不殺一個凋零怪？不管怎樣，你都需要一大堆地獄之星...
+gtnh.quest916.name=杀戮时刻！(凋零怪) Time to kill (Wither)
+gtnh.quest916.desc=收集了几个凋零骷髅头之后，你觉得你应该需要再多做点事--那为什么不杀一个凋零怪？不管怎样，你都需要一大堆地狱之星...
 
 #Quest_917.Secret: The trade for life
-gtnh.quest917.name=秘密：為了生命的買賣 (Secret: The trade for life)
-gtnh.quest917.desc=兄弟，你肯定很忙吧，我這有些東西給你！給我你的心，我會讓他們神奇地增強改善，讓你可以更確實地使用它們。
+gtnh.quest917.name=秘密：为了生命的买卖 (Secret: The trade for life)
+gtnh.quest917.desc=兄弟，你肯定很忙吧，我这有些东西给你！给我你的心，我会让他们神奇地增强改善，让你可以更确实地使用它们。
 
 #Quest_918.Skeleton: Evolved
-gtnh.quest918.name=骷髏☆進化 (Skeleton: Evolved)
-gtnh.quest918.desc=為了邁向更高的級別，並且登陸火星、火衛一，還有火衛二，你需要讓自己有個更強的火箭。聽說，有一隻進化的骷髏握有這種設備的藍圖。
+gtnh.quest918.name=骷髅☆进化 (Skeleton: Evolved)
+gtnh.quest918.desc=为了迈向更高的级别，并且登陆火星、火卫一，还有火卫二，你需要让自己有个更强的火箭。听说，有一只进化的骷髅握有这种设备的蓝图。
 
 #Quest_919.Creeper: Evolved
-gtnh.quest919.name=爬行者☆進化 (Creeper: Evolved)
-gtnh.quest919.desc=不，這種普通的爬行者還不夠讓人討厭，完全不夠。那裡有隻進化的爬行者老大！它就是那把能讓你登上另一個星球的鑰匙（呃，它的確也有一把鑰匙…）！（小行星帶、一號小行星、木衛一、木衛二、木衛三、木衛四）
+gtnh.quest919.name=爬行者☆进化 (Creeper: Evolved)
+gtnh.quest919.desc=不，这种普通的爬行者还不够让人讨厌，完全不够。那里有只进化的爬行者老大！它就是那把能让你登上另一个星球的钥匙（呃，它的确也有一把钥匙…）！（小行星带、一号小行星、木卫一、木卫二、木卫三、木卫四）
 
 #Quest_920.Blaze: Evolved
-gtnh.quest920.name=烈焰使者☆進化 (Blaze: Evolved)
-gtnh.quest920.desc=為了邁向第四階段的行星，必須殺了烈焰使者老大！他就在一號小行星的其中一個地牢裡！
+gtnh.quest920.name=烈焰使者☆进化 (Blaze: Evolved)
+gtnh.quest920.desc=为了迈向第四阶段的行星，必须杀了烈焰使者老大！他就在一号小行星的其中一个地牢里！
 
 #Quest_921.Ghast: Evolved
-gtnh.quest921.name=地獄幽靈☆進化 (Ghast: Evolved)
-gtnh.quest921.desc=毛絨絨，更多的毛絨絨，地獄幽靈！那還有一個巨大的愛哭鬼。這傢伙躲在木衛一的地牢裡，得到那把鑰匙，好讓你能前往第五階段的行星。
+gtnh.quest921.name=地狱幽灵☆进化 (Ghast: Evolved)
+gtnh.quest921.desc=毛绒绒，更多的毛绒绒，地狱幽灵！那还有一个巨大的爱哭鬼。这家伙躲在木卫一的地牢里，得到那把钥匙，好让你能前往第五阶段的行星。
 
 #Quest_922.Crystal Boss: Ayyy.. Wait, what?
-gtnh.quest922.name=水晶之王：啊咿...等等，什麼？ (Crystal Boss: Ayyy.. Wait, what?)
-gtnh.quest922.desc=不是跟我開玩笑吧，一隻水晶之王？不管怎樣，它是你前往第六階段行星的關鍵，它躲在土衛二附近。
+gtnh.quest922.name=水晶之王：啊咿...等等，什么？ (Crystal Boss: Ayyy.. Wait, what?)
+gtnh.quest922.desc=不是跟我开玩笑吧，一只水晶之王？不管怎样，它是你前往第六阶段行星的关键，它躲在土卫二附近。
 
 #Quest_923.Slime: Evolved
-gtnh.quest923.name=史萊姆☆進化 (Slime: Evolved)
-gtnh.quest923.desc=在我看來它長得跟神秘史萊姆沒兩樣，你不這麼覺得嗎？在海衛八找到這位老兄。
+gtnh.quest923.name=史莱姆☆进化 (Slime: Evolved)
+gtnh.quest923.desc=在我看来它长得跟神秘史莱姆没两样，你不这么觉得吗？在海卫八找到这位老兄。
 
 #Quest_924.Wolf:Evolved
-gtnh.quest924.name=狼☆進化 (Wolf:Evolved)
-gtnh.quest924.desc=最後的區域…一隻…狼…它甚至不是鐵娘子樂團的粉絲欸？你在期待什麼？一個超強王怪？呵呵，想太多。預算有限好嗎。
+gtnh.quest924.name=狼☆进化 (Wolf:Evolved)
+gtnh.quest924.desc=最后的区域…一只…狼…它甚至不是铁娘子乐团的粉丝欸？你在期待什么？一个超强王怪？呵呵，想太多。预算有限好吗。
 
 #Quest_925.Technology: Evolved
-gtnh.quest925.name=科技☆進化 (Technology: Evolved)
-gtnh.quest925.desc=你破關了，真的。這裡沒事做了，你該去試試三次元的人生了……不過有件事情你應該會感興趣。你知道得～純粹好玩嘛。選個神器吧。
+gtnh.quest925.name=科技☆进化 (Technology: Evolved)
+gtnh.quest925.desc=你破关了，真的。这里没事做了，你该去试试三次元的人生了……不过有件事情你应该会感兴趣。你知道得～纯粹好玩嘛。选个神器吧。
 
 #Quest_926.Blood Altar Tier 3
 gtnh.quest926.name=Blood Altar Tier 3
@@ -3800,119 +3800,119 @@ gtnh.quest948.desc=Wrought Iron will become very soon more important when you ha
 ##################################Line##################################
 
 #Tier 0 - It begins
-gtnh.line0.name=第0階 - 由此開始
-gtnh.line0.desc=第一層︰0階。本章節將介紹基本這模組包的基本機制，包含︰原始MINECRAFT、潘馬斯的豐收菜圃。
+gtnh.line0.name=第0阶 - 由此开始
+gtnh.line0.desc=第一层︰0阶。本章节将介绍基本这模块包的基本机制，包含︰原始MINECRAFT、潘马斯的丰收菜圃。
 
 #Tier 0.5 - Stone Age
-gtnh.line1.name=第0.5階 - 石器時代
-gtnh.line1.desc=基本上，你在第0階所有的進展---你完成的第一層。可以幫助你，直到你製作出你的第一台蒸汽機。
+gtnh.line1.name=第0.5阶 - 石器时代
+gtnh.line1.desc=基本上，你在第0阶所有的进展---你完成的第一层。可以帮助你，直到你制作出你的第一台蒸汽机。
 
 #Tier 1 - Steam
-gtnh.line2.name=第1階 - 蒸汽
-gtnh.line2.desc=任務--為了所有基於蒸汽的機器。
+gtnh.line2.name=第1阶 - 蒸汽
+gtnh.line2.desc=任务--为了所有基于蒸汽的机器。
 
 #Tier 2 - 32 EU (LV)
-gtnh.line3.name=第2階 - 32EU (LV)
-gtnh.line3.desc=第一個 "電壓" 的階段。事情變得越來越容易了...
+gtnh.line3.name=第2阶 - 32EU (LV)
+gtnh.line3.desc=第一个 "电压" 的阶段。事情变得越来越容易了...
 
 #Tier 3 - 128 EU (MV)
-gtnh.line4.name=第3階 - 128EU (MV)
-gtnh.line4.desc=第二個 "電壓" 的階段。不要把不同電壓的機器混用，否則你會得到教訓。
+gtnh.line4.name=第3阶 - 128EU (MV)
+gtnh.line4.desc=第二个 "电压" 的阶段。不要把不同电压的机器混用，否则你会得到教训。
 
 #Tier 4 - 512 EU (HV)
-gtnh.line5.name=第4階 - 512EU (HV)
-gtnh.line5.desc=終於有些能量去做了。這一層將幫助你征途星辰大海，收集更多稀有的資源，建造更先進的機器。
+gtnh.line5.name=第4阶 - 512EU (HV)
+gtnh.line5.desc=终于有些能量去做了。这一层将帮助你征途星辰大海，收集更多稀有的资源，建造更先进的机器。
 
 #Tier 5 - 2048 EU (EV)
-gtnh.line6.name=第5階 - 2048EU (EV)
-gtnh.line6.desc=鈦，核裂變能源，應用能源2(AE2)。
+gtnh.line6.name=第5阶 - 2048EU (EV)
+gtnh.line6.desc=钛，核裂变能源，应用能源2(AE2)。
 
 #Tier 6 and beyond
-gtnh.line7.name=第6階和更高
-gtnh.line7.desc=將會是最後一個常規的階層來"指引"你。
+gtnh.line7.name=第6阶和更高
+gtnh.line7.desc=将会是最后一个常规的阶层来"指引"你。
 
 #Coins, Coins, Coins
-gtnh.line8.name=硬幣、硬幣、硬幣
-gtnh.line8.desc=這些任務將引導你明智地使用硬幣，並購買一些有用或奇特的東西。
+gtnh.line8.name=硬币、硬币、硬币
+gtnh.line8.desc=这些任务将引导你明智地使用硬币，并购买一些有用或奇特的东西。
 
 #Forestry and Farms
-gtnh.line9.name=林業和農場
-gtnh.line9.desc=自動化農場和更多...
+gtnh.line9.name=林业和农场
+gtnh.line9.desc=自动化农场和更多...
 
 #Novice Thaumaturge
-gtnh.line10.name=新手術士
-gtnh.line10.desc=魔法的奧秘皆藏於此。卓越的成就，但也需要大量的工作。我將成為你的導師。照我的指導，你將成為一位偉大的巫師，就像我。
+gtnh.line10.name=新手术士
+gtnh.line10.desc=魔法的奥秘皆藏于此。卓越的成就，但也需要大量的工作。我将成为你的导师。照我的指导，你将成为一位伟大的巫师，就像我。
 
 #Adept Thaumaturgy
-gtnh.line11.name=熟練的奇術師
+gtnh.line11.name=熟练的奇术师
 gtnh.line11.desc=囊括扭曲。
 
 #Kaaami, Haaaami, ... HA!
-gtnh.line12.name=龜...派...氣...功波！
-gtnh.line12.desc=終極的奧法力量！
+gtnh.line12.name=龟...派...气...功波！
+gtnh.line12.desc=终极的奥法力量！
 
 #Alternative Magic
 gtnh.line13.name=替代魔法
-gtnh.line13.desc=這是什麼樣的巫術！？
+gtnh.line13.desc=这是什么样的巫术！？
 
 #Multiblock Goals
-gtnh.line14.name=多方塊構造
-gtnh.line14.desc=全部的多方塊構造追蹤清單。你可以在各階段建造多方塊構造的各個部件。
+gtnh.line14.name=多方块构造
+gtnh.line14.desc=全部的多方块构造追踪清单。你可以在各阶段建造多方块构造的各个部件。
 
 #Armors and Jetpacks
-gtnh.line15.name=裝甲和噴射背包
-gtnh.line15.desc=指導你穿上裝甲和噴射背包。
+gtnh.line15.name=装甲和喷射背包
+gtnh.line15.desc=指导你穿上装甲和喷射背包。
 
 #Cooking Farming Fishing
-gtnh.line16.name=烹飪、農業、捕魚
-gtnh.line16.desc=烹飪的基礎和精緻的食物。
+gtnh.line16.name=烹饪、农业、捕鱼
+gtnh.line16.desc=烹饪的基础和精致的食物。
 
 #Transportation
-gtnh.line17.name=運輸
-gtnh.line17.desc=各種運輸方式。
+gtnh.line17.name=运输
+gtnh.line17.desc=各种运输方式。
 
 #Space Race
-gtnh.line18.name=太空競賽
-gtnh.line18.desc=幫助你開始星系模組並抵達月球。
+gtnh.line18.name=太空竞赛
+gtnh.line18.desc=帮助你开始星系模块并抵达月球。
 
 #Legendary Quests
-gtnh.line19.name=傳奇任務
-gtnh.line19.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
+gtnh.line19.name=传奇任务
+gtnh.line19.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
 
 #Legendary Tier X
-gtnh.line20.name=傳奇X
-gtnh.line20.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
+gtnh.line20.name=传奇X
+gtnh.line20.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
 
 #Legendary Infinity
-gtnh.line21.name=無窮傳奇
-gtnh.line21.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地點。準備好了嗎？
+gtnh.line21.name=无穷传奇
+gtnh.line21.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
 
 #Paying the highest price
-gtnh.line22.name=昂貴的代價
-gtnh.line22.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖然代價有些嚇人...但沒有風險就沒有樂趣！
+gtnh.line22.name=昂贵的代价
+gtnh.line22.desc=当普通魔法不够的时候，召唤恶魔来服侍你！虽然代价有些吓人...但没有风险就没有乐趣！
 
 #More blood, more stuff
-gtnh.line23.name=更多鮮血，更多材料
-gtnh.line23.desc=高等血魔法？我的靜脈感覺很奇怪...
+gtnh.line23.name=更多鲜血，更多材料
+gtnh.line23.desc=高等血魔法？我的静脉感觉很奇怪...
 
 #They are coming...
-gtnh.line24.name=他們來了...
-gtnh.line24.desc=我召喚的靈魂...超越了惡魔入侵。真正墮入黑魔法！
+gtnh.line24.name=他们来了...
+gtnh.line24.desc=我召唤的灵魂...超越了恶魔入侵。真正堕入黑魔法！
 
 #Kill all the things
-gtnh.line25.name=殺了所有的東西
-gtnh.line25.desc=這世界充滿了污穢的東西。殺了他們提高你的聲望。
+gtnh.line25.name=杀了所有的东西
+gtnh.line25.desc=这世界充满了污秽的东西。杀了他们提高你的声望。
 
 #How to be(e)
-gtnh.line26.name=人來瘋(蜂)
-gtnh.line26.desc=一套在遊戲中不分階段的任務，蜜蜂的基礎探索和指南。是一個非常有用來推進的工具。
+gtnh.line26.name=人来疯(蜂)
+gtnh.line26.desc=一套在游戏中不分阶段的任务，蜜蜂的基础探索和指南。是一个非常有用来推进的工具。
 
 #To grind, or not to grind
 gtnh.line27.name=磨碎，或者不磨碎
-gtnh.line27.desc="這就是問題所在。你想要更好的工具嗎？好，去研磨這些東西！相信我，這些任務的獎勵是值得的。
+gtnh.line27.desc="这就是问题所在。你想要更好的工具吗？好，去研磨这些东西！相信我，这些任务的奖励是值得的。
 
 #Reward Area
-gtnh.line28.name=獎勵區
-gtnh.line28.desc=升級你的獎勵包！
+gtnh.line28.name=奖励区
+gtnh.line28.desc=升级你的奖励包！
 
 
