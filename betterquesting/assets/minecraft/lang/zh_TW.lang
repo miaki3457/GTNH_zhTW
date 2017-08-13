@@ -3242,100 +3242,100 @@ gtnh.quest809.name=NASA工作台，又名終極工作台(NASA Workbench aka Dire
 gtnh.quest809.desc=Avarita的9x9終極工作台取代了NASA工作台。這是製作所有火箭及高階裝備的必需品。首先，你需要81個工作台來製作一個雙重壓縮工作台，一些HV組件、晶圓，以及一個水晶矩陣。然後沒錯，你確實需要地獄之星。提示:檢視地獄之星的配方，可使用枯竭水晶及世界鹽合成。枯竭水晶可以複製，透過加入熔岩球、烈焰粉，以級小搓地獄之星粉。
 
 #Quest_810.Rocket Tier 1
-gtnh.quest810.name=Rocket Tier 1
-gtnh.quest810.desc=After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to craft a few more things.
+gtnh.quest810.name=T1火箭(Rocket Tier 1)
+gtnh.quest810.desc=經過數小時的努力，及使用了不少疊的TNT後。你的第一個火箭終於準備就緒了。但在前往月球前，你還需要製作一些東西。
 
 #Quest_811.Tier 1 Schematic
-gtnh.quest811.name=Tier 1 Schematic
-gtnh.quest811.desc=Each rocket needs a construction plan. You can craft the first one using a data control circuit and a compressed steel plate.
+gtnh.quest811.name=T1概要圖(Tier 1 Schematic)
+gtnh.quest811.desc=每個火箭都需要一個結構平面圖。你可以用資料存儲電路及緻密鋼(compressed steel plate)來製作第一個。
 
 #Quest_812.Tier 1 Heavy Duty Plates
-gtnh.quest812.name=Tier 1 Heavy Duty Plates
-gtnh.quest812.desc=Rockets require heavy duty plates for the main hull. Let's craft 36 of these plates out of compressed aluminium plates, compressed bronze plates and compressed steel plates.
+gtnh.quest812.name=T1重型防護板(Tier 1 Heavy Duty Plates)
+gtnh.quest812.desc=火箭的主要外殼需要重型防護板來製作。讓我們做36個，使用緻密鋁(compressed aluminium plates)、緻密青銅(compressed bronze plates)，及緻密鋼(compressed steel plates)。
 
 #Quest_813.Rocket Nose Cone
-gtnh.quest813.name=Rocket Nose Cone
-gtnh.quest813.desc=Every rocket needs a nose cone.
+gtnh.quest813.name=火箭鼻錐(Rocket Nose Cone)
+gtnh.quest813.desc=每一個火箭都需要一個鼻錐。
 
 #Quest_814.Rocket Fines
-gtnh.quest814.name=Rocket Fines
-gtnh.quest814.desc=Every rocket needs a few rocket fins.
+gtnh.quest814.name=火箭尾鰭(Rocket Fines)
+gtnh.quest814.desc=每一個火箭都需要一些火箭尾鰭。
 
 #Quest_815.Rocket Engine
-gtnh.quest815.name=Rocket Engine
-gtnh.quest815.desc=Every rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.
+gtnh.quest815.name=火箭引擎(Rocket Engine)
+gtnh.quest815.desc=每一個火箭都需要一個火箭引擎。最好做兩個，因為登月著陸器也需要一個。
 
 #Quest_816.Moon Lander
-gtnh.quest816.name=Moon Lander
-gtnh.quest816.desc=The Moon lander is requiered for a soft landing.\nYou will need an additional frequency module for hearing some things on planets and a second seat for a Moon buggy you may build later.
+gtnh.quest816.name=登月著陸器(Moon Lander)
+gtnh.quest816.desc=為了軟著陸需要登月著陸器。你將需要一個額外的頻率模塊，用來接聽地球上的訊息。以及第二個星球車座椅，為了你之後可能會製作的星球車。
 
 #Quest_817.Buggy Seat
-gtnh.quest817.name=Buggy Seat
-gtnh.quest817.desc=The buggy seat is part of the Moon lander and the Moon buggy.
+gtnh.quest817.name=星球車座椅(Buggy Seat)
+gtnh.quest817.desc=星球車座椅是登月著陸器及星球車的零件。
 
 #Quest_818.Frequency Module
-gtnh.quest818.name=Frequency Module
-gtnh.quest818.desc=The frequency Module will help you hear sounds properly while in space (it's also used with the telemetry unit so that your buddies can keep track of you from your base, if you are playing with friends). You need it in you inventory and in the Moon lander.
+gtnh.quest818.name=頻率模塊(Frequency Module)
+gtnh.quest818.desc=頻率模塊將幫助你在太空中正確地聽到聲音(它也內建了遙感測裝置，使你的伙伴可以從基地中追蹤你的位置，如果你有朋友的話。)。你需要在身上攜帶一個，以及一個在登月著陸器中。
 
 #Quest_819.Small Fuel Cannister
-gtnh.quest819.name=Small Fuel Cannister
-gtnh.quest819.desc=Every rocket needs fuel storage cannisters. For the tier 1 rocket you need to craft two of them.
+gtnh.quest819.name=小型燃料罐(Small Fuel Cannister)
+gtnh.quest819.desc=每一個火箭都需要燃料儲存罐。對應T1火箭你需要製作兩個。
 
 #Quest_820.Rocket Launch Pad
-gtnh.quest820.name=Rocket Launch Pad
-gtnh.quest820.desc=Every rocket needs a launch pad. Build a 3x3 launch pad to place your rocket on.
+gtnh.quest820.name=火箭發射平台(Rocket Launch Pad)
+gtnh.quest820.desc=每一個火箭都需要一個發射平台。建造一個3x3發射平台來放置你的火箭。
 
 #Quest_821.Rocket Fuel
-gtnh.quest821.name=Rocket Fuel
-gtnh.quest821.desc=To pump fuel into your rocket you need a fuel loader. Place it right next to the middle of any side of the launch pad.
+gtnh.quest821.name=火箭燃料(Rocket Fuel)
+gtnh.quest821.desc=為了將燃料注入火箭，你需要一個燃料注入器。將之放置在發射平台的任一邊的中間位置。
 
 #Quest_822.Oxygen Gear
-gtnh.quest822.name=Oxygen Gear
-gtnh.quest822.desc=Oxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.
+gtnh.quest822.name=供氧設備(Oxygen Gear)
+gtnh.quest822.desc=供氧設備是用來連接氧氣罐及氧氣面罩。這是每個太空人都必不可少的。
 
 #Quest_823.Oxygen Mask
-gtnh.quest823.name=Oxygen Mask
-gtnh.quest823.desc=The oxygen mask is part of the oxygen system used to breathe on planets without oxygen, the others being oxygen gear and oxygen tanks.
+gtnh.quest823.name=氧氣面罩(Oxygen Mask)
+gtnh.quest823.desc=氧氣面罩是供氧系統的一部份，用以在無氧氣的星球呼吸。其他部份是供氧設備以及氧氣罐。
 
 #Quest_824.Oxygen Tanks
-gtnh.quest824.name=Oxygen Tanks
-gtnh.quest824.desc=The Light oxygen tank is an oxygen storage tank that can hold up to 90 units of air. It is used to provide a portable source of oxygen while in areas that do not have an oxygen source of their own.\n\nUsage:\nUp to two oxygen tanks can be worn at a time. To wear any type of oxygen tank, open your inventory and click on the Galacticraft tab at the top of the menu. Here you will see the available spots for your various types of equipment. Simply place your tank(s) in one of the slots with a grey picture of an oxygen tank. Other types of oxygen tanks are the medium oxygen tank, which holds twice the amount of oxygen as a light tank, and the heavy oxygen tank, which holds three times the amount of a light tank.
+gtnh.quest824.name=氧氣罐(Oxygen Tanks)
+gtnh.quest824.desc=輕型氧氣罐是一種氧氣儲存罐，可以裝盛90單元的空氣。它用來提供一個可攜式的氧氣來源，當你在一個本身沒有氧氣來源的區域時。使用方式：最多可同時穿戴兩個氧氣罐。欲穿戴任何氧氣罐，打開你的物品欄，切換至選單上方的Galaticraft頁面。你將會看到幾個不同的裝備欄。直接將你的氧氣罐放在畫有灰色氧氣罐圖示的欄位。其他的氧氣罐類型是中型氧氣罐、可以裝載兩倍的氧氣量，以及重型氧氣罐、可以裝載三倍的氧氣量。
 
 #Quest_825.Copper Ore
-gtnh.quest825.name=Copper Ore
-gtnh.quest825.desc=Can be found between y levels 5 and 60 either as "Copper Ore" or "Chalcopyrite". Most of the time you'll find it together with  "Iron" and "Pyrite".
+gtnh.quest825.name=銅礦石(Copper Ore)
+gtnh.quest825.desc=可以在Y5-60找到，可能是黃銅礦石或銅礦石。大多數時候你都會一起找到鐵礦及黃鐵礦。
 
 #Quest_826.Iron Ore
-gtnh.quest826.name=Iron Ore
-gtnh.quest826.desc=With your new bronze tools, you are able to mine most of the Overworld ores. I think you already found iron or magnetite. So bring me some ores and make some iron ingots out of them.
+gtnh.quest826.name=鐵礦石(Iron Ore)
+gtnh.quest826.desc=使用你的新青銅工具，你可以挖掘主世界大部份的礦石了。我想你已經有發現鐵跟磁鐵。帶給我一些鐵礦石並將之製作成鐵錠吧。
 
 #Quest_827.Rocket Fuel
-gtnh.quest827.name=Rocket Fuel
-gtnh.quest827.desc=For every flight the rocket needs some fuel. So refine some fuel and fill some fuel cannisters. 
+gtnh.quest827.name=火箭燃料(Rocket Fuel)
+gtnh.quest827.desc=火箭每次飛行都需要一些燃料。所以精煉一些燃料並裝填一些燃料罐吧。
 
 #Quest_828.Oxygen Collector
-gtnh.quest828.name=Oxygen Collector
-gtnh.quest828.desc=The oxygen collector is a block that gathers oxygen from leaves and farm plants to use in an oxygen bubble distributor, oxygen sealer, oxygen compressor, and other oxygen-reliant machines. If you plan to build a Moon base, which needs a continuous oxygen supply, you will need to build one.
+gtnh.quest828.name=氧氣收集器(Oxygen Collector)
+gtnh.quest828.desc=氧氣收集器可以從樹葉或種植的植物收集氧氣，並將之用於氧氣分配器、氧氣密封器、氧氣壓縮機，或其它相關的氧氣設備中。如果你計畫蓋一個月球基地，需要持續的氧氣供給。你就需要建造一台。
 
 #Quest_829.Oxygen Compressor
-gtnh.quest829.name=Oxygen Compressor
-gtnh.quest829.desc=The oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.
+gtnh.quest829.name=氧氣壓縮機(Oxygen Compressor)
+gtnh.quest829.desc=氧氣壓縮機用來裝填空的氧氣罐或用盡的氧氣罐。將氧氣管道連接到有藍圈的氧氣輸入端，將電源連接到有灰色方塊的輸入端。並將氧氣罐放置在右下的欄位，機器就會從管道中汲取氧氣並灌入氧氣罐中。
 
 #Quest_830.Parachute
-gtnh.quest830.name=Parachute
-gtnh.quest830.desc=A parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.
+gtnh.quest830.name=降落傘(Parachute)
+gtnh.quest830.desc=當重返主世界的大氣層時，降落傘用來防止死亡。降落傘是太空旅程中必要的裝備。沒有它你永遠不該前往太空。如果你試圖在沒有降落散的情況下發射火箭，甚至會有警告。
 
 #Quest_831.Advanced Wafers
-gtnh.quest831.name=Advanced Wafers
-gtnh.quest831.desc=The advanced wafer is used for more advanced machines such as the advanced solar panel or the avaritia dire crafting table. It is also used in the creation of a space station.
+gtnh.quest831.name=高級晶圓(Advanced Wafers)
+gtnh.quest831.desc=高級晶圓用於一些更高級的機器，如高級太陽能板或avaritia終極工作台。同時也用於建造太空站。
 
 #Quest_832.Wafers
-gtnh.quest832.name=Wafers
-gtnh.quest832.desc=The basic wafer is used for creating basic machines such as the basic solar panel, the fuel loader, the energy storage module and the compressor.
+gtnh.quest832.name=晶圓(Wafers)
+gtnh.quest832.desc=基礎晶圓用於製造基礎機器如基礎太陽能板、燃料注入器、能量存儲模組、及壓縮機。
 
 #Quest_833.Purge your warp
-gtnh.quest833.name=Purge your warp
-gtnh.quest833.desc=The warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.
+gtnh.quest833.name=淨化你的扭曲(Purge your warp)
+gtnh.quest833.desc=日益增加的扭曲逐漸變成問題。製造淨化浴鹽只是一個暫時的解決方案。要真正的解決問題，你需要更強力的純淨淚水。如果你為我收集一些東西，我會送你一個。好好考慮如何使用，畢竟解鎖純淨淚水的研究是非常長的旅程。
 
 #Quest_834.Circuit Boards
 gtnh.quest834.name=Circuit Boards
