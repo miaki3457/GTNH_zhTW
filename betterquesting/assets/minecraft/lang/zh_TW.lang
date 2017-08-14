@@ -3398,48 +3398,48 @@ gtnh.quest848.name=Seed Oil
 gtnh.quest848.desc=To make some bio diesel you need seed oil or fish oil and mix that with ethanol or methanol. Seeds give seed oil when placed in a fluid extractor.
 
 #Quest_849.Sodium Hydroxide
-gtnh.quest849.name=Sodium Hydroxide
-gtnh.quest849.desc=Make some sodium hydroxide. You can make it out of sodium (or out of salt water once you reach EV).\n\nThe by-product hydrogen can be burned in a gas turbine.
+gtnh.quest849.name=氫氧化鈉(Sodium Hydroxide)
+gtnh.quest849.desc=你可以用鈉來製作些氫氧化鈉（當你到達了EV階段，也可以使用鹽水來製作）。\n\n製造出的副產品氫氣可以在氣體渦輪機中燃燒。
 
 #Quest_850.Ethenone
-gtnh.quest850.name=Ethenone
-gtnh.quest850.desc=Hopefully you saved some sulfuric acid during your fuel production. Together with acetic acid you can make ethenone.\nCraft an advanced chemical reactor to get access to more advanced recipes.
+gtnh.quest850.name=乙烯酮(Ethenone)
+gtnh.quest850.desc=希望你在生產燃料時存了些硫酸……跟乙酸一塊，你可以製造出乙烯酮。\n做出一台進階的化學反應器以得到更先進的配方！
 
 #Quest_851.Nitric Acid
-gtnh.quest851.name=Nitric Acid
-gtnh.quest851.desc=Nitric acid can be made out of water, oxygen and nitrogen dioxide.
+gtnh.quest851.name=硝酸(Nitric Acid)
+gtnh.quest851.desc=硝酸可以由水、氧氣和二氧化氮製作出來。
 
 #Quest_852.Acetic Acid
-gtnh.quest852.name=Acetic Acid
-gtnh.quest852.desc=Acetic acid can be made out of oxygen and ethylene. Alternatively, it can be made out of biomass, wood vinegar or vinegar.
+gtnh.quest852.name=乙酸(Acetic Acid)
+gtnh.quest852.desc=乙酸可以由氧氣和乙稀製作出來。或者，也可以由生物質、木醋或食醋製造出。
 
 #Quest_853.Nitrogen Dioxide
-gtnh.quest853.name=Nitrogen Dioxide
-gtnh.quest853.desc=To make nitrogen dioxide you need to combine oxygen gas and nitric oxide in a chemical reactor.
+gtnh.quest853.name=二氧化氮(Nitrogen Dioxide)
+gtnh.quest853.desc=你需要在化學反應器裡結合氧和一氧化氮來製造二氧化氮。
 
 #Quest_854.Ammonia
-gtnh.quest854.name=Ammonia
-gtnh.quest854.desc=Nitrogen and hydrogen... Ammonia.
+gtnh.quest854.name=氨(Ammonia)
+gtnh.quest854.desc=氮和氫……氨。
 
 #Quest_855.Nitric Oxide
-gtnh.quest855.name=Nitric Oxide
-gtnh.quest855.desc=To make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.
+gtnh.quest855.name=一氧化氮(Nitric Oxide)
+gtnh.quest855.desc=你需要在化學反應器裡結合氧氣和氨來製造一氧化氮。
 
 #Quest_856.1,1-Dimetylhydrazine
 gtnh.quest856.name=1,1-Dimetylhydrazine
 gtnh.quest856.desc=To make 1,1-dimethylhydrazine you need to combine some dimethylamine and chloramine in a chemical reactor.
 
 #Quest_857.Dimethylamine
-gtnh.quest857.name=Dimethylamine
-gtnh.quest857.desc=Combining ammonia and methanol in a chemical reactor produces some dimethylamine.
+gtnh.quest857.name=二甲胺(Dimethylamine)
+gtnh.quest857.desc=在化學反應器中結合氨和甲醇來生產些二甲氨。
 
 #Quest_858.Chloramine
-gtnh.quest858.name=Chloramine
-gtnh.quest858.desc=Combining hypochlorous acid and ammonia in a chemical reactor produces some chloramine.
+gtnh.quest858.name=氯胺(Chloramine)
+gtnh.quest858.desc=在化學反應器中結合次氯酸和氨來生產些氯胺。
 
 #Quest_859.Hypochlorous Acid
-gtnh.quest859.name=Hypochlorous Acid
-gtnh.quest859.desc=Hypochlorous acid requires water, chlorine and some mercury.
+gtnh.quest859.name=次氯酸(Hypochlorous Acid)
+gtnh.quest859.desc=次氯酸須要水、氯和一些汞。
 
 #Quest_860.Titanium finaly
 gtnh.quest860.name=總算，鈦。(Titanium finaly)
@@ -3602,12 +3602,12 @@ gtnh.quest899.name=付出最高的代價(Paying the highest price)
 gtnh.quest899.desc=二階的血祭壇需要放置8個符文在祭壇周圍，而你的新祭壇將可以容納更多的血液。
 
 #Quest_900.Don't look it in the eyes!
-gtnh.quest900.name=不要看他的眼睛！ (Don't look it in the eyes!)
+gtnh.quest900.name=別直視它！ (Don't look it in the eyes!)
 gtnh.quest900.desc=如果讓這生物活著可能會壞事。然而洞穴中的礦石也是有價值的。
 
 #Quest_901.I don't even...
-gtnh.quest901.name=我甚至不... (I don't even...)
-gtnh.quest901.desc=OK，這是個迷宮。還有，那是...牛頭人戰士。但彌諾陶洛斯到底是啥！？
+gtnh.quest901.name=我甚至不……(I don't even...)
+gtnh.quest901.desc=OK，這是個迷宮。還有，那是……牛頭人戰士。但彌諾陶洛斯到底是啥！？
 
 #Quest_902.A big ugly snake
 gtnh.quest902.name=大醜蛇 (A big ugly snake)
@@ -3622,28 +3622,28 @@ gtnh.quest904.name=你會打電話給誰？ (Who you're gonna call?)
 gtnh.quest904.desc=幻影剋星！噢，等等…哎，管他的。啊，他們還掉了些好盔甲。
 
 #Quest_905.The big fluffy crybaby
-gtnh.quest905.name=巨大又毛絨絨的愛哭鬼 (The big fluffy crybaby)
-gtnh.quest905.desc=它會飛，也會製造一些很好笑的聲音，還有--他毛絨絨的！好吧，宰了他。
+gtnh.quest905.name=巨大又蓬蓬的愛哭鬼 (The big fluffy crybaby)
+gtnh.quest905.desc=它會飛，也會製造一些很好笑的聲音，還有－－它蓬蓬的！好吧，宰了它。
 
 #Quest_906.Let her go
 gtnh.quest906.name=冰雪奇緣 (Let her go)
-gtnh.quest906.desc=寒冷未曾困擾她。犯罪事實：無。但你知道的，劇情總要走下去嘛…
+gtnh.quest906.desc=寒冷未曾困擾她。犯罪事實：無。但你知道的，劇情總要走下去嘛
 
 #Quest_907.Yeti. Alpha, Yeti.
 gtnh.quest907.name=雪怪。阿爾法，雪怪。 (Yeti. Alpha, Yeti.)
 gtnh.quest907.desc=通緝：殺死阿爾法雪怪。犯罪行為：毫無理由暴力的向人們投擲冰塊。
 
 #Quest_908.Secret: A nice....
-gtnh.quest908.name=秘密：一個很好的... (Secret: A nice...)
+gtnh.quest908.name=秘密：一個很好的…… (Secret: A nice...)
 gtnh.quest908.desc=嘿，你！ 我想要那盞燈。我有一些東西給你作為回報。 反正你不需要它，是吧？
 
 #Quest_909.Time to kill (Creeper)
 gtnh.quest909.name=殺戮時刻(爬行者) Time to kill (Creeper)
-gtnh.quest909.desc=那些沒有經歷過的人...你無法想像那是怎樣的邪惡，挖了幾個鑽石，你就突然在床上醒來，所有物品都沒了，是時候反擊了！
+gtnh.quest909.desc=那些沒有經歷過的人……你無法想像那是怎樣的邪惡，挖了幾個鑽石，你就突然在床上醒來，所有物品都沒了，是時候反擊了！
 
 #Quest_910.Time to kill (Pigman)
 gtnh.quest910.name=殺戮時刻！(豬人) Time to kill (Pigman)
-gtnh.quest910.desc="殭屍豬人"？那些殭屍在搞什麼鬼？！也許晚上你必須把你的動物關好...
+gtnh.quest910.desc=「殭屍豬人」？那些殭屍在搞什麼鬼？！也許晚上你必須把你的動物關好……
 
 #Quest_911.Time to kill (Spiders)
 gtnh.quest911.name=殺戮時刻！(蜘蛛) Time to kill (Spiders)
@@ -3667,7 +3667,7 @@ gtnh.quest915.desc=呃，花俏的傳送珍珠。你需要他們。全部！現�
 
 #Quest_916.Time to kill (Wither)
 gtnh.quest916.name=殺戮時刻！(凋零怪) Time to kill (Wither)
-gtnh.quest916.desc=收集了幾個凋零骷髏頭之後，你覺得你應該需要再多做點事--那為什麼不殺一個凋零怪？不管怎樣，你都需要一大堆地獄之星...
+gtnh.quest916.desc=收集了幾個凋零骷髏頭之後，你覺得你應該需要再多做點事－－那為什麼不殺一個凋零怪？不管怎樣，你都需要一大堆地獄之星……
 
 #Quest_917.Secret: The trade for life
 gtnh.quest917.name=秘密：為了生命的買賣 (Secret: The trade for life)
@@ -3687,10 +3687,10 @@ gtnh.quest920.desc=為了邁向第四階段的行星，必須殺了烈焰使者�
 
 #Quest_921.Ghast: Evolved
 gtnh.quest921.name=地獄幽靈☆進化 (Ghast: Evolved)
-gtnh.quest921.desc=毛絨絨，更多的毛絨絨，地獄幽靈！那還有一個巨大的愛哭鬼。這傢伙躲在木衛一的地牢裡，得到那把鑰匙，好讓你能前往第五階段的行星。
+gtnh.quest921.desc=蓬蓬的，更多蓬蓬的，地獄幽靈！那還有一個巨大的愛哭鬼。這傢伙躲在木衛一的地牢裡，得到那把鑰匙，好讓你能前往第五階段的行星。
 
 #Quest_922.Crystal Boss: Ayyy.. Wait, what?
-gtnh.quest922.name=水晶之王：啊咿...等等，什麼？ (Crystal Boss: Ayyy.. Wait, what?)
+gtnh.quest922.name=水晶之王：啊咿……等等，什麼？ (Crystal Boss: Ayyy.. Wait, what?)
 gtnh.quest922.desc=不是跟我開玩笑吧，一隻水晶之王？不管怎樣，它是你前往第六階段行星的關鍵，它躲在土衛二附近。
 
 #Quest_923.Slime: Evolved
@@ -3805,7 +3805,7 @@ gtnh.line0.desc=第一層︰0階。本章節將介紹基本這模組包的基本
 
 #Tier 0.5 - Stone Age
 gtnh.line1.name=第0.5階 - 石器時代
-gtnh.line1.desc=基本上，你在第0階所有的進展---你完成的第一層。可以幫助你，直到你製作出你的第一台蒸汽機。
+gtnh.line1.desc=基本上，你在第0階所有的進展－－你完成的第一層。可以幫助你，直到你製作出你的第一台蒸汽機。
 
 #Tier 1 - Steam
 gtnh.line2.name=第1階 - 蒸汽
@@ -3813,11 +3813,11 @@ gtnh.line2.desc=任務--為了所有基於蒸汽的機器。
 
 #Tier 2 - 32 EU (LV)
 gtnh.line3.name=第2階 - 32EU (LV)
-gtnh.line3.desc=第一個 "電壓" 的階段。事情變得越來越容易了...
+gtnh.line3.desc=第一個「電壓」的階段。事情變得越來越容易了……
 
 #Tier 3 - 128 EU (MV)
 gtnh.line4.name=第3階 - 128EU (MV)
-gtnh.line4.desc=第二個 "電壓" 的階段。不要把不同電壓的機器混用，否則你會得到教訓。
+gtnh.line4.desc=第二個「電壓」的階段。不要把不同電壓的機器混用，否則你會得到教訓。
 
 #Tier 4 - 512 EU (HV)
 gtnh.line5.name=第4階 - 512EU (HV)
@@ -3829,7 +3829,7 @@ gtnh.line6.desc=鈦，核裂變能源，應用能源2(AE2)。
 
 #Tier 6 and beyond
 gtnh.line7.name=第6階和更高
-gtnh.line7.desc=將會是最後一個常規的階層來"指引"你。
+gtnh.line7.desc=將會是最後一個常規的階層來「指引」你。
 
 #Coins, Coins, Coins
 gtnh.line8.name=硬幣、硬幣、硬幣
@@ -3837,7 +3837,7 @@ gtnh.line8.desc=這些任務將引導你明智地使用硬幣，並購買一些�
 
 #Forestry and Farms
 gtnh.line9.name=林業和農場
-gtnh.line9.desc=自動化農場和更多...
+gtnh.line9.desc=自動化農場和更多……
 
 #Novice Thaumaturge
 gtnh.line10.name=新手術士
@@ -3848,7 +3848,7 @@ gtnh.line11.name=熟練的奇術師
 gtnh.line11.desc=囊括扭曲。
 
 #Kaaami, Haaaami, ... HA!
-gtnh.line12.name=龜...派...氣...功波！
+gtnh.line12.name=龜…派……氣…功波！
 gtnh.line12.desc=終極的奧法力量！
 
 #Alternative Magic
@@ -3889,15 +3889,15 @@ gtnh.line21.desc=一個傳奇且艱鉅的任務，昂貴的配方和危險的地
 
 #Paying the highest price
 gtnh.line22.name=昂貴的代價
-gtnh.line22.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖然代價有些嚇人...但沒有風險就沒有樂趣！
+gtnh.line22.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖然代價有些嚇人……但沒有風險就沒有樂趣！
 
 #More blood, more stuff
 gtnh.line23.name=更多鮮血，更多材料
-gtnh.line23.desc=高等血魔法？我的靜脈感覺很奇怪...
+gtnh.line23.desc=高等血魔法？我的靜脈感覺很奇怪…………
 
 #They are coming...
-gtnh.line24.name=他們來了...
-gtnh.line24.desc=我召喚的靈魂...超越了惡魔入侵。真正墮入黑魔法！
+gtnh.line24.name=他們來了…
+gtnh.line24.desc=我召喚的靈魂…超越了惡魔入侵。真正墮入黑魔法！
 
 #Kill all the things
 gtnh.line25.name=殺了所有的東西
@@ -3905,7 +3905,7 @@ gtnh.line25.desc=這世界充滿了污穢的東西。殺了他們提高你的聲
 
 #How to be(e)
 gtnh.line26.name=人來瘋(蜂)
-gtnh.line26.desc=一套在遊戲中不分階段的任務，蜜蜂的基礎探索和指南。是一個非常有用來推進的工具。
+gtnh.line26.desc=一套在遊戲中不分階段的任務，蜜蜂的基礎探索和指南。是一個非常有用來推進任務的工具。
 
 #To grind, or not to grind
 gtnh.line27.name=磨碎，或者不磨碎
