@@ -3338,15 +3338,15 @@ gtnh.quest833.name=Purge your warp
 gtnh.quest833.desc=The warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.
 
 #Quest_834.Circuit Boards
-gtnh.quest834.name=Circuit Boards
+gtnh.quest834.name=電路板(Circuit Boards)
 gtnh.quest834.desc=For every circuit you need a basic circuit board. Craft a coated circuit board and use copper wire to finish it.
 
 #Quest_835.Resistor
-gtnh.quest835.name=Resistor
+gtnh.quest835.name=電阻(Resistor)
 gtnh.quest835.desc=Every basic circuit needs two resistors to work
 
 #Quest_836.Gallium Arsenide
-gtnh.quest836.name=Gallium Arsenide
+gtnh.quest836.name=砷化鎵(Gallium Arsenide)
 gtnh.quest836.desc=The diode requires gallium arsenide and you may be wondering how to get gallium or arsenic this early in the game.\nYou can get gallium out of crushed zinc ore by using a thermal centrifuge. You can find the small ores in the Overworld or the full ores in the Nether at Y Level 80 - 210. To get cushed ore, you may need a Tinker's Construct tool with the Luck (Fortune) enchant on it.\nYou can get Arsenic from realgar small orea in the Nether at Y level 5 - 85. Centrifuge the dusts in a centrifuge.\nMix those two dusts in a mixer to get gallium arsenic dust.
 
 #Quest_837.ILC and RAM
@@ -3354,7 +3354,7 @@ gtnh.quest837.name=ILC and RAM
 gtnh.quest837.desc=Advanced circuits need itegrated logic circuits and random access memory chips.\nYou can get those by cutting the ILC and RAM wafers.
 
 #Quest_838.Advanced Circuits
-gtnh.quest838.name=Advanced Circuits
+gtnh.quest838.name=高級電路(Advanced Circuits)
 gtnh.quest838.desc=For the next tier we need advanced circuits. To make an advanced circuit, you need good integrated circuits, RAM, an ILC and transistors.
 
 #Quest_839.Handle tiny piles like a K1ng
@@ -3362,27 +3362,27 @@ gtnh.quest839.name=Handle tiny piles like a K1ng
 gtnh.quest839.desc=Don't you hate to manually compress all those tiny piles ? Well, let me show you how to automate that. A combination of typefilter, chest buffer (or super buffer in HV) and packager frees you from that annoying task. The chestbuffer can hold up to 9 stacks of tiny piles and the super buffer can hold 256 stacks of tiny dusts, which is more than enough. You can set its mode with a screwdriver on the output side. Set it to 9 to export 9 tiny piles at a time and let the packager compress these into regular dusts.
 
 #Quest_840.Butane and Propane
-gtnh.quest840.name=Butane and Propane
+gtnh.quest840.name=丁烷和丙烷(Butane and Propane)
 gtnh.quest840.desc=You can distill a lot of different gases out of your "refinery gases".\nMethane, butane, propane, helium and ethane.
 
 #Quest_841.Tetranitromethane
-gtnh.quest841.name=Tetranitromethane
+gtnh.quest841.name=四硝甲烷(Tetranitromethane)
 gtnh.quest841.desc=Light fuel, bio diesel and diesel can be boosted by using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.
 
 #Quest_842.Methane Gas
-gtnh.quest842.name=Methane Gas
+gtnh.quest842.name=甲烷氣(Methane Gas)
 gtnh.quest842.desc=Methane gas with a burn value of 104,000 EU per cell can be burned in the gas turbine.
 
 #Quest_843.Methanol
-gtnh.quest843.name=Methanol
+gtnh.quest843.name=甲醇(Methanol)
 gtnh.quest843.desc=Methanol with a burn value of 84,000 EU per cell can be used to make biodiesel and other fluids.
 
 #Quest_844.Ethanol
-gtnh.quest844.name=Ethanol
+gtnh.quest844.name=乙醇(Ethanol)
 gtnh.quest844.desc=Ethanol with a burn value of 192,000 EU per cell can be used to make biodiesel and other fluids.
 
 #Quest_845.Bio Diesel
-gtnh.quest845.name=Bio Diesel
+gtnh.quest845.name=生質柴油(Bio Diesel)
 gtnh.quest845.desc=With ethanol or methanol and seedoil or fish oil you can make bio diesel. Burn value is 192,000 EU per cell. Diesel and bio diesel are needed for cetane-boosted diesel.\n\nYou get some glycerol as by-product. Save it so you can make glyceryl trinitrate for your dynamite.
 
 #Quest_846.O like Oxygen
@@ -3390,11 +3390,11 @@ gtnh.quest846.name=O like Oxygen
 gtnh.quest846.desc=Oxygen can be made in different ways. Centrifuge some brown an yellow lemonite dust, or electrolyze it out of water or various other oxygen-rich elements.
 
 #Quest_847.Ethylene
-gtnh.quest847.name=Ethylene
+gtnh.quest847.name=乙烯(Ethylene)
 gtnh.quest847.desc=You can make ethylene out of ethanol and sulfuric acid in a chemical reactor or by distilling various gases (i.e. wood gas) in a distillery. Cracking naptha, fuels and gas with hydrogen or steam in the chemical reactor will work too.
 
 #Quest_848.Seed Oil
-gtnh.quest848.name=Seed Oil
+gtnh.quest848.name=種子油(Seed Oil)
 gtnh.quest848.desc=To make some bio diesel you need seed oil or fish oil and mix that with ethanol or methanol. Seeds give seed oil when placed in a fluid extractor.
 
 #Quest_849.Sodium Hydroxide
@@ -3411,7 +3411,7 @@ gtnh.quest851.desc=硝酸可以由水、氧氣和二氧化氮製作出來。
 
 #Quest_852.Acetic Acid
 gtnh.quest852.name=乙酸(Acetic Acid)
-gtnh.quest852.desc=乙酸可以由氧氣和乙稀製作出來。或者，也可以由生物質、木醋或食醋製造出。
+gtnh.quest852.desc=乙酸可以由氧氣和乙烯製作出來。或者，也可以由生物質、木醋或食醋製造出。
 
 #Quest_853.Nitrogen Dioxide
 gtnh.quest853.name=二氧化氮(Nitrogen Dioxide)
@@ -3627,7 +3627,7 @@ gtnh.quest905.desc=它會飛，也會製造一些很好笑的聲音，還有－�
 
 #Quest_906.Let her go
 gtnh.quest906.name=冰雪奇緣 (Let her go)
-gtnh.quest906.desc=寒冷未曾困擾她。犯罪事實：無。但你知道的，劇情總要走下去嘛
+gtnh.quest906.desc=寒冷未曾困擾她。犯罪事實：無。但你知道的，劇情總要走下去嘛……
 
 #Quest_907.Yeti. Alpha, Yeti.
 gtnh.quest907.name=雪怪。阿爾法，雪怪。 (Yeti. Alpha, Yeti.)
@@ -3848,7 +3848,7 @@ gtnh.line11.name=熟練的奇術師
 gtnh.line11.desc=囊括扭曲。
 
 #Kaaami, Haaaami, ... HA!
-gtnh.line12.name=龜…派……氣…功波！
+gtnh.line12.name=龜…派…氣…功波！
 gtnh.line12.desc=終極的奧法力量！
 
 #Alternative Magic
@@ -3893,7 +3893,7 @@ gtnh.line22.desc=當普通魔法不夠的時候，召喚惡魔來服侍你！雖
 
 #More blood, more stuff
 gtnh.line23.name=更多鮮血，更多材料
-gtnh.line23.desc=高等血魔法？我的靜脈感覺很奇怪…………
+gtnh.line23.desc=高等血魔法？我的靜脈感覺很奇怪……
 
 #They are coming...
 gtnh.line24.name=他們來了…
